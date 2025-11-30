@@ -22,7 +22,10 @@ services:
     container_name: alexandria-mdbook
     restart: unless-stopped
     volumes:
-      - .:/book:ro
+      - ./src:/book/src:ro
+      - ./book.toml:/book/book.toml:ro
+      - ./theme:/book/theme:ro
+      - mdbook_output:/book/book
     working_dir: /book
     command: serve --hostname 0.0.0.0 --port 3000
     ports:
@@ -71,3 +74,4 @@ networks:
 
 volumes:
   elasticsearch_data:
+  mdbook_output:
