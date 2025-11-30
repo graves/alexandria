@@ -1,0 +1,407 @@
+# Chapter 92: Theology
+
+## INTRODUCTION
+
+It has seldom been disputed that the questions with which theology deals are of critical significance for all the rest of human knowledge. Even those who deny that theology is or can be a science might be willing to concede that, if it were, it would deserve its traditional title, “queen of the sciences.”
+
+It has been said that the great questions of theology are unanswerable. It has been said that theological dispute or controversy is futile because the issues are not resolvable by argument. But it has rarely been asserted, or even implied, that our outlook would be unaltered and our actions unaffected if we could know, in any degree, the answers to questions concerning the existence of the supernatural and its relation to the visible world of nature. To Plato it is of such importance that he asks: “Who can be calm when he is called upon to prove the existence of the gods?”
+
+The main controversy, not in, but about, theology turns on the use of such words as “knowledge” and “science” for a discipline which, both in method and conclusion, seems compelled to go beyond experience and to push reason to (or even beyond) the limit of its powers. In the minds of many, especially in our day, theology is associated with religion and is opposed to science or, if not opposed, at least it is set apart from science as entirely different. Those who conceive science as limited by its empirical methods to the investigation of observable phenomena might not quarrel with the allocation of theology to philosophy, but whether or not they did would in turn depend on their conception of philosophy.
+
+As the chapters on Science and Philosophy indicate, these two terms are identified through a large part of the western tradition. The various sciences are regarded as branches of philosophy. But we also find a distinction being made in the 18th century between the empirical and rational or philosophical sciences; and in our day those who regard philosophy as mere speculation or opinion contrast it to the experimental disciplines which are thought to be the only established bodies of knowledge, that is, sciences.
+
+The question whether theology is a science may, therefore, embrace a number of alternatives. That it is an empirical or experimental science has seldom been proposed. It may be treated as a science, however, by those who consider it as a part of philosophy; or it may be denied that honor precisely because it belongs to philosophy. A third alternative remains—that theology is separate from philosophy, that it is a science as distinct in character from the philosophical sciences as they are from the experimental disciplines. In this third alternative, the association of theology with religion or religious faith seems to determine the character of theology.
+
+It is this third alternative which Hume seems to have in mind at the conclusion of his *Enquiry*. “Divinity or Theology, as it proves the existence of a Deity and the immortality of souls... has,” he writes, “a foundation in reason, so far as it is supported by experience. But its best and most solid foundation is faith or divine revelation.” To the extent that its principles come from religious faith, theology does not seem to fit perfectly into Hume’s twofold division of the sciences into those which involve “abstract reasoning concerning quantity or number” and those which involve “experimental reasoning concerning matter of fact and existence.”
+
+When he says that he would commit to the flames “any volume of divinity or school metaphysics which does not contain either of these two kinds of reasoning”—for then “it can contain nothing but sophistry and illusion”—he can hardly be condemning the theology he has himself described as resting primarily on faith or divine revelation, though it may also have some foundation in reasoning from experience.
+
+---
+
+**The discussion of the nature and scope of theology**, its principles and methods, may refer either to the theology which is a part of philosophy or to the theology which is sometimes called “dogmatic” because it expounds and explains the dogmas of a religious faith. Furthermore, those who make the distinction between the two kinds of theology raise questions concerning their relation to one another. In so doing they enter into the larger problem of the relation of faith and reason, and the limited part which reason can play in the development of a theology which rests on faith.
+
+The distinction itself is made by many writers and in diverse ways. The theology which is entirely philosophical and independent of any religious faith is usually called “natural theology.” The name “sacred theology” is given to a body of doctrine which finds its fundamental principles in the articles of a religious faith. The ultimate source of these articles of faith in Jewish, Christian, and Mohammedan theology is the truth revealed in a sacred scripture—the Old and New Testament or the Koran—from which, by interpretation, the articles of faith are drawn.
+
+Bacon, for example, defines “divine philosophy or natural theology” as “that knowledge or rudiment of knowledge concerning God, which may be obtained by the contemplation of his creatures; which knowledge may be truly termed divine in respect of the object, and natural in respect of the light. The bounds of this knowledge are that it suffices to convince atheism, but not to inform religion.” In contrast, “inspired theology” or “sacred theology (which in our idiom we call divinity) is grounded only upon the word and oracle of God, and not upon the light of nature.”
+
+Kant makes a similar distinction when he says that theology is based either “on reason alone (*theologia rationalis*) or upon revelation (*theologia revelata*).” But for Kant “natural theology” designates only one kind of rational theology. Another kind is “transcendental theology,” which differs from the first in the method which reason employs. He also differentiates between speculative and moral theology. Though both fall within the sphere of reason, one is the work of the pure theoretic reason, the other of the pure practical reason.
+
+In the opening question of the *Summa Theologica*, Aquinas tries to explain why, in addition to the “philosophical science built up by reason, there should be a sacred science learned through revelation.” To an objection which claims that “there is no need of any further knowledge,” because philosophical science can attain to knowledge even of God Himself, he replies that “there is no reason why those things which may be learnt from philosophical science, so far as they can be known by natural reason, may not also be taught us by another science so far as they fall within revelation.” Though they may deal with the same object, “sciences are differentiated according to the various means through which knowledge is obtained.... Hence the theology included in sacred doctrine differs in kind from that theology which is part of philosophy.”
+
+In another place, Aquinas refers to the theological conclusions which the philosopher thinks he can demonstrate—“the existence of God and other like truths about God which can be known by natural reason.” Of these he says that they “are not articles of faith, but are preambles to the articles.... Nevertheless,” he adds, “there is nothing to prevent a man, who cannot grasp a proof, accepting as a matter of faith, something which in itself is capable of being scientifically known and demonstrated.” But such propositions, which belong to both reason and faith, are only part of sacred doctrine. In addition, there are the propositions which belong to faith alone.
+
+“It is impossible,” Aquinas writes, “to attain to the knowledge of the Trinity by natural reason.” The triune nature of the Godhead cannot be demonstrated philosophically; nor can the dogma be fully comprehended by human understanding. In *Purgatory*, Dante learns that “Mad is he who hopes that our reason can traverse the infinite way which One Substance in Three Persons holds.”
+
+Though it is not a theological mystery in the same sense, another example of a dogma not demonstrable by reason is the proposition that the world began to be. “That the world did not always exist,” Aquinas declares, “we hold by faith alone; it cannot be proved demonstratively; which is what was said above of the mystery of the Trinity.” We find in Sacred Scripture the words *In the beginning God created heaven and earth*, “in which words the newness of the world is stated” and so “the newness of the world is known only by revelation.”
+
+With respect to such matters as belong to faith alone, a theologian like Aquinas cautions against the misuse of reason. “When anyone in the endeavor to prove what belongs to faith, brings forward arguments which are not cogent, he falls under the ridicule of the unbelievers; since they suppose that we base ourselves upon such arguments, and that we believe on their account. Therefore, we must not attempt to establish what is of faith, except by authority alone” and only “to those who accept the authority.” For those who do not accept the authority of Scripture, the most that reason can do concerning propositions peculiar to faith is “to prove that what faith teaches is not impossible.” Elsewhere Aquinas points out that “although the argument from authority based on human reason is the weakest, yet the argument from authority based on divine revelation is the strongest.”
+
+---
+
+**The foregoing throws some light on Montaigne’s defense** of a book by Raimond de Sebonde, bearing the title *La théologie naturelle*. Though he calls his work “natural theology,” de Sebonde, according to Montaigne, “undertakes by human and natural reasons to establish and make good against the atheists all the articles of the Christian religion.” What his opponents “reprehend in his work is that Christians are to blame to repose upon human reasons their belief, which is only conceived by faith and the particular inspiration of divine grace.”
+
+Montaigne agrees that it is “faith alone that vividly and certainly comprehends the deep mysteries of our religion.” But he also thinks that it is “a brave and very laudable attempt to accommodate the natural and human capabilities that God has endowed us with to the service of our faith. It is not to be doubted,” he says, “that it is the most noble use we can put them to, and that there is no design or occupation more worthy of a Christian man than to make it the aim and end of all of his thoughts and studies to embellish, extend, and amplify the truth of his belief.”
+
+The conception of natural theology which Montaigne appears to entertain in his “Apology for Raimond de Sebonde” does not seem to differentiate it from sacred theology, insofar as all its principles are articles of faith. Quite apart from de Sebonde, Montaigne himself does not think that the existence of God or the immortality of the soul can be demonstrated by reason. Montaigne observes “how short the most constant and firm maintainers of this just and clear persuasion of the immortality of the soul fall, and how weak their arguments are, when they go about to prove it by human reason.... Let us ingenuously confess that God alone has dictated it to us, and faith; ’tis no lesson of nature and our own reason.”
+
+Though the denial of God’s existence is, according to Montaigne, “a proposition unnatural and monstrous, difficult also and hard to establish in the human understanding,” he thinks the affirmation to be no less beyond reason’s power to establish with certitude, for “all things produced by our own reasoning and understanding, whether true or false, are subject to incertitude and controversy.”
+
+In this, Montaigne differs not only from a theologian like Aquinas, who assigns certain truths to natural theology as capable of being demonstrated by reason without the aid of faith, but also from such philosophers as Descartes, Spinoza, and Locke, who hold that we can know God by reason with more certainty, and even (according to Spinoza) more adequately, than we can know most other things. “I have always considered,” Descartes writes, “that the two questions respecting God and the Soul were the chief of those that ought to be demonstrated by philosophical rather than theological argument. For although it is quite enough for us faithful ones to accept by means of faith the fact that the human soul does not perish with the body, and that God exists, it certainly does not seem possible ever to persuade infidels of any religion... unless, to begin with, we prove these two facts by means of the natural reason.”
+
+Descartes, it appears, reserves the use of the word “theology” for sacred doctrine. What others, like Bacon, call “natural theology,” he treats simply as philosophy, or that branch of it which he calls “metaphysics.” Dedicating his *Meditations* to “the dean and doctors of the sacred faculty of theology in Paris,” he says: “I have noticed that you, along with all the theologians, did not only affirm that the existence of God may be proved by the natural reason, but also that it may be inferred from the Holy Scriptures, that knowledge of Him is much clearer than that which we have of many created things, and, as a matter of fact, is so easy to acquire that those who have it not are culpable in their ignorance.”
+
+But Descartes wishes to confess the limitations of the mere philosopher’s knowledge of God. When he came to inquire “how God may be more easily and certainly known than the things of this world,” no matter how much “certainty and evidence I find in my reasons,” he could not persuade himself, he says, that “all the world is capable of understanding them.... There are not so many in the world who are fitted for metaphysical speculations as there are for those of geometry.”
+
+Answering a critic who quotes Aquinas against him, he later writes: “I admit along with all theologians that God cannot be comprehended by the human mind, and also that He cannot be distinctly known by those who try mentally to grasp Him at once in His entirety.... Wherever I have said that God can be clearly and distinctly known, I have understood this to apply only to this finite cognition of ours, which is proportionate to the diminutive capacity of our minds.”
+
+---
+
+**So far we have considered the distinction** between natural and sacred theology—or between philosophy and theology—as it is made in the Christian tradition by writers conscious of the difference between faith and reason, or revelation and demonstration. In pagan antiquity, there seems to be no equivalent of sacred theology. “The various modes of worship, which prevailed in the Roman world,” Gibbon tells us, “were all considered by the people as equally true; by the philosopher as equally false; and by the magistrate as equally useful.... The superstition of the people was not embittered by theological rancour; nor was it confined by the chains of any speculative system.” It was “the elegant mythology of Homer,” he says, not reasoning, which “gave a beautiful, and almost a regular form to the polytheism of the ancient world.”
+
+Of the Greek philosophers, Gibbon remarks that “they meditated on the Divine Nature as a very curious and important speculation,” but only the Stoics and the Platonists “endeavored to reconcile the jarring interests of reason and piety.” Plato’s criticism of the poets in the *Republic* for their impiety, and his rational defense of piety in the *Laws*, accompanied by a demonstration of the existence of the gods, may be taken as examples of ancient theological discourse within a religious context. Another example, and from quite another point of view, is Cicero’s *De Natura Deorum*, which Gibbon praises as the best guide to the opinions of the philosophers concerning the tenets of polytheism.
+
+But neither Cicero nor Plato treats theology as a science. The ancient philosopher who does and who, moreover, regards theology as the highest of the speculative sciences seems to proceed without reference to or benefit of prevailing religious beliefs. Aristotle dismisses “the school of Hesiod and all the theologians [who] thought only of what was plausible to themselves.” He refers to the legends of the gods which “our forefathers in the most remote ages have handed down to their posterity... in the form of a myth... with a view to the persuasion of the multitude and to its legal and utilitarian expediency.” But the highest science, which Aristotle sometimes calls “first philosophy,” he also calls “theology.” It deals with the immaterial and the insensible, the immovable and eternal. We may call it “theology,” he writes, “since it is obvious that if the divine is present anywhere, it is present in things of this sort.” In another place he says, “there are three kinds of theoretical sciences—physics, mathematics, theology... and of these the last named is best, for it deals with the highest of existing things.”
+
+At the beginning of the *Metaphysics*, Aristotle gives another reason for thinking that theology is a divine science: not that it is divinely inspired, but that, having the divine for its object, it is the science “most meet for God to have.... Such a science either God alone can have, or God above all others.” The title given the book in which Aristotle attempts to develop this science comes in the later tradition to be the name given to speculation concerning immaterial and insensible substances. What Aristotle calls “theology,” Descartes, as we have seen, calls “metaphysics” in order to distinguish it from the theology based on revelation.
+
+Whether the theology of a pagan philosopher is commensurable with the theology of Jewish or Christian thinkers, even when the latter attempt to be purely philosophical or natural theologians, is a question which deeply probes the relation of reason to faith. For even when reason tries to proceed independently of faith, the religious faith of a community may tinge the concepts the philosopher uses and define the problems he undertakes to solve. It may be one thing to prove the existence of a Prime Mover, and another to know by reason the nature and existence of the God who in the beginning created heaven and earth—the God of Abraham, Isaac, and Jacob, the God of the Christians, whom Pascal distinguishes from the God of the philosophers.
+
+Augustine explains his attitude as a theologian toward the theories of the philosophers touching divine matters. “I have not undertaken,” he says, “to refute all the vain theological opinions of all the philosophers, but only of such of them as, agreeing in the belief that there is a divine nature, and that this divine nature is concerned about human affairs, do nevertheless deny that the worship of the one unchangeable God is sufficient for the obtaining of a blessed life after death, as well as at the present time.” Since “Plato defined the wise man as one who imitates, knows, and loves this God, and who is rendered blessed through fellowship with Him in His own blessedness, why discuss with the other philosophers? It is evident that none come nearer to us than the Platonists.”
+
+Plato, according to Augustine, “is justly preferred to all the other philosophers of the Gentiles”; those among his followers who show “the greatest acuteness in understanding him... entertain such an idea of God as to admit that in Him are to be found the cause of existence, the ultimate reason for the understanding, and the end in reference to which the whole life is to be regulated.” So amazing, to his mind, are the parallels between certain insights expressed by Plato and the wisdom of Sacred Scripture, that Augustine is almost inclined to believe that “Plato was not ignorant of those writings.” But he does not think it necessary to determine whether Plato had acquaintance with the writings of Moses and the prophets, because certain basic truths, which were revealed to the Hebrews, were made known to the gentiles through the light of nature and reason. “That which is known of God,” the apostle had said, “has been manifested among them, for God hath manifested it to them.”
+
+Therefore Augustine feels justified in taking any truth from Plato which is consistent with Christian faith. Aquinas, borrowing much from Aristotle, explains that “sacred doctrine makes use of the authority of philosophers in those questions in which they were able to know the truth by natural reason.” Sacred theology uses the doctrines of the philosophers, he adds, “not as though it stood in need of them, but only in order to make its teaching clearer.” It is in this sense that Aquinas calls philosophy the handmaiden of theology.
+
+Others seem to take a different view of this relationship. Montaigne wonders whether it would not be better if “the divine doctrine, as queen and regent of the rest,” kept herself apart, and he quotes St. Chrysostom to the effect that philosophy has “long been banished from the holy schools as a handmaid altogether useless.” Hobbes goes further. He describes the traditional theology as a mingling of Aristotle’s metaphysics with Scripture, and claims that the “bringing of the philosophy and doctrine of Aristotle into religion by the Schoolmen” caused the “many contradictions and absurdities” which “brought the clergy into a reputation both of ignorance and of fraudulent intention, and inclined people to revolt from them.”
+
+Hegel, however, dismisses the criticism that is often made concerning the dependence of Christian theology, at least in its formative period, on pagan philosophy. “The Fathers of the Church and the Councils,” he writes, “constituted the dogma; but a chief element in this constitution was supplied by the previous development of philosophy.” That certain dogmas were introduced into the Christian religion through “the instrumentality of philosophy... is not sufficient ground for asserting that they were foreign to Christianity and had nothing to do with it. It is a matter of perfect indifference where a thing originated; the only question,” Hegel insists, “is, ‘Is it true in and for itself?’ Many think that by pronouncing the doctrine to be Neo-Platonic, they have *ipso facto* banished it from Christianity. Whether a Christian doctrine stands exactly thus and thus in the Bible... is not the only question. The Letter kills, the Spirit makes alive.”
+
+---
+
+**Compared with sacred theology**, the subject matter of natural theology and the scope of its problems seem to be extremely narrow. At most, it is only a part of philosophy, and some writers treat it as no more than one part of metaphysics.
+
+Kant, for example, divides metaphysics into three parts—theology, cosmology, and psychology—according to his conception of metaphysics as having “for the proper object of its inquiries only three grand ideas: God, Freedom, and Immortality.” As a branch of transcendental speculation, theology is concerned primarily with the problem of God’s existence. Similarly, Aristotle’s metaphysical inquiries include more than his theology. His theology begins only after he has discussed the nature and being of sensible substances. It is stated mainly in Book XII of the *Metaphysics* where he considers the existence and character of immaterial substances, and of the one purely actual being which is God.
+
+Descartes’ conception seems to be broader, for he regards the immortality of the soul as well as the existence and nature of God as being characteristically theological problems even when they are treated in metaphysics and by the methods of the philosopher. Because these two problems concern spiritual beings, Adam Smith also groups them together under the name “pneumatics” or “pneumatology,” which he identifies with metaphysics—that part of philosophy most emphasized “in the universities of Europe where philosophy was taught only as subservient to theology.” Bacon alone seems to separate natural theology entirely from metaphysics, which, along with physics, is for him a part of natural rather than divine philosophy. But though he would limit natural theology to that knowledge of God which can be drawn from nature, and excludes attempts to induce from nature “any verity or persuasion concerning the points of faith,” he grants that natural as well as divine theology may treat of “the nature of angels and spirits,” as “neither inscrutable nor interdicted.”
+
+The subject matter of sacred theology, or what he calls “divinity,” is, according to Bacon’s account, much more extensive. He first divides it into “matter of belief” and “matter of service and adoration”; and from these two derives the “four main branches of divinity: faith, manners, liturgy, and government.” The matter of faith contains “the doctrine of the nature of God, of the attributes of God, and of the works of God.” Under manners, Bacon lists the consideration of divine law and the breach of it by sin: liturgy concerns the sacraments and rituals of religion; government, the organization, offices, and jurisdictions of the church.
+
+As its title indicates, the *Summa Theologica* of Aquinas endeavors to set forth the sum of theological knowledge. In addition to the topics and problems peculiar to sacred doctrine, the subject matters treated in the *Summa* seem to represent the whole range of human inquiry—almost co-extensive with the scope of the natural sciences and philosophy, both speculative and moral.
+
+Aquinas explains the encyclopedic character of the *Summa* by pointing out that to have God as the subject matter of theology means that sacred doctrine treats “all things under the aspect of God, either because they are God Himself, or because they refer to God as their beginning and end.” The unity of theology in covering so wide a diversity of matters consists in the single formality under which they are considered—the formality of being divinely revealed. That is why “objects which are the subject matter of different philosophical sciences can yet be treated by this one single sacred science under one aspect, namely, insofar as they can be included in revelation.”
+
+Thus, for example, in the preamble to his *Treatise on Man*, Aquinas writes: “The theologian considers the nature of man in relation to the soul; but not in relation to the body, except insofar as the body has relation to the soul.” This emphasis is dictated by the articles of Christian faith which concern man, in both body and soul. Similarly, with respect to moral matters, Aquinas explains that the theologian “considers human acts inasmuch as man is thereby directed to happiness,” and he takes account of the circumstances of human acts because they may excuse from sin, “the consideration of which belongs to the theologian.” It belongs to the theologian only when sin is conceived “as an offense against God,” but to the moral philosophers when it is conceived “as something contrary to reason.”
+
+---
+
+**It appears from the foregoing** that sacred theology is both speculative and practical (or moral). It deals with the nature of divine things and with human acts, but with the latter only so far as they have God for their rule or end. “Although among the philosophical sciences,” Aquinas writes, “some are speculative and others practical, sacred doctrine includes both.”
+
+Even though it is made on the level of the philosophical sciences, Kant’s distinction between speculative and moral theology seems to be based on a different principle. For Aquinas the speculative and the practical parts of theology deal with different problems, such as God, the Trinity, creation, and the angels on the one hand, and beatitude, the virtues, divine law, sin, grace, and sacraments on the other. But for Kant both speculative and moral theology deal with the problem of God’s existence. They differ only according to the manner in which the theoretic and the practical reason undertake to solve this problem.
+
+“All attempts of reason to establish a theology by the aid of speculation alone are fruitless,” writes Kant. Consequently, “a rational theology can have no existence unless it is founded upon the laws of morality.” The postulates of pure practical reason—of immortality, free will, and the existence of God—“all proceed from the principle of morality, which is not a postulate but a law by which reason determines the will directly.” The moral law involves, as a necessary condition, “the existence of the *summum bonum*,” and that in turn involves “the supposition of the supreme independent good, that is, the existence of God.”
+
+According to Kant, a Supreme Being is “for the speculative reason, a mere ideal, though a faultless one—a conception which perfects and crowns the system of human cognition, but the objective reality of which can neither be proved nor disproved by pure reason.” It is this defect which moral theology remedies. “We must assume,” he says, “a moral world-cause, that is, an Author of the world, if we are to set before ourselves a final end in conformity to the moral law.” But, he adds, “this moral argument is not intended to supply an objectively valid proof of the existence of God. It is not meant to demonstrate to the skeptic that there is a God, but that he must adopt the assumption of this proposition as a maxim of his practical reason, if he wishes to think in a manner consistent with morality.”
+
+---
+
+**The problem of the proof of God’s existence**, though central in theology, is more fully discussed in the chapter on God. Here we are concerned with the nature of theology itself as a branch of learning or inquiry. Since the chapter on Metaphysics necessarily touches on theology as a philosophical discipline, it seems advisable to devote attention here to some of the things which are peculiarly the concern of sacred theology.
+
+Heresy is one of these. A scientist or philosopher may be criticized for his errors, but only a theologian, only the man who tries to explain some article of faith, can be called a heretic in the strict sense of that word. According to his view of the relation between church and state, Hobbes defines heresy in political terms. “Heresy,” he writes, “is nothing else but a private opinion, obstinately maintained, contrary to the opinion which the Public Person”—i.e., the Sovereign—“has commanded to be taught.” But, according to Pascal, “none but God was able to instruct the Church in the faith,” and so “it is heresy to resist the decisions of the faith, because this amounts to an opposing of our own spirit to the Spirit of God.” But, he adds, “it is no heresy, though it may be an act of presumption, to disbelieve certain particular facts, because this is no more than opposing reason—it may be enlightened reason—to an authority which is great indeed, but in this matter is not infallible.”
+
+The aspect of choice, of obstinately preferring one’s own opinion against a superior authority, is emphasized by Aquinas, but he adds the specification that heresy is a corruption of Christian faith, a species of unbelief in which the heretic defies the authority of the Church, choosing “not what Christ really taught, but the suggestions of his own mind.” He quotes a statement by Augustine that we should not accuse of heresy “those who, however false and perverse their opinion may be, defend it without obstinate fervor” and are “ready to mend their opinion when they have found the truth because they do not make a choice in contradiction to the doctrine of the Church.” It is not the falsity of the opinion which makes it heresy, for until the point of faith has been defined by the authority of the Church, theologians may differ, and even be in error, without being heretical.
+
+The inference may be drawn that progress is made in the refinement and precision of theological doctrine as the dogmas of a religion are more fully stated and the line between orthodoxy and heresy becomes more clearly defined. Augustine, who is one of the great formative theologians for the Protestant as well as the Catholic tradition, devotes a large part of his writing to the criticism of heresies—the great Arian heresy concerning the Trinity, the Nestorian or Monophysite heresy concerning the Incarnation, the Manichean heresy concerning the existence of evil, and the Pelagian heresy concerning grace and good works.
+
+“While the hot restlessness of heretics,” Augustine writes, “stirs questions about many articles of the catholic faith, the necessity of defending them forces us... to investigate them more accurately, to understand them more clearly, and to proclaim them more earnestly”; and the question mooted by an adversary becomes the occasion of instruction. According to Aquinas, “the profit that ensues from heresy is beside the intention of heretics, for it consists in the constancy of the faithful being put to the test and makes us shake off our sluggishness and search the Scriptures more carefully.”
+
+To Augustine and Aquinas, theological argument and controversy seem to be serviceable in the propagation and defense of the faith. Aquinas, for example, distinguishes the various types of dispute in which a Christian theologian can engage—with heretics, with Jews, with infidels. “We can argue with heretics from texts in Holy Scripture,” he writes, “and against those who deny one article of faith we can argue from another. If our opponent believes nothing of divine revelation, there is no longer any means of proving the articles of faith by argument, but only of answering his objections—if he has any—against faith.”
+
+But it is necessary to add the qualification that the reasons employed “to prove things that are of faith are not demonstrations; they are either persuasive arguments showing that what is proposed by faith is not impossible; or else they are proofs drawn from the principles of faith, i.e., from the authority of Holy Writ.... Whatever is based on these principles is as well-proved in the eyes of the faithful, as a conclusion drawn from self-evident principles is in the eyes of all.”
+
+Furthermore, Aquinas points out, “since faith rests upon infallible truth, and since the contrary of a truth can never be demonstrated, it is clear that the proofs brought against faith are not demonstrations, but arguments that can be answered.” Descartes seems to hold a similar view. Defending his opinions in a letter to Father Dinet, he declares: “As to theology, as one truth can never be contrary to another, it would be a kind of impiety to fear that the truths discovered in philosophy were contrary to those of the true Faith.”
+
+---
+
+**A somewhat contrary view of the relation of faith** and reason seems to be taken by Locke. “Whatever God hath revealed,” he says, “is certainly true; no doubt can be made of it. This is the proper object of faith; but whether it be a divine revelation, or no, reason must judge.” Reason, not faith, is the ultimate test of truth, in theology as in philosophy. “Reason must be our last judge and guide in everything.” If reason finds something “to be revealed from God, reason then declares for it, as much as for any other truth, and makes it one of her dictates.”
+
+In many of the great books we find a less favorable view of the merit or profit in theological controversy. Its excesses and mumbo-jumbo are travestied and caricatured by Rabelais and Sterne; its futility and folly are the subject of bitter complaint by Hobbes and Bacon; its intolerance is condemned by Locke and Mill. Gibbon, who reports the disputes which raged through ten centuries of Christendom, seldom speaks kindly of the disputants. He refers to “the exquisite rancor of theological hatred”; and in describing the fury of the conflict between the Arians and the defenders of the Nicene creed, he says that, “in the midst of their fierce contentions, they easily forgot the doubt which is recommended by philosophy, and the submission which is enjoined by religion.”
+
+In the Middle Ages, mystical theologians, like Peter Damiani or Bernard of Clairvaux, attack as impious or irreligious the kind of theology which borrows from the philosophers and makes use of the liberal arts, especially the techniques of the dialectician. In similar vein Protestant reformers, like Luther, later attack theology itself as detrimental to the purity of Christian faith and the spirit of religion. It is in this vein also that Bacon deplores the “unprofitable subtility or curiosity” and the “fruitless speculation or controversy” in divinity, and speaks of the “extreme prejudice which both religion and philosophy have received and may receive by being commixed together.”
+
+When the Student in *Faust* says, “I’m now almost inclined to try Theology,” Mephistopheles replies:
+> I would not wish to lead you so astray.  
+> In what this science touches, it would be  
+> So hard to shun the false, misleading way;  
+> So much of hidden poison lies therein,  
+> You scarce can tell it from its medicine.
+
+That, however, is the voice of the devil; and from the point of view of those who see no conflict between faith and reason or between piety and inquiry, the attempt to separate religion from theology often looks diabolical.
+
+## OUTLINE OF TOPICS
+
+**1. The subject matter of theology: the scope of its inquiry; the range of its problems**
+
+**2. The distinction between natural and sacred theology: its relation to the distinction between reason and faith**
+
+**3. Theology as a philosophical discipline**
+    *   3a. Natural theology in relation to other parts of philosophy: *philosophia prima*, metaphysics, natural philosophy
+    *   3b. The distinction between speculative and moral theology: theology as a work of the practical reason
+    *   3c. The limitations of speculative theology: the insoluble mysteries or antinomies
+
+**4. Sacred theology: faith seeking understanding**
+    *   4a. The relation of sacred theology to philosophy: theology as the queen of the sciences
+    *   4b. The principles of sacred theology: revealed truth; articles of faith; interpretation of Scripture
+    *   4c. The roles of reason and authority in the development of sacred doctrine: theological argument and proof
+    *   4d. Sacred theology as a speculative and practical science
+    *   4e. The nature and forms of theological heresy
+
+**5. Criticisms of theology: the dogmatic, sophistical, or over-dialectical character of theological controversy**
+
+---
+## REFERENCES
+
+To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4** Homer: *Iliad*, BK II [265-283] 12d, the number **4** is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12.
+
+**Page Sections**: When the text is printed in one column, the letters a and b refer to the upper and lower halves of the page. For example, in **53** James: *Psychology*, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters a and b refer to the upper and lower halves of the left-hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of the page. For example, in **7** PLATO: *Symposium*, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.
+
+**Author’s Divisions**: One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., *Iliad*, BK II [265-283] 12d.
+
+**Bible References**: The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows; e.g., OLD TESTAMENT: Nehemiah, 7:45—(D) II Esdras, 7:46.
+
+**Symbols**: The abbreviation “esp” calls the reader’s attention to one or more especially relevant parts of a whole reference; “passim” signifies that the topic is discussed intermittently rather than continuously in the work or passage cited.
+
+For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of The Great Ideas, consult the Preface.
+
+---
+**1. The subject matter of theology: the scope of its inquiry; the range of its problems**
+
+**7** PLATO: *Republic*, BK VII, 388a-398c esp 389b-391b, 397a-398c / *Laws*, BK X, 757d-771b  
+**8** ARISTOTLE: *Metaphysics*, BK I, CH 2 [982b28-983a11] 501a-b; BK VI, CH 1 547b,d-548c esp [1026a6-33] 548a-c; BK XI, CH 7 [1064a28-b3] 592d-593a  
+**18** AUGUSTINE: *Confessions*, BK VII, par 13-27 47c-52c / *City of God*, BK VIII, CH 1-12 264b,d-273a; BK XI, CH 2 323a-c / *Christian Doctrine*, BK II, CH 40 655b-656a  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1 3a-10c; Q 75, PREAMBLE 378a-b; Q 84, PREAMBLE 440b-d; PART I-II, Q 7, A 2, ANS and REP 3 652d-653c  
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 71, A 6, REP 5 110b-111b; Q 111, A 4, ANS 354c-355d  
+**30** BACON: *Advancement of Learning*, 41b-42a; 95d-101c  
+**31** DESCARTES: *Discourse*, PART I, 43c  
+**33** PASCAL: *Vacuum*, 355b-356b  
+**35** HUME: *Human Understanding*, SECT XII, DIV 132, 509c  
+**39** SMITH: *Wealth of Nations*, BK V, 336b-337a  
+**42** KANT: *Pure Reason*, 33a-d; 119a-c; 176a-c; 190a-c; 236b-240b esp 239a-240b / *Practical Reason*, 349a-352c esp 350c-351a / *Judgement*, 578a-b
+
+**2. The distinction between natural and sacred theology: its relation to the distinction between reason and faith**
+
+**18** AUGUSTINE: *Confessions*, BK VII, par 13-27 47c-52c / *City of God*, BK VIII, CH 1-12 264b,d-273a; BK XI, CH 2 323a-c / *Christian Doctrine*, BK II, CH 40 655b-656a; CH 42 656c-d  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, AA 1-2 3b-4c; AA 4-6 5a-7a; Q 2, A 2, REP 1 11d-12c; Q 12, AA 12-13 60d-62b; Q 32, A 1 175d-178a; A 4 180b-d; Q 46, A 2 253a-255a; Q 84, A 5 446c-447c  
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 1, A 5 383b-384b; Q 2, AA 3-4 392d-394b; Q 10 399b-400b  
+**23** HOBBES: *Leviathan*, PART I, 66a-c  
+**25** MONTAIGNE: *Essays*, 208a-209c; 212a-d; 238d-239c  
+**30** BACON: *Advancement of Learning*, 19b-c; 39d-40c; 41b-42a; 95d-101c esp 96c-97c / *Novum Organum*, BK I, APH 65 114b-c  
+**31** DESCARTES: *Rules*, II, 4d-5a / *Discourse*, PART I, 43c / *Meditations*, 69a-71a,c / *Objections and Replies*, 125b-126a; 168b-169a; 284d  
+**32** MILTON: *Paradise Lost*, BK XII [552-587] 331a-332a  
+**33** PASCAL: *Pensées*, 245 218b; 265-290 221b-225a; 543 266a; 561-563 272b-273a  
+**35** LOCKE: *Human Understanding*, BK III, CH IX, SECT 23 291b-c; BK IV, CH XVII, SECT 23-24 380b-d; CH XVIII 380d-384b passim; CH XIX, SECT 14 387d-388a  
+**35** HUME: *Human Understanding*, SECT XII, DIV 132, 509c  
+**40** GIBBON: *Decline and Fall*, 307a-309d esp 308c-309a; 346b-c  
+**42** KANT: *Practical Reason*, 346b-347a; 349a-352c esp 350c-351a; 353a-354d / *Judgement*, 599d-600a; 603b-d; 604d-606d esp 606a-d; 607d-609b  
+**43** MILL: *Utilitarianism*, 455a-c  
+**51** TOLSTOY: *War and Peace*, BK V, 196a-197c
+
+**3. Theology as a philosophical discipline**
+
+*3a. Natural theology in relation to other parts of philosophy: philosophia prima, metaphysics, natural philosophy*
+
+**7** PLATO: *Republic*, BK VII, 388a-398c esp 389b-391b, 397a-398c / *Timaeus* 442a-477a,c esp 447a-453c, 455a-457b, 475d-477a,c  
+**8** ARISTOTLE: *Physics*, BK I, CH 9 [192a33-b2] 268c-d; BK II, CH 2 [194b9-15] 271a; CH 7 [198a22-31] 275b-c / *Heavens*, BK II, CH X [298b13-24] 390a-b / *Metaphysics*, BK I, CH 1-2 499a-501c esp CH 2 [982b28-983a11] 501a-b; BK VI, CH 1 [1026a6-33] 548a-c; BK XI, CH 7 [1064a28-b3] 592d-593a  
+**16** PTOLEMY: *Almagest*, BK I, 5a-6a  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, A 8, ANS 7c-8d  
+**23** HOBBES: *Leviathan*, PART IV, 269b-c  
+**30** BACON: *Advancement of Learning*, 2c-4c; 15d-16b; 39d-40c; 41b-42a; 43a-46a esp 44c-45a / *Novum Organum*, BK I, APH 65 114b-c  
+**31** DESCARTES: *Meditations*, 69a-71a,c / *Objections and Replies*, 283d-284d  
+**33** PASCAL: *Pensées*, 77 186a  
+**42** KANT: *Pure Reason*, 33a-d; 119a-c; 176a-c; 190a-c; 236b-240b esp 239a-240b / *Practical Reason*, 349a-352c esp 350c-352c / *Judgement*, 603d-613a,c esp 606d-607c  
+**46** HEGEL: *Philosophy of History*, PART IV, 368d-369a,c
+
+*3b. The distinction between speculative and moral theology: theology as a work of the practical reason*
+
+**42** KANT: *Pure Reason*, 236b-240b esp 239a-240b / *Practical Reason*, 291a-296d; 349a-352c esp 350c-351a / *Judgement*, 588a-613a,c esp 588a-592d, 593d-595c, 596c-598b, 604d-606d, 607d-609b
+
+*3c. The limitations of speculative theology: the insoluble mysteries or antinomies*
+
+**8** ARISTOTLE: *Metaphysics*, BK I, CH 2 [982b28-983a11] 501a-b  
+**18** AUGUSTINE: *Confessions*, BK VI, par 6-8 36c-37c; BK VII, par 13-27 47c-52c / *City of God*, BK VIII, CH 1-12 264b,d-273a; BK XI, CH 2 323a-c  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 2, AA 1-2 10d-12c; Q 12, A 12 60d-61c; Q 13 62b-75b; Q 32, A 1 175d-178a; Q 46, A 2 253a-255a; Q 88, A 3 472c-473a; Q 94, A 1, REP 3 501d-503a  
+**21** DANTE: *Divine Comedy*, PURGATORY, III [16-45] 56a-b  
+**23** HOBBES: *Leviathan*, PART II, 163a-b; PART III, 165b  
+**30** BACON: *Advancement of Learning*, 41b-d; 96d-97b  
+**31** DESCARTES: *Objections and Replies*, 112a-114c; 123a; 127a-d; 168d-169a  
+**33** PASCAL: *Pensées*, 185-195 205a-210b; 221-241 212a-217b; 243-253 218a-220a; 543 266a  
+**35** HUME: *Human Understanding*, SECT VIII, DIV 81 487a  
+**40** GIBBON: *Decline and Fall*, 12d-13a; 159a-d; 186a-d; 308c-d  
+**42** KANT: *Pure Reason*, 143a-145c; 152a-153c; 174b-177b; 187a-192d esp 190a-c; 200c-209d; 218d-223d; 234c-240b esp 239a-c / *Practical Reason*, 291a-292a; 344a-349b esp 344a-c, 348b-349b; 351b-352c / *Judgement*, 547d; 588a-607c esp 588a-591b, 593d-596c, 599d-600a, 600d-601c, 603b-d, 606d-607c
+
+**4. Sacred theology: faith seeking understanding**
+
+*4a. The relation of sacred theology to philosophy: theology as the queen of the sciences*
+
+**18** AUGUSTINE: *Confessions*, BK VII, par 13-27 47c-52c / *City of God*, BK VIII, CH 1-12 264b,d-273a; BK XI, CH 2 323a-c / *Christian Doctrine*, BK II, CH 40 655b-656a; CH 42 656c-d  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, AA 5-6 5c-7a; Q 84, A 5 446c-447c  
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 71, A 6, REP 5 110b-111b; Q 111, A 4, ANS 354c-355d; PART II-II, Q 2, A 10 399b-400b  
+**23** HOBBES: *Leviathan*, PART I, 65b-66c; 70c; 83b; PART III, 165b; PART IV, 247d; 260b-c; 267a-c; 269b  
+**25** MONTAIGNE: *Essays*, 155a-c  
+**30** BACON: *Advancement of Learning*, 17b-20a; 39d-40c; 41b-d; 95d-101d / *Novum Organum*, BK I, APH 65 114b-c; APH 89 124a-d  
+**31** DESCARTES: *Discourse*, PART I, 43c / *Meditations*, 69a-71a,c / *Objections and Replies*, 125b-126a; 162c-165d; 283d-284d  
+**39** SMITH: *Wealth of Nations*, BK V, 336b-337a  
+**40** GIBBON: *Decline and Fall*, 307a-309b; 670b-c  
+**46** HEGEL: *Philosophy of History*, INTRO, 158c-160b; PART III, 308c-309d
+
+*4b. The principles of sacred theology: revealed truth; articles of faith; interpretation of Scripture*
+
+**18** AUGUSTINE: *Confessions*, BK III, par 9 15a-b; BK VI, par 6-8 36c-37c; BK VII, par 13-27 47c-52c / *Christian Doctrine* 621a-698a,c  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1 3a-10c; Q 3, A 1, REP 1-5 14b-15b; Q 29, A 3, REP 1 164c-165c; Q 32, A 1 175d-178a; A 4 180b-d; Q 46, A 2 253a-255a; Q 51, A 2, REP 1 276b-277a; Q 68, A 1, ANS 354a-355c; Q 102, A 1, ANS and REP 4 523d-525a; Q 113, A 7, REP 1 580b-581a  
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 102, A 2 271b-272a; PART II-II, Q 1, AA 5-10 383b-390d; Q 2, A 10 399b-400b  
+**21** DANTE: *Divine Comedy*, PARADISE, XXIV 142d-144b esp [61-81] 143b-c  
+**23** HOBBES: *Leviathan*, PART II, 137b-138b; 160b-c; PART III, 167a-b; 181a-182d; 241a-244d; 246c  
+**30** BACON: *Advancement of Learning*, 95d-96c / *Novum Organum*, BK I, APH 65 114b-c  
+**31** DESCARTES: *Discourse*, PART I, 43c  
+**33** PASCAL: *Provincial Letters*, 78b-80b; 163a-164b / *Pensées*, 570-579 273b-276a; 642-692 290b-301a; 775 323b-324a / *Vacuum*, 355b / *Geometrical Demonstration*, 440a-b  
+**35** LOCKE: *Human Understanding*, BK III, CH IX, SECT 9, 287b; SECT 23 291b-c; CH X, SECT 12 294b-c  
+**38** ROUSSEAU: *Inequality*, 333d; 362d  
+**40** GIBBON: *Decline and Fall*, 307d-308a; 346b-c  
+**41** GIBBON: *Decline and Fall*, 230a-b  
+**44** BOSWELL: *Johnson*, 173b-174a  
+**46** HEGEL: *Philosophy of History*, PART III, 308c-309d  
+**51** TOLSTOY: *War and Peace*, EPILOGUE I, 696a-c
+
+*4c. The roles of reason and authority in the development of sacred doctrine: theological argument and proof*
+
+**18** AUGUSTINE: *Confessions*, BK I, par 1 1a-b; BK VI, par 5-7 36b-37b; BK VII, par 13-27 47c-52c; BK XI, par 32-36 107a-108c; par 41-43 110a-d; BK XIII, par 36 120c-d / *City of God*, BK VIII, CH 1-12 264b,d-273a; BK XX, CH 1, 530a-b; CH 30, 560a,c / *Christian Doctrine* 621a-698a,c passim  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1 3a-10c; Q 2, A 2 11d-12c; Q 3, A 5, ANS 17c-18b; Q 12, A 12 60d-61c; Q 29, A 3, REP 1 164c-165c; Q 32, A 1 175d-178a; A 4 180b-d; Q 46, A 2 253a-255a  
+**20** AQUINAS: *Summa Theologica*, PART II-II, Q 2, A 10 399b-400b  
+**21** DANTE: *Divine Comedy*, PARADISE, XXIV 142d-144b  
+**23** HOBBES: *Leviathan*, PART I, 66a-c; 83b; PART II, 137b-c; 149c-d; 163a-b; PART III, 165a-c; 167a-b; 241c-242a  
+**25** MONTAIGNE: *Essays*, 208a-294b passim  
+**29** CERVANTES: *Don Quixote*, PART I, 122b-c  
+**30** BACON: *Advancement of Learning*, 12c-13c; 41b-d; 95d-96c; 97b-c / *Novum Organum*, BK I, APH 65 114b-c  
+**31** DESCARTES: *Discourse*, PART I, 43c / *Meditations*, 69a-71a,c / *Objections and Replies*, 125b-126b; 127c-d; 162c-165d  
+**32** MILTON: *Paradise Lost*, BK XII [552-589] 331a-332a  
+**33** PASCAL: *Provincial Letters*, 163a-166a / *Pensées*, 226 212b-213a; 242-253 217b-220a; 265-290 221b-225a; 557-567 272b-273b; 775 323b-324a; 862-866 342b-343b; 903 348a / *Vacuum*, 355b-356b  
+**35** LOCKE: *Toleration*, 5a-b / *Human Understanding*, BK III, CH IX, SECT 23 291b-c; BK IV, CH XVII, SECT 24 380c-d; CH XVIII 380d-384b passim; CH XIX, SECT 14 387d-388a  
+**35** HUME: *Human Understanding*, SECT XI 497b-503c passim, esp DIV 102 497b-d, DIV 104 498b-c, DIV 107 499c-500b; SECT XII, DIV 132, 509c  
+**40** GIBBON: *Decline and Fall*, 206a-b; 307a-314a esp 308d-309d, 310b-312a, 313d-314a; 348c-d; 438b-442a; 670b-c  
+**41** GIBBON: *Decline and Fall*, 134a-151c esp 136d-140d, 143c-145d; 198a-c; 462d-463a; 520b-521c  
+**44** BOSWELL: *Johnson*, 173b-174a  
+**46** HEGEL: *Philosophy of History*, INTRO, 158c-160b; PART III, 308c-309d; PART IV, 360c-361a
+
+*4d. Sacred theology as a speculative and practical science*
+
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, A 4 5a-b  
+**20** AQUINAS: *Summa Theologica*, PART II-II, Q 45, A 3 600c-601a
+
+*4e. The nature and forms of theological heresy*
+
+**18** AUGUSTINE: *Confessions*, BK III, par 10-12 15b-16b; par 18 18b; BK VII, par 25 51a-c / *City of God*, BK XVI, CH 2, 422b-d; BK XVIII, CH 51 502d-503d / *Christian Doctrine*, BK III, CH 33 670b-c  
+**19** AQUINAS: *Summa Theologica*, PART I, Q 28, A 1, CONTRARY 157c-158d; A 3, CONTRARY 160a-c; Q 31, A 2, ANS 172b-173c; Q 32, A 4 180b-d  
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 64, A 4, REP 3 69b-70a; Q 81, A 1, ANS 163a-164d; PART II-II, Q 10, AA 5-6 429c-431b; Q 11 438a-442b  
+**21** DANTE: *Divine Comedy*, HELL, IX [106]-XI [9] 13b-15b; PARADISE, XIII [112-142] 126c-d  
+**23** HOBBES: *Leviathan*, PART I, 78a-b; PART III, 213d-214b; 238b-239b; PART IV, 248c-d  
+**25** MONTAIGNE: *Essays*, 154c-d  
+**30** BACON: *Advancement of Learning*, 101a-b  
+**33** PASCAL: *Provincial Letters*, 128b-137b; 141a-166b / *Pensées*, 862-865 342b-343b  
+**35** LOCKE: *Toleration*, 1d-2a; 21c-22d  
+**38** ROUSSEAU: *Social Contract*, BK IV, 438d-439c  
+**40** GIBBON: *Decline and Fall*, 182d-184b; 308a-b; 310b-313d passim, esp 312b-313b  
+**41** GIBBON: *Decline and Fall*, 134a-138a; 143c-145d; 149b-152c passim; 198a-c; 422a-d  
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 127b-137c
+
+**5. Criticisms of theology: the dogmatic, sophistical, or over-dialectical character of theological controversy**
+
+**23** HOBBES: *Leviathan*, PART I, 51d-52b; 54b-c; 71a-b; 84a; PART II, 163a-b; PART III, 165b; PART IV, 247d-248a; 269b-271c; 274a-c  
+**24** RABELAIS: *Gargantua and Pantagruel*, BK I, 9b; 21c-24a; BK II, 78b-80d; 101b-106a; BK III, 172d-173c; 186d-188c  
+**35** HUME: *Human Understanding*, SECT VIII, DIV 62, 478c; SECT XI, DIV 107 499c-500b  
+**36** SWIFT: *Gulliver*, PART I, 22b-23a  
+**36** STERNE: *Tristram Shandy*, 222a-224a; 366a-376a; 421b-422b  
+**39** SMITH: *Wealth of Nations*, BK V, 336b-337a  
+**40** GIBBON: *Decline and Fall*, 312b-313b; 345d-346b; 347a; 439a; 441a-d; 670b-c  
+**41** GIBBON: *Decline and Fall*, 134a; 143c-145d esp 145b-c; 148a-b; 149c-d; 156a; 328a-b; 422a-d; 476b-477a  
+**46** HEGEL: *Philosophy of History*, PART III, 313b-c; PART IV, 360c-d  
+**47** GOETHE: *Faust*, PART I [1982-2000] 47a-b
+
+---
+## CROSS-REFERENCES
+
+**For**: The consideration of topics or problems which fall within the scope of theology, see ASTRONOMY 6; BEAUTY 7a; CAUSE 7-7d; DESIRE 7b; ETERNITY 3, 4d; GOD 2b, 2d, 4-5i; GOOD AND EVIL 2-2b; HAPPINESS 7-7d; HISTORY 5a-5b; HONOR 6-6b; IMMORTALITY 2, 3a; INFINITY 7a-7d; JUSTICE 11-11b; LIBERTY 5a-5d; LOVE 5a-5c; MATTER 3d; MIND 10g; ONE AND MANY 1b, 6a-6c; OPPOSITION 2d-2e; PUNISHMENT 5e(1)-5e(2); RELATION 2-3; RELIGION 2c; SAME AND OTHER 6; SIN 3-3c, 6a-6e; SOUL 4b-4c; TIME 2b-2c; VIRTUE AND VICE 8d-8d(3); WILL 4a-4b, 7e-7e(2); WISDOM 1d; WORLD 3a-4e(3), 8.
+
+**Other** discussions of the relation of reason and faith, or of the relation of theology to religion, see KNOWLEDGE 6c(5); LOGIC 4f; OPINION 4a; PHILOSOPHY 6c; RELIGION 1a, 1b(1), 6b, 6g; TRUTH 4a; WISDOM 1c.
+
+**The** relation of philosophy to theology, and for the conception of natural theology as a part of philosophy, see METAPHYSICS 3a; PHILOSOPHY 1a; RELIGION 6f-6g.
+
+**Discussions** bearing on sacred theology as a science, and on its principles and methods, see LOGIC 4f; REASONING 6a; RELIGION 6b, 6c(1); SCIENCE 2a.
+
+**Discussions** bearing on the nature and extent of revealed truth and on the articles of religious faith, see ANGEL 3-4; EVOLUTION 7a; GOD 2a, 7-9f; IMMORTALITY 3b; MAN 9b(1)-9b(3), 11a-11c; PROPHECY 4a-4d; SIN 3-3c; SOUL 4d(3); VIRTUE AND VICE 8e; WORLD 4e(3).
+
+**The** problems of interpreting the Word of God or Sacred Scripture, see LANGUAGE 12; SIGN AND SYMBOL 5e.
+
+**Considerations** relevant to the relation of theology to jurisprudence, see LAW 3a-3b(2).
+
+**Various** attacks on theological doctrines, and for criticisms directed against the kind of speculation which is theological, see DIALECTIC 3c; GOD 10-13; IMMORTALITY 2; KNOWLEDGE 5c; METAPHYSICS 2d, 4a; OPINION 4b; PHILOSOPHY 6b; RELIGION 6f-6g; SOUL 3d; WILL 5c; WORLD 4a.
+
+---
+## ADDITIONAL READINGS
+
+Listed below are works not included in *Great Books of the Western World*, but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:
+I. Works by authors represented in this collection.
+II. Works by authors not represented in this collection.
+For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of *The Great Ideas*.
+
+**I.**
+
+AUGUSTINE. *On the Profit of Believing*  
+---. *On Faith in Things Unseen*  
+AQUINAS. *On the Trinity of Boethius*, QQ 1-3  
+---. *Summa Contra Gentiles*, BK I, CH 1-9  
+---. *Compendium of Theology*  
+SPINOZA. *Tractatus Theologico-Politicus* (*Theological-Political Treatise*), CH 14-15  
+KANT. *Untersuchung über die Deutlichkeit der Grundsätze der natürlichen Theologie und der Moral*  
+J. S. MILL. “Theism,” in *Three Essays on Religion*
+
+**II.**
+
+CICERO. *De Natura Deorum* (*On the Nature of the Gods*), II  
+PROCLUS. *The Elements of Theology*  
+SAADIA GAON. *The Book of Beliefs and Opinions*, INTRODUCTORY TREATISE  
+ABELARD. *Introductio ad Theologiam*  
+MAIMONIDES. *The Guide for the Perplexed*, INTRO  
+BONAVENTURA. *On the Reduction of the Arts to Theology*  
+---. *Breviloquium*, PART I (1)  
+---. *Itinerarium Mentis in Deum* (*The Itinerary of the Mind to God*)  
+R. BACON. *Opus Majus*, PART II  
+ALBERTUS MAGNUS. *Summa Theologiae*, PART I  
+DUNS SCOTUS. *Opus Oxoniense*, PROLOGUE  
+ALBO. *The Book of Principles* (*Sefer ha-Ikkarim*)  
+CALVIN. *Institutes of the Christian Religion*  
+BOEHME. *The Way from Darkness to True Illumination*  
+H. MORE. *The Antidote Against Atheism*, BK I, CH 1-10  
+R. BARCLAY. *An Apology for the True Christian Divinity*  
+CUDWORTH. *The True Intellectual System of the Universe*  
+MALEBRANCHE. *Dialogues on Metaphysics and Religion*, V, VII  
+LEIBNIZ. *Theodicy*  
+J. BUTLER. *The Analogy of Religion*  
+VOLTAIRE. “Figure in Theology,” “Theologian,” in *A Philosophical Dictionary*  
+PALEY. *Natural Theology*  
+COMTE. *The Catechism of Positive Religion*  
+J. H. NEWMAN. *An Essay on the Development of Christian Doctrine*  
+---. *The Idea of a University*, DISCOURSE I-IV  
+---. *An Essay in Aid of a Grammar of Assent*  
+L. STEPHEN. *An Agnostic’s Apology*  
+HARNACK. *History of Dogma*  
+STIRLING. *Philosophy and Theology*  
+WARD. *Naturalism and Agnosticism*  
+A. E. TAYLOR. *The Faith of a Moralist*, SERIES I (1)  
+J. S. HALDANE. *The Sciences and Philosophy*, LECT XVII  
+PENIDO. *Le rôle de l'analogie en théologie dogmatique*  
+WHITEHEAD. *Adventures of Ideas*, CH 10  
+MARITAIN. *Science and Wisdom*, pp 70-136  
+GILSON. *The Unity of Philosophical Experience*, CH 2  
+---. *Reason and Revelation in the Middle Ages*  
+FENTON. *The Concept of Sacred Theology*  
+JAEGER. *Humanism and Theology*  
+BARTH. *Dogmatics in Outline*

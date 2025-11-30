@@ -1,0 +1,813 @@
+# Chapter 47: LIBERTY
+
+## INTRODUCTION
+
+LIBERTY and law, liberty and justice, liberty and equality—the familiar connection of these terms breeds neglect of the meaning they confer upon one another through association. A few simple questions may help to restore the significance of these relationships. Are men free when their actions are regulated by law or coercion? Does liberty consist in doing whatever one pleases or whatever one has the power to do, or is one required by justice to abstain from injury to others? Do considerations of justice draw the line between liberty and license? Can there be liberty apart from equality and perhaps also fraternity?
+
+Other questions immediately suggest themselves. Does not the rule of law secure liberty to the governed? Is not slavery the condition of those who are ruled tyrannically or lawlessly? Does it make a difference to freedom whether the law or the constitution is just? Or is that indifferent because government itself is the impediment to liberty? Does liberty increase as the scope of government dwindles and reach fullness only with anarchy or when men live in a state of nature?
+
+Yet are not some forms of government said to be fitting and some uncongenial to free men? Do all men have a right to freedom, or only some? Are some men by nature free and some slave? Does such a differentiation imply both equality and inequality in human nature with, as a consequence, equality and inequality in status or treatment? What implications for law, justice, and equality has the distinction between free societies and dependent or subject communities?
+
+As Tolstoy points out, the variety of questions which can be asked about liberty indicates the variety of subject matters or sciences in which the problems of freedom are differently raised.
+
+> What is sin, the conception of which arises from the consciousness of man’s freedom? That is a question for theology... What is man’s responsibility to society, the conception of which results from the conception of freedom? That is a question for jurisprudence... What is conscience and the perception of right and wrong in actions that follow from the consciousness of freedom? That is a question for ethics... How should the past life of nations and of humanity be regarded—as the result of the free, or as the result of the constrained, activity of man? That is a question for history.
+
+The great traditional issues of liberty seem to be stated by these questions. From the fact that most, perhaps all, of these questions elicit opposite answers from the great books, it might be supposed that there are as many basic issues as there are questions of this sort. But the answers to certain questions presuppose answers to others. Furthermore, the meaning of liberty or freedom or independence is not the same throughout the questions we have considered. Answers which appear to be inconsistent may not be so when the meanings involved in their formulation are distinguished. We must, therefore, find the roots of the several distinct doctrines of liberty in order to separate real issues from verbal conflicts.
+
+THE HISTORIANS report the age-old struggle on the part of men and of states for liberty or independence. History as a development of the spirit does not begin, according to Hegel, until this struggle first appears. “The History of the world,” he writes, “is none other than the progress of the consciousness of Freedom,” which does not reach its climax until freedom is universally achieved. But though freedom is its product, history, in Hegel’s view, is not a work of freedom, but “involves an absolute necessity.” Each stage of its development occurs inevitably.
+
+Other historians see man as free to work out his destiny, and look upon the great crises of civilization as turning points at which free men, that is, men having free will, exercise a free choice for better or for worse.
+
+> Whether we speak of the migration of the peoples and the incursions of the barbarians, or of the decrees of Napoleon III, or of someone’s action an hour ago in choosing one direction out of several for his walk, we are unconscious of any contradiction.
+
+Tolstoy declares, between freedom and necessity.
+
+> Our conception of the degree of freedom,” he goes on to say, “often varies according to differences in the point of view from which we regard the event, but every human action appears to us as a certain combination of freedom and inevitability. In every action we examine we see a certain measure of freedom and a certain measure of inevitability. And always the more freedom we see in any action the less inevitability do we perceive, and the more inevitability the less freedom.
+
+Accordingly, neither necessity which flows from the laws of matter or of spirit, nor overhanging and indomitable fate determines the direction of events. If the theologians say that nothing happens which God does not foresee, they also say that divine providence leaves the world full of contingencies and man a free agent to operate among them. “Though there is for God a certain order of all causes,” it does not follow, Augustine says, that nothing depends “on the free exercise of our own wills, for our wills themselves are included in that order of causes which is certain to God, and is embraced by His foreknowledge, for human wills are also causes of human actions.”
+
+These matters are further discussed in the chapters on **FATE**, **HISTORY**, and **NECESSITY AND CONTINGENCY**. The mention of them here suggests another meaning of liberty—that of free choice or free will—and with it issues other than those involved in the relation of the individual to the state or to his fellow men. Yet the metaphysical questions about liberty and necessity, or freedom and causality, and the theological questions about man’s freedom under God, are not without bearing on the political problems of man’s freedom in society, or his rights and powers. The fundamental doctrines of civil liberty certainly seem to differ according to the conception of natural freedom on which they are based. Freedom may be natural in the sense that free will is a part of human nature; or in the sense that freedom is a birthright, an innate and inalienable right. It may be natural in the sense in which freedom in a state of nature is distinguished from political liberty, or liberty under civil law and government.
+
+THE EFFORT to clarify meanings requires us to look at the three words which we have used as if they were interchangeable—“liberty,” “freedom,” and “independence.” For the most part, “liberty” and “freedom” are synonyms. Both words are used in English versions of the great books. Though authors or translators sometimes prefer one, sometimes the other, their preference does not seem to reflect a variation in meaning.
+
+In English the word “freedom” has a little greater range in that it permits the formation of the adjective “free.” It is also adapted to speaking of freedom *from* certain restraints or undesirable conditions, as well as of freedom *to* act in accordance with desire or to exercise certain privileges. In consequence, the word “freedom” is more frequently employed in the discussion of free will. Though the traditional enumeration of civil liberties may use the phrasing “liberty of conscience or worship” as frequently as “freedom of conscience or worship,” “freedom of speech” is more usual, and “freedom from fear or want or economic dependence” does not seem to have an alternative phrasing.
+
+The word “independence” has special connotations which make it equivalent to only part of the meaning of “freedom” or “liberty.” Negatively, independence is a freedom from limitation or from being subject to determination by another. Positively, independence implies self-sufficiency and adequate power. When we speak of a man of independent means, we refer not only to his freedom from want or economic dependence on others, but also to his having sufficient wealth to suit his tastes or purposes. A moment's reflection will show that this is a relative matter. It is doubtful whether absolute economic independence is possible for men or even for nations.
+
+The real question here seems to be a metaphysical one. Can any finite thing be absolutely independent? The traditional answer is No. As appears in the chapter on **INFINITY**, only a being infinite in perfection and power—only the Supreme One of Plotinus, the uncreated God of Aquinas, or the self-caused God of Spinoza—has complete independence. God has the freedom of autonomy which cannot belong to finite things. There is, however, another sense of divine freedom which Aquinas affirms and both Plotinus and Spinoza deny. That is freedom of choice.
+
+“God does not act from freedom of will,” Spinoza writes; yet God alone acts as a free cause, for God alone “exists from the necessity of his own nature and is determined to action by himself alone.” The divine freedom consists in God’s self-determination which, for Spinoza, does not exclude necessity. The opposite view is most clearly expressed in the Christian doctrine of creation. The created world does not follow necessarily from the divine nature. “Since the goodness of God is perfect,” Aquinas writes, “and can exist without other things, inasmuch as no perfection can accrue to Him from them, it follows that for Him to will things other than Himself is not absolutely necessary.” This issue of freedom or necessity with regard to God’s will and action is more fully discussed in the chapters on **WILL** and **WORLD**.
+
+The metaphysical identification of independence with infinity does not carry over into the sphere of political freedom. Yet in one respect there is an analogy. The autonomous is that which is a law unto itself. It admits no superior authority. When in the tradition of political thought states are called “free and independent,” their autonomy or sovereignty means that by virtue of which, in the words of the *Declaration of Independence*, “they have full power to levy war, conclude peace, contract alliances, establish commerce, and to do all other acts and things which independent states may of right do.”
+
+Free and independent states do not have infinite power. There is always the possibility of their being subjugated by another state and reduced to the condition of a dependency. But though their power is not infinite, they acknowledge no superior. To be a sovereign is to accept commands from no one.
+
+Since autonomy or sovereignty is incompatible with living under human law or government, the independence of sovereign princes or states must be an anarchic freedom—a freedom from law and government. This seems to be the view of Hobbes, Locke, Kant, and Hegel, all of whom refer to the anarchy of independent states or sovereign princes to explain what they mean by the “state of nature.” Sovereigns are, in the words of Kant, “like lawless savages.”
+
+Applying this conception to individual men, Hobbes and Locke define natural as opposed to civil liberty in terms of man’s independence in a state of nature. In a state of nature man had a limited independence, since each man might be coerced by a superior force; but it was an absolute independence in the sense that he was subject to no human government or man-made law.
+
+THE NATURAL FREEDOM of man, according to Hobbes, is not free will. Since “every act of man’s will, and every desire and inclination, proceed from some cause, and that from another cause, in a continual chain (whose first link is in the hand of God, the first of all causes), they proceed from necessity.” Liberty is not of the will, but of the man, consisting in this: “that he finds no stop in doing what he has the will, desire, or inclination to do.” The proper application of the word “free” is to bodies in motion, and the liberty it signifies when so applied is merely “the absence of external impediments.”
+
+The natural right of every man is “the liberty each man has to use his own power... for the preservation of his own nature, that is to say, of his own life... and consequently of doing anything which in his own judgment and reason he shall conceive to be the aptest means thereunto.” This liberty or natural right belongs to man only in a state of nature. When men leave the state of nature and enter the commonwealth, they surrender this natural liberty in exchange for a civil liberty which, according to Hobbes, consists in nothing more than their freedom to do what the law of the state does not prohibit, or to omit doing what the law does not command.
+
+Locke agrees that man’s natural liberty is not the freedom of his will in choosing, but the freedom to do what he wills without constraint or impediment. He differs from Hobbes, however, in his conception of natural liberty because he differs in his conception of the state of nature.
+
+For Hobbes the state of nature is a state of war; the notions of right and wrong, justice and injustice, can have no place in it. “Where there is no common power, there is no law; where no law, no injustice.” The liberty which sovereign states now have is the same as “that which every man should have if there were no civil laws, nor commonwealth at all. And the effects of it also are the same. For as amongst masterless men, there is perpetual war of every man against his neighbor... so in states and commonwealths not dependent on one another, every commonwealth has an absolute liberty to do what it shall judge... most conducing to its benefit.”
+
+For Locke the state of nature is not a state of war, but a natural as opposed to a civil society, that is, a society in which men live together under natural rather than under civil law. Men who live in this condition are “in a state of perfect freedom to order their actions and dispose of their possessions as they think fit, within the bounds of the law of nature.” This is a limited, not an absolute freedom; or, as Locke says, “though this be a state of liberty, yet it is not a state of license.” The line between liberty and license is drawn by the precepts of the natural law. The difference, then, between natural and civil liberty lies in this. Natural liberty consists in being “free from any superior power on earth,” or not being “under the will or legislative authority of man.” Only the rules of natural law limit freedom of action. Civil liberty, or liberty under civil law, consists in being “under no other legislative power but that established by consent.” It is a freedom for the individual to follow his own will in all matters not prescribed by the law of the state.
+
+IN THE ARGUMENTS for and against free will, one view regards free will as incompatible with the principle of causality, natural necessity, or God’s omnipotence; the other conceives free choice as falling within the order of nature or causality and under God’s providence. We shall not consider these alternatives in this chapter, since this issue is reserved for the chapter on **WILL**.
+
+Yet one thing is clear for the present consideration of political liberty. If the statement that men are born free means that it is a property of their rational natures to possess a free will, then they do not lose their innate freedom when they live in civil society. Government may interfere with a man’s actions, but it cannot coerce his will. Government can go no further than to regulate the expression of man’s freedom in external actions.
+
+Nor is the range of free will limited by law. As indicated in the chapter on **LAW**, any law—moral or civil, natural or positive—which directs human conduct can be violated. It leaves man free to disobey it and take the consequences. But if the rule is good or just, then the act which transgresses it must have the opposite quality. The freedom of a free will is therefore morally indifferent. It can be exercised to do either good or evil. We use our freedom properly, says Augustine, when we act virtuously; we misuse it when we choose to act viciously. “The will,” he writes, “is then truly free, when it is not the slave of vices and sins.”
+
+Those who conceive the natural moral law as stating the precepts of virtue or the commands of duty and who, in addition, regard every concrete act which proceeds from a free choice of the will as either good or bad—never indifferent—find that the distinction between liberty and license applies to every free act. The meaning of this distinction is the same as that between freedom properly used and freedom misused. Furthermore, since there is no good act which is not prescribed by the moral law, the whole of liberty, as opposed to license, consists in doing what that moral law commands.
+
+These considerations affect the problem of political liberty, especially on the question whether the spheres of law and liberty are separate, or even opposed. One view, as we have seen, is that the area of civil liberty lies outside the realm of acts regulated by law. To break the law may be criminal license, but to obey it is not to be free. The sphere of liberty increases as the scope or stringency of law diminishes.
+
+The opposite view does not regard freedom as freedom from law. “Freedom,” Hegel maintains, “is nothing but the recognition and adoption of such universal substantial objects as Right and Law.” All that matters in the relation between liberty and law is whether the law is just and whether a man is virtuous. If the law is just, then it does not compel a just man to do what he would not freely elect to do even if the law did not exist. Only the criminal is coerced or restrained by good laws. To say that such impediment to action destroys freedom would be to deny the distinction between liberty and license.
+
+Nevertheless, liberty can be abridged by law. That is precisely the problem of the good man living under unjust laws. If, as Montesquieu says, “liberty can consist only in the power of doing what we ought to will, and in not being constrained to do what we ought not to will,” then governments and laws interfere with liberty when they command or prohibit acts contrary to the free choice of a good man.
+
+The conception of freedom as the condition of those who are rightly governed—who are commanded to do only what they would do anyway—seems to be analogically present in Spinoza’s theory of human bondage and human freedom. It is there accompanied by a denial of the will’s freedom of choice.
+
+According to Spinoza human action is causally determined by one of two factors in man’s nature—the passions or reason. When man is governed by his passions, he is in “bondage, for a man under their control is not his own master, but is mastered by fortune, in whose power he is, so that he is often forced to follow the worse, although he sees the better before him.” When man is governed by reason he is free, for he “does the will of no one but himself, and does those things only which he knows are of greatest importance in life, and which he therefore desires above all things.” The man who acts under the influence of the passions acts in terms of inadequate ideas and in the shadow of error or ignorance. When reason rules, man acts with adequate knowledge and in the light of truth.
+
+So, too, in the theory of Augustine and Aquinas, the virtuous man is morally or spiritually free because human reason has triumphed in its conflict with the passions to influence the free judgment of his will. The rule of reason does not annul the will’s freedom. Nor is the will less free when it is moved by the promptings of the passions. “A passion,” writes Aquinas, “cannot draw or move the will directly.” It does so indirectly, as, for example, “when those who are in some kind of passion do not easily turn their imagination away from the object of their affections.” But though the will is not altered in its freedom by whether reason or emotion dominates, the situation is not the same with the human person as a whole. The theologians see him as a moral agent and a spiritual being who gains or loses freedom according as the will submits to the guidance of reason or follows the passions.
+
+On the supernatural level, the theologians teach that God’s grace assists reason to conform human acts to the divine law, but also that grace does not abolish free choice on the part of the will. “The first freedom of the will,” Augustine says, “which man received when he was created upright, consisted in an ability not to sin, but also in an ability to sin.” So long as man lives on earth, he remains free to sin. But supernatural grace, added to nature, raises man to a higher level of spiritual freedom than he can ever achieve by the discipline of the acquired virtues.
+
+Still higher is the ultimate freedom of beatitude itself. Augustine calls this “the last freedom of will” which, by the gift of God, leaves man “not able to sin.” It is worth noting that this ultimate liberty consists in freedom from choice or the need to choose, not in freedom from love or law. Man cannot be more free than when he succeeds, with God’s help, in submitting himself through love to the rule of God.
+
+THE POLITICAL significance of these moral and theological doctrines of freedom would seem to be that man can be as free in civil society as in a state of nature. Whether in fact he is depends upon the justice of the laws which govern him, not upon their number or the matters with which they deal. He is, of course, not free to do whatever he pleases regardless of the well-being of other men or the welfare of the community. but that, in the moral conception of liberty, is not a loss of freedom. He loses freedom in society only when he is mistreated or misgoverned—when, being the equal of other men, he is not treated as their equal; or when, being capable of ruling himself, he is denied a voice in his own government.
+
+The meaning of tyranny and slavery seems to confirm this conception of political liberty. To be a slave is not merely to be ruled by another; it consists in being subject to the mastery of another, i.e., to be ruled as a means to that other’s good and without any voice in one’s own government. This implies, in contrast, that to be ruled as a free man is to be ruled for one’s own good and with some degree of participation in the government under which one lives.
+
+According to Aristotle’s doctrine of the natural slave—examined in the chapter on **SLAVERY**—some men do not have the nature of free men, and so should not be governed as free men. Men who are by nature slaves are not unjustly treated when they are enslaved. “It is better for them as for all inferiors,” Aristotle maintains, “that they should be under the rule of a master.” Though they do not in fact have the liberty of free men, they are not deprived thereby of any freedom which properly belongs to them, any more than a man who is justly imprisoned is deprived of a freedom which is no longer his by right.
+
+The root of this distinction between free men and slaves by nature lies in the supposition of a natural inequality. The principle of equality is also relevant to the injustice of tyranny and the difference between absolute and constitutional government. In the *Republic* Plato compares the tyrant to an owner of slaves. “The only difference,” he writes, “is that the tyrant has more slaves” and enforces “the harshest and bitterest form of slavery.” The tyrannical ruler enslaves those who are his equals by nature and who should be ruled as free men. Throughout the whole tradition of political thought the name of tyranny signifies the abolition of liberty. But absolute, or despotic government is not uniformly regarded as the enemy of liberty.
+
+The issue concerning the legitimacy or justice of absolute government is examined in the chapters on **MONARCHY** and **TYRANNY**. But we can take it as generally agreed that the subjects of a despot, unlike the citizens of a republic, do not enjoy any measure of self-government. To the extent that political liberty consists in some degree of self-government, the subjects of absolute rule lack the sort of freedom possessed by citizens under constitutional government. For this reason the supremacy of law is frequently said to be the basic principle of political liberty.
+
+“Wherever law ends, tyranny begins,” Locke writes. In going beyond the law, a ruler goes beyond the grant of authority vested in him by the consent of the people, which alone makes man “subject to the laws of any government.” Furthermore, law for Locke is itself a principle of freedom. “In its true notion,” he writes, it “is not so much the limitation as the direction of a free and intelligent agent to his proper interest, and prescribes no farther than is for the general good of those under that law. Could they be happier without it, the law, as a useless thing, would of itself vanish, and that ill deserves the name of confinement which hedges us in only from bogs and precipices. So that however it may be mistaken, the end of law is not to abolish or restrain, but to preserve and enlarge freedom.”
+
+A constitution gives the ruled the status of citizenship and a share in their own government. It may also give them legal means with which to defend their liberties when officers of government invade their rights in violation of the constitution. According to Montesquieu, for whom political liberty exists only under government by law, never under despotism or the rule of men, the freedom of government itself demands “from the very nature of things that power should be a check to power.” This is accomplished by a separation of powers. A system of checks and balances limits the power of each branch of the government and permits the law of the constitution to be applied by one department against another when its officials usurp powers not granted by the constitution or otherwise act unconstitutionally.
+
+Yet, unlike tyranny, absolute government has been defended. The ancients raise the question whether, if a truly superior or almost godlike man existed, it would not be proper for him to govern his inferiors in an absolute manner. “Mankind will not say that such a one is to be expelled and exiled,” Aristotle writes; “on the other hand, he ought not to be a subject—that would be as if mankind should claim to rule over Zeus, dividing his offices among them. The only alternative,” he concludes, “is that all should joyfully obey such a ruler, according to what seems to be the order of nature, and that men like him should be kings in their state for life.” Those subject to his government would be free only in the sense that they would be ruled for their own good, perhaps better than they could rule themselves. But they would lose that portion of political freedom which consists in self-government. Faced with this alternative to constitutional government—which Aristotle describes as the government of free men and equals—what should be the choice of men who are by nature free?
+
+THE ANCIENT ANSWER is not decisively in one direction. There are many passages in both Plato and Aristotle in which the absolute rule of a wise king (superior to his subjects as a father is to children, or a god to men) seems to be pictured as the political ideal. The fact that free men would be no freer than children in a well administered household does not seem to Plato and Aristotle to be a flaw in the picture. They do not seem to hold that the fullness of liberty is the primary measure of the goodness of government.
+
+On the contrary, justice is more important. As Aristotle suggests, it would be unjust for the superior man to be treated as an equal and given the status of one self-governing citizen among others. But he also points out that “democratic states have instituted ostracism” as a means of dealing with such superior men. “Equality is above all things their aim, and therefore they ostracized and banished from the city for a time those who seemed to predominate too much.” Because it saves the superior man from injustice and leaves the rest free to practice self-government, “the argument for ostracism,” Aristotle claims, “is based upon a kind of political justice,” in that it preserves the balance within the state, and perhaps also because it leaves men free to practice self-government among themselves.
+
+Since the eighteenth century, a strong tendency in the opposite direction appears in the political thought of Locke, Montesquieu, Rousseau, Kant, the American constitutionalists, and J. S. Mill. Self-government is regarded as the essence of good government. It is certainly the mark of what the eighteenth century writers call “free government.” Men who are born to be free, it is thought, cannot be satisfied with less civil liberty than this.
+
+“Freedom,” says Kant, “is independence of the compulsory will of another; and in so far as it can co-exist with the freedom of all according to a universal law, it is the one sole, original inborn right belonging to every man in virtue of his humanity. There is, indeed, an innate equality belonging to every man which consists in his right to be independent of being bound by others to anything more than that to which he may also reciprocally bind them.” The fundamental equality of men thus appears to be founded in their equal right to freedom; and that, for Kant at least, rests on the freedom of will with which all men are born. The criterion of the good society is the realization of freedom.
+
+Kant’s conception of human society as a realm of ends, in which no free person should be degraded to the ignominy of being a means, expresses one aspect of political freedom. The other is found in his principle of the harmonization of individual wills which results in the freedom of each being consistent with the freedom of all. In institutional terms, republican government, founded on popular sovereignty and with a system of representation, is the political ideal precisely because it gives its citizens the dignity of free men and enables them to realize their freedom in self-government.
+
+Citizenship, according to Kant, has three inseparable attributes: “1. constitutional freedom, as the right of every citizen to have to obey no other law than that to which he has given his consent or approval; 2. civil equality, as the right of the citizen to recognize no one as a superior among the people in relation to himself, except in so far as such a one is as subject to his moral power to impose obligations, as that other has power to impose obligations upon him; and 3. political independence, as the right to owe his existence and continuance in society not to the arbitrary will of another, but to his own rights and powers as a member of the commonwealth, and, consequently, the possession of a civil personality, which cannot be represented by any other than himself.”
+
+Kant leans heavily on Rousseau’s conclusions with regard to political liberty. Rousseau, however, approaches the problem of freedom somewhat differently. “Man is born free,” he begins, “and everywhere he is in chains.” He next considers two questions. What makes government legitimate, “since no man has a natural authority over his fellow, and force creates no right”? Answering this first question in terms of a convention freely entered into, Rousseau then poses the second problem—how to form an association “in which each, while uniting himself with all, may still obey himself alone, and remain as free as before.” This, he says, is “the fundamental problem of which the Social Contract provides the solution.”
+
+The solution involves more than republican government, popular sovereignty, and a participation of the individual through voting and representation. It introduces the conception of the general will, through which alone the freedom of each individual is to be ultimately preserved. Like Kant’s universal law of freedom, the general will ordains what each man would freely will for himself if he adequately conceived the conditions of his freedom. “In fact,” says Rousseau, “each individual, as a man, may have a particular will contrary or dissimilar to the general will which he has as a citizen. His particular interest may speak to him quite differently from the common interest.” Nevertheless, under conditions of majority rule, the members of the minority remain free even though they appear to be ruled against their particular wills.
+
+> When a measure is submitted to the people, the question is “whether it is in conformity with the general will, which is their will. Each man, in giving his vote, states his opinion on that point; and the general will is found by counting votes. When, therefore, the opinion that is contrary to my own prevails, this proves neither more nor less than that I was mistaken, and that what I thought to be the general will was not so. If my particular opinion had carried the day, I should have achieved the opposite of what was my will; and it is in that case that I should not have been free. This presupposes, indeed, that all the qualities of the general will still reside in the majority; when they cease to do so, whatever side a man may take, liberty is no longer possible.
+
+J. S. MILL sees the same problem from the opposite side. Constitutional government and representative institutions are indispensable conditions of political liberty. Where Aristotle regards democracy as the type of constitution most favorable to freedom because it gives the equality of citizenship to all free-born men, Mill argues for universal suffrage to give equal freedom to all men, for all are born equal. But neither representative government nor democratic suffrage is sufficient to guarantee the liberty of the individual and his freedom of thought or action.
+
+Such phrases as “self-government” and “the power of the people over themselves” are deceptive. “The ‘people’ who exercise the power,” Mill writes, “are not always the same people with those over whom it is exercised; and the ‘self-government’ spoken of is not the government of each by himself, but of each by all the rest. The will of the people, moreover, practically means the will of the most numerous or the most active part of the people; the majority, or those who succeed in making themselves accepted as the majority.”
+
+To safeguard individual liberty from the tyranny of the majority, Mill proposes a single criterion for social control over the individual, whether by the physical force of law or the moral force of public opinion. “The sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection.... The only part of the conduct of anyone, for which he is amenable to society, is that which concerns others. In the part which merely concerns himself, his independence is, of right, absolute. Over himself, over his own body and mind, the individual is sovereign.”
+
+Mill’s conception of individual liberty at first appears to be negative—to be freedom from externally imposed regulations or coercions. Liberty increases as the sphere of government diminishes; and, for the sake of liberty, that government governs best which governs least, or governs no more than is necessary for the public safety.
+
+> There is a sphere of action,” Mill writes, “in which society, as distinguished from the individual, has, if any, only an indirect interest; comprehending all that portion of a person’s life and conduct which affects only himself, or if it also affects others, only with their free, voluntary, and undeceived consent and participation. When I say only himself,” Mill continues, “I mean directly and in the first instance; for whatever affects himself, may affect others through himself.... This, then, is the appropriate region of human liberty.
+
+But it is the positive aspect of freedom from governmental interference or social pressures on which Mill wishes to place emphasis. Freedom from government or social coercion is freedom for the maximum development of individuality—freedom to be as different from all others as one’s personal inclinations, talents, and tastes dispose one and enable one to be. “It is desirable,” Mill writes, “that in things which do not primarily concern others, individuality should assert itself.” Liberty is undervalued as long as the free development of individuality is not regarded as one of the principal ingredients of human happiness and indispensable to the welfare of society. “The only freedom which deserves the name,” Mill thinks, “is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs, or impede their efforts to obtain it”; for, “in proportion to the development of his individuality, each person becomes more valuable to himself, and is therefore capable of being more valuable to others. There is a greater fullness of life about his own existence, and when there is more life in the units there is more in the mass which is composed of them.”
+
+Mill’s praise of liberty as an ultimate good, both for the individual and for the state, finds a clearly antiphonal voice in the tradition of the great books. Plato, in the *Republic*, advocates political regulation of the arts, where Mill, even more than Milton before him, argues against censorship or any control of the avenues of human expression. But the most striking opposition to Mill occurs in those passages in which Socrates deprecates the spirit of democracy because of its insatiable desire for freedom. That spirit, Socrates says, creates a city “full of freedom and frankness, in which a man may do and say what he likes... Where such freedom exists, the individual is clearly able to order for himself his own life as he pleases.”
+
+The democratic state is described by Socrates as approaching anarchy through relaxation of the laws or through utter lawlessness. Under such circumstances there will be the greatest variety of individual differences. It will seem “the fairest of states, being like an embroidered robe which is spangled with every sort of flower.” But it is a state in which liberty has been allowed to grow without limit at the expense of justice and order. It is “full of variety and disorder, and dispensing a sort of equality to equals and unequals alike.”
+
+---
+
+## OUTLINE OF TOPICS
+
+1.  **Natural freedom and political liberty**
+    1a. The birthright of freedom
+    1b. The independence of men and the autonomy of sovereigns in a state of nature or anarchy
+    1c. The relation of liberty to free will: the conceptions of liberty as freedom from interference and freedom for personal development
+    1d. The supremacy of law as a condition of political liberty
+    1e. The restriction of freedom by justice: the distinction between liberty and license
+    1f. The freedom of equals under government: the equality of citizenship
+    1g. The juridical protection of liberties: bills of rights; the separation of powers
+    1h. Civil liberty under diverse forms of government
+
+2.  **The issues of civil liberty**
+    2a. Freedom of thought and expression: the problem of censorship
+    2b. Liberty of conscience and religious freedom
+    2c. Freedom in the sphere of economic enterprise: free trade; freedom from governmental restrictions
+    2d. Economic dependence as a limitation of civil liberty: economic slavery or subjection
+
+3.  **Moral or spiritual freedom**
+    3a. Human bondage, or the dominance of the passions
+    3b. Human freedom or the rule of reason: freedom through knowledge of the truth
+    3c. Virtue as the discipline of free choice: freedom as the determination of the will by the moral law of practical reason
+    3d. Freedom from conflict and freedom for individuality as conditions of happiness
+
+4.  **The metaphysics of freedom**
+    4a. The relation of human liberty to chance and contingency
+    4b. The opposites of freedom: causality or necessity, nature, and law
+
+5.  **The theology of freedom**
+    5a. Man’s freedom in relation to fate or to the will of God
+    5b. Man’s freedom and God’s knowledge
+    5c. Man’s freedom and God’s grace: the freedom of the children of God
+    5d. The divine freedom: the independence or autonomy of infinite being; divine choice
+
+6.  **Liberty in history**
+    6a. The historical significance of freedom: stages in the realization of freedom; the beginning and end of the historical process
+    6b. The struggle for civil liberty and economic freedom: the overthrow of tyrants, despots, and oppressors
+    6c. The struggle for sovereign independence against the yoke of imperialism or colonial subjugation
+
+---
+
+## REFERENCES
+
+To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4 Homer**: *Iliad*, BK II [265-283] 12d, the number **4** is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12.
+
+**PAGE SECTIONS**: When the text is printed in one column, the letters a and b refer to the upper and lower halves of the page. For example, in **53 James**: *Psychology*, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters a and b refer to the upper and lower halves of the left-hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of the page. For example, in **7 Plato**: *Symposium*, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.
+
+**AUTHOR’S DIVISIONS**: One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., *Iliad*, BK II [265-283] 12d.
+
+**BIBLE REFERENCES**: The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows: e.g., OLD TESTAMENT: *Nehemiah*, 7:45—(D) II *Esdras*, 7:46.
+
+**SYMBOLS**: The abbreviation “esp” calls the reader's attention to one or more especially relevant parts of a whole reference; “passim” signifies that the topic is discussed intermittently rather than continuously in the work or passage cited.
+
+For additional information concerning the style of the references, see the *Explanation of Reference Style*; for general guidance in the use of *The Great Ideas*, consult the *Preface*.
+
+### 1. Natural freedom and political liberty
+
+#### 1a. The birthright of freedom
+- **18 Augustine**: *City of God*, BK XIX, CH 15, 521a-c
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 96, A 4, 512d-513c
+- **20 Aquinas**: *Summa Theologica*, PART I-II, Q 94, A 5, REP 3, 224d-225d
+- **26 Shakespeare**: *Julius Caesar*, ACT I, SC II [90-99], 570b
+- **32 Milton**: *Paradise Lost*, BK XII [63-110], 320b-321b
+- **35 Locke**: *Civil Government*, CH VI, 36a-42a
+- **37 Fielding**: *Tom Jones*, 53b-d
+- **38 Montesquieu**: *Spirit of Laws*, BK XV, CH 7, 109b-d
+- **38 Rousseau**: *Inequality*, 357a-d / *Social Contract*, BK I, 387c-390d passim
+- **42 Kant**: *Science of Right*, 401b-402a; 420d-421a; 421c-d
+- **43 DECLARATION OF INDEPENDENCE**: [1-15], 1b
+- **44 Boswell**: *Johnson*, 363c-364a
+- **46 Hegel**: *Philosophy of Right*, PART I, par 57, 26b-27a; par 66, 29a-c; ADDITIONS, 36, 122b-c / *Philosophy of History*, INTRO, 171c-172b
+
+#### 1b. The independence of men and the autonomy of sovereigns in a state of nature or anarchy
+- **15 Tacitus**: *Histories*, BK IV, 271a-b
+- **23 Hobbes**: *Leviathan*, PART I, 84c-87b; PART II, 99b-c; 113d-115a; 159c
+- **30 Bacon**: *Advancement of Learning*, 20c-d
+- **31 Spinoza**: *Ethics*, PART IV, PROP 37, SCHOL 2, 435b-436a
+- **35 Locke**: *Civil Government*, CH II-VI, 25d-42a passim, esp CH II, SECT 14, 28b-c; CH VII, SECT 87, 44a-b; CH IX, SECT 123, 53c-d; SECT 128, 54b-c; CH XI, SECT 136-137, 56c-57b; CH XII, SECT 145, 58d-59a; CH XIX, SECT 211, 73d-74a
+- **38 Montesquieu**: *Spirit of Laws*, BK I, 2b-d; BK VIII, 52a; BK XXVI, 221c-d
+- **38 Rousseau**: *Inequality*, 342c-345c; 352a; 353c-355b passim; 356c-357a / *Political Economy*, 369a-b; 374c-d / *Social Contract*, BK I, 393b-c; BK II, 398a-b; BK III, 419a-b
+- **41 Gibbon**: *Decline and Fall*, 237c-d
+- **42 Kant**: *Pure Reason*, 222b-c / *Science of Right*, 402c; 408c-d; 433c-434d; 435c-436a; 452a-d
+- **46 Hegel**: *Philosophy of Right*, PART III, par 194, 66c-d; par 333-334, 109b-c / *Philosophy of History*, INTRO, 171c-172b; PART IV, 317d-318a
+- **54 Freud**: *Civilization and Its Discontents*, 780d
+
+#### 1c. The relation of liberty to free will: the conceptions of liberty as freedom from interference and freedom for personal development
+- **23 Hobbes**: *Leviathan*, PART I, 59b; 86c-d; PART II, 112d-113d
+- **24 Rabelais**: *Gargantua and Pantagruel*, BK I, 65c-66b
+- **32 Milton**: *Paradise Lost*, BK II [246-257], 116b / *Areopagitica*, 394b-395b; 408a-b
+- **35 Locke**: *Civil Government*, CH IV, SECT 21, 29d; CH VI, SECT 57-63, 36d-38c / *Human Understanding*, BK II, CH XXI, SECT 7-27, 180a-184c passim; SECT 57, 193b-c; SECT 73, 198c-199c
+- **35 Hume**: *Human Understanding*, SECT VIII, DIV 73, 483c-484a
+- **38 Montesquieu**: *Spirit of Laws*, BK XI, 69a-b; BK XII, 85a; BK XXVI, 223c
+- **38 Rousseau**: *Political Economy*, 370b-d / *Social Contract*, BK I, 393a-c; BK IV, 426c-d
+- **42 Kant**: *Intro. Metaphysic of Morals*, 386d-387a,c
+- **43 Mill**: *Liberty*, 272d-273b; 293b-323a,c passim, esp 312b-c
+- **44 Boswell**: *Johnson*, 161a-b
+- **46 Hegel**: *Philosophy of Right*, PART III, par 121, 43d; par 260, 82a-83a; par 299, 99c-100b; ADDITIONS, 117, 135d-136a; 155-156, 142a-b; 158, 142d; 177, 147d
+- **50 Marx**: *Capital*, 237a
+
+#### 1d. The supremacy of law as a condition of political liberty
+- **5 Euripides**: *Suppliants* [429-441], 262a-b
+- **6 Herodotus**: *History*, BK VII, 233c-d
+- **6 Thucydides**: *Peloponnesian War*, BK I, 396c-d; BK III, 436d-438b esp 438a-b
+- **9 Aristotle**: *Ethics*, BK V, CH 6 [1134b24-c17], 382a-c passim / *Politics*, BK III, CH 6 [1279a8-22], 476b-c; BK IV, CH 4 [1292a4-37], 491b-d; BK V, CH 9 [1310a25-36], 512c
+- **12 Aurelius**: *Meditations*, BK I, SECT 14, 254b-c
+- **31 Spinoza**: *Ethics*, PART IV, PROP 73, DEMONST, 446c
+- **35 Locke**: *Civil Government*, CH IV, SECT 21, 29d; CH VI, SECT 56-63, 36d-38c; CH IX, SECT 124-131, 53d-54d; CH XI, SECT 135-139, 55d-58a; CH XVIII, SECT 202, 71d-72a; SECT 206, 72c
+- **38 Montesquieu**: *Spirit of Laws*, BK VI, 34d; BK XI, 69a-b; BK XII, 85a-c; BK XV, 109a-b; BK XXVI, 223c
+- **38 Rousseau**: *Inequality*, 323d-324a; 355a-b; 356b-c / *Political Economy*, 370b-371c; 375b-c / *Social Contract*, BK I, 393b-c
+- **39 Smith**: *Wealth of Nations*, BK V, 308b-c; 314d-315a,c
+- **41 Gibbon**: *Decline and Fall*, 96c-d; 161c-162a
+- **42 Kant**: *Pure Reason*, 114b-d / *Science of Right*, 398c-399c; 401c-402a; 436c-d / *Judgement*, 586c
+- **43 DECLARATION OF INDEPENDENCE**: [1-47], 1a-2a passim; [72-79], 2b
+- **43 CONSTITUTION OF THE U.S.**: PREAMBLE, 11a,c; AMENDMENTS, V-VII, 17b-d; XIV, SECT 1, 18d
+- **43 FEDERALIST**: NUMBER 1, 30a-c; NUMBER 37, 118d-119b; NUMBER 53, 167d-168b; NUMBER 57, 177d-178a
+- **43 Mill**: *Liberty*, 267b,d-274a / *Representative Government*, 339d-340c
+- **46 Hegel**: *Philosophy of Right*, PART I, par 93, 36a-b; PART III, par 194, 66c-d; par 208, 69c; par 265, 84b; par 286, 96c-97a; ADDITIONS, 129, 137c; 135, 138c / *Philosophy of History*, INTRO, 170c-172b; 173a-175c; 180c-181a; PART II, 271d-272d; PART IV, 321a; 342b-d; 345a-b; 364b-c
+
+#### 1e. The restriction of freedom by justice: the distinction between liberty and license
+- **6 Thucydides**: *Peloponnesian War*, BK I, 396c-d; BK II, 436d-438b
+- **7 Plato**: *Republic*, BK II, 314d-315d; BK IV, 349a-d / *Laws*, BK III, 674c-676c
+- **9 Aristotle**: *Politics*, BK V, CH 9 [1310a25-36], 512c; BK VI, CH 4 [1318b38-1319a5], 522c; [1319b27-32], 523b
+- **12 Epictetus**: *Discourses*, BK I, CH 12, 119a-c
+- **14 Plutarch**: *Lycurgus*, 44d-45b
+- **15 Tacitus**: *Annals*, BK III, 57b-58d
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 96, A 4, 512d-513c
+- **23 Hobbes**: *Leviathan*, PART I, 86c-87b; PART II, 113b-116b; 138c
+- **27 Shakespeare**: *Measure for Measure*, ACT I, SC III [120-134], 176b-c; SC IV [7-54], 177b-d
+- **31 Spinoza**: *Ethics*, PART IV, PROP 37, SCHOL 2, 435b-d; PROP 73, DEMONST, 446c
+- **32 Milton**: *Sonnets*, XII, 65a-b / *Areopagitica*, 384a-386a
+- **35 Locke**: *Toleration*, 12c-13b; 17c-18c / *Civil Government*, CH II, SECT 4-6, 25d-26c
+- **38 Montesquieu**: *Spirit of Laws*, BK III, 10a; BK VIII, 51a-52c; BK XI, 68b,d-69c; BK XII, 92b-c
+- **38 Rousseau**: *Inequality*, 324a-b / *Social Contract*, BK I, 393b-c; BK II, 396d-398b
+- **39 Smith**: *Wealth of Nations*, BK I, 140b
+- **40 Gibbon**: *Decline and Fall*, 622d-623c; 653a
+- **42 Kant**: *Science of Right*, 398c-399c
+- **43 Mill**: *Liberty*, 271c-d; 297a-b; 302d-323a,c passim
+- **44 Boswell**: *Johnson*, 422c
+- **46 Hegel**: *Philosophy of Right*, INTRO, par 29, 19a-b; PART III, par 319, 105b-106c; ADDITIONS, 127, 137b; 145, 140b / *Philosophy of History*, PART IV, 321a; 328b; 342b-d
+- **54 Freud**: *Civilization and Its Discontents*, 780c-781a
+
+#### 1f. The freedom of equals under government: the equality of citizenship
+- **5 Euripides**: *Suppliants* [399-462], 261d-262b
+- **6 Herodotus**: *History*, BK III, 107c-108d; BK VII, 232d-233d; 238c
+- **6 Thucydides**: *Peloponnesian War*, BK II, 396c-d; BK VI, 519c-520d
+- **7 Plato**: *Laws*, BK III, 674c-676c
+- **9 Aristotle**: *Ethics*, BK V, CH 6 [1134b24-c17], 382a-c / *Politics*, BK III, CH 1, 471b,d-472c; CH 6 [1278b30-1279a22], 476a-c; CH 16-17, 485b-487a passim; BK IV, CH 4 [1291b30-38], 491a-b; CH 10 [1295a17-23], 495a-b; BK V, CH 9 [1310a25-36], 512c; BK VI, CH 2 [1317b40-a16], 520d
+- **12 Aurelius**: *Meditations*, BK I, SECT 14, 254b-c
+- **15 Tacitus**: *Annals*, BK VI, 97b-c
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 81, A 3, REP 2, 430c-431d
+- **23 Hobbes**: *Leviathan*, PART II, 114c-115a; 150c-151a; 156b-c
+- **31 Spinoza**: *Ethics*, PART IV, PROP 37, SCHOL 2, 435b-436a; PROP 73, DEMONST, 446c
+- **35 Locke**: *Civil Government*, CH IV, SECT 21, 29d; CH VII, SECT 94, 46a-c; CH XI, SECT 136-139, 56c-58a
+- **38 Montesquieu**: *Spirit of Laws*, BK V, 19a-d; BK VI, 34d, BK VIII, 52a-b; BK XI, 68b,d-69c; 71d
+- **38 Rousseau**: *Inequality*, 326b-327a; 359a-b / *Social Contract*, BK I, 396d-398b; 405a-c
+- **40 Gibbon**: *Decline and Fall*, 90d-92a esp 91b
+- **42 Kant**: *Science of Right*, 398c-399c; 400b,d-402a,c; 408c-409c; 436c-d; 438b; 450d-452a
+- **43 ARTICLES OF CONFEDERATION**: IV [17-36], 5b-c
+- **43 CONSTITUTION OF THE U.S.**: PREAMBLE, 11a,c; ARTICLE IV, SECT 2 [519-521], 16a; AMENDMENTS, XIII-XV, 18c-19b; XIX, 19d
+- **43 FEDERALIST**: NUMBER 80, 236a-b
+- **43 Mill**: *Representative Government*, 354b-355b; 365b-366a / *Utilitarianism*, 460a-c; 467a; 474d-476a
+- **46 Hegel**: *Philosophy of History*, PART I, 213b; PART II, 271d-272d; 276a-d; PART IV, 362d-363a
+
+#### 1g. The juridical protection of liberties: bills of rights; the separation of powers
+- **7 Plato**: *Laws*, BK III, 671b-672c
+- **14 Plutarch**: *Lycurgus*, 34d-35d
+- **35 Locke**: *Civil Government*, CH XII, SECT 143, 58c-d; CH XVIII, SECT 202, 71d-72a
+- **38 Montesquieu**: *Spirit of Laws*, BK XI, 69a-75b; BK XII, 84b,d-86d
+- **40 Gibbon**: *Decline and Fall*, 24b; 27a-b; 522c-523a,c
+- **41 Gibbon**: *Decline and Fall*, 81c-d; 403b-404c
+- **42 Kant**: *Science of Right*, 451a-d
+- **43 ARTICLES OF CONFEDERATION**: IV [17-36], 5b-c; V [74]-VI [93], 6a-b
+- **43 CONSTITUTION OF THE U.S.**: PREAMBLE, 11a,c; ARTICLE I, SECT 3 [81-95], 12a-b; SECT 6 [143-154], 12c-d; SECT 9 [267-275], 13d; [283-295], 13d-14a; SECT 10 [300-303], 14a; ARTICLE II, SECT 1 [331-334], 14b; ARTICLE III, SECT 3, 15d-16a; ARTICLE IV, SECT 2 [519-521], 16a; SECT 4, 16b-c; AMENDMENTS, I-X, 17a-18a; XIII, SECT 1-XIV, SECT 1, 18c-d; XV, 19b; XIX, 19d
+- **43 FEDERALIST**: NUMBER 9, 47a-d; NUMBER 21, 78d-79b; NUMBER 43, 140c-d; NUMBER 44, 144d-145a; 146c-d; NUMBER 47-51, 153c-165a passim; NUMBER 53, 167d; NUMBER 57, 177d-178a; NUMBER 58, 180d; NUMBER 63, 192c-193c; NUMBER 78-79, 229d-234d passim; NUMBER 80, 236a-b; NUMBER 81, 241a-242a passim: NUMBER 83, 245d-247a; NUMBER 84, 251a-253d
+- **43 Mill**: *Liberty*, 267d-268b / *Representative Government*, 361b; 365b-366a; 369b-370a; 401d-402b
+- **44 Boswell**: *Johnson*, 164c; 195c-d
+- **46 Hegel**: *Philosophy of History*, PART IV, 345a-b
+
+#### 1h. Civil liberty under diverse forms of government
+- **5 Euripides**: *Suppliants* [429-441], 262a-b
+- **6 Herodotus**: *History*, BK III, 107c-108c
+- **6 Thucydides**: *Peloponnesian War*, BK II, 396c-d; BK VI, 519c-520d
+- **7 Plato**: *Republic*, BK VIII, 409b-d; 412a-413a / *Laws*, BK III, 672c-676c
+- **9 Aristotle**: *Politics*, BK V, CH 9 [1310a25-36], 512c; BK VI, CH 2 [1317b40-a16], 520d; CH 4, 522a-523b passim
+- **12 Aurelius**: *Meditations*, BK I, SECT 14, 254b-c
+- **14 Plutarch**: *Lycurgus*, 44d-45b
+- **15 Tacitus**: *Histories*, BK I, 189a
+- **23 Hobbes**: *Leviathan*, PART II, 114b-115a; 150c-151a; PART IV, 273a-b
+- **32 Milton**: *Areopagitica*, 382a; 384b-388a
+- **35 Locke**: *Civil Government*, CH VII, SECT 90-94, 44d-46c
+- **38 Montesquieu**: *Spirit of Laws*, BK VI, 33a-35a; BK XI, 68b,d-75b; BK XII, 84b,d-85a; BK XV, 109a-b; BK XIX, 135a-b; 142a-146a,c
+- **38 Rousseau**: *Inequality*, 324a-b / *Social Contract*, BK III, 415b-d; 417b-c; 422a-d
+- **40 Gibbon**: *Decline and Fall*, 32c-34a,c; 617a-b; 632d-633a
+- **41 Gibbon**: *Decline and Fall*, 161c-162a; 222d-224a; 288a,c
+- **42 Kant**: *Science of Right*, 445b-c; 451b-c
+- **43 FEDERALIST**: NUMBER 8, 44c-47a passim; NUMBER 47-48, 153c-159a; NUMBER 51, 164a-165a; NUMBER 53, 167d-168b
+- **43 Mill**: *Liberty*, 267d-268b / *Representative Government*, 338d-341d; 351d-352b
+- **46 Hegel**: *Philosophy of Right*, PART III, par 299, 100a-b; ADDITIONS, 155-156, 142a-b / *Philosophy of History*, INTRO, 173a-175c
+
+### 2. The issues of civil liberty
+
+#### 2a. Freedom of thought and expression: the problem of censorship
+- OLD TESTAMENT: *Jeremiah*, 38:4-28—(D) *Jeremias*, 38:4-28
+- NEW TESTAMENT: *Matthew*, 23:29-38 / *Luke*, 11:47-51 / *Acts*, 4:1-38; 5:17-42; 16:19-24; 18:12-16; 19:19; 21:27-32 / I *Thessalonians*, 2:14-16
+- **5 Sophocles**: *Antigone* [499-511], 135b-c; [683-700], 137a
+- **5 Aristophanes**: *Acharnians* [366-384], 459c-d; [497-508], 460d-461a
+- **6 Herodotus**: *History*, BK V, 172d-173b; BK VI, 189c; BK VII, 217a
+- **6 Thucydides**: *Peloponnesian War*, BK II, 397b-c; BK III, 427a-c; BK VIII, 580b-c
+- **7 Plato**: *Protagoras*, 43b-c / *Apology*, 200a-212a,c / *Gorgias*, 259d / *Republic*, BK II-III, 320c-334b; BK IV, 344b-d; BK X, 427c-434c esp 432d-434c / *Statesman*, 601c-602c / *Laws*, BK II, 653a-658b esp 654d-656b; BK III, 675c-676b; BK VII, 719d-721a; 727c-728b; BK VIII, 732c; BK XI, 782d-783b
+- **12 Aurelius**: *Meditations*, BK I, SECT 6, 253b; SECT 14, 254b-c
+- **14 Plutarch**: *Solon*, 76a / *Timoleon*, 212b-c / *Cato the Younger*, 632d; 636b-d
+- **15 Tacitus**: *Annals*, BK I, 21b-22d; BK III, 56d-57b; BK IV, 67c; 72b-73a; BK VI, 87c-88d; BK XIV, 152d-153c; BK XVI, 180d-183a / *Histories*, BK I, 189a-b
+- **18 Augustine**: *City of God*, BK II, CH 9, 154a-c; CH 12, 155c-d; CH 14, 156c-157c; BK VIII, CH 13, 273b-d
+- **23 Hobbes**: *Leviathan*, PART II, 102d-103a; 150c-151a; PART IV, 273c-d; 274c-d
+- **25 Montaigne**: *Essays*, 260b; 270c-d; 408b-410c
+- **29 Cervantes**: *Don Quixote*, PART I, 13b-16c; 117d-119d; 185b-188c
+- **30 Bacon**: *Advancement of Learning*, 7b-c
+- **31 Descartes**: *Discourse*, PART VI, 60d-61a
+- **32 Milton**: *Areopagitica*, 381a-412b esp 384b-389a, 398a-b
+- **35 Locke**: *Human Understanding*, BK IV, CH III, SECT 20, 319b-c; CH XVI, SECT 4, 367c-368b
+- **35 Hume**: *Human Understanding*, SECT XI, DIV 102-104, 497b-498c; DIV 114, 503a-b
+- **36 Swift**: *Gulliver*, PART II, 75b
+- **38 Montesquieu**: *Spirit of Laws*, BK V, 32c-33a,c; BK XII, 89b-90c; BK XIX, 146a,c
+- **38 Rousseau**: *Social Contract*, BK IV, 425d
+- **40 Gibbon**: *Decline and Fall*, 148a; 355b-d; 668d-671b passim, esp 669b
+- **41 Gibbon**: *Decline and Fall*, 300a-b
+- **42 Kant**: *Pure Reason*, 220b-221b; 223a-c / *Science of Right*, 425c-426a
+- **43 CONSTITUTION OF THE U.S.**: AMENDMENTS, I, 17a
+- **43 FEDERALIST**: NUMBER 84, 253a-b
+- **43 Mill**: *Liberty*, 272d-293b; 297b-298b / *Representative Government*, 341a-c; 361b-362c; 418c
+- **44 Boswell**: *Johnson*, 29a-b; 86a-b; 161a-b; 221d-224a; 300c-301a esp 301a-d [fn 1]; 313d-316d; 512c-d
+- **46 Hegel**: *Philosophy of Right*, PART III, par 270, 88c-89b; par 319, 105b-106c; ADDITIONS, 184-185, 149a / *Philosophy of History*, PART I, 210d; 213d-214a; PART II, 272c-d; 279d-280b
+- **54 Freud**: *Psycho-Analytic Therapy*, 125d-127a,c / *War and Death*, 757b-c / *New Introductory Lectures*, 879b-880b; 883d
+
+#### 2b. Liberty of conscience and religious freedom
+- OLD TESTAMENT: II *Kings*, 10:18-28; 11:18; 23—(D) IV *Kings*, 10:18-28; 11:18; 23 / *Ezra*, 1; 6-7—(D) I *Esdras*, 1; 6-7 / *Nehemiah*, 2:1-9—(D) II *Esdras*, 2:1-9 / *Daniel*, 3; 6—(D) *Daniel*, 3:1-23,91-97; 6
+- APOCRYPHA: *Rest of Esther*, 16—(D) OT, *Esther*, 16 / I *Maccabees*, 1-2—(D) OT, I *Machabees*, 1-2 / II *Maccabees*, 6-8—(D) OT, II *Machabees*, 6-8
+- NEW TESTAMENT: *Matthew*, 5:11-12; 10:16-23; 23:34-38; 24:9; 26:59-66 / *Mark*, 13:9-13; 14:42-65 / *Luke*, 11:47-51; 21:12-18; 22:66-71 / *John*, 5:16-18; 7:13; 15:18-16:3 / *Acts*, 4:1-22; 5:17-18,25-42; 6:9-14; 7:54-8:3; 9:1-5,23-24; 12:1-6,18-20; 13:27-29,50; 14:5; 16:19-40; 17:5-14; 18:12-16; 28:17-29 / *Romans*, 8:35-36 / I *Corinthians*, 4:9-13; 15:9 / II *Corinthians*, 1:5-8; 11:24-26; 12:9-10 / *Galatians*, 1:8-9,13-24; 2:1-5; 4:29; 5:10-12; 6:12 / *Philippians*, 1:28-30 / I *Thessalonians*, 2:14-16 / II *Thessalonians*, 1:3-5 / II *Timothy*, 2:8-10; 3:10-12 / *Titus*, 3:10-11 / *Hebrews*, 11:35-38
+- **5 Sophocles**: *Antigone*, 131a-142d
+- **6 Herodotus**: *History*, BK IV, 137a-c; 138a-c
+- **7 Plato**: *Apology*, 204d-205c / *Laws*, BK X, 769d-771b
+- **15 Tacitus**: *Annals*, BK I, 21c-d; BK II, 44b-c; BK XV, 168a-c
+- **18 Augustine**: *City of God*, BK XIX, CH 17, 522b-523a
+- **20 Aquinas**: *Summa Theologica*, PART II-II, Q 10, AA 7-12, 431b-437d; Q 11, AA 3-4, 440b-442b; Q 12, A 2, 443b-444b
+- **22 Chaucer**: *Second Nun’s Tale* [15,826-16,021], 467b-471b
+- **23 Hobbes**: *Leviathan*, PART III, 149b-c; PART IV, 273c-d
+- **25 Montaigne**: *Essays*, 116d-117c; 208b-c; 324c-326b
+- **30 Bacon**: *New Atlantis*, 209a-b
+- **32 Milton**: *New Forcers of Conscience*, 68a-b / *Lord Gen. Cromwell*, 69a-b / *Samson Agonistes* [1334-1379], 368b-369b / *Areopagitica*, 381a-412b esp 386a-b, 388a-b, 397a-b, 402a-b, 404b, 411a-b
+- **35 Locke**: *Toleration*, 1a-22d esp 2d-3a, 18c-20c / *Human Understanding*, BK IV, CH XVI, SECT 4, 367c-368b
+- **36 Sterne**: *Tristram Shandy*, 257a-258a
+- **38 Montesquieu**: *Spirit of Laws*, BK XIX, 144c-145a; BK XXV, 211d-213d; BK XXVI, 218d-219a
+- **38 Rousseau**: *Social Contract*, BK IV, 438d-439c
+- **39 Smith**: *Wealth of Nations*, BK V, 341a-b; 345b-346c; 347d-348a
+- **40 Gibbon**: *Decline and Fall*, 12a-14a; 206b,d-232b passim, esp 211a-b; 290d-291c; 324b; 349a-c; 464b-d; 601d-603b
+- **41 Gibbon**: *Decline and Fall*, 227b-d; 285d; 333b-335a,c esp 335a,c; 480d-481a
+- **42 Kant**: *Science of Right*, 433b-c; 444a-c
+- **43 ARTICLES OF CONFEDERATION**: II, 5b
+- **43 CONSTITUTION OF THE U.S.**: ARTICLE VI [591-599], 16d; AMENDMENTS, I, 17a
+- **43 FEDERALIST**: NUMBER 1, 30a; NUMBER 51, 164b-c
+- **43 Mill**: *Liberty*, 270c-271a; 272d-274a; 276d-287b; 290a-292a; 307d-309a; 311a-312a / *Representative Government*, 341a-c; 437d-438b
+- **44 Boswell**: *Johnson*, 221d-224a; 421d; 436d-438b; 512c-d
+- **46 Hegel**: *Philosophy of Right*, PART I, par 66, 29a-c; PART III, par 270, 84d-89c; ADDITIONS, 67, 126d / *Philosophy of History*, INTRO, 193a-b; PART IV, 350d-351a; 353c-d
+- **48 Melville**: *Moby Dick*, 60b-65a
+- **50 Marx-Engels**: *Communist Manifesto*, 428b-c
+- **52 Dostoevsky**: *Brothers Karamazov*, BK V, 127b-137c passim
+
+#### 2c. Freedom in the sphere of economic enterprise: free trade; freedom from governmental restrictions
+- **35 Locke**: *Civil Government*, CH V, 30b-36a passim
+- **38 Montesquieu**: *Spirit of Laws*, BK XX, 148d-149a; 149c-d
+- **39 Smith**: *Wealth of Nations*, BK I, 42a,c; 51a-62a passim; BK II, 142d; BK IV, 182a-300d passim, esp 194a-c, 287c-288c, 291d-294a, 300a-c; BK V, 397a-c
+- **42 Kant**: *Science of Right*, 441d-443b
+- **43 Mill**: *Liberty*, 312c-315c / *Representative Government*, 348c-349a
+- **46 Hegel**: *Philosophy of Right*, PART III, par 179, 62b-c; par 235-236, 76a-c; ADDITIONS, 145, 140b / *Philosophy of History*, PART II, 277b-c; PART IV, 345a-b; 364d
+- **50 Marx**: *Capital*, 79c-81a; 83d-84a,c; 127c-146c passim, esp 130c-131a, 135d-138c, 141a-c, 144a-146c; 194a-b; 236c-248d passim, esp 241a-242a, 243d-244a; 277d-278a,c; 316d-317c; 367c-368b
+- **50 Marx-Engels**: *Communist Manifesto*, 420d; 421d-422a; 426c
+- **51 Tolstoy**: *War and Peace*, BK XII, 573a-b
+
+#### 2d. Economic dependence as a limitation of civil liberty: economic slavery or subjection
+- **9 Aristotle**: *Politics*, BK III, CH 5 [1277b34-1278a39], 475a-c; BK VII, CH 9 [1328b34-1329a1], 533b
+- **14 Plutarch**: *Poplicola-Solon*, 87a
+- **35 Locke**: *Civil Government*, CH VII, SECT 85, 43c-d
+- **38 Montesquieu**: *Spirit of Laws*, BK V, 20d-21d; BK XIII, 99b-100c
+- **38 Rousseau**: *Political Economy*, 381a-b / *Social Contract*, BK II, 405a-c
+- **40 Gibbon**: *Decline and Fall*, 144b
+- **41 Gibbon**: *Decline and Fall*, 73b
+- **42 Kant**: *Science of Right*, 436d-437c
+- **43 FEDERALIST**: NUMBER 10, 50b-51d; NUMBER 79, 233c
+- **43 Mill**: *Representative Government*, 339d-340c; 382c-d
+- **46 Hegel**: *Philosophy of Right*, PART III, par 243, 77b-c; ADDITIONS, 145, 140b / *Philosophy of History*, PART IV, 352a
+- **50 Marx**: *Capital*, 138b; 366c-368b esp 367c-368b
+- **50 Marx-Engels**: *Communist Manifesto*, 420b-d; 424c; 426b-d; 428c-429c; 434c-d
+
+### 3. Moral or spiritual freedom
+
+#### 3a. Human bondage, or the dominance of the passions
+- OLD TESTAMENT: *Genesis*, 4:1-16; 6:5,12; 8:20-22 / *Numbers*, 11:4-35—(D) *Numbers*, 11:4-34 / II *Samuel*, 11; 13—(D) II *Kings*, 11; 13 / *Proverbs*, 5:22-23
+- APOCRYPHA: *Ecclesiasticus*, 18:30-31; 23:5-6; 31:1-7,29-30—(D) OT, *Ecclesiasticus*, 18:30-31; 23:6; 31:1-7,39-40
+- NEW TESTAMENT: *Matthew*, 26:41 / *Mark*, 14:38 / *John*, 8:31-36 / *Acts*, 8:8-23 / *Romans*, 1:18-32; 5:12-6:23; 7:8-8:21 / *Galatians*, 4:1-10; 5:1,13-26 / *Philippians*, 3:18-19 / I *Timothy*, 6:9-10 / *Titus*, 3:3 / *James*, 1:12-16; 4-7 / I *Peter*, 2:11 / II *Peter*, 2 esp 2:19-20 / I *John*, 2:15-17
+- **7 Plato**: *Phaedrus*, 120b-c; 128a-129c / *Phaedo*, 224d; 232a-234c / *Gorgias*, 275d-280d / *Republic*, BK I, 296b-c; BK IV, 347d-348d; BK VIII-IX, 411d-427b / *Laws*, BK III, 669b-d / *Seventh Letter*, 801b-c; 814b
+- **9 Aristotle**: *Ethics*, BK III, CH 12 [1119a35-b18], 366a,c / *Politics*, BK III, CH 16 [1287a28-32], 485d
+- **12 Lucretius**: *Nature of Things*, BK III [59-93], 30d-31b; BK V [1113-1135], 75c-d
+- **12 Epictetus**: *Discourses*, BK I, CH 1, 105a-106c; CH 4, 109c-d; BK II, CH 18, 161a-162b; BK III, CH 15, 190d; CH 22, 195a-201a; BK IV, CH 1, 213a-223d
+- **12 Aurelius**: *Meditations*, BK II, SECT 10, 257d-258a
+- **17 Plotinus**: *Third Ennead*, TR II, CH 10, 82b / *Sixth Ennead*, TR VIII, CH 15, 304c-d
+- **18 Augustine**: *Confessions*, BK VI, par 18-26, 40d-43a; BK VII, par 27, 51d-52c; BK VIII, par 10-11, 55c-56b / *City of God*, BK IV, CH 3, 190a-c; BK XIV, CH 11, 385d-386b; CH 15, 388d-390a; BK XIX, CH 15, 521a-c / *Christian Doctrine*, BK I, CH 24, 630c-631a
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 89, A 2, REP 1, 475a-d; PART I-II, Q 9, A 2, 658d-659c; Q 10, A 3, 664d-665c
+- **20 Aquinas**: *Summa Theologica*, PART I-II, Q 72, A 2, REP 4, 112b-113a; Q 73, A 5, 123a-d; Q 77, 144d-152a esp A 2, 145d-147c
+- **21 Dante**: *Divine Comedy*, HELL, V [25-45], 7b-c
+- **22 Chaucer**: *Manciple’s Tale* [17,130-144], 490b
+- **25 Montaigne**: *Essays*, 165c-166a; 232b-c; 488b-489b
+- **27 Shakespeare**: *Hamlet*, ACT III, SC II [61-79], 49c-d / *Othello*, ACT IV, SC I, 229d-233a / *Antony and Cleopatra*, ACT III, SC XII [111-116], 335d-336a; [195-201], 336d-337a / *Winter’s Tale*, ACT II, SC III [1-192], 498c-500d
+- **30 Bacon**: *Advancement of Learning*, 66c-d; 78a-d
+- **31 Spinoza**: *Ethics*, PART III, PROP 2, SCHOL, 397c-d; PART IV, PREF-PROP 18, 422b,d-429d
+- **32 Milton**: *Paradise Lost*, BK VIII [561-594], 244b-245a; BK XII [79-110], 321a-b
+- **35 Locke**: *Human Understanding*, BK II, CH XXI, SECT 12, 180d-181a; SECT 54, 192b-c; SECT 69, 196d-197a
+- **36 Sterne**: *Tristram Shandy*, 239b
+- **38 Rousseau**: *Social Contract*, BK I, 393c
+- **46 Hegel**: *Philosophy of History*, PART I, 233b-c; PART IV, 348d-349b
+- **52 Dostoevsky**: *Brothers Karamazov*, BK VI, 164b-d
+- **54 Freud**: *War and Death*, 760d-761a
+
+#### 3b. Human freedom or the rule of reason: freedom through knowledge of the truth
+- NEW TESTAMENT: *John*, 8:31-59 / II *Corinthians*, 3:17 / *James*, 1 esp 1:25
+- **7 Plato**: *Lysis*, 16c-18b / *Phaedrus*, 120b-c; 128a-129c / *Phaedo*, 230d-234c / *Republic*, BK IV, 347d-348d; BK IX, 425c-427b / *Theaetetus*, 528c-531a / *Laws*, BK I, 650a-b; BK III, 669b-d; BK IX, 754a-b
+- **8 Aristotle**: *Topics*, BK V, CH 1 [129a10-16], 179a
+- **9 Aristotle**: *Ethics*, BK I, CH 13 [1102b13-1103a3], 348a-c; BK III, CH 12 [1119a35-b18], 366a,c / *Politics*, BK I, CH 5 [1254b33-a26], 448a-b; CH 13 [1260a4-15], 454c; BK III, CH 16 [1287a28-32], 485d
+- **12 Lucretius**: *Nature of Things*, BK II [1-61], 15a-d; BK V [1117-1120], 75d
+- **12 Epictetus**: *Discourses*, BK I, CH 12, 118d-120b; BK II, CH 1-2, 139c-141c; CH 18, 161a-162b; BK III, CH 7, 182b-184a; CH 15, 190d; CH 22, 195a-201a; BK IV, CH 1, 213a-223d; CH 7, 232c-235a
+- **12 Aurelius**: *Meditations*, BK II, SECT 5, 257b-c; SECT 16-17, 259a-d; BK III, SECT 6, 261a-c; BK IV, SECT 24, 265c-d; BK V, SECT 9, 270b-c; SECT 26, 272c; BK VIII, SECT 55, 283b-c; SECT 68-69, 284c-d; BK XI, SECT 18, 305b
+- **14 Plutarch**: *Cato the Younger*, 646b-648a
+- **17 Plotinus**: *Third Ennead*, TR I, CH 10, 82b / *Sixth Ennead*, TR VIII, CH 3, 344a-b
+- **18 Augustine**: *Christian Doctrine*, BK I, CH 24, 630c-631a; CH 34, 634b-c; BK II, CH 5-9, 659d-661c
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 81, A 3, 430c-431d; Q 83, A 1, REP 1, 436d-438a; Q 95, A 2, 507c-508a; PART I-II, Q 24, A 1, 727b-d
+- **20 Aquinas**: *Summa Theologica*, PART I-II, Q 50, A 3, 8b-9a; Q 56, A 4, 32b-33c; Q 57, A 3, REP 3, 37b-38a; Q 59, AA 2-3, 46c-48c; PART II-II, Q 183, A 4, ANS and REP 1, 627d-628d
+- **21 Dante**: *Divine Comedy*, PURGATORY, XVIII [19-75], 80a-c
+- **23 Hobbes**: *Leviathan*, PART I, 58c-d
+- **24 Rabelais**: *Gargantua and Pantagruel*, BK I, 65c-66b
+- **25 Montaigne**: *Essays*, 70a-c; 184b-d; 204d-205b
+- **27 Shakespeare**: *Hamlet*, ACT III, SC II [61-79], 49c-d / *Othello*, ACT I, SC III [322-337], 212b-c
+- **30 Bacon**: *Advancement of Learning*, 71d-72b; 78a-d
+- **31 Spinoza**: *Ethics*, PART IV, PROP 67-73, 444d-447a; PART V, 451a-463d esp PROP 3-4, 453a-d, PROP 20, SCHOL, 457b-458a, PROP 42, 463b-d
+- **32 Milton**: *Sonnets*, XII, 65a-b / *Paradise Lost*, BK XII [79-110], 321a-b / *Areopagitica*, 404a-b; 409b-410a
+- **35 Locke**: *Civil Government*, CH VI, SECT 56-63, 36d-38c passim / *Human Understanding*, BK II, CH XXI, SECT 46-54, 189d-192c; SECT 69, 196d-197a
+- **38 Rousseau**: *Social Contract*, BK I, 393c
+- **41 Gibbon**: *Decline and Fall*, 300b
+- **42 Kant**: *Fund. Prin. Metaphysic of Morals*, 282b-283d / *Practical Reason*, 296a-d / *Pref. Metaphysical Elements of Ethics*, 378
+- **44 Boswell**: *Johnson*, 92b-c
+- **46 Hegel**: *Philosophy of History*, INTRO, 160c-161c; PART II, 279d-280b; PART IV, 315a; 348d-349b; 350a-b; 361b-c
+- **54 Freud**: *Psycho-Analytic Therapy*, 126a-127a,c / *General Introduction*, 625a-d / *Ego and Id*, 702c-d; 715c-716a / *New Introductory Lectures*, 838c-839b
+
+#### 3c. Virtue as the discipline of free choice: freedom as the determination of the will by the moral law of practical reason
+- **9 Aristotle**: *Ethics*, BK II, CH 6 [1106b36-1107a6], 352c; BK III, CH 1-2, 355b,d-358a
+- **18 Augustine**: *City of God*, BK IV, CH 3, 190c; BK XIV, CH 11, 386b; BK XIX, CH 20, 523d-524a; BK XXII, CH 30, 617c-618a
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 83, A 2, ANS and REP 3, 438a-d
+- **20 Aquinas**: *Summa Theologica*, PART II-II, Q 183, A 4, ANS, 627d-628d
+- **21 Dante**: *Divine Comedy*, PURGATORY, XVIII [19-75], 80a-c; XXVII, 94c-96a esp [139-142], 96a; PARADISE, XXI [73-90], 154a
+- **32 Milton**: *Areopagitica*, 391a-392a; 394b-395b
+- **42 Kant**: *Fund. Prin. Metaphysic of Morals*, 275b / *Practical Reason*, 302a-d; 307d-314d; 331a-b; 332a-334b; 342a-c / *Pref. Metaphysical Elements of Ethics*, 367d-368a; 378a-b / *Intro. Metaphysic of Morals*, 386b-387a,c; 390b,d-391a / *Science of Right*, 420d-421a / *Judgement*, 571c-572a
+- **46 Hegel**: *Philosophy of Right*, INTRO, par 29, 19a-b; PART I, par 105-114, 40a-42b; PART III, par 149, 56b; ADDITIONS, 95, 132b / *Philosophy of History*, INTRO, 171a-c; PART IV, 328a; 362d-363a
+- **52 Dostoevsky**: *Brothers Karamazov*, BK VI, 164a-165b
+
+#### 3d. Freedom from conflict and freedom for individuality as conditions of happiness
+- **6 Thucydides**: *Peloponnesian War*, BK II, 398a-c
+- **7 Plato**: *Lysis*, 16c-18a / *Gorgias*, 275d-276b / *Republic*, BK I, 295d-296c
+- **9 Aristotle**: *Politics*, BK III, CH 9 [1280b32-34], 477d-478a
+- **12 Lucretius**: *Nature of Things*, BK V [1-54], 61a-d
+- **12 Epictetus**: *Discourses*, BK I, CH 1, 105a-106c; CH 4, 108d-110a; CH 12, 118d-120b; CH 18, 124a-125a; BK II, CH 1-2, 138b,d-141c; BK III, CH 22, 195a-201a; CH 24, 203c-210a; BK IV, CH 1-2, 213a-224b; CH 4, 225a-228a; CH 6-7, 230b-235a
+- **12 Aurelius**: *Meditations*, BK X, SECT 12, 298c-d
+- **18 Augustine**: *Confessions*, BK VIII, par 10-30, 55c-61c / *City of God*, BK XIX, CH 20, 523d-524a; BK XXII, CH 30, 617c-618a
+- **20 Aquinas**: *Summa Theologica*, PART II-II, Q 182, A 1, REP 2, 620b-621d
+- **22 Chaucer**: *Manciple’s Tale* [17,109-123], 490a-b
+- **24 Rabelais**: *Gargantua and Pantagruel*, BK I, 65c-66b
+- **25 Montaigne**: *Essays*, 109a; 318a-319b; 469a-470a; 486b-489b
+- **29 Cervantes**: *Don Quixote*, PART II, 379d-380a
+- **35 Locke**: *Human Understanding*, BK II, CH XXI, SECT 52-53, 191d-192b
+- **42 Kant**: *Pref. Metaphysical Elements of Ethics*, 378c-379a
+- **43 Mill**: *Liberty*, 269b-c; 272d-274a; 293b-302c / *Utilitarianism*, 451d-452a
+- **46 Hegel**: *Philosophy of Right*, ADDITIONS, 118, 136a-b; 158, 142d / *Philosophy of History*, PART II, 276a-d; PART IV, 320c-321a; 364d
+- **51 Tolstoy**: *War and Peace*, BK V, 221b-d; BK XI, 577a-578b; BK XV, 605b-d; BK XV, 630c-631a
+- **53 James**: *Psychology*, 199b-202a
+- **54 Freud**: *Origin and Development of Psycho-Analysis*, 9a-b; 20a-d / *General Introduction*, 593c; 623d-625d; 633d-634d; 635c
+
+### 4. The metaphysics of freedom
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 19, A 3, 110b-111c; A 8, 116a-d; A 10, 117d-118b; Q 22, A 2, REP 4, 128d-130d; A 4, 131c-132b; Q 59, A 3, 308b-309a; Q 83, 436c-440b; PART I-II, Q 6, A 1, REP 3, 644d-646a; Q 10, 662d-666a,c; Q 13, A 6, 676c-677b; Q 17, 686b,d-693d esp A 6, 690b-d; Q 21, A 4, REP 2, 719d-720a,c
+- **31 Spinoza**: *Ethics*, PART I, DEF 7, 355b; PROP 17, 362b-363c; PROP 32-33, 367a-369a; APPENDIX, 369b-372d; PART II, PROP 48-49, 391a-394d; PART III, 395a-d; DEF 1-3, 395d-396a; PROP 1-3, 396a-398c; PART IV, PREF, 422b,d-424a; DEF 8, 424b-c; PROP 23, 430c-d; PROP 66-73, 444c-447a; PART V, 451a-463d esp PREF, 451a-452c, PROP 40-42, 462c-463d
+- **42 Kant**: *Pure Reason*, 133a; 140b,d-143a; 164a-172c esp 169c-170a, 170c-171a; 190c-d; 234c-235a / *Fund. Prin. Metaphysic of Morals*, 264d-265a; 279b,d-287d / *Practical Reason*, 291a-293c esp 292a-293b; 296a-d; 307d-314d esp 309d, 310b-311d; 331c-337a,c; 340a-342d; 351b-352c / *Intro. Metaphysic of Morals*, 390b,d-391a / *Judgement*, 463a-467a; 571c-572a; 587d-588a; 606d-607c; 609b-610a
+- **46 Hegel**: *Philosophy of Right*, PART II, par 139, 48d-49b / *Philosophy of History*, 153a-369a,c esp INTRO, 156d-190b, 203a-206a,c, PART IV, 368d-369a,c
+- **51 Tolstoy**: *War and Peace*, EPILOGUE II, 688a-696d
+
+#### 4a. The relation of human liberty to chance and contingency
+- **7 Plato**: *Republic*, BK X, 439b-441a,c / *Laws*, BK IV, 679a-b
+- **9 Aristotle**: *Ethics*, BK III, CH 3 [1112a18-b12], 358a-c
+- **12 Lucretius**: *Nature of Things*, BK II [251-293], 18b-d
+- **15 Tacitus**: *Annals*, BK III, 49c; BK IV, 69a-b; BK VI, 91b-d
+- **17 Plotinus**: *Third Ennead*, TR I, CH 8-10, 81d-82b
+- **18 Augustine**: *City of God*, BK V, CH 9, 213b-215c
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 82, A 2, 432d-433c; Q 83, A 1, 436d-438a; Q 116, A 1, 592d-593d
+- **21 Dante**: *Divine Comedy*, PARADISE, XVII [13-42], 132b-c
+- **23 Machiavelli**: *Prince*, CH XXV, 35a-b
+- **42 Kant**: *Intro. Metaphysic of Morals*, 392d-393c
+- **46 Hegel**: *Philosophy of Right*, INTRO, par 15, 16a-b; PART III, par 206, 68d-69b; ADDITIONS, 12, 118a-c / *Philosophy of History*, PART IV, 368d-369a,c
+- **48 Melville**: *Moby Dick*, 158b-159a
+
+#### 4b. The opposites of freedom: causality or necessity, nature, and law
+- **8 Aristotle**: *Metaphysics*, BK IX, CH 5 [1047b35-1048a24], 573b-c
+- **9 Aristotle**: *Ethics*, BK III, CH 3 [1112a18-b12], 358a-c
+- **12 Lucretius**: *Nature of Things*, BK II [251-260], 18b
+- **15 Tacitus**: *Annals*, BK IV, 69a-b; BK VI, 91b-d
+- **17 Plotinus**: *Third Ennead*, TR I, CH 4, 79d-80a; CH 8-10, 81d-82b
+- **18 Augustine**: *City of God*, BK V, CH 9-10, 213b-216c
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 19, AA 3-9, 110b-117d passim; Q 41, A 2, 218c-219d; Q 47, A 1, REP 1, 256a-257b; Q 59, A 3, 308b-309a; Q 62, A 8, REP 2, 323c-324a; Q 83, A 1, 436d-438a; Q 103, A 1, REP 1,3, 528b-529a; Q 115, A 6, ANS, 591d-592d; PART I-II, Q 10, 662d-666a,c; Q 13, A 6, 676c-677b
+- **20 Aquinas**: *Summa Theologica*, PART I-II, Q 50, A 3, 8b-9a; Q 71, A 4, ANS and REP 3, 108b-109a
+- **21 Dante**: *Divine Comedy*, HELL, VII [61-96], 10b-c; PURGATORY, XVI [52-114], 77b-78a
+- **22 Chaucer**: *Troilus and Cressida*, BK IV, STANZA 138-154, 106b-108b / *Nun’s Priest’s Tale* [15,236-256], 456b-457a
+- **23 Hobbes**: *Leviathan*, PART II, 113b-c; PART III, 165c
+- **25 Montaigne**: *Essays*, 216c-219a
+- **31 Spinoza**: *Ethics*, PART I, DEF 7, 355b; PROP 17, SCHOL, 362c-363c; APPENDIX, 369b-372d
+- **32 Milton**: *Paradise Lost*, BK III [80-134], 137a-138a
+- **35 Locke**: *Human Understanding*, BK II, CH XXI, SECT 7-27, 180a-184c
+- **35 Hume**: *Human Understanding*, SECT VIII, 478b-487a
+- **38 Rousseau**: *Inequality*, 337d-338a
+- **42 Kant**: *Pure Reason*, 133a; 140b,d-143a; 164a-171a; 234c-235a / *Fund. Prin. Metaphysic of Morals*, 264d-265a; 279b,d-287d esp 283d-285a / *Practical Reason*, 292a-293b; 296a-d; 301d-302d; 307d-314d esp 310b-311d; 331c-337a,c / *Intro. Metaphysic of Morals*, 386b-387a,c; 390b / *Judgement*, 463a-467a; 571c-572a; 587a-588a; 607c; 609b-610a
+- **44 Boswell**: *Johnson*, 392d-393a; 549c
+- **46 Hegel**: *Philosophy of Right*, PART II, par 139, 48d-49b; PART III, par 186-187, 64d-65c; ADDITIONS, 90, 130b-d / *Philosophy of History*, INTRO, 160c-161c; 171b; 186b-c; PART I, 236a-c
+- **48 Melville**: *Moby Dick*, 158b-159a; 209b; 237a
+- **50 Marx**: *Capital*, 7b-c; 42a
+- **51 Tolstoy**: *War and Peace*, BK VII, 303d-304b; BK IX, 342a-344b; BK X, 389a-391c; BK XI, 469a-472b; BK XIII, 563a-564c; BK XIV, 588a-590c; EPILOGUE I, 645a-650c; EPILOGUE II, 688a-696d
+- **53 James**: *Psychology*, 84a-94b passim, esp 87b-90b; 291a-295b esp 291a-b; 823a-826a esp 825b-826b [fn 2]
+- **54 Freud**: *Origin and Development of Psycho-Analysis*, 13c / *General Introduction*, 454b-c; 462d; 486d
+
+### 5. The theology of freedom
+
+#### 5a. Man’s freedom in relation to fate or to the will of God
+- OLD TESTAMENT: *Genesis*, 3; 4:5-7 / *Exodus*, 4:21; 7-14 esp 7:3, 10:1, 14:17 / *Deuteronomy*, 11:26-28; 30 esp 30:15, 30:19-20 / *Joshua*, 11:19-20; 24:14-24—(D) *Josue*, 11:19-20; 24:14-24 / I *Kings*, 8:57-58—(D) III *Kings*, 8:57-58 / *Job*, 3:23; 12:14-25; 34:29 / *Psalms*, 119:36; 139:15-16; 141:4—(D) *Psalms*, 118:36; 138:15-16; 140:4 / *Proverbs*, 21:1 / *Ecclesiastes*, 3:14-15 / *Isaiah*, 14:24-27; 63:17; 64:8—(D) *Isaias*, 14:24-27; 63:17; 64:8 / *Malachi*, 4:6—(D) *Malachias*, 4:6
+- APOCRYPHA: *Rest of Esther*, 13:8-18—(D) OT, *Esther*, 13:8-18 / *Wisdom of Solomon*, 7:16—(D) OT, *Book of Wisdom*, 7:16 / *Ecclesiasticus*, 15:11-20—(D) OT, *Ecclesiasticus*, 15:11-21
+- NEW TESTAMENT: *Matthew*, 20:1-16; 23:37; 26:39 / *John*, 6:44,64-65,70-71; 10:26-29; 12:37-40; 13:18-27—(D) *John*, 6:44,65-66,71-72; 10:26-29; 12:37-40; 13:18-27 / *Acts*, 4:27-28; 7:51-53; 13:48; 17:24-27 esp 17:26 / *Romans*, 8:28-9:24; 11:1-10 / I *Corinthians*, 7:21-23; 9:16-23; 12 / *Ephesians*, 1:3-12; 2:8-10; 4:7-14 / *Philippians*, 2:13 / II *Thessalonians*, 2:11-14—(D) II *Thessalonians*, 2:10-13 / II *Timothy*, 1:9 / *James*, 4:13-15
+- **4 Homer**: *Iliad*, BK VI [342-358], 43c-d; BK XIX [74-94], 137d-138a; BK XXIV [507-551], 176c-177a / *Odyssey*, BK XVIII [117-150], 285b-c
+- **5 Sophocles**: *Oedipus the King*, 99a-113a,c esp [1297-1415], 111b-112b / *Oedipus at Colonus*, 114a-130a,c esp [258-291], 116c-d, [960-999], 123b-c / *Philoctetes* [169-200], 183d-184a; [1316-1347], 193d-194a
+- **5 Euripides**: *Helen* [711-721], 304d-305a / *Electra* [1168-1359], 337d-339a,c / *Heracles Mad* [1255-1357], 376a-d
+- **6 Herodotus**: *History*, BK I, 7b-8c; 20a-22a; BK II, 77a-b; BK III, 98b-99a; BK VII, 218b-220b; BK IX, 291b-c
+- **7 Plato**: *Republic*, BK X, 439b-441a,c / *Laws*, BK I, 650a-b; BK IV, 679a-b; BK X, 765d-769c esp 767c-768b
+- **8 Aristotle**: *Metaphysics*, BK XII, CH 10 [1075a12-24], 605d-606a
+- **12 Epictetus**: *Discourses*, BK I, CH 12, 118d-120b; BK II, CH 8, 147b; BK III, CH 22, 197c-198b; CH 24, 209c-210a; BK IV, CH 1, 218d-219c; CH 3, 224d; CH 7, 233d
+- **12 Aurelius**: *Meditations*, BK III, SECT 11, 262a-b; BK VI, SECT 42-46, 278a-d; BK X, SECT 5, 296d
+- **13 Virgil**: *Aeneid*, BK III [492-505], 160b-161a; BK IV [333-361], 176a-177a
+- **14 Plutarch**: *Coriolanus*, 188d-189c / *Sulla*, 370c-371b
+- **15 Tacitus**: *Annals*, BK IV, 69a; BK VI, 91b-d
+- **17 Plotinus**: *Third Ennead*, TR II-III, 82c-97b
+- **18 Augustine**: *Confessions*, BK I, par 14, 12a-b / *City of God*, BK V, CH 9-10, 213b-216c
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 19, A 8, 116a-d; Q 22, A 2, REP 4-5, 128d-130d; Q 23-24, 132b-143c; Q 83, A 1, REP 2-4, 436d-438a; Q 103, A 5 esp REP 3, 531b-532b; AA 7-8, 533b-534b; Q 105, AA 3-5, 540c-543b; Q 116, 592d-595c; PART I-II, Q 6, A 1, REP 3, 644d-646a; A 4, REP 1, 647b-648a; Q 9, A 6, 662a-d; Q 10, A 4, 665d-666a,c; Q 21, A 4, REP 2, 719d-720a,c
+- **21 Dante**: *Divine Comedy*, HELL, VII [61-96], 10b-c; PURGATORY, XVI [52-114], 77b-78a; XVIII [1-75], 79d-80c; PARADISE, I [94-142], 107b-d; III [64-90], 110a-b; XVII [13-45], 132b-c
+- **22 Chaucer**: *Troilus and Cressida*, BK IV, STANZA 138-154, 106b-108b
+- **23 Machiavelli**: *Prince*, CH XXV, 35a-b
+- **23 Hobbes**: *Leviathan*, PART II, 113b-c; PART IV, 272b-c
+- **25 Montaigne**: *Essays*, 515a; 520b-d
+- **27 Shakespeare**: *Hamlet*, ACT III, SC II [220-223], 51b / *King Lear*, ACT I, SC II [128-164], 249a-b
+- **29 Cervantes**: *Don Quixote*, PART II, 408c
+- **31 Descartes**: *Objections and Replies*, 141b
+- **31 Spinoza**: *Ethics*, PART I, APPENDIX, 369b-372d
+- **32 Milton**: *Paradise Lost*, BK III [80-134], 137a-138a; BK V [224-245], 180a-b; [506-543], 186a-187a; BK VI [169-188], 200a; BK VII [139-173], 220a-221a; BK IX [342-375], 254b-255b; BK X [615-640], 287b-288b / *Samson Agonistes* [667-709], 354a-355a / *Areopagitica*, 394b-395b
+- **35 Locke**: *Civil Government*, CH II, SECT 6, 26b-c
+- **41 Gibbon**: *Decline and Fall*, 230b
+- **42 Kant**: *Practical Reason*, 334a-335c
+- **44 Boswell**: *Johnson*, 549c
+- **46 Hegel**: *Philosophy of History*, INTRO, 161d-162a
+- **48 Melville**: *Moby Dick*, 159a; 396b; 409b-410b
+- **51 Tolstoy**: *War and Peace*, BK XI, 481d; BK XIII, 553b; EPILOGUE I, 650b-c; EPILOGUE II, 675a-677b; 680b-c; 684b-d
+- **54 Freud**: *Interpretation of Dreams*, 246c-247d / *General Introduction*, 582a-b
+
+#### 5b. Man’s freedom and God’s knowledge
+- OLD TESTAMENT: *Psalms*, 139:15-16—(D) *Psalms*, 138:15-16
+- APOCRYPHA: *Ecclesiasticus*, 42:19—(D) OT, *Ecclesiasticus*, 42:19 / *Susanna*, 13:42-43—(D) OT, *Daniel*, 13:42-43
+- NEW TESTAMENT: *Acts*, 2:23 / *Romans*, 8:28-30 / *Ephesians*, 1:4-12 / I *Peter*, 1:2,19-20
+- **12 Aurelius**: *Meditations*, BK VI, SECT 44, 278b-c
+- **18 Augustine**: *City of God*, BK V, CH 9-10, 213b-216c; BK XXII, CH 1, 587a-b
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 14, A 13, 86d-88c; Q 22, A 2, REP 4, 128d-130d; Q 23-24, 132b-143c; Q 86, A 4, ANS, 463d-464d; PART II-II, Q 40, A 3, REP 1, 794c-795a
+- **21 Dante**: *Divine Comedy*, PARADISE, XVII [13-42], 132b-c
+- **22 Chaucer**: *Troilus and Cressida*, BK IV, STANZA 138-154, 106b-108b / *Nun’s Priest’s Tale* [15,236-256], 456b-457a
+- **23 Hobbes**: *Leviathan*, PART IV, 271b
+- **25 Montaigne**: *Essays*, 342a
+- **32 Milton**: *Paradise Lost*, BK III [80-134], 137a-138a; BK V [224-245], 180a-b; BK X [1-62], 274b-275b
+- **41 Gibbon**: *Decline and Fall*, 230b
+- **44 Boswell**: *Johnson*, 173c; 392d-393a
+
+#### 5c. Man’s freedom and God’s grace: the freedom of the children of God
+- OLD TESTAMENT: *Proverbs*, 1:20-33
+- NEW TESTAMENT: *John*, 1:1-18 esp 1:12-13; 6:44,65-66; 8:31-36 / *Acts*, 13:14-52; 15:1-11 / *Romans* passim, esp 3:1-8:21, 11:1-10 / I *Corinthians*, 6:11-12; 7:21-23; 8:9-13; 9:1-5,19-21; 10:23-29 / II *Corinthians*, 3:17; 6:1-2 / *Galatians*, 2:4; 4:1-5:4; 5:13,18,22-24 / *Ephesians*, 1:3-12; 2:4-22 / *Philippians*, 2:12-13 / *Colossians*, 1:12-13 / *Titus*, 2:11-14; 3:3-7 / *James*, 1:25; 2:10-12 / I *Peter*, 2:15-16 / *Revelation*, 3:20—(D) *Apocalypse*, 3:20
+- **18 Augustine**: *Confessions*, BK IX, par 1, 61c-d / *City of God*, BK X, CH 32, 319d-322a,c; BK XXII, CH 1, 587a-b; CH 30, 617c-618a
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 23, A 3, REP 3, 134b-135a; AA 5-6, 135d-138c; A 8, 140a-141a; Q 62, A 3, REP 2, 319c-320b; A 4, ANS, 320b-321b; Q 83, A 2, CONTRARY, 438a-d; Q 95, A 1, REP 3,5, 506b-507c; PART I-II, Q 5, A 5, REP 1, 640b-641a; Q 9, A 6, REP 3, 662a-d
+- **20 Aquinas**: *Summa Theologica*, PART I-II, Q 108, A 1, ANS and REP 2, 331a-332b; Q 109, A 2, 339c-340b; Q 111, A 2, 352d-353d; Q 113, A 3, 362c-363c; A 5, 364b-365a; PART II-II, Q 183, A 4, REP 1, 627d-628d
+- **21 Dante**: *Divine Comedy*, PURGATORY, I [1-84], 53a-54a; XXVII, 94c-96a esp [139-142], 96a; PARADISE, III [64-90], 110a-b; VII [64-84], 115d-116a; XXI [52-75], 138d-139a
+- **31 Descartes**: *Meditations*, IV, 91a-b
+- **31 Spinoza**: *Ethics*, BK IV, PROP 68, SCHOL, 445a-b
+- **32 Milton**: *Paradise Lost*, BK III [1024-1033], 133b; BK IV [56-415], 136b-144b esp [130-134], 138a, [227-238], 140b; BK XI [1-21], 299a-b; [251-262], 304b-305a
+- **33 Pascal**: *Provincial Letters*, 154b-159a
+- **42 Kant**: *Pure Reason*, 238b
+- **46 Hegel**: *Philosophy of Right*, PART II, par 140, 50a / *Philosophy of History*, PART III, 310d-311a
+
+#### 5d. The divine freedom: the independence or autonomy of infinite being; divine choice
+- OLD TESTAMENT: *Exodus*, 33:19 / *Psalms*, 135:6—(D) *Psalms*, 134:6 / *Isaiah*, 14:24-25; 46:9-13—(D) *Isaias*, 14:24-25; 46:9-12 / *Jeremiah*, 4:28—(D) *Jeremias*, 4:28 / *Daniel*, 4:4-37—(D) *Daniel*, 4
+- NEW TESTAMENT: *Matthew*, 20:1-16 / *John*, 5:21 / *Romans*, 8:28-9:26 esp 9:15-18 / I *Corinthians*, 12:7-18 / *Ephesians*, 1:9-11 / *Philippians*, 2:12-13 / II *Timothy*, 1:8-10 / *James*, 1:18
+- **4 Homer**: *Odyssey*, BK XIV [441-445], 264c
+- **5 Aeschylus**: *Agamemnon* [1017-1034], 63a
+- **8 Aristotle**: *Metaphysics*, BK V, CH 5 [1015a9-16], 536a; BK XII, CH 6-7, 601b-603b; CH 10 [1075a12-16], 605d
+- **12 Epictetus**: *Discourses*, BK II, CH 13, 188c-d; BK IV, CH 6, 230c-d
+- **17 Plotinus**: *Sixth Ennead*, TR VIII, 342d-353d
+- **18 Augustine**: *Confessions*, BK VII, par 6-7, 44d-45d; BK XII, par 18, 103a-b; BK XIII, par 5, 111d; par 12, 113b-d; par 19, 115c-d / *City of God*, BK V, CH 10, 215c-216c; BK XII, CH 17, 353a-354a; BK XXI, CH 7-8, 565d-568d; BK XXII, CH 2, 587b-588a; CH 30, 617d-618a
+- **19 Aquinas**: *Summa Theologica*, PART I, Q 7, AA 1-2, 31a-32c; Q 9, A 1, 38c-39c; Q 19, AA 3-5, 110b-113c; A 10, 117d-118b; Q 22, A 3, REP 3, 130d-131c; Q 23, A 5, REP 3, 135d-137d; A 6, REP 3, 137d-138c; Q 25, A 2, 144c-145b; AA 5-6, 147d-150a; Q 46, A 1, REP 9-10, 250a-252d; Q 47, A 1, REP 1, 256a-257b; Q 61, A 2, REP 1, 315c-316a; Q 104, A 3, 537b-d; Q 105, A 1, REP 2, 538d-539c
+- **20 Aquinas**: *Summa Theologica*, PART I-II, Q 93, A 4, REP 1, 218b-d; PART III, Q 21, A 1, ANS, 823d-824d; PART III SUPPL, Q 91, A 1, REP 2, 1016b-1017c
+- **23 Hobbes**: *Leviathan*, PART II, 113b-c
+- **30 Bacon**: *Advancement of Learning*, 38a
+- **31 Descartes**: *Objections and Replies*, 228a-c
+- **31 Spinoza**: *Ethics*, PART I, DEF 6-7, 355b; PROP 17, 362b-363c; PROP 32-35, 367a-369a; APPENDIX, 369b-372d
+- **32 Milton**: *Paradise Lost*, BK VII [139-173], 220a-221a / *Samson Agonistes* [300-329], 346a-b
+- **33 Pascal**: *Pensées*, 654, 292b
+- **35 Locke**: *Human Understanding*, BK II, CH XXI, SECT 50-51, 191b-c
+- **35 Berkeley**: *Human Knowledge*, SECT 57, 423d-424a; SECT 106, 433c-d
+- **42 Kant**: *Fund. Prin. Metaphysic of Morals*, 265b-c esp 265b,d [fn 1] / *Practical Reason*, 321b-c; 324d-325a; 325d; 328b; 342c / *Intro. Metaphysic of Morals*, 393c
+- **46 Hegel**: *Philosophy of History*, INTRO, 160c-161a
+- **51 Tolstoy**: *War and Peace*, EPILOGUE II, 684c-d
+
+### 6. Liberty in history
+
+#### 6a. The historical significance of freedom: stages in the realization of freedom; the beginning and end of the historical process
+- **6 Herodotus**: *History*, BK I, 23a-b; 38b-c; BK V, 175b; BK VI, 207b-208c; BK VII, 233a-b; 238b-c
+- **6 Thucydides**: *Peloponnesian War*, BK I, 353c-d
+- **7 Plato**: *Laws*, BK III, 663d-677a
+- **15 Tacitus**: *Annals*, BK II, 51b-c
+- **20 Aquinas**: *Summa Theologica*, PART I-II, Q 108, A 1, 331a-332b
+- **40 Gibbon**: *Decline and Fall*, 24c; 32c-34a,c esp 33c-d; 51c; 90d-91a; 475a; 521c-523a,c esp 522d-523a; 523d-524a
+- **41 Gibbon**: *Decline and Fall*, 161c-162a; 202c-d; 300a-b; 452d-453a,c
+- **43 Mill**: *Liberty*, 267d-268b; 271d-272a / *Representative Government*, 339a-341d; 346a-c / *Utilitarianism*, 475d
+- **46 Hegel**: *Philosophy of Right*, INTRO, par 4, 12d; PART I, par 57, 26b-27a; PART III, par 340-360, 110b-114a,c; ADDITIONS, 36, 122b-c / *Philosophy of History*, 153a-369a,c esp INTRO, 156d-190b, 203a-206a,c, PART I, 207a-209a, 219d-221a, 230a-c, 235d-236c, 245d-246c, 251c, 257a-258a, PART II, 259a-260c, 263d-267a, 268b-274a, PART III, 286c-287a, 303c-307b, 310d-311d, PART IV, 315a, 319b-321c, 331d-333d, 348a-c, 350a-c, 360c-365c, 368d-369a,c
+- **50 Marx**: *Capital*, 35b-c
+
+#### 6b. The struggle for civil liberty and economic freedom: the overthrow of tyrants, despots, and oppressors
+- OLD TESTAMENT: I *Kings*, 12:1-25—(D) III *Kings*, 12:1-25 / II *Kings*, 9:1-10:11; 11; 21:18-26—(D) IV *Kings*, 9:1-10:11; 11; 21:18-26 / II *Chronicles*, 10—(D) II *Paralipomenon*, 10
+- **6 Herodotus**: *History*, BK III, 120b-c; BK IV, 124a-d; BK V, 167a-b; 171c-175b; 177d-180a; BK VI, 193b-c; 201a-b; 208d-209b; BK VII, 243b-c
+- **6 Thucydides**: *Peloponnesian War*, BK I, 353c; BK VI, 523c-524d; BK VIII, 564a-593a,c esp 582a-583c, 585d-586b, 587a-589a, 590a-c
+- **7 Plato**: *Seventh Letter*, 813d-814d
+- **9 Aristotle**: *Politics*, BK V, CH 10, 512d-515d / *Athenian Constitution*, CH 5, 554d-555a; CH 13-20, 558b-562b; CH 33-41, 568b-572a passim
+- **14 Plutarch**: *Solon*, 64b,d-77a,c / *Poplicola*, 77a-86a,c / *Poplicola-Solon*, 86a-87d / *Coriolanus*, 174b,d-193a,c / *Timoleon*, 195a-213d esp 206d / *Pelopidas*, 232a-246a,c / *Caesar*, 600a-604d / *Cato the Younger*, 620a-648a,c esp 643a-644b / *Agis*, 648b,d-656d / *Tiberius Gracchus*, 671b,d-681a,c esp 678b-d / *Caius Gracchus*, 681b,d-689a,c / *Demetrius*, 728b-729d / *Antony*, 752a-755c / *Marcus Brutus*, 802b,d-824a,c / *Aratus*, 826a-846a,c
+- **15 Tacitus**: *Annals*, BK XI, 104a-c; BK XII, 112a-113b; 115d-116b; 117a; BK XV, 169a-176b / *Histories*, BK I, 195a-201c esp 197a-c
+- **26 Shakespeare**: *2nd Henry VI*, ACT IV, SC II-X, 52d-64d / *Richard III*, ACT V, SC III [237-270], 146b-c / *Julius Caesar*, 568a-596a,c esp ACT I, SC III [72-130], 573b-d, ACT III, SC I, 580b-583c
+- **27 Shakespeare**: *Coriolanus*, 351a-392a,c
+- **32 Milton**: *Lord Gen. Fairfax*, 68b-69a / *Lord Gen. Cromwell*, 69a-b
+- **38 Montesquieu**: *Spirit of Laws*, BK III, 9d-10a; BK V, 29a; BK VIII, 54b-c
+- **38 Rousseau**: *Inequality*, 324a-b / *Social Contract*, BK III, 402c-d
+- **39 Smith**: *Wealth of Nations*, BK III, 170c-173b; BK V, 345b-d; 347d-353a
+- **40 Gibbon**: *Decline and Fall*, 29c-d; 39c-40a; 60b-61a; 71b-76a esp 72c-73c; 144a-d; 449d-450a
+- **41 Gibbon**: *Decline and Fall*, 92d; 166a-167d; 192c-193c; 333d-335a,c; 562b-566c esp 562b-d; 574b-582b; 586c-588a
+- **43 FEDERALIST**: NUMBER 9, 47a-c; NUMBER 26, 92a-94b passim; NUMBER 45, 147d-148a; NUMBER 46, 151a-153b passim; NUMBER 84, 252b-c
+- **43 Mill**: *Liberty*, 267d-268b / *Representative Government*, 331a; 346a-c; 352a-b; 367b-c
+- **44 Boswell**: *Johnson*, 383b
+- **46 Hegel**: *Philosophy of History*, PART II, 275b-276a; PART III, 295d-296c; PART IV, 342a-346c; 359a; 364a-c
+- **50 Marx**: *Capital*, 7b
+- **50 Marx-Engels**: *Communist Manifesto*, 415a-416c; 419b,d; 423b-425b; 429c-433d
+- **51 Tolstoy**: *War and Peace*, EPILOGUE I, 667b-669d
+
+#### 6c. The struggle for sovereign independence against the yoke of imperialism or colonial subjugation
+- OLD TESTAMENT: *Exodus*, 1-15 / *Deuteronomy*, 26:5-8 / *Judges*, 3-7 esp 6:8-9; 13:1-5; 14-16 / *Jeremiah*, 41—(D) *Jeremias*, 41
+- APOCRYPHA: *Judith*—(D) OT, *Judith* / I *Maccabees*, 1-9—(D) OT, I *Machabees*, 1-9 / II *Maccabees*, 1-10—(D) OT, II *Machabees*, 1-10
+- **6 Herodotus**: *History*, 1a-314a,c esp BK I, 2b-6c, 10a-12b, 16c-20b, 23a-b, 33a-b, 35a-40b, 42c-43b, 45b-48a, BK III, 118b-123d, BK IV, 145a-149a, BK V, 162b-163d, 170c-180c, 181b-185a, BK VI, 186a-191d, 193b-194d, 202c-205a, 207b-208c, BK VII-IX, 214a-314a,c
+- **6 Thucydides**: *Peloponnesian War*, 349a-593a,c esp BK I, 353b-d, 355a-b, 378c-380a, BK II, 389a-b, BK III, 417a-446a,c, BK IV, 461b-463a, 468a-469b, 469d-470b, 478d-479b, BK V, 482d-483a, 504c-508a,c, BK VI, 519c-520d, 528d-534d
+- **14 Plutarch**: *Timoleon*, 195a-213d / *Aristides*, 262b,d-276a,c / *Flamininus*, 303a-310d / *Demosthenes*, 695a-703b
+- **15 Tacitus**: *Annals*, BK I, 16b-21b; BK II, 44d-45a; BK III, 54b-56b; BK IV, 76a-77c; 82d-83c; BK XII, 112a-114c; 117c-d; BK XIV, 148d-151b / *Histories*, BK I, 191a-b; BK IV, 269b-277d; 283b-292b; BK V, 294c-302a
+- **23 Machiavelli**: *Prince*, CH V, 8a-c
+- **26 Shakespeare**: *1st Henry VI*, 1a-32a,c / *2nd Henry VI*, 33a-68d / *3rd Henry VI*, 69a-104d / *Henry V*, 532a-567a,c
+- **27 Shakespeare**: *Cymbeline*, ACT III, SC I, 463c-464c
+- **32 Milton**: *Samson Agonistes* [241-276], 344b-345b
+- **35 Locke**: *Civil Government*, CH XVI, SECT 192, 69c-d; SECT 196, 70b-c
+- **40 Gibbon**: *Decline and Fall*, 71b-d; 489d-491a; 521a-b
+- **41 Gibbon**: *Decline and Fall*, 51a-67c passim, esp 51a-54a; 217a-b; 443c-446b; 465a-466a
+- **43 DECLARATION OF INDEPENDENCE**: 1a-3b
+- **43 FEDERALIST**: NUMBER 45, 147d-148a
+- **46 Hegel**: *Philosophy of History*, PART I, 241d-242b; PART II, 274a-275a
+
+---
+
+## CROSS-REFERENCES
+
+For:
+- The problem of the freedom of the will, see **WILL** 5-6c, 8a; and for the relation of political liberty to free will, see **WILL** 5a(2), 7a.
+- The freedom of men in a state of nature or anarchy, and for the independence of sovereign states, see **GOVERNMENT** 1a; **NATURE** 2b; **STATE** 3c, 9d; **WAR AND PEACE** 1.
+- Matters relevant to political liberty or the freedom of the individual as a member of society, see **CITIZEN** 2b; **CONSTITUTION** 1, 2b, 7b; **DEMOCRACY** 4a, 4b, 5c; **GOVERNMENT** 1h; **JUSTICE** 6, 6c-6e; **LAW** 7b-7c; **MONARCHY** 1a(1), 4d-5b; **SLAVERY** 6-6d; **TYRANNY** 5-5c; and for the relation of economic to political liberty, see **DEMOCRACY** 4a(2); **LABOR** 7f; **SLAVERY** 5-5b; **WEALTH** 9d.
+- Other discussions of freedom of thought or expression, see **ART** 10b; **EDUCATION** 8c; **KNOWLEDGE** 9b; **OPINION** 5a-5b; **POETRY** 9b; **PROGRESS** 6e; **TRUTH** 8d; and for other discussions of liberty of conscience and freedom of worship, see **RELIGION** 6c(1)-6e; **THEOLOGY** 4e.
+- The moral or psychological freedom in the relation of reason and emotion, see **DESIRE** 5-6c; **EMOTION** 4-4b(2); **MIND** 9d; **SLAVERY** 7; **TYRANNY** 5d.
+- The metaphysical consideration of liberty and matters related thereto, see **CAUSE** 3; **FATE** 3; **NATURE** 2f; **NECESSITY AND CONTINGENCY** 5a, 5d(3), 5f; **WILL** 5a(3), 5c, 8a.
+- The theological consideration of liberty, see **FATE** 4; **GOD** 4e, 5f-5g, 7b, 7d, 7f; **SIN** 6a, 7; **WILL** 4b, 7c-7e(2).
+- The issue of freedom and necessity in the philosophy of history, see **FATE** 6; **HISTORY** 4a(1), 4a(3); **WILL** 7b; and for the history of man’s struggle for civil liberty and economic freedom, see **CITIZEN** 9; **LABOR** 7c-7c(3); **REVOLUTION** 5a-5c, 6a, 7; **TYRANNY** 8.
+
+---
+
+## ADDITIONAL READINGS
+
+Listed below are works not included in *Great Books of the Western World*, but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:
+
+I. Works by authors represented in this collection.
+II. Works by authors not represented in this collection.
+
+For the date, place, and other facts concerning the publication of the works cited, consult the *Bibliography of Additional Readings* which follows the last chapter of *The Great Ideas*.
+
+**I.**
+
+- **Dante**. *On World-Government or De Monarchia*, BK I, CH 12
+- **Machiavelli**. *The Discourses*
+- **Milton**. *The Readie and Easie Way to Establish a Free Commonwealth*
+- **Spinoza**. *Tractatus Theologico-Politicus* (*Theological-Political Treatise*), CH 20
+- **Locke**. *Four Letters on Toleration in Religion*, II-IV
+- **Hegel**. *The Phenomenology of Mind*, IV(B)
+- **Dostoevsky**. *The House of the Dead*
+
+**II.**
+
+- **Luther**. *A Treatise on Christian Liberty*
+- **Calvin**. *Institutes of the Christian Religion*, BK IV
+- **Suárez**. *Disputationes Metaphysicae*, XI (3), XIX, XXX (16), XXXV (5)
+- **Defoe**. *The Shortest Way with the Dissenters*
+- **Leibniz**. *New Essays Concerning Human Understanding*, BK II, CH 21
+- **Franklin**. *Dissertation on Liberty and Necessity, Pleasure and Pain*
+- **Voltaire**. *Essay on Toleration*
+  - "Liberty," "Liberty of Opinion," "Liberty of the Press," "Toleration," in *A Philosophical Dictionary*
+- **T. Reid**. *Essays on the Active Powers of the Human Mind*, IV
+- **Paine**. *Rights of Man*
+- **Burke**. *Reflections on the Revolution in France*
+- **Godwin**. *An Enquiry Concerning Political Justice*, BK II, CH 4-6
+- **Schiller**. *William Tell*
+- **Schelling**. *Of Human Freedom*
+- **Schopenhauer**. *The World as Will and Idea*, VOL I, BK IV
+- **Shelley**. *Prometheus Unbound*
+- **Byron**. *Sonnet on Chillon*
+  - *The Isles of Greece*
+- **Bentham**. *On the Liberty of the Press*
+- **Emerson**. “Self-Reliance,” in *Essays*, I
+- **J. H. Newman**. “Private Judgment,” in VOL II, *Essays and Sketches*
+- **Thoreau**. *Civil Disobedience*
+- **Whitman**. *Leaves of Grass*
+- **Lotze**. *Microcosmos*, BK I, CH 1 (4)
+- **Burckhardt**. *Force and Freedom*
+- **J. F. Stephen**. *Liberty, Equality, Fraternity*
+- **Acton**. *Essays on Freedom and Power*, CH 2-4, 9
+- **Bradley**. *Ethical Studies*, I
+- **Arnold**. “Democracy,” “Equality,” in *Mixed Essays*
+- **T. H. Green**. *The Principles of Political Obligation*, (A, I)
+  - *Prolegomena to Ethics*, BK I, CH 3
+- **Spencer**. *The Man Versus the State*
+- **R. Browning**. *Why I Am a Liberal*
+- **Lecky**. *Democracy and Liberty*
+- **Bosanquet**. *The Philosophical Theory of the State*
+- **Gide**. *The Immoralist*
+- **Santayana**. *Reason in Society*, CH 6
+- **Péguy**. *Basic Verities* (Freedom)
+- **Bury**. *A History of Freedom of Thought*
+- **Burgess**. *Reconciliation of Government with Liberty*
+- **Garrigou-Lagrange**. *God, His Existence and Nature*, PART II, CH 4
+- **Duguit**. *Souveraineté et liberté*
+- **B. Russell**. *Skeptical Essays*, XII-XIV
+- **Laski**. *Liberty in the Modern State*
+- **Whitehead**. *Adventures of Ideas*, CH 4-5
+- **Gorky**. *Forty Years—the Life of Clim Samghin*
+- **Dewey**. “The Idea of Freedom,” in *Outlines of a Critical Theory of Ethics*
+  - *The Study of Ethics*, CH 8
+  - *Characters and Events*, VOL II, BK III (14)
+  - *Experience and Education*, CH 5-6
+  - *Freedom and Culture*
+- **Croce**. *History as the Story of Liberty*
+  - “The Roots of Liberty,” in *Freedom, Its Meaning*
+- **Koestler**. *Darkness at Noon*
+- **Maritain**. “A Philosophy of Freedom,” in *Freedom in the Modern World*
+  - *Scholasticism and Politics*, CH V
+- **Becker**. *New Liberties for Old*
+- **A. J. Carlyle**. *Political Liberty*
+- **Barker**. *Reflections on Government*, CH 1-2
+- **Malinowski**. *Freedom and Civilization*
+- **Berdyaev**. *Freedom and the Spirit*
+  - *Slavery and Freedom*
+- **Hocking**. *Freedom of the Press*
+- **Simon**. *Community of the Free*, CH I

@@ -1,0 +1,1358 @@
+# Chapter 69: POETRY
+
+## INTRODUCTION
+
+THE spirit in which the great poets have read their predecessors differs remarkably from the attitude toward the past which prevails in other fields. The philosophers and scientists frequently feel assured that they can improve upon their predecessors. The poets, for the most part, wish only to do as well. Virgil’s admiration for Homer; Dante’s accolade to Virgil; Milton’s praise of Aeschylus, Sophocles, and Euripides as “the three tragic poets unequall’d yet by any”; the tributes which Cervantes and Fielding pay to the poets of antiquity—these testify that there is no battle between the modern and the ancient books of poetry.
+
+Contemporary novelists and dramatists—especially those who are proud of their innovations in the forms or materials of poetry—may constitute an exception. But they would still be the exception to a rule which can be verified for almost all the great books of poetry. Part of the reason for such unusual accord may be that, in the tradition of the great books, one book enjoys the unique distinction of having founded the science of poetry. More than that, it seems to have gained from the poets a large measure of approval, and even adherence to its principles, during a period of more than 2000 years.
+
+Not that Aristotle’s *Poetics* is without sources. They exist in Plato’s comments on the kinds of poetry; in Aristophanes’ critical weighing of Aeschylus and Euripides; and, of course, in the original inventions of Homer and the great dramatic poets, both tragic and comic. Not that the acceptance of Aristotle’s theory of poetry is unaccompanied by some dissent, as, for example, in Fielding’s quarrel with the rules about the unities of time and place. But Fielding, like Cervantes who is another close student of the *Poetics*, more frequently adopts than rejects Aristotle’s basic insights. His most rebellious protest—that the originality of creative genius cannot be bound by the laws of art or held accountable to any established critical standards—would certainly receive sympathetic consideration from the man who formulated the rules of poetry and its measures of excellence by the study of the productions of Greek genius.
+
+One way in which later poets have expressed their disagreement with the *Poetics* confirms Fielding’s insight. Those who have violated its rules and yet produced great poems have been men of exceptional genius. Where the genius has been lacking to create new forms, the violation of the rules has usually resulted in formlessness. But it is not only in the creative work of the poets that Aristotle’s principles have been put to use and tested. His influence also appears in the comments which the poets make on the nature and purpose of poetry. The terms and distinctions of the *Poetics* are reflected in the writings of Dante, Chaucer, Shakespeare, Milton, Goethe, and Melville, as well as in many essays in criticism from Horace and Demetrius to Boccaccio, Boileau, Dryden, and Pope.
+
+Socrates once complained of the wisdom of the poets. Those whom he asked about their poetry were tongue-tied. They finally resorted to the mystery of inspiration or the inscrutability of genius. “There is hardly a person present,” he tells his judges in the *Apology*, “who would not have talked better about their poetry than they did themselves.” The poets of a later age were, through benefit of Aristotle, better able to discourse analytically of their art.
+
+---
+IF WE TURN FROM the poets themselves, or rather from their poems, to the analysis of poetry—by poets or others—we find a number of major issues. On what poetry is and on the end it serves, the tradition does not seem to be either unified or harmonious. Basic disagreements begin with the ancients.
+
+_Page 401_
+
+On the question, for example, whether the poets have the same obligation to speak the truth—and the same kind of truth—as do philosophers or scientists, Plato and Aristotle seem to be opposed. On the question whether the art of poetry lies in its use of language or is primarily the craft of fiction, Aristotle’s *Poetics* and Horace’s *Art of Poetry* represent the opposite answers which have been points of departure for divergent discussions of poetry throughout the whole tradition of western thought.
+
+With regard to the second of these two questions, it may be wondered whether we are in the presence of the sort of disagreement which requires us to take one side rather than the other. The fact that Aristotle, in his *Rhetoric*, writes about poetry in a vein contrary to the theory he advances in his *Poetics*, would suggest the possibility of different but not inconsistent points of view about poetry. Unless Aristotle unwittingly contradicts himself, the rhetorical consideration of poetry is simply a different way of conceiving what is poetic.
+
+In the *Advancement of Learning*, Bacon records this difference in the meaning of poetry, which had become traditional by his time. He treats it, moreover, as the sort of difference which does not require the rejection of either alternative as incorrect. Poetry, he writes, can be “taken in two senses: in respect of words or matter. In the first sense it is but a character of style, and belongeth to the arts of speech, and is not pertinent for the present. In the latter it is (as hath been said) one of the principal portions of learning, and is nothing else but feigned history, which may be styled as well in prose as in verse.”
+
+When Bacon says that the conception of poetry as a literary style—as an art of writing in verse rather than prose—“is not pertinent for the present,” he does not reject that alternative entirely. He merely postpones it for the later section of his work in which he treats of grammar and rhetoric. The other alternative—poetry as “feigned history”—is germane to his present consideration of the kinds of learning. Just as Aristotle does not set his *Rhetoric* against his *Poetics* on the nature of poetry, so Bacon does not exclude one of these conceptions in favor of the other when he observes how different are the principles and considerations appropriate to each.
+
+These two points of view about the nature of poetry are not always treated in this way. Sometimes one or the other is taken as the primary or even the only way of approaching the subject, and then a genuine issue ensues—either with those who take the excluded point of view or with those who find it possible to embrace both. The Alexandrian and Roman critics seem to create such an issue by considering poetry largely in terms of style. Modern criticism, especially since the beginning of the 19th century, goes even further in the direction of identifying poetry with verse.
+
+When Wordsworth discusses the art of poetry in his preface to *Lyrical Ballads*, he is concerned largely with its language. His definition of poetry as “emotion recollected in tranquility” indicates his emphasis upon the lyrical aspect of even narrative poetry. When Edgar Allan Poe writes his *Poetic Principle* and Matthew Arnold his *Essays in Criticism*, each is concerned almost exclusively with lyric poetry, with that kind of poetry which is written in verse rather than prose. The poet tends to become more and more a composer of verses—so much so that the free-verse movement can appear to be a great revolution in poetry. In *The Brothers Karamazov*, Smerdyakov says, “Poetry is rubbish.” At Maria’s protest that she is very fond of poetry, he adds: “So far as it’s poetry, it’s essentially rubbish. Consider yourself, whoever talks in rhyme?”
+
+Just as the word “art” has come in popular usage to mean only painting and sculpture, so its sister-word “poetry” has also narrowed in significance. Contemporary readers who are accustomed to think of poems as lyrics and of poetry as verse may be surprised to learn that according to the significance of its Greek root, the word “poetry” can cover all the forms of art or human productivity; they are just as likely to be surprised by the reference to novels and plays, written in prose, as poems. Yet, in the tradition of the great books, novelists like Cervantes, Fielding, and Melville call themselves poets. The great books consider poetry primarily as narrative rather than lyrical, as story rather than song.
+
+_Page 402_
+
+This does not mean that they exclude the other consideration of poetry. Fielding, for example, says in one place that “poetry... demands numbers or something like numbers” (i.e., metre), but for the most part he insists that the art of the novelist or romancer lies mainly in the invention of good stories, not in the mastery of rules of prosody which apply only to poems of the lyric sort, written in verse. Speaking of “the sweet influence which melody and rhythm by nature have,” Plato may observe “what a poor appearance the tales of the poets make when stripped of the colors which music puts upon them and recited in simple prose”; but for Plato as for Aristotle the poet is a teller of tales, either in prose or in verse.
+
+Aristotle does not ignore the devices of language. In the third book of the *Rhetoric*, where he considers problems of style in all sorts of compositions, he distinguishes “poetic” from “prosaic” writing; and in the *Poetics* also he devotes a few chapters to style. But when in the latter case he deals with the language of poetry, he is not concerned with the style of any sort of composition, but only of dramatic and epic narratives. Except for a brief mention of the form of verse known as the “dithyramb,” Aristotle does not discuss the isolated lyric as a kind of poetry. He treats song and spectacle merely as embellishments of the drama. In the *Poetics* his emphasis is not upon the devices of language or the sentiments of the poet, but upon the construction of plot, the development of character, the diction and thought of the characters—in short, upon the subject matter of the poem rather than upon the feelings of the poet and the eloquence with which he expresses them.
+
+Because he regards plot as the “soul of tragedy”—and, by extension, the primary principle of all narrative poetry—Aristotle insists that “the poet or ‘maker’ should be the maker of plots rather than of verses.” He is therefore led to criticize the confusion—apparently prevalent in his day as in ours—which he thinks results from identifying the art of poetry with skill in writing verse. “Even when a treatise on medicine or natural science is brought out in verse,” he writes, “the name of poet is given by custom to the author; and yet Homer and Empedocles have nothing in common except the metre, so that it would be better to call the one poet, the other physicist rather than poet.” Just as Bacon later remarks that “a true narrative may be delivered in verse and a feigned one in prose,” so Aristotle says that “the poet and the historian differ not by writing in verse or in prose. The work of Herodotus might be put into verse, and it would still be a species of history, with metre no less than without it.”
+
+That the difference between prose and verse may affect the style of writing but not the essence of storytelling is a point which has wide acceptance among writers who call themselves poets. In the *Prologue to Melibeus*, Chaucer’s host commands him to leave off rhyming and “tell a tale in prose—you might do worse—wherein there’s mirth or doctrine good and plain.” Thinking of his *History of Don Quixote* as a species of epic poetry, Cervantes declares that “epics may be as well written in prose as in verse.”
+
+The use, by Cervantes and Fielding, of the word “history” in the title of their novels indicates the acceptance of the other point in the conception of poetry by reference to its subject matter rather than to its linguistic style. The great poets recognize that, as narratives, their works resemble histories, but they also know that the stories poets tell are, in the words of Bacon, “imaginary history.” Just as Fielding writes at length in mock justification of himself as an historian, so Melville touches upon “the plain facts, historical and otherwise,” of whale fishery, lest someone “scout at *Moby Dick* as a monstrous fable, or still worse and more detestable, a hideous and intolerable allegory.” In his chapter on the Leviathan’s tail, he says, “Other poets have warbled the praise of the soft eye of the antelope, and the lovely plumage of the bird that never alights; less celestial, I celebrate a tail.”
+
+---
+THE CONCEPTION of poetry as feigned or imaginary history seems to have a direct bearing on the question of the poet’s obligation to speak the truth. We shall return subsequently to other aspects of the comparison of poetry with history and philosophy. For the present we are concerned with the issue in the theory of poetry which arises from applying the standards of knowledge to the inventions of the poet.
+
+Bacon, like Aristotle, denies that such standards are applicable. Though he treats poetry as
+
+_Page 403_
+
+“a part of learning,” he holds that it is only restrained “in measure of words”; “in all other points,” it is “extremely licensed, and doth truly refer to the imagination; which, being not tied to the laws of matter, may at pleasure join that which nature hath severed, and sever that which nature hath joined.” Kant, on the other hand, like Plato, judges poetry in terms of its contribution to knowledge. A thing of the imagination, poetry, he maintains, serves the understanding, for it conducts “a free play of the imagination as if it were a serious business of the understanding.”
+
+Though “the poet promises merely an entertaining play with ideas,” Kant continues, “yet for the understanding there enures as much as if the promotion of its business had been his one intention.” He achieves a certain “combination and harmony of the two faculties of cognition, sensibility and understanding, which, though doubtless indispensable to one another, do not readily permit of being united without compulsion and reciprocal abatement.” In so doing, the poet, in Kant’s opinion, “accomplishes something worthy of being made a serious business, namely, the using of play to provide food for the understanding, and the giving of life to its concepts by means of the imagination.”
+
+Yet Kant and Plato do not agree in their judgment of the poet. Regarding “the poet’s promise” as “a modest one”—“a mere play with ideas is all he holds out to us”—Kant praises him for achieving more in actual performance than he promises. Plato, on the contrary, seems to think the poet promises more and achieves less. He seems to regard the poet not as assisting, but as competing with the philosopher. The reason why the poet must fail in this attempt is that he tries to do on the level of the imagination what the philosopher is better able to do on the level of reason.
+
+Both are engaged in a process of imitation—for all knowledge is imitation—but whereas the notions of the philosopher imitate the reality of the Ideas, the images of the poet imitate sensible appearances, which are themselves imitations of the Ideas or eternal Forms. Even when it is accurate or truthful, poetry must, therefore, be an inferior form of knowledge. In Plato’s terms, it is on the level of opinion, along with fancy and belief. In any case, it must submit to being judged by the same standards of accuracy as anything else which claims to be knowledge or right opinion. “Imitations,” he writes, “are not to be judged of by pleasure and false opinion. ... They are to be judged of by the standard of truth, and by no other whatever.” The competent judge of poetry must, therefore, “possess three things: he must know, in the first place, of what the imitation is; secondly, he must know that it is true; and thirdly, that it has been well executed in words and melodies and rhythms.”
+
+The issue concerning poetry and truth can be most sharply drawn between Plato and Aristotle, precisely because Aristotle thinks that poetry is a form of imitation, but that knowledge does not have the character of imitation at all. Since poetry is not a kind of knowledge, the same standards do not apply to both. “There is not the same kind of correctness,” he insists, “in poetry as in politics”—or “in medicine or any other special science.” The poet’s art is at fault if he “meant to describe the thing correctly but failed through lack of power of expression.” But if a technical error in physiology enters into his description because he meant to describe the thing “in some incorrect way (e.g., to make the horse in movement have both right legs thrown forward),” then, according to Aristotle, “his error in that case is not in the essentials of the poetic art.” The poet’s obligation is not to be truthful in such particulars but to make his whole story seem plausible. Aristotle summarizes his position in the statement of his famous rule concerning the probable and the possible. “For the purposes of poetry,” he says, “a convincing impossibility is preferable to an unconvincing possibility.”
+
+Connected with this issue concerning the kind of truth to be expected from the poet is the controversy over the purpose of poetry—to instruct or to delight, or to do both. This in turn relates to the moral problem of the influence poetry can have on human character or virtue; and to the political problem of the regulation of poetry by the state or the right of poetry to be free from such censorship. It is not surprising that Plato, conceiving poetry as he does, should banish poets from the ideal state described in the *Republic*; or that he should lay
+
+_Page 404_
+
+down specific regulations for the content of poetry in the *Laws*.
+
+At the opposite extreme are those who, like Milton and Mill, attack the principle of censorship itself—as applied to poetry as well as to other forms of communication. But the traditional defense of poetry, in essays bearing that title from the pen of Sidney and Shelley or in the writings of Chaucer, Montaigne, and Cervantes, usually tries to answer Plato by praising poetry as an instrument of moral instruction as well as of delight. Waiving the question of its effect upon morals, some, like Adam Smith, answer the sort of criticism Augustine levels against pagan poetry and theatrical presentations by holding the theatre to be a legitimate, a lawful, even a necessary means of recreation.
+
+---
+SOME OF THESE issues touch on considerations dealt with in other chapters. The problem of censorship is discussed in the chapters on ART and LIBERTY; and the theory of imitation as applied to the arts in general, useful as well as fine, is discussed in the chapter on ART. Here we are concerned with the bearing of that theory upon the nature of poetry. The difference we have observed between Plato and Aristotle concerning imitation itself does not seem to affect their use of this notion in treating works of fine art, and more particularly poetry. What Hamlet tells the players is the purpose of their play—“to hold, as 'twere, the mirror up to nature”—Aristotle says is the aim of such arts as poetry, sculpture, painting, music, and the dance, which give both instruction and delight through imitation.
+
+Within the sphere of the fine arts, the distinction of poetry from the others is usually made in terms of the medium of imitation. Poetry, according to Aristotle, imitates through the medium of language; painting and sculpture through lines, planes, colors, and shapes; music through rhythm and harmony. Whether Aristotle’s statement that “the objects of imitation are men in action” applies to poetry alone or to all the fine arts, is a question of interpretation to which opposite answers have been given. Some commentators seem to think that human action as the object of imitation specifically defines poetry, whereas music and sculpture have distinct objects as well as distinct mediums of imitation. Others hold that human action is the object of imitation common to all the arts.
+
+However this issue is resolved, the differentiation of the kinds of poetry can be made neither in terms of the object nor the medium of imitation, but only in terms of the manner. “The medium being the same and the object the same,” Aristotle writes, “the poet may imitate by narration—in which case he can either take another personality as Homer does, or speak in his own person, unchanged—or he may present all his characters as living and moving before us.”
+
+Plato makes the same distinction, pointing out that the Homeric type of poetry combines both the discourse of the poet and the discourse of his characters in dialogue. He calls stage plays pure imitations in the sense that the author never speaks directly, but tells his story entirely through the actions and speeches of the characters; whereas the type of poetry which he calls narrative as opposed to imitative may combine both methods of storytelling or may, in some extreme instances, never resort to dialogue at all.
+
+Since all storytelling is narration, and since all poetry is imitation, it seems slightly confusing to call the two major types of poetry “narration” and “imitation,” as Plato sometimes does, or “narrative” and “dramatic,” as Aristotle sometimes does. Bacon also speaks of “narrative” and “dramatic” or “representative” poetry. He defines narrative poetry as “such an exact imitation of history as to deceive, did it not often carry things beyond probability,” and dramatic poetry as “a kind of visible history, giving the images of things as if they were present, whilst history represents them as past.”
+
+The difficulties of language seem to be removed by other terms which both Plato and Aristotle use to express the main distinction. The manner of storytelling, exemplified by Homer, which either employs direct narration without dialogue or combines both, is epic poetry. That which uses dialogue alone, is dramatic.
+
+These words—“epic” and “dramatic”—may have their difficulties, too, especially for the contemporary reader, unless a number of things are remembered. First, epics and dramas may
+
+_Page 405_
+
+be written either in prose or verse. Second, the arts of theatrical representation are auxiliary to the art of the dramatic poet. The writing of a play is completely independent of its acting, “the production of spectacular effects depending,” as Aristotle says, “more on the art of the stage machinist than on that of the poet.” Third, epic poetry differs from dramatic poetry in other respects than the use of indirect discourse as well as dialogue.
+
+On this last point, Aristotle observes that all the elements of epic poetry are found in drama, whereas the dramatic form may include the embellishments of song and spectacle in addition to plot, character, thought, and diction. Even more important is his distinction of the two in terms of the unities of time, place, and action. Because it need not be limited at all in time and place, epic narration may have a much more complicated plot structure or even, as Aristotle says, “a multiplicity of plots.”
+
+With this understanding of the distinction between the two major types of storytelling, we can see why the great novels of Cervantes, Melville, Tolstoy, and Dostoevsky should be classified as epic poems, and were apparently so conceived by their authors, at least in the cases of Cervantes and Melville. As measured by the magnitude of its plot—its reach in time, and its scene the whole universe “from Heaven, through the world, to Hell”—Goethe’s *Faust*, even though dramatic in manner, seems to be no less epic in its structure and proportions than the poems of Homer, Virgil, Dante, and Milton. The story of a single white whale can be epic in its immensity if the storyteller, like Melville, makes it “include the whole circle of the sciences, and all the generations of whales, and men, and mastodons, past, present, and to come, with all the revolving panoramas of empire on earth, and throughout the whole universe, not excluding its suburbs.”
+
+---
+ANOTHER TRADITIONAL division in the kinds of poetry is that between the tragic and the comic. This distinction is variously expressed. Fielding sees the difference in terms of the misery or happiness to which the poet brings his principal characters in the end. Speaking of tragedy alone, Milton says that it has ever been held “the gravest, moralest, and most profitable of all other poems.” In similar vein, Marcus Aurelius praises tragedy “for reminding men of the things which happen to them and that it is according to nature for things to happen so.” He does not admit comedy to be of equal worth, though he does look with some favor upon the older forms of comedy which were “useful in reminding men to beware of insolence.”
+
+According to Aristotle, “comedy represents men as worse, tragedy as better than in actual life.” He describes the action which tragic poetry imitates as serious, adding that tragedies “through pity and fear effect the proper purgation of these emotions.” Whether comedies also arouse and purge certain emotions Aristotle does not say, for his promise to speak more fully of comic poetry is not fulfilled in the *Poetics*. Concerning the meaning of the tragic catharsis, there are questions enough.
+
+Augustine asks: “How is it that a man wants to be made sad by the sight of tragic sufferings that he could not bear in his own person? ... The more a man feels such sufferings in himself, the more he is moved by the sight of them on the stage. Now when a man suffers himself, it is called misery; when he suffers in the suffering of another, it is called pity. But how can the unreal sufferings of the stage possibly move pity?”
+
+Boswell begs Dr. Johnson to explain Aristotle’s doctrine of the purging of the passions as the purpose of tragedy. “Why, Sir,” Johnson replies, “you are to consider what is the meaning of purging in the original sense. It is to expel impurities from the body. The mind is subject to the same imperfections. The passions are the great movers of human actions; but they are mixed with such impurities, that it is necessary they should be purged or refined by means of terror and pity. For instance, ambition is a noble passion; but by seeing upon the stage, that a man who is so excessively ambitious as to raise himself by injustice is punished, we are terrified by the fatal consequences of such a passion. In the same manner a certain degree of resentment is necessary; but if we see that a man carries it too far, we pity the object of it, and are taught to moderate that passion.” Johnson’s interpretation seems to be more specific than Milton’s notion that to purge the passions by tragedy is “to temper and reduce
+
+_Page 406_
+
+them to just measure with a kind of delight, stirr’d up by reading or seeing those passions well imitated.”
+
+It may be arguable whether the difference between tragedy and comedy is well defined by reference to the nobility or vulgarity of the leading characters; by the contrast between the pride of the tragic and the wit of the comic hero; by the seriousness or lightness of the tragic and comic themes and by the passions appropriate to each. In any case it seems clear that this division of poetry crosses the other division into epic and dramatic writing. The plays of Sophocles and the *Iliad* of Homer, Aristotle observes, are tragic poetry, yet dramatic and epic respectively in manner; but from another point of view, Sophocles is to be compared with Aristophanes, for though the one writes tragedies and the other comedies, both are dramatists. In the tradition of the great books, there are comic as well as tragic epics—Chaucer’s *Troilus and Cressida*, Rabelais’ *Gargantua and Pantagruel*, Cervantes’ *Don Quixote*, Sterne’s *Tristram Shandy*, and Fielding’s *Tom Jones*—just as there are tragic and comic plays. The examination of these suggests that talk rather than action is the essence of comedy.
+
+The chief thing which Aristodemus remembers of Socrates’ discourse the morning after the banquet, in Plato’s *Symposium*, is Socrates’ success in compelling Aristophanes and Agathon “to acknowledge that the genius of comedy was the same as that of tragedy, and that the true artist in tragedy was an artist in comedy also. To this they were constrained to assent, being drowsy, and not quite following the argument.” Precisely what they assented to has never been entirely clear. On one interpretation of Socrates’ remark, examples of his point are difficult to find in the great books—except, perhaps, for the plays of Shakespeare which, in the sphere of dramatic poetry, seem to represent an equal genius for tragic and comic writing. In the sphere of epic poetry, we have only Aristotle’s reference to a lost poem of Homer’s—the *Margites*—which he says “bears the same relation to comedy that the *Iliad* and *Odyssey* do to tragedy.”
+
+According to another interpretation the insight of Socrates is that the totality of the great tragic vision tends to approximate the totality of the great comic vision. The same poem may be both tragic and comic because the poet has been able to see far enough into the nature of things to reveal a world which is at once dreadful and ridiculous. In this sense *Moby Dick* may be both a tragedy and a comedy. “Though in many of its aspects,” Melville writes, “this visible world seems formed in love, the invisible spheres were formed in fright”; but he also remarks that “there are certain queer times and occasions ... when a man takes this whole universe for a vast practical joke.”
+
+---
+IN THE SCIENCE of poetics, certain principles or rules seem to apply to all the major forms of poetry, where others relate specifically to epic or dramatic writing, or to tragedy or comedy. Aristotle implies that his most general formulations hold not only for long poems, but for dithyrambic poetry as well. If that is so, they should be capable of extension to other forms of lyric poetry, such as, for example, the sonnets of Shakespeare and Milton, and Milton’s odes and elegies. Yet the two principal elements in Aristotle’s analysis of poetry—plot and character—seem, superficially at least, to belong peculiarly to narrative poems, long or short. Whether they are present in any comparable manner in the structure of a lyric, or whether the form and content of lyric poetry requires an analysis peculiar to itself, are among the most difficult questions in the theory of poetry.
+
+In the tradition of the great books, there seems to be, as already observed, general agreement about the basic rules for writing narrative poetry. Since these rules aim to direct the artist toward the achievement of excellence, they are also the basic principles of criticism. The science of poetics is at once an organon of production and a canon of criticism.
+
+The simple rules such as those of plot construction afford an example. A well constructed plot must have a beginning, middle, and end. It must observe certain unities (at least of action, if not of time and place). Certain effects, it is held, can best be produced by the use of recognition scenes and reversals of fortune. Whether the events narrated are possible or impossible, the poet must at least invest them with plausibility or verisimilitude. Such rules, formulated by Aristotle and discussed by Cervantes,
+
+_Page 407_
+
+Fielding, and others, provide standards for judging whether a poem is skillfully made, as well as give directions for the attainment of skill by the poet.
+
+It may be held, of course, that the great poet works by inspiration, by a divine madness rather than by rule; that, as Theseus says in *A Midsummer Night's Dream*, “the lunatic, the lover, and the poet are of imagination all compact ... The poet's eye, in a fine frenzy rolling, doth glance from heaven to earth, from earth to heaven; and as imagination bodies forth the forms of things unknown, the poet’s pen turns them to shapes, and gives to airy nothing a local habitation and a name.” But if there is an art of poetry, then like any other art it is a thing of rules, whether or not genius needs their guidance or can be regulated by them.
+
+The pivotal question here is, Which takes precedence, the creative or the critical faculty? Does Aristotle’s rule concerning the primacy of plot derive from the greatest poems of antiquity in which he found this principle observed? Does it set up an infallible measure of excellence in narration or, on the other hand, do certain modern novels have an impeccable greatness despite their violation of this rule by the emphasis they place on the development of character rather than on the action in which the characters are involved? The rule of probability and necessity may, on the other hand, be inviolable. Not even the most original genius may be able to tell a good story without giving it poetic truth, according to the necessities of the characters he has created and the probabilities of the situations in which he places them.
+
+---
+ON THE SIDE of language, poetic theory seems to draw much from the art of rhetoric. The relation of rhetoric to poetics, the nature of rhetorical devices such as metaphor and simile, the choice among existing words or the invention of new ones, are matters dealt with in the chapter on RHETORIC as well as here. Aristotle’s treatment of these problems both in his *Rhetoric* and his *Poetics* lays the foundation for the traditional association of these two disciplines. In both, for example, he discusses the various modes of metaphor and their utility in achieving an expansion of meaning combined with a contraction of speech.
+
+This, in turn, relates to his general maxim of style which directs the writer “to be clear without being ordinary. The clearest style,” he says, “is that which uses only current or proper words,” but in order to avoid being commonplace or ordinary, it must be admixed with lofty diction—“raised above the commonplace by the employment of unusual words. ... Nothing contributes more to produce a clearness of diction that is remote from commonness than the lengthening, contraction, and alteration of words. ... Phrases which are not part of current idiom give distinction to style. ... But the greatest thing by far is to have a command of metaphor. This alone cannot be imparted by another; it is the mark of genius for to make good metaphors implies an eye for resemblances.”
+
+One part of Aristotle’s theory of style seems to be amplified by Pascal’s observation that a certain perfection is achieved by the use of those words which, if altered, would spoil the discourse. In these terms, prosaic as opposed to poetic writing does not result from the lack of a fixed metre but rather from commonplaceness or lack of distinction in language. This standard of style does not apply to poetry alone; for just as history and philosophy may be written in prose or verse, so also may they be written poetically or prosaically.
+
+Dr. Johnson’s point that poetry cannot be translated, that “the beauties of poetry cannot be preserved in any language except that in which it was originally written,” may be capable of the widest generalization. It may be extended to mean that writing which is poetic cannot be translated into any other form of words, even in the same language. A poetic sentence in English is untranslatable in this absolute sense when no alternative English phrasing is truly its equivalent. For example, it seems impossible to re-state, without loss or ruin, Shakespeare’s “Life is a tale told by an idiot, full of sound and fury, signifying nothing” or Hobbes’ “Life in a state of nature is solitary, poor, nasty, brutish, and short.”
+
+The other part of Aristotle’s theory of style, that concerning metaphors, seems to be converted by William James into a general distinction between poetic and philosophic thought, or what he calls “the splendid and the analytic”
+
+_Page 408_
+
+types of intellect. Poetic thought tends to develop the implications of an analogy without giving an explication of its grounds. This, in James’ view, explains “the abrupt transitions in Shakespeare’s thought,” which “astonish the reader by their unexpectedness, no less than delight him by their fitness.” Quoting a passage from Homer, unfathomably rich in metaphor, he says that “a man in whom all the accidents of an analogy rise up as vividly as this, may be excused for not attending to the ground of the analogy.” The two types of intellect are rarely found in conjunction—Plato, according to James, being one of the few exceptions “whose strangeness proves the rule.”
+
+---
+ON THE LEVEL of thought and knowledge, as opposed to that of language, poetry is traditionally contrasted to philosophy and history. As indicated in the chapter on HISTORY, historians like Herodotus, Thucydides, and Plutarch emphasize the difference rather than the similarity; the historian is a reporter of fact, the poet a creator of fables or fictions. The one gains credence by his display of evidence and reasons; the other, by the intrinsic plausibility of his tale. “In a good poem,” writes Hobbes, “whether it be epic or dramatic ... both judgment and fancy are required, but the fancy must be more eminent ... In a good history, the judgment must be eminent, because the goodness consists in the method, in the truth. ... Fancy has no place but only in adorning the style.”
+
+Bacon associates poetry most intimately with history, both being concerned with “individuals, circumscribed by time and place,” and differing only as one employs the imagination, the other the memory. Aristotle, on the other hand, finds poetry and philosophy more alike, at least to the extent that poetry, unlike history, “tends to express the universal,” by which he means “how a person of a certain type will on occasion speak or act, according to the law of probability or necessity.” Even if the poet “chances to take an historical subject, he is none the less a poet; for there is no reason why some events that have actually happened should not conform to the law of the probable and possible, and in virtue of that quality in them he is their poet or maker.” In this sense the historian also may turn poet. Referring to the speeches in his history, Thucydides tells us that it was his habit “to make the speakers say what was in my opinion demanded of them by the various occasions, of course adhering as closely as possible to the general sense of what they really said.”
+
+Some of the great poems, notably the *Divine Comedy*, *Paradise Lost*, and *Faust*, are frequently called philosophical for what appear to be other reasons: either because the discourse of their characters is weighted with doctrine, or because the poet himself is expressing a doctrine, not in particular speeches, nor by argument, but in the symbolism of the poem as a whole. By these criteria, Lucretius’ *On the Nature of Things* is a philosophical work, but not a philosophical poem. It is argumentative throughout, not narrative at all; it aims to be a literal rather than an allegorical statement of the truth. Bacon’s definition of allegorical poetry—as that “which represents intellectual things to the senses”—seems to characterize both the poetic aspect of philosophy and a distinctively philosophical type of poetry.
+
+Yet Aristotle’s point, that poetry and philosophy are alike, may remain valid. All poetry, certainly all the great narrative poems, the great epics and dramas, novels and plays, deal with the abiding problems of human action and the perennial themes of human thought. It is not this moral or metaphysical content, however, which makes poetry more philosophical than history. It is the poet’s treatment of such matters. In the persons and events of his story he succeeds in giving the universal a concrete embodiment. Precisely because these are only imaginary, not real particulars, they permit the abstract universal to be readily disengaged.
+
+Poets like Chaucer and Cervantes, who insist that their function is to instruct as well as to delight, do not assume the role of pedagogues or preachers. They teach, not dogmatically, but as experience does, by affording the mind the materials or occasions for insight and inference. As an artistic imitation, poetry may be better than the experience it represents. It may improve upon experience as a teacher, because, born of the poet’s mind, it is already impregnated with ideas.
+
+---
+_Page 409_
+
+## OUTLINE OF TOPICS
+
+1.  The nature of poetry: its distinction from other arts
+    1a. The theory of poetry as imitation: the enjoyment of imitation
+    1b. The object, medium, and manner of imitation in poetry and other arts
+2.  The origin and development of poetry: the materials of myth and legend
+3.  The inspiration or genius of the poet: the influence of the poetic tradition
+4.  The major kinds of poetry: their comparative excellence
+    4a. Epic and dramatic poetry
+    4b. Tragedy and comedy
+5.  Poetry in relation to knowledge
+    5a. The aim of poetry to instruct as well as to delight: the pretensions or deceptions of the poet as teacher
+    5b. Poetry contrasted with history and philosophy: the dispraise and defense of the poet
+6.  Poetry and emotion
+    6a. The expression of emotion in poetry
+    6b. The arousal and purgation of the emotions by poetry: the catharsis of pity and fear
+7.  The elements of poetic narrative
+    7a. Plot: its primacy; its construction
+    7b. The role of character: its relation to plot
+    7c. Thought and diction as elements of poetry
+    7d. Spectacle and song in drama
+8.  The science of poetics: rules of art and principles of criticism
+    8a. Critical standards and artistic rules with respect to narrative structure
+        (1) The poetic unities: comparison of epic and dramatic unity
+        (2) Poetic truth: verisimilitude or plausibility; the possible, the probable, and the necessary
+        (3) The significance of recognitions and reversals in the development of plot
+    8b. Critical standards and artistic rules with respect to the language of poetry: the distinction between prose and verse; the measure of excellence in style
+    8c. The interpretation of poetry
+9.  The moral and political significance of poetry
+    9a. The influence of poetry on mind and character: its role in education
+    9b. The issue concerning the censorship of poetry
+
+---
+_Page 410_
+
+## REFERENCES
+
+_To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4** Homer: Iliad, BK II [265-283] 12d, the number **4** is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12._
+
+_**Page Sections:** When the text is printed in one column, the letters a and b refer to the upper and lower halves of the page. For example, in **53** James: Psychology, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters a and b refer to the upper and lower halves of the left-hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of the page. For example, in **7** PLATO: Symposium, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164._
+
+_**Author’s Divisions:** One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., Iliad, BK II [265-283] 12d._
+
+_**Bible References:** The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows; e.g., OLD TESTAMENT: Nehemiah, 7:45—(D) II Esdras, 7:46._
+
+_**Symbols:** The abbreviation “esp” calls the reader’s attention to one or more especially relevant parts of a whole reference; “passim” signifies that the topic is discussed intermittently rather than continuously in the work or passage cited._
+
+_For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of The Great Ideas, consult the Preface._
+
+### 1. The nature of poetry: its distinction from other arts
+
+**7** PLATO: *Ion* 142a-148a,c / *Symposium*, 164d; 166b-167b / *Gorgias*, 280d-282b / *Republic*, BK II-III, 320d-334b; BK X, 427c-434c / *Laws*, BK II, 660a-662a
+
+**9** ARISTOTLE: *Ethics*, BK IX, CH 7 [1167b34-1168a9] 421b-c / *Politics*, BK VIII, CH 5 [1339b40-1340a19] 545c-546a / *Poetics* 681a-699a,c esp CH 1-6 681a-685a, CH 9 [1451a36-b32] 686a-c, CH 25 696d-698c
+
+**12** LUCRETIUS: *Nature of Things*, BK I [127-145] 2c-d; BK IV [1-25] 44a-b
+
+**12** EPICTETUS: *Discourses*, BK I, CH 4, 109d
+
+**17** PLOTINUS: *First Ennead*, TR III, CH 1-3 10a-11a / *Fifth Ennead*, TR IX, CH 11, 250c-d
+
+**18** AUGUSTINE: *Confessions*, BK III, par 14 16d-17a
+
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, A 9, REP 1 8d-9c
+
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 101, A 2, REP 2 267a-268a
+
+**21** DANTE: *Divine Comedy*, PURGATORY, XXIV [49-63] 90a-b; PARADISE, XXXIII [16-36] 152a
+
+**23** HOBBES: *Leviathan*, PART I, 67b-c; 72a-d
+
+**25** MONTAIGNE: *Essays*, 104d-105b; 166d-167a; 482d
+
+**26** SHAKESPEARE: *Midsummer Night's Dream*, ACT V, SC 1 [1-27] 370d-371a
+
+**27** SHAKESPEARE: *Sonnets*, LV 594c-d
+
+**29** CERVANTES: *Don Quixote*, PART I, 251b-252b
+
+**30** BACON: *Advancement of Learning*, 32d; 38c-39d; 55c-d
+
+**31** DESCARTES: *Discourse*, PART I, 43b
+
+**32** MILTON: *Samson Agonistes*, 337a-338a
+
+**33** PASCAL: *Pensées*, 33 176b
+
+**36** SWIFT: *Gulliver*, PART IV, 169a-b
+
+**37** FIELDING: *Tom Jones*, 19a-20a; 49b-50c; 189c
+
+**42** KANT: *Judgement*, 524b; 532a-536d esp 532b-d
+
+**44** BOSWELL: *Johnson*, 254c-d; 308b
+
+**46** HEGEL: *Philosophy of History*, INTRO, 153b; PART I, 254b-d; PART II, 263d-265c; 279b
+
+**47** GOETHE: *Faust*, PRELUDE [134-157] 4a-b; PART II [9695-9904] 235a-240b
+
+**49** DARWIN: *Descent of Man*, 292a
+
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 115a-c
+
+**54** FREUD: *Beyond the Pleasure Principle*, 643c
+
+### 1a. The theory of poetry as imitation: the enjoyment of imitation
+
+**5** ARISTOPHANES: *Thesmophoriazusae* [95-172] 601c-602b
+
+**7** PLATO: *Cratylus*, 105a-c / *Republic*, BK II-III, 320c-334b; BK X, 427c-434c / *Timaeus*, 443c / *Sophist*, 561b-d / *Laws*, BK II, 654a-c; 660a-662a; BK VII, 726d-728b
+
+**9** ARISTOTLE: *Politics*, BK VIII, CH 5 [1339b40-1340a19] 545c-546a / *Rhetoric*, BK I, CH 11 [1371b4-10] 615a; BK III, CH 1 [1404a20-23] 654b / *Poetics* 681a-699a,c esp CH 1-4 681a-683c, CH 6 [1450a16-20] 685a, CH 9 [1451a36-b32] 686a-c, CH 25 696d-698c
+
+**12** LUCRETIUS: *Nature of Things*, BK V [1379-1411] 79a-b
+
+**12** EPICTETUS: *Discourses*, BK I, CH 4, 109d
+
+**12** AURELIUS: *Meditations*, BK II, SECT 2 259d-260a; BK XI, SECT 10 303b-c
+
+**18** AUGUSTINE: *Confessions*, BK III, par 2-4 13c-14b
+
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, A 9, REP 1 8d-9c; PART I-II, Q 32, A 8, ANS 764c-765b
+
+**29** CERVANTES: *Don Quixote*, PART I, xiiib-c; PART II, 251d-252a
+
+**30** BACON: *Advancement of Learning*, 38c-39d
+
+**32** MILTON: *Samson Agonistes*, 337a-338a
+
+**33** PASCAL: *Pensées*, 32-33 176a-b
+
+**35** HUME: *Human Understanding*, SECT I, DIV 5, 452d-453a
+
+**36** SWIFT: *Gulliver*, PART IV, 169a-b
+
+**37** FIELDING: *Tom Jones*, 121b,d-123a
+
+**40** GIBBON: *Decline and Fall*, 94a-b
+
+**42** KANT: *Judgement*, 527b-528c
+
+**54** FREUD: *Beyond the Pleasure Principle*, 643c
+
+### 1b. The object, medium, and manner of imitation in poetry and other arts
+
+**7** PLATO: *Republic*, BK II-III, 320c-334b / *Timaeus*, 443c / *Laws*, BK II, 654a-662a passim; BK VII, 726d-728b
+
+**9** ARISTOTLE: *Politics*, BK VIII, CH 5 [1339b40-1340a19] 545c-546a / *Poetics* 681a-699a,c esp CH 1-3 681a-682c
+
+**12** AURELIUS: *Meditations*, BK XI, SECT 10 303b-c
+
+**14** PLUTARCH: *Lycurgus*, 43b-d
+
+**18** AUGUSTINE: *Confessions*, BK III, par 25-27 7a-d
+
+**23** HOBBES: *Leviathan*, PART IV, 262c
+
+**26** SHAKESPEARE: *Henry V*, PROLOGUE 532b,d
+
+**27** SHAKESPEARE: *Timon of Athens*, ACT I, SC 1 [15-50] 393b-394a / *Sonnets*, LXXXIV 599a
+
+**30** BACON: *Advancement of Learning*, 38c-39d
+
+**32** MILTON: *Samson Agonistes*, 337a-338a
+
+**36** SWIFT: *Gulliver*, PART IV, 169a-b
+
+**37** FIELDING: *Tom Jones*, 49a-50c; 121b,d-123a; 189a-191c
+
+**42** KANT: *Judgement*, 527b-528c; 557a-558b
+
+**44** BOSWELL: *Johnson*, 196d-197a
+
+**48** MELVILLE: *Moby Dick*, 335a-b
+
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK XI, 284b-d
+
+**54** FREUD: *Interpretation of Dreams*, 265c
+
+### 2. The origin and development of poetry: the materials of myth and legend
+
+**4** HOMER: *Iliad*, BK I [1-7] 3a; BK II [484-493] 14d-15a / *Odyssey*, BK I [1-10] 183a
+
+**5** AESCHYLUS: *Prometheus Bound* [442-461] 44c-d
+
+_Page 411_
+
+**5** ARISTOPHANES: *Knights* [503-546] 476b-d / *Peace* [734-818] 534c-535c / *Frogs* [871-894] 574b-c
+
+**6** HERODOTUS: *History*, BK I, 5b
+
+**7** PLATO: *Ion*, 143a / *Republic*, BK III, 324c-328b
+
+**8** ARISTOTLE: *Metaphysics*, BK I, CH 2 [982b11-19] 500d-501a
+
+**9** ARISTOTLE: *Poetics*, CH 3-5 682a-684a; CH 6 [1450a6-8] 684d-685a; CH 13 [1452b30-1453a22] 687c-688a; CH 18 [1456a16-32] 691c-d
+
+**12** LUCRETIUS: *Nature of Things*, BK V [1379-1411] 79a-b
+
+**12** AURELIUS: *Meditations*, BK XI, SECT 6 302c-303a
+
+**13** VIRGIL: *Eclogues*, IV [1-3] 14a; VI 19a-21a / *Aeneid*, BK I [1-11] 103a; [740-747] 123b; BK VII [37-44] 237a; [641-646] 254a
+
+**14** PLUTARCH: *Solon*, 76a / *Pericles*, 128d-129a
+
+**18** AUGUSTINE: *City of God*, BK XVIII, CH 13-14 478d-479d
+
+**21** DANTE: *Divine Comedy*, PARADISE, XXXIII [46-75] 156c-157a
+
+**23** HOBBES: *Leviathan*, PART IV, 262c
+
+**24** RABELAIS: *Gargantua and Pantagruel*, BK III, 190d-191a
+
+**25** MONTAIGNE: *Essays*, 362a-363b; 482d
+
+**30** BACON: *Advancement of Learning*, 32d; 38d-39a
+
+**32** MILTON: *Paradise Lost*, BK IX [1-47] 247a-248a / *Samson Agonistes*, 337a-338a
+
+**37** FIELDING: *Tom Jones*, 152a-155b; 357a-d
+
+**40** GIBBON: *Decline and Fall*, 23d-24a,c; 94a-b; 158d-159a; 476d-477a; 502d; 544c-545c; 627b-d
+
+**41** GIBBON: *Decline and Fall*, 40b-41a; 225a-c; 293c; 325d-328a,c esp 327c-d; 522b-528a,c
+
+**46** HEGEL: *Philosophy of History*, INTRO, 153b; PART I, 229b-230a; 239c-240a; 254b-d; PART II, 263d-265c
+
+**48** MELVILLE: *Moby Dick*, xib-xxa
+
+**49** DARWIN: *Descent of Man*, 569c-571b
+
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 127b-128a
+
+**54** FREUD: *Interpretation of Dreams*, 246b-c / *General Introduction*, 483b-c; 509a-513d passim / *Group Psychology*, 692a-693a / *New Introductory Lectures*, 816a-b
+
+### 3. The inspiration or genius of the poet: the influence of the poetic tradition
+
+**4** HOMER: *Iliad*, BK I [1-7] 3a; BK II [484-493] 14d-15a / *Odyssey*, BK I [1-10] 183a
+
+**5** ARISTOPHANES: *Acharnians* [665-675] 462d-463a / *Knights* [581-594] 477b / *Clouds* [314-340] 491c-492a; [562-574] 495c; [595-605] 496a / *Peace* [734-818] 534c-535c / *Birds* [1372-1409] 559b-c / *Thesmophoriazusae* [39-57] 600d-601a; [95-172] 601c-602b / *Plutus* [144-197] 630d-631b
+
+_Page 412_
+
+**7** PLATO: *Phaedrus*, 124a / *Ion* 142a-148a,c esp 144b-145c / *Symposium*, 160c-161a; 166b-167b / *Apology*, 202c-d / *Laws*, BK IV, 684b-c
+
+**9** ARISTOTLE: *Ethics*, BK IX, CH 7 [1167b34-1168a9] 421b-c / *Rhetoric*, BK III, CH 1 [1403b15-1404a39] 653b,d-654c; CH 2 [1405a7-8] 655b / *Poetics*, CH 4 [1448b24-1449a7] 682d-683a; CH 13 [1453a30-35] 688a; CH 17 [1455a21-39] 690c; CH 22 [1459a5-7] 694d
+
+**12** LUCRETIUS: *Nature of Things*, BK I [127-145] 2c-d; [921-950] 12b-c; BK IV [1-25] 44a-b
+
+**21** DANTE: *Divine Comedy*, HELL, II [7-10] 2c; IV [67-102] 6a-b; XXVI [19-24] 38a; XXX [11-12] 47c; PURGATORY, I [1-12] 53a; XXI [76]-XXII [129] 85d-87d; XXIV [49-63] 90a-b; XXVI [88-148] 93d-94c; XXIX [37-42] 98a; PARADISE, I [1-37] 106a-b; II [1-17] 107d; X [28-48] 120c-d; XVIII [82-87] 134c; XX [106-123] 140d; XXIII [55-69] 141d-142a
+
+**22** CHAUCER: *Troilus and Cressida*, BK I, STANZA 1-3 21b-22a; BK V, STANZA 256-257 153b-154a
+
+**24** RABELAIS: *Gargantua and Pantagruel*, BK I, 2d-3a,c
+
+**25** MONTAIGNE: *Essays*, 52d-53a; 104d-105b; 166d-167a; 195d-197a; 309c; 362a-363b; 455c-d; 482d; 512b-d
+
+**26** SHAKESPEARE: *Midsummer Night's Dream*, ACT V, SC 1 [1-27] 370d-371a / *Henry V*, PROLOGUE 532b,d
+
+**27** SHAKESPEARE: *Timon of Athens*, ACT I, SC 1 [19-25] 393d / *Sonnets*, C-CVII 601c-602d
+
+**29** CERVANTES: *Don Quixote*, PART I, xiia-xiiid; PART II, 251d-252a; 340b
+
+**30** BACON: *Advancement of Learning*, 55c-d
+
+**31** DESCARTES: *Discourse*, PART I, 43b
+
+**32** MILTON: *Lycidas* 27b-32a esp [1-22] 27b-28a, [64-69] 29a, [186-193] 31b-32a / *Paradise Lost*, BK I [1-26] 93b-94a; BK III [1-55] 135b-136b; BK VII [1-39] 217a-218a; BK IX [1-47] 247a-248a
+
+**36** STERNE: *Tristram Shandy*, 302a-b
+
+**37** FIELDING: *Tom Jones*, 49a-50c; 152a-155b; 189a-191c; 246a-247a; 273a-274c
+
+**40** GIBBON: *Decline and Fall*, 24a; 185b; 345b-c; 476d-477a
+
+**41** GIBBON: *Decline and Fall*, 527d-528a,c; 573a-574a
+
+**42** KANT: *Judgement*, 525c-532a esp 526a-527b, 528c-530c; 542b-543c
+
+**44** BOSWELL: *Johnson*, 455a
+
+**47** GOETHE: *Faust*, DEDICATION-PRELUDE 1a-6a esp DEDICATION 1a-b, PRELUDE [134-157] 4a-b; PART II [5573-5605] 137b-138a
+
+**49** DARWIN: *Descent of Man*, 292a
+
+**53** JAMES: *Psychology*, 686b-688a; 863a
+
+**54** FREUD: *Interpretation of Dreams*, 181a-b; 239c-240a; 246b-248c; 383d / *General Introduction*, 483c; 600d-601b / *Group Psychology*, 670a-b; 692c-693a / *Civilization and Its Discontents*, 796c
+
+### 4. The major kinds of poetry: their comparative excellence
+
+#### 4a. Epic and dramatic poetry
+
+**7** PLATO: *Republic*, BK III, 322a; BK III, 328b-331c
+
+**9** ARISTOTLE: *Poetics*, CH 1-3 681a-682c; CH 4 [1448b24-1449a7] 682d-683a; CH 5 [1449a9-19] 683d-684a; CH 23-24 695a-696d; CH 26 698c-699a,c
+
+**29** CERVANTES: *Don Quixote*, PART I, 185b
+
+**30** BACON: *Advancement of Learning*, 39a-d
+
+**43** FEDERALIST: NUMBER 47, 154a
+
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 127b-128a
+
+**54** FREUD: *Group Psychology*, 692c-d
+
+#### 4b. Tragedy and comedy
+
+**5** ARISTOPHANES: *Frogs* [1482-1499] 581d-582a
+
+**7** PLATO: *Symposium*, 173c / *Gorgias*, 281d-282a / *Republic*, BK III, 329b; BK X, 431b / *Philebus*, 629a-630c / *Laws*, BK I, 655d; BK VII, 727d-728b
+
+**9** ARISTOTLE: *Ethics*, BK IV, CH 8 375a-d passim / *Poetics* 681a-699a,c esp CH 5-6 683c-685a, CH 12 687b-c
+
+**12** EPICTETUS: *Discourses*, BK I, CH 4, 109d; CH 24, 129c-d; CH 28, 133d-134d
+
+**12** AURELIUS: *Meditations*, BK XI, SECT 6 302c-303a
+
+**14** PLUTARCH: *Solon*, 76a / *Pericles*, 128d-129a
+
+**21** DANTE: *Divine Comedy*, HELL, XVI [124-136] 23d; PARADISE, XXX [19-36] 152a
+
+**22** CHAUCER: *Troilus and Cressida*, BK V, STANZA 256-257 153b-154a / *Monk's Prologue* [13,979-988] 433b; [13,997-14,004] 434a
+
+**23** HOBBES: *Leviathan*, PART I, 69c
+
+**29** CERVANTES: *Don Quixote*, PART II, 237b-c
+
+**32** MILTON: *Samson Agonistes*, 337a-338a / *Areopagitica*, 385a
+
+**37** FIELDING: *Tom Jones*, 73a-75a; 154d-155a; 273d; 357a-d
+
+**42** KANT: *Judgement*, 537a-539d
+
+**44** BOSWELL: *Johnson*, 308b-d
+
+**46** HEGEL: *Philosophy of History*, PART II, 263a-b
+
+**48** MELVILLE: *Moby Dick*, 54b-55a; 84b-85a; 107a-b
+
+**53** JAMES: *Psychology*, 373a-b
+
+**54** FREUD: *Interpretation of Dreams*, 246c-248c / *General Introduction*, 581d-582b
+
+### 5. Poetry in relation to knowledge
+
+**6** THUCYDIDES: *Peloponnesian War*, BK I, 354b,c
+
+**7** PLATO: *Lysis*, 19d-20a / *Phaedrus*, 138c-140d / *Ion* 142a-148a,c / *Republic*, BK III, 333b-d; BK X, 427c-434c / *Laws*, BK IV, 684b-c
+
+**9** ARISTOTLE: *Rhetoric*, BK I, CH 11 [1371b4-10] 615a / *Poetics*, CH 4 [1448b4-23] 682c-d; CH 9 [1451a36-b32] 686a-c; CH 24 [1460a19-25] 696b-c; CH 25 [1460b6-32] 696d-697b
+
+**18** AUGUSTINE: *Confessions*, BK I, par 20-22 6a-c; par 25-27 7a-d; BK III, par 11, 16a
+
+_Page 413_
+
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, A 9, REP 1 8d-9c
+
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 101, A 2, REP 2 267a-268a
+
+**21** DANTE: *Divine Comedy*, HELL, I [61-136] 1d-2c; PURGATORY, XXII [64-93] 87a-c; PARADISE, I [1-37] 106a-b; XVII [100-142] 133a-c
+
+**23** HOBBES: *Leviathan*, PART I, 67b-c; 72a-d
+
+**25** MONTAIGNE: *Essays*, 258c-259a; 362a-363b
+
+**30** BACON: *Advancement of Learning*, 32d; 38d-39b; 55d
+
+**31** DESCARTES: *Discourse*, PART I, 43b
+
+**33** PASCAL: *Pensées*, 33 176b
+
+**37** FIELDING: *Tom Jones*, 296b,d-298a
+
+**40** GIBBON: *Decline and Fall*, 345c
+
+**41** GIBBON: *Decline and Fall*, 300a-b
+
+**42** KANT: *Judgement*, 526a-527b; 528c-530c; 532b-d
+
+**51** TOLSTOY: *War and Peace*, BK X, 431a
+
+**53** JAMES: *Psychology*, 687a; 863a
+
+**54** FREUD: *Civilization and Its Discontents*, 796c
+
+### 5a. The aim of poetry to instruct as well as to delight: the pretensions or deceptions of the poet as teacher
+
+**5** ARISTOPHANES: *Acharnians* [497-508] 460d-461a; [628-675] 462b-463a / *Knights* [503-511] 476b / *Clouds* [575-594] 495c-d / *Frogs* 564a-582a,c esp [1008-1098] 576b-577c, [1417-1533] 581a-582a,c
+
+**7** PLATO: *Phaedrus*, 140c-d / *Apology*, 202c-d / *Gorgias*, 281d-282a / *Republic*, BK II-III, 320c-339a; BK X, 427c-434c / *Timaeus*, 455b-c / *Laws*, BK II, 653a-663b; BK VII, 726d-728b
+
+**9** ARISTOTLE: *Politics*, BK VIII, CH 5 544c-546a; CH 7 [1341b33-1342a18] 547c-548a,c
+
+**12** LUCRETIUS: *Nature of Things*, BK I [127-145] 2c-d; [921-950] 12b-c; BK IV [1-25] 44a-b; BK V [110-113] 62c
+
+**12** AURELIUS: *Meditations*, BK I, SECT 7 253b-d; BK XI, SECT 6 302c-303a
+
+**14** PLUTARCH: *Lycurgus*, 33d-34a; 43b-d / *Solon*, 76a / *Pericles*, 121d-122b
+
+**18** AUGUSTINE: *City of God*, BK IV, CH 27 202d-203c; BK XVIII, CH 14 479c-d
+
+**22** CHAUCER: *Prologue to Melibeus* 400b-401a / *L’Envoy* 550a-b
+
+**24** RABELAIS: *Gargantua and Pantagruel*, BK III, 168a-169d
+
+**25** MONTAIGNE: *Essays*, 62b-c; 245d
+
+**29** CERVANTES: *Don Quixote*, PART I, xiia-xvid; 13b-16c; 184a-187c; 189d-191d; PART II, 322b-c; 427a-429d
+
+**32** MILTON: *Paradise Lost*, BK IX [1-47] 247a-248a / *Samson Agonistes*, 337a-338a / *Areopagitica*, 385a
+
+**35** HUME: *Human Understanding*, SECT I, DIV 5, 452d-453a
+
+**37** FIELDING: *Tom Jones*, 1a-2a; 35a-d; 49a-50c; 73a-75a
+
+**39** SMITH: *Wealth of Nations*, BK V, 347c-d
+
+**40** GIBBON: *Decline and Fall*, 346a; 494b-495a
+
+**41** GIBBON: *Decline and Fall*, 40d-41a
+
+**42** KANT: *Judgement*, 532a-d; 534c-539d
+
+**44** BOSWELL: *Johnson*, 116b; 158a-b; 284b; 308b-d
+
+**46** HEGEL: *Philosophy of History*, PART II, 265c
+
+**47** GOETHE: *Faust*, PRELUDE 2a-6a
+
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 127b-128a
+
+### 5b. Poetry contrasted with history and philosophy: the dispraise and defense of the poet
+
+**5** ARISTOPHANES: *Frogs* [1482-1499] 581d-582a
+
+**6** HERODOTUS: *History*, BK II, 72a-73b; BK IV, 127b
+
+**6** THUCYDIDES: *Peloponnesian War*, BK I, 353d-354c
+
+**7** PLATO: *Lysis*, 19d-20a / *Protagoras*, 57a-c / *Phaedrus*, 122d-123a; 140a-d / *Gorgias*, 280d-282b / *Republic*, BK II-III, 320c-333b; BK VIII, 415b-c; BK X, 427c-434c / *Laws*, BK IV, 684b-c
+
+**9** ARISTOTLE: *Poetics*, CH 9 [1451a36-b32] 686a-c; CH 23 695a-c; CH 25 696d-698c
+
+**14** PLUTARCH: *Theseus*, 1a-b / *Solon*, 76a / *Pericles*, 140d
+
+**17** PLOTINUS: *First Ennead*, TR III, CH 1-3 10a-11a
+
+**18** AUGUSTINE: *City of God*, BK III, CH 14 156c-157c; BK IV, CH 26-27 202a-203c; BK VIII, CH 13 273b-d
+
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, A 9, REP 1 8d-9c
+
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 101, A 2, REP 2 267a-268a
+
+**23** HOBBES: *Leviathan*, PART I, 67b-c
+
+**25** MONTAIGNE: *Essays*, 62b-c; 194c-201b passim; 258d-259a
+
+**26** SHAKESPEARE: *Midsummer Night's Dream*, ACT V, SC I [212-221] 373a-b / *1st Henry IV*, ACT III, SC I [120-135] 451b-c
+
+**28** HARVEY: *On Animal Generation*, 473b
+
+**29** CERVANTES: *Don Quixote*, PART I, xiia-xiiid; PART II, 212a-215b esp 213b-c; 251a-252b
+
+**30** BACON: *Advancement of Learning*, 32d; 38d-39b; 55d
+
+**32** MILTON: *Samson Agonistes*, 337a-338a / *Areopagitica*, 385a
+
+**33** PASCAL: *Pensées*, 11 173b-174a; 34-35 177a; 38-39 177b
+
+**35** HUME: *Human Understanding*, SECT I, DIV 5, 452d-453a
+
+**37** FIELDING: *Tom Jones*, 19a-20a; 49b-50c
+
+**38** ROUSSEAU: *Social Contract*, BK I, 390c
+
+**40** GIBBON: *Decline and Fall*, 88a-d; 186c-d; 345b-346b; 398b; 471c-d; 545c; 627b-d
+
+**44** BOSWELL: *Johnson*, 120c; 307c
+
+**46** HEGEL: *Philosophy of History*, INTRO, 153a-b; PART I, 229b-230a; PART II, 259b-c
+
+**47** GOETHE: *Faust*, PART II [7426-7433] 181b-182a; [10,189-191] 248b
+
+**51** TOLSTOY: *War and Peace*, BK X, 431a
+
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 115a-c; BK XI, 312d-313b
+
+**53** JAMES: *Psychology*, 686b-689a
+
+_Page 414_
+
+### 6. Poetry and emotion
+
+#### 6a. The expression of emotion in poetry
+
+**OLD TESTAMENT**: *Exodus*, 15:1-21 / *II Samuel*, 1:17-27—(D) *II Kings*, 1:17-27 / *Psalms* passim / *Lamentations*
+
+**APOCRYPHA**: *Judith*, 16—(D) OT, *Judith*, 16 / *Song of Three Children*, 28-68—(D) OT, *Daniel*, 3:51-90
+
+**NEW TESTAMENT**: *Luke*, 1:42-55, 67-79
+
+**7** PLATO: *Ion*, 146d-147a / *Republic*, BK III, 325b-326b; BK X, 432a-434c / *Philebus*, 628d-630c / *Laws*, BK II, 654b-d
+
+**9** ARISTOTLE: *Politics*, BK VIII, CH 5 544c-546a; CH 7 [1341b33-1342a18] 547c-548a,c / *Rhetoric*, BK I, CH 11 [1371b4-11] 615a; BK III, CH 7 659a-660a; CH 16 [1417a37-b7] 671c-d / *Poetics*, CH 15 [1454a7-14] 689c; CH 17 [1455a29-39] 690c
+
+**13** VIRGIL: *Aeneid*, BK I [440-493] 115a-116b
+
+**21** DANTE: *Divine Comedy*, HELL, XXXIV [1-36] 51b-c; PURGATORY, XXIV [49-63] 90a-b
+
+**25** MONTAIGNE: *Essays*, 104d-105b; 399d-401a; 410a-c
+
+**27** SHAKESPEARE: *Sonnets*, LXXVI 597d-598a; LXXVIII-LXXIX 598b; LXXXII-LXXXV 598d-599b
+
+**29** CERVANTES: *Don Quixote*, PART I, 184a-185b
+
+**30** BACON: *Advancement of Learning*, 38c-39d; 78a-d
+
+**32** MILTON: *L’Allegro* 17b-21a / *Il Penseroso* 21a-25a
+
+**33** PASCAL: *Pensées*, 11 173b-174a
+
+**44** BOSWELL: *Johnson*, 53c-d
+
+**46** HEGEL: *Philosophy of History*, INTRO, 153a-c; PART IV, 323b-c
+
+**49** DARWIN: *Descent of Man*, 570c-571a
+
+**54** FREUD: *Interpretation of Dreams*, 246d-248c / *General Introduction*, 483b-c; 600d-601b / *Group Psychology*, 692c-693a passim / *Civilization and Its Discontents*, 773d-774c
+
+#### 6b. The arousal and purgation of the emotions by poetry: the catharsis of pity and fear
+
+**4** HOMER: *Odyssey*, BK I [325-359] 186b-c; BK VIII [71-103] 222d-223a; [482-547] 227a-d; BK XII [1-3] 255a
+
+**6** HERODOTUS: *History*, BK VI, 189c
+
+**7** PLATO: *Ion*, 145a-b / *Republic*, BK III, 325b-326b; BK X, 431b-434c / *Philebus*, 628d-630c
+
+**9** ARISTOTLE: *Politics*, BK VIII, CH 5 544c-546a; CH 7 [1341b33-1342a18] 547c-548a,c / *Rhetoric*, BK I, CH 11 [1371b4-11] 615a; BK III, CH 7 659a-660a / *Poetics*, CH 6 [1449b23-28] 684a; CH 9 [1452a1-10] 686c-d; CH 11 [1452a37-b4] 687a; CH 13-14 687c-689a; CH 16 [1455a17] 690b; CH 17 [1455a29-39] 690c; CH 18 [1456a19-23] 691c-d; CH 19 [1456b33-b8] 691d-692a; CH 25 [1460b24-26] 697a
+
+**12** LUCRETIUS: *Nature of Things*, BK V [1379-1411] 79a-c
+
+**14** PLUTARCH: *Lycurgus*, 33d-34a
+
+**18** AUGUSTINE: *Confessions*, BK I, par 20-22 6a-c; par 25-27 7a-d; BK III, par 2-4 13c-14b; BK X, par 49-50 83c-84b
+
+**21** DANTE: *Divine Comedy*, HELL, V [73-142] 7d-8b; PURGATORY, II [76-133] 55b-d
+
+**23** HOBBES: *Leviathan*, PART I, 69c
+
+**25** MONTAIGNE: *Essays*, 104d-105c; 410a-c; 507b-c
+
+**26** SHAKESPEARE: *Two Gentlemen of Verona*, ACT III, SC II [66-95] 245a-b
+
+**27** SHAKESPEARE: *Hamlet*, ACT II, SC II [575-633] 46b-d / *Cymbeline*, ACT III, SC II [1-35] 459b-c
+
+**29** CERVANTES: *Don Quixote*, PART I, xiiic
+
+**30** BACON: *Advancement of Learning*, 38c-39d; 78a-d; 87c-d
+
+**32** MILTON: *Samson Agonistes*, 337a-338a / *Areopagitica*, 385a-b
+
+**33** PASCAL: *Pensées*, 11 173b-174a; 135 196a
+
+**40** GIBBON: *Decline and Fall*, 94a-b
+
+**42** KANT: *Judgement*, 509b-d
+
+**44** BOSWELL: *Johnson*, 308b-c
+
+**49** DARWIN: *Descent of Man*, 570b-571b
+
+**51** TOLSTOY: *War and Peace*, BK XV, 638c-639c
+
+**53** JAMES: *Psychology*, 288a; 747b-748a
+
+**54** FREUD: *Interpretation of Dreams*, 239c-240a; 246c-247d / *General Introduction*, 581d-582b / *Beyond the Pleasure Principle*, 643c / *Group Psychology*, 692c-693a / *War and Death*, 762c
+
+### 7. The elements of poetic narrative
+
+**5** ARISTOPHANES: *Peace* [734-818] 534c-535e / *Frogs* [758-1533] 573a-582a,c
+
+**7** PLATO: *Republic*, BK III, 331c
+
+**9** ARISTOTLE: *Poetics* 681a-699a,c esp CH 6 684a-685a, CH 12 687b-c
+
+**32** MILTON: *Samson Agonistes*, 337a-338a
+
+**36** STERNE: *Tristram Shandy*, 335b-336a
+
+#### 7a. Plot: its primacy; its construction
+
+**7** PLATO: *Phaedo*, 221d-222a
+
+**9** ARISTOTLE: *Poetics*, CH 6 [1450a3-b5] 684b-d; CH 7-11 685b-687b; CH 13-14 687c-689a; CH 15 [1454a39-b8] 689c; CH 16-18 689d-691d; CH 23-24 695a-696d; CH 26 [1462b4-11] 699a,c
+
+**32** MILTON: *Samson Agonistes*, 338a
+
+**36** STERNE: *Tristram Shandy*, 228b-231a
+
+**37** FIELDING: *Tom Jones*, 2d-3a; 204b,d-205c
+
+#### 7b. The role of character: its relation to plot
+
+**9** ARISTOTLE: *Poetics*, CH 2 681d-682a; CH 6 [1449b36-1450a10] 684b-685a; CH 13 [1452b30-1453a30] 687c-688a; CH 15 689a-d
+
+**12** EPICTETUS: *Discourses*, BK I, CH 24, 129c-d; CH 28 133b-134d
+
+**17** PLOTINUS: *Third Ennead*, TR II, CH 17 91c-92c
+
+**37** FIELDING: *Tom Jones*, 49a-50c; 152a-155b; 204b,d-205c
+
+**44** BOSWELL: *Johnson*, 157d-158b
+
+_Page 415_
+
+**48** MELVILLE: *Moby Dick*, 54b-55a
+
+**54** FREUD: *Interpretation of Dreams*, 247d-248b
+
+#### 7c. Thought and diction as elements of poetry
+
+**7** PLATO: *Protagoras*, 52d-57a
+
+**8** ARISTOTLE: *Interpretation*, CH 4 [17a5-7] 26b
+
+**9** ARISTOTLE: *Poetics*, CH 1 [1447a14-b30] 681a-d; CH 6 684a-685a; CH 19-22 691d-695a; CH 24 [1459b12-17] 695c; CH 25 [1461a9-b9] 697c-698a; [1461b15-18] 698b
+
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, A 9, REP 1 8d-9c
+
+**22** CHAUCER: *Troilus and Cressida*, BK II, STANZA 2-4 21b-22a; STANZA 37-38 26b; STANZA 147-149 40b-41a / *Prologue* [725-746] 171b-172a / *Miller’s Prologue* [3167-3186] 212a-b / *Prologue to Melibeus* 400b-401a
+
+**27** SHAKESPEARE: *Hamlet*, ACT II, SC II [454-471] 45a
+
+**29** CERVANTES: *Don Quixote*, PART I, xiiic
+
+**30** BACON: *Advancement of Learning*, 63b-c
+
+**31** DESCARTES: *Discourse*, PART I, 43b
+
+**32** MILTON: *Vacation Exercise* [1-58] 59a-60b / *Paradise Lost*, BK I [12-16] 93b
+
+**36** SWIFT: *Gulliver*, PART IV, 169a-b
+
+**42** KANT: *Judgement*, 524b
+
+**48** MELVILLE: *Moby Dick*, 335b
+
+**53** JAMES: *Psychology*, 687b-688a
+
+**54** FREUD: *General Introduction*, 458a-459a
+
+#### 7d. Spectacle and song in drama
+
+**7** PLATO: *Republic*, BK III, 331c-333a
+
+**9** ARISTOTLE: *Poetics*, CH 1 [1447a14-b30] 681a-d; CH 4 [1448b24-1449a27] 682d-683b; CH 6 684a-685a esp [1449b20-1450a14] 684a-c, [1450a17-20] 685a; CH 12 687b-c; CH 14 [1453b1-12] 688b; CH 18 [1456a1-3] 691b-c; [1456a25-32] 691d; CH 26 [1462a13-17] 698d
+
+**32** MILTON: *Samson Agonistes*, 338a
+
+**46** HEGEL: *Philosophy of History*, PART II, 263d-265c
+
+### 8. The science of poetics: rules of art and principles of criticism
+
+**5** ARISTOPHANES: *Frogs* [758-1533] 573a-582a,c
+
+**7** PLATO: *Ion* 142a-148a,c / *Laws*, BK II, 654a-662a
+
+**9** ARISTOTLE: *Politics*, BK III, CH 11 [1281b3-10] 479b / *Poetics* 681a-699a,c
+
+**36** STERNE: *Tristram Shandy*, 287b-289b; 335b-336a; 344b-345a
+
+**37** FIELDING: *Tom Jones*, 1a-2a; 19a-20a; 35a-d; 49b-50c; 73a-75a; 121b,d-123a; 152a-155b; 189a-191c; 204b,d-205c; 223a-225a; 246a-247a; 273a-274c; 296b,d-298a; 338a-d; 357a-d
+
+**40** GIBBON: *Decline and Fall*, 494d-495a,c
+
+**41** GIBBON: *Decline and Fall*, 300b; 526b-d passim; 573a
+
+**42** KANT: *Pure Reason*, 23d [fn 1] / *Judgement*, 513d-514b; 524a-527b
+
+**46** HEGEL: *Philosophy of History*, INTRO, 185c-d
+
+### 8a. Critical standards and artistic rules with respect to narrative structure
+
+**5** ARISTOPHANES: *Peace* [734-818] 534c-535c
+
+**9** ARISTOTLE: *Poetics*, CH 7-11 685b-687b; CH 13-14 687c-689a; CH 16-18 689d-691d
+
+**33** PASCAL: *Pensées*, 32-33 176a-b
+
+**35** HUME: *Human Understanding*, SECT VII, DIV 70, 481d-482a
+
+**36** STERNE: *Tristram Shandy*, 193a-194b; 195a-b; 209a-210b; 228b-231a; 335b-336a; 344b-345a
+
+**37** FIELDING: *Tom Jones*, 189a-191c; 204b,d-205c; 223a-225a
+
+**41** GIBBON: *Decline and Fall*, 300b
+
+**44** BOSWELL: *Johnson*, 513a-b
+
+#### 8a(1) The poetic unities: comparison of epic and dramatic unity
+
+**7** PLATO: *Phaedrus*, 133c-d
+
+**9** ARISTOTLE: *Poetics*, CH 7-9 685b-686d; CH 17 [1455a38-b23] 690d-691a; CH 18 [1456a10-20] 691c; CH 23 695a-c; CH 26 [1462b3-15] 699a,c
+
+**27** SHAKESPEARE: *Winter’s Tale*, ACT IV, SC 1 505c-d
+
+**29** CERVANTES: *Don Quixote*, PART I, 186b-c
+
+**32** MILTON: *Samson Agonistes*, 338a
+
+**36** STERNE: *Tristram Shandy*, 245b-246a
+
+**37** FIELDING: *Tom Jones*, 19a-20a; 73b-75a
+
+#### 8a(2) Poetic truth: verisimilitude or plausibility; the possible, the probable, and the necessary
+
+**6** HERODOTUS: *History*, BK II, 72a-b
+
+**6** THUCYDIDES: *Peloponnesian War*, BK I, 354b
+
+**7** PLATO: *Phaedrus*, 140c-d / *Ion* 142a-148a,c / *Republic*, BK II, 320d-324c; BK X, 427c-434c / *Sophist*, 561b-d
+
+**9** ARISTOTLE: *Poetics*, CH 9 [1451a36]-CH 11 [1452a30] 686a-687a; CH 15 [1454a23-b6] 689b-c; CH 24 [1460a12-b2] 696b-c; CH 25 696d-698c
+
+**14** PLUTARCH: *Coriolanus*, 189b-c
+
+**21** DANTE: *Divine Comedy*, HELL, XVI [124-136] 23d; XXV [46-151] 36d-38a; XXVIII [112-142] 42c-43a; XXXIII [1-12] 47c; PURGATORY, XXXII [124-145] 102a-b; PARADISE, I [38-81] 106c-107a; X [28-48] 120c-d; XXX [19-36] 152a; XXXIII [46-75] 156d-157a
+
+**22** CHAUCER: *Troilus and Cressida*, BK II, STANZA 149 41a / *Prologue to Melibeus* 400b-401a
+
+**23** HOBBES: *Leviathan*, PART I, 67b
+
+**25** MONTAIGNE: *Essays*, 41b-c
+
+**27** SHAKESPEARE: *Hamlet*, ACT III, SC II [1-50] 49a-b
+
+**29** CERVANTES: *Don Quixote*, PART I, 184c-186d; 189d-191d; PART II, 208d-209d; 215a-b; 386a-388a
+
+**30** BACON: *Advancement of Learning*, 38c-39b
+
+**31** DESCARTES: *Discourse*, PART I, 43a-b
+
+**37** FIELDING: *Tom Jones*, 49b-50c; 152a-155b; 379b-c
+
+_Page 416_
+
+**40** GIBBON: *Decline and Fall*, 345c; 471c-d; 494d-495a
+
+**41** GIBBON: *Decline and Fall*, 693d [n 83]
+
+**44** BOSWELL: *Johnson*, 282c-d; 446c-447a
+
+**46** HEGEL: *Philosophy of Right*, ADDITIONS, 12 118a-c / *Philosophy of History*, INTRO, 153a-c
+
+**47** GOETHE: *Faust*, PART II [7426-7433] 181b-182a
+
+**48** MELVILLE: *Moby Dick*, 151b-152a
+
+**51** TOLSTOY: *War and Peace*, BK III, 134a-c
+
+#### 8a(3) The significance of recognitions and reversals in the development of plot
+
+**9** ARISTOTLE: *Poetics*, CH 6 [1450a33-35] 684d; CH 10-11 686d-687b; CH 14 [1453b22-1454a8] 688c-689a; CH 16 689d-690b
+
+**22** CHAUCER: *Monk's Prologue* [13,979-988] 433b
+
+**37** FIELDING: *Tom Jones*, 379b-c
+
+**54** FREUD: *Interpretation of Dreams*, 246b-c / *General Introduction*, 581d
+
+### 8b. Critical standards and artistic rules with respect to the language of poetry: the distinction between prose and verse; the measure of excellence in style
+
+**5** ARISTOPHANES: *Knights* [1373-1383] 486d-487a / *Clouds* [331-340] 492a; [1351-1379] 504d-505b / *Peace* [734-818] 534c-535c / *Birds* [1372-1409] 559b-c / *Frogs* [758-1533] 573a-582a,c / *Thesmophoriazusae* [95-175] 601c-602b
+
+**7** PLATO: *Protagoras*, 52d-57a / *Republic*, BK III, 328b-333b; BK X, 430c
+
+**9** ARISTOTLE: *Ethics*, BK IV, CH 8 [1128a18-33] 375b-c / *Politics*, BK VIII, CH 7 [1342a32-b18] 548a,c / *Rhetoric*, BK III, CH 1-12 653b,d-667b passim / *Poetics*, CH 1 [1447a14-b23] 681a-c; CH 6 [1450b13-15] 685a; CH 19 [1456b8-19] 692a-b; CH 22 694a-695a; CH 24 [1460a32-b4] 696c-d; CH 25 [1461a9-b18] 697c-698b
+
+**18** AUGUSTINE: *Confessions*, BK III, par 14 16d-17a; BK XI, par 35-37 97c-98b / *City of God*, BK XI, CH 18 331d-332a / *Christian Doctrine*, BK II, CH 6 638a-d; BK IV, CH 17-26 686c-696a passim
+
+**21** DANTE: *Divine Comedy*, HELL, XXVIII [1-42] 41b-c; XXXIII [1-12] 47c; PURGATORY, XXIV [49-63] 90a-b; XXVI [88-148] 93d-94c; XXXI [133-145] 102b; PARADISE, I [1-37] 106a-b; X [28-48] 120c-d; XXX [19-36] 152a; XXXIII 156b-157d
+
+**22** CHAUCER: *Troilus and Cressida*, BK II, STANZA 1-4 21b-22a; STANZA 37-38 26b; STANZA 147-149 40b-41a; BK V, STANZA 256-257 153b-154a / *Prologue* [725-746] 171b-172a / *Miller's Prologue* [3167-3186] 212a-b / *Clerk's Prologue* [7888-7932] 295a-296a / *Squire's Tale* [10,715-722] 345b / *Franklin’s Prologue* 351a / *Prologue to Melibeus* 400b-401a / *Manciple’s Tale* [17,154-186] 491a-b / *Parson's Prologue* [17,341-375] 494a-b
+
+**23** HOBBES: *Leviathan*, PART I, 67b
+
+**25** MONTAIGNE: *Essays*, 62b-c; 76b-c; 104d-105c; 195d-197a; 309a-310c; 422c-423c; 453d-454a; 455a-d; 482b-483b
+
+**26** SHAKESPEARE: *1st Henry IV*, ACT III, SC I [121-135] 451b-c
+
+**27** SHAKESPEARE: *Hamlet*, ACT II, SC II [85-125] 41c-d; [454-466] 45a / *Sonnets*, XXI 589b-c; LXXVI 597d-598a; LXXXI 598d; CXXX 606a-b
+
+**29** CERVANTES: *Don Quixote*, PART I, xiia-xiiid; 1b-c; 13b-16c; 185a-b; PART II, 251a-252a
+
+**30** BACON: *Advancement of Learning*, 38c; 63b-c
+
+**31** DESCARTES: *Discourse*, PART I, 43b
+
+**32** MILTON: *Vacation Exercise* 59a-61b / *Sonnets*, XIII 65b-66a
+
+**33** PASCAL: *Pensées*, 14-16 174a-b; 22-35 175b-177a; 48 178b
+
+**36** STERNE: *Tristram Shandy*, 287b-289b
+
+**37** FIELDING: *Tom Jones*, 1a-2a; 49a-50c; 189c-d; 223a-225a; 246a-247a
+
+**40** GIBBON: *Decline and Fall*, 494d-495a,c
+
+**41** GIBBON: *Decline and Fall*, 300b; 327a-c; 573a
+
+**42** KANT: *Judgement*, 513d-514b; 524b
+
+**44** BOSWELL: *Johnson*, 59d-61d; 167d-170d passim; 180c; 202b; 284b; 307c; 381d-382c; 454a-b; 455b
+
+**47** GOETHE: *Faust*, PRELUDE [146-149] 4b
+
+**52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 115a-c; 127b
+
+**53** JAMES: *Psychology*, 381a; 400b; 687a-688a
+
+**54** FREUD: *Interpretation of Dreams*, 277d
+
+### 8c. The interpretation of poetry
+
+**NEW TESTAMENT**: *Matthew*, 13:3-50; 18:23-35; 21:28-44 / *Mark*, 4:3-20 / *Luke*, 8:5-15; 15:4-10; 16:1-13; 18:2-8
+
+**7** PLATO: *Protagoras*, 52d-57c / *Ion* 142a-148a,c / *Apology*, 202c-d / *Republic*, BK II, 321b-d
+
+**9** ARISTOTLE: *Poetics*, CH 25 [1461a9-b25] 697c-698c
+
+**14** PLUTARCH: *Coriolanus*, 189b-c
+
+**18** AUGUSTINE: *Christian Doctrine*, BK II, CH 6 638a-d; CH 9-10 640c-641a; CH 12 641c-642b; CH 16 644b-645d; BK III, CH 5 659d-660a; CH 24-37 666d-674d
+
+**19** AQUINAS: *Summa Theologica*, PART I, Q 1, AA 9-10 8d-10c
+
+**20** AQUINAS: *Summa Theologica*, PART I-II, Q 101, A 2, REP 2 267a-268a
+
+**21** DANTE: *Divine Comedy*, HELL, IX [61-63] 13a; PURGATORY, VIII [19-21] 64c; XXXIII [64-78] 104d-105a
+
+**24** RABELAIS: *Gargantua and Pantagruel*, BK I, 1b,d-3a,c; 66b-67d; BK III, 146a-150d
+
+**25** MONTAIGNE: *Essays*, 104d-105b; 285a-b; 362a-363b
+
+**40** GIBBON: *Decline and Fall*, 346a-b
+
+_Page 417_
+
+**46** HEGEL: *Philosophy of History*, PART II, 263d-265c
+
+**48** MELVILLE: *Moby Dick*, 151b-152a
+
+**51** TOLSTOY: *War and Peace*, BK VII, 324b-d; BK XII, 533b-c; 534c-d
+
+**54** FREUD: *Interpretation of Dreams*, 246b-248c / *General Introduction*, 509a-513d passim / *New Introductory Lectures*, 816a-b
+
+### 9. The moral and political significance of poetry
+
+#### 9a. The influence of poetry on mind and character: its role in education
+
+**5** ARISTOPHANES: *Acharnians* [497-508] 460d-461a; [628-675] 462b-463a / *Clouds* 488a-506d esp [575-594] 495c-d, [882-1104] 499b-502a / *Wasps* [1010-1070] 519d-520c / *Frogs* 564a-582a,c esp [1008-1098] 576b-577c, [1417-1533] 581a-582a,c / *Thesmophoriazusae* [330-567] 604b-606c
+
+**7** PLATO: *Protagoras*, 46b-c / *Phaedrus*, 140a-d / *Ion*, 144b-145c / *Symposium*, 156b-c / *Gorgias*, 280d-282b / *Republic*, BK II-III, 320c-339a; BK IV, 344b-d; BK VII, 391c-d; BK X, 427c-434c / *Timaeus*, 455b-c / *Laws*, BK II 653a-663d esp 654b-d; BK III, 675c-676b; BK VIII, 724c-725b; 727c-728b
+
+**9** ARISTOTLE: *Politics*, BK VII, CH 17 [1336a30-33] 541b; [1336b12-35] 541c-d; BK VIII, CH 3 542d-543d; CH 5-7 544c-548a,c
+
+**12** AURELIUS: *Meditations*, BK I, SECT 7 253b-d
+
+**14** PLUTARCH: *Lycurgus*, 33d-34a; 43b-d / *Solon*, 76a-b / *Pericles*, 121a-122b
+
+**15** TACITUS: *Annals*, BK XIV, 146b-c
+
+**17** PLOTINUS: *First Ennead*, TR III, CH 1-2 10a-d / *Fourth Ennead*, TR IV, CH 40 180b-c
+
+**18** AUGUSTINE: *Confessions*, BK I, par 20-22 6a-c; par 25-27 7a-d; BK III, par 2-4 13c-14b; BK X, par 49-50 83c-84b / *City of God*, BK I, CH 31-33 147d-149a; BK II, CH 8-14 153d-157c; BK IV, CH 26-27 202a-203c / *Christian Doctrine*, BK II, CH 6 638a-d
+
+**21** DANTE: *Divine Comedy*, HELL, I [61-135] 1d-2c; PURGATORY, XXII [55-93] 87a-c; PARADISE, I [1-37] 106a-b; II [1-18] 107d; XVII [100-142] 133a-c
+
+**22** CHAUCER: *Intro. to Man of Law’s Prologue* [4465-4510] 234b-235b / *Prologue to Melibeus* 400b-401a / *Nun’s Priest's Tale* [15,444-452] 460a-b / *L’Envoy* 550a-b
+
+**23** HOBBES: *Leviathan*, PART I, 69c; PART III, 183b
+
+**24** RABELAIS: *Gargantua and Pantagruel*, BK III, 146a-150d
+
+**25** MONTAIGNE: *Essays*, 71c; 79a-80b
+
+**26** SHAKESPEARE: *Two Gentlemen of Verona*, ACT III, SC II [66-95] 245a-b
+
+**27** SHAKESPEARE: *Hamlet*, ACT II, SC II [616-633] 46c-d
+
+**29** CERVANTES: *Don Quixote* esp PART I, xiiic-d, 1a-3b, 13b-16c, 184a-187c, 189d-193c, PART II, 252a-b, 322a-c, 427c-429a
+
+**30** BACON: *Advancement of Learning*, 38d-39a; 78a-d; 79c-80a
+
+**31** DESCARTES: *Discourse*, PART I, 43b
+
+**32** MILTON: *Areopagitica*, 385a-386b
+
+**33** PASCAL: *Pensées*, 11 173b-174a
+
+**35** HUME: *Human Understanding*, SECT I, DIV 1 451a-b
+
+**39** SMITH: *Wealth of Nations*, BK V, 347d
+
+**40** GIBBON: *Decline and Fall*, 3a-b; 94a-b; 629a-b
+
+**41** GIBBON: *Decline and Fall*, 225c; 300a-b; 573a-574b passim
+
+**42** KANT: *Judgement*, 504a-b; 521b-523c; 586d-587a
+
+**44** BOSWELL: *Johnson*, 116b; 158a-b; 259b-c esp 259b [fn 2]; 308b-d
+
+**46** HEGEL: *Philosophy of History*, PART II, 259b-c; 263d-265c; 267a-268b; 276a-d; PART IV, 347b-d
+
+**51** TOLSTOY: *War and Peace*, BK VII, 311a-313a; 324b-325d
+
+**54** FREUD: *General Introduction*, 582a-b / *War and Death*, 762c
+
+#### 9b. The issue concerning the censorship of poetry
+
+**5** ARISTOPHANES: *Acharnians* [366-384] 459c-d; [497-508] 460d-461a
+
+**6** HERODOTUS: *History*, BK V, 172d-173b; BK VI, 189c
+
+**7** PLATO: *Republic*, BK II-III, 320c-334b; BK IV, 344b-d; BK X, 427c-434c esp 432d-434c / *Laws*, BK II 653a-663d passim; BK III, 675c-676b; BK VII, 719d-721a; 724c-725b; 727c-728b; BK VIII, 732c; BK XI, 782d-783b
+
+**9** ARISTOTLE: *Politics*, BK VII, CH 17 [1336a30-b35] 541b-d; BK VIII, CH 3 542d-543d; CH 5-7 544c-548a,c
+
+**14** PLUTARCH: *Lycurgus*, 43b-d / *Solon*, 76a
+
+**15** TACITUS: *Annals*, BK I, 21b-22b; BK II, 56d-57b; BK IV, 67b-c; 72b-73a; BK XIV, 152d-153c
+
+**18** AUGUSTINE: *City of God*, BK II, CH 9 154a-c; CH 12 155c-d; CH 14 156c-157c; BK VIII, CH 13 273b-d
+
+**23** HOBBES: *Leviathan*, PART II, 102d-103a
+
+**25** MONTAIGNE: *Essays*, 79d-80b; 191d-192b
+
+**29** CERVANTES: *Don Quixote*, PART I, 13b-16c; 117d-119d; 185b-188c
+
+**32** MILTON: *Areopagitica* 381a-412b esp 384b-389a, 393a-394b
+
+**36** SWIFT: *Gulliver*, xviiib
+
+**38** MONTESQUIEU: *Spirit of Laws*, BK XII, 90b-c
+
+**39** SMITH: *Wealth of Nations*, BK V, 347c-d
+
+**41** GIBBON: *Decline and Fall*, 300a-b
+
+**43** MILL: *Liberty*, 274b-293b passim
+
+**44** BOSWELL: *Johnson*, 259b-c
+
+---
+_Page 418_
+
+## CROSS-REFERENCES
+
+**For:** The comparison of poetry with history, philosophy, and science, see HISTORY 1; KNOWLEDGE 4c; PHILOSOPHY 1d; SCIENCE 2b; TRUTH 4b.
+
+**For:** The consideration of the fine arts in general, see ART 7a; and for standards of critical judgment with respect to the beauty or excellence of works of fine art, see ART 7b; BEAUTY 2, 5.
+
+**For:** Another discussion of the theory of art as imitation, and for related doctrines, see ART 3; FORM 1d(1).
+
+**For:** The elements of inspiration, emotion, and tradition in the formation of poetry, see ART 8; MEMORY AND IMAGINATION 3d.
+
+**For:** Other aspects of the distinction between tragedy and comedy, see HAPPINESS 4b.
+
+**For:** Matters related to the theory of emotional purgation, see ART 8; DESIRE 4d.
+
+**For:** The place of poetics among the sciences, see PHILOSOPHY 2c.
+
+**For:** The discussion of poetic truth and probability, see MEMORY AND IMAGINATION 7b; TRUTH 4b.
+
+**For:** Other considerations of the problem of style, see LANGUAGE 9; RHETORIC 2-2b.
+
+**For:** Matters bearing on the interpretation of poetry, see RHETORIC 2d.
+
+**For:** The role of poetry and other fine arts in education, see ART 10a; EDUCATION 4d; VIRTUE AND VICE 4d(4).
+
+**For:** Other discussions of the problem of censorship, or of the political regulation of artistic expression, see ART 10b; EDUCATION 8c; EMOTION 5e; LIBERTY 2a.
+
+---
+
+## ADDITIONAL READINGS
+
+_Listed below are works not included in Great Books of the Western World, but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:_
+
+*   _I. Works by authors represented in this collection._
+*   _II. Works by authors not represented in this collection._
+
+_For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of The Great Ideas._
+
+### I.
+
+PLUTARCH. “How a Young Man Ought to Hear Poems,” in *Moralia*
+
+AUGUSTINE. *On Music*
+
+DANTE. *De Vulgari Eloquentia*
+
+——. *Epistle to Can Grande della Scala*
+
+HUME. *Of the Standard of Taste*
+
+——. *Of Tragedy*
+
+GIBBON. *An Essay on the Study of Literature*, I-XIII
+
+A. SMITH. “Of the Affinity Between Music, Dancing and Poetry,” in *Essays Philosophical and Literary*
+
+GOETHE. *Poetry and Truth*
+
+——. *Conversations with Eckermann*
+
+J. S. MILL. “Thoughts on Poetry and Its Varieties,” in VOL I, *Dissertations and Discussions*
+
+TOLSTOY. *What Is Art?*
+
+FREUD. *Wit and Its Relation to the Unconscious*, CH 7
+
+### II.
+
+HORACE. *The Art of Poetry*
+
+LONGINUS. *On the Sublime*
+
+DEMETRIUS. *On Style*
+
+BOCCACCIO. *On Poetry*
+
+P. SIDNEY. *An Apology for Poetry*
+
+CORNEILLE. *Examens*
+
+——. *Trois discours sur l'art dramatique*
+
+MOLIÈRE. *La critique de l’école des femmes (The School for Wives Criticised)*
+
+BOILEAU-DESPRÉAUX. *The Art of Poetry*
+
+DRYDEN. *An Essay of Dramatic Poesy*
+
+——. *Of Heroic Plays*
+
+——. *A Discourse Concerning ... Satire*
+
+POPE. *Essay on Criticism*
+
+VICO. *The New Science*, BK II-III
+
+J. HARRIS. *Three Treatises. The First Concerning Art. The Second Concerning Music, Painting, and Poetry. The Third Concerning Happiness*
+
+——. *Upon the Rise and Progress of Criticism*
+
+BURKE. *Hints for an Essay on the Drama*
+
+——. *A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*, PART V
+
+GRAY. *The Progress of Poesy*
+
+KAMES. *Elements of Criticism*
+
+VOLTAIRE. *Letters on the English*, XVIII-XX
+
+——. “Art of Poetry,” “Poets,” in *A Philosophical Dictionary*
+
+_Page 419_
+
+LESSING. *Laocoön*
+
+BEATTIE. *An Essay on Poetry and Music*
+
+S. JOHNSON. *Lives of the English Poets*
+
+BLAIR. *Lectures on Rhetoric and Belles Lettres*
+
+SCHILLER. *The Stage as a Moral Institution*
+
+——. *On Simple and Sentimental Poetry*
+
+WORDSWORTH. *Preface to the Lyrical Ballads*
+
+A. W. SCHLEGEL. *Lectures on Dramatic Art and Literature*
+
+COLERIDGE. *Biographia Literaria*, CH 4, 14-20
+
+SCHOPENHAUER. *The World as Will and Idea*, VOL III, SUP, CH 37
+
+T. L. PEACOCK. *Four Ages of Poetry*
+
+SHELLEY. *A Defense of Poetry*
+
+HAZLITT. *Lectures on the English Poets*
+
+——. *My First Acquaintance with Poets*
+
+STENDHAL. *Racine et Shakespeare*
+
+HUGO. *Préface de ‘Cromwell’*
+
+DE QUINCEY. *The Literature of Knowledge and the Literature of Power*
+
+T. CARLYLE. *On Heroes, Hero-Worship and the Heroic in History*, LECT I
+
+EMERSON. “The Poet,” in *Essays*, II
+
+HUNT. *An Essay in Answer to the Question “What Is Poetry?”*
+
+KIERKEGAARD. *Either/Or*
+
+——. *The Point of View*
+
+POE. *The Poetic Principle*
+
+TAINE. *Essais de critique et d'histoire*
+
+NIETZSCHE. *The Birth of Tragedy*
+
+ARNOLD. *Essays in Criticism*
+
+MEREDITH. *An Essay on Comedy and the Uses of the Comic Spirit*
+
+FRAZER. *The Golden Bough*, PART III, CH 3
+
+CHEKHOV. *Letters on the Short Story, the Drama and Other Literary Topics*
+
+BERGSON. *Laughter*
+
+CLAUDEL. *Poetic Art*
+
+DILTHEY. *Das Erlebnis und die Dichtung*
+
+SHAW. *Dramatic Opinions and Essays*
+
+H. JAMES. *The Art of the Novel*
+
+BABBITT. *The New Laokoon*
+
+KALLEN. *The Book of Job as Greek Tragedy*
+
+MARITAIN. *Art and Scholasticism (Frontiers of Poetry)*
+
+JUNG. *On the Relations of Analytical Psychology to Poetic Art*
+
+ABERCROMBIE. *The Theory of Poetry*
+
+RICHARDS. *Principles of Literary Criticism*
+
+——. *Science and Poetry*
+
+FORSTER. *Aspects of the Novel*
+
+LOWES. *The Road to Xanadu*
+
+ROUTH. *God, Man, and Epic Poetry*
+
+MUIR. *The Structure of the Novel*
+
+BUCHANAN. *Poetry and Mathematics*
+
+H. E. READ. *Form in Modern Poetry*
+
+CROCE. *Aesthetic as Science of Expression*
+
+——. *The Defense of Poetry*
+
+T. S. ELIOT. *The Sacred Wood*
+
+——. “The Function of Criticism,” “Rhetoric and Poetic Drama,” “A Dialogue on Dramatic Poetry,” in *Selected Essays*
+
+——. *The Use of Poetry and the Use of Criticism*
+
+HOUSMAN. *The Name and Nature of Poetry*
+
+TATE. *Reactionary Essays on Poetry and Ideas*
+
+YEATS. *Letters on Poetry*
+
+SANTAYANA. *Interpretations of Poetry and Religion*, CH 2, 7, 10
+
+——. *Reason in Art*, CH 6
+
+——. *Soliloquies in England and Later Soliloquies*, CH 32-33, 37
+
+——. *The Realm of Truth*, CH 7
+
+RANSOM. *The World’s Body*
+
+VALÉRY. *Variety*
+
+——. *Introduction a la poétique*
+
+CASSIRER. *The Myth of the State*, PART I
+
+VAN DOREN. *The Noble Voice*
+
+SARTRE. *What Is Literature?*

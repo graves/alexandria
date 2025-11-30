@@ -1,0 +1,9 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN pip install --no-cache-dir elasticsearch==8.11.0
+
+COPY scripts/index_books.py /app/index_books.py
+
+CMD ["python", "/app/index_books.py"]

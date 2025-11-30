@@ -1,0 +1,1017 @@
+# Chapter 76: QUANTITY
+
+## INTRODUCTION
+
+**As indicated** in the chapter on QUALITY, the traditional consideration of that fundamental notion involves questions concerning the relation of quality and quantity and the priority of one or the other in the nature of things. According to one theory of the elements, difference in quality rather than in quantity seems to be the defining characteristic. Certain kinds of qualities, it is thought, inhere in substances directly and without being based upon their quantitative aspects. But it is seldom if ever suggested that quality takes universal precedence over quantity.
+
+In the tradition of western thought, the opposite view—that quantities are primary—seems to occur with some frequency, at least so far as the realm of material things is concerned. It is held that bodies have only quantitative attributes. Such sensible qualities as colors, odors, tastes, textures are thought to have no reality apart from experience; or, as it is sometimes put, red and blue, hot and cold, sweet and sour are the qualities of sensations, not of things.
+
+Those who think that bodies can exist without being perceived, also tend to think that bodies can exist totally bereft of qualities, but never without the dimensions of quantity. The notions of matter and quantity seem to be inseparably associated. For matter to exist without existing in some quantity seems to be as inconceivable as for experience to exist without qualitative diversity. “As if there could be matter,” says Hobbes, “that had not some determined quantity, when quantity is nothing else but determination of matter; that is to say, of body, by which we say that one body is greater or less than another by thus or thus much.”
+
+The use of the word “quality” where quantity appears to be meant only slightly obscures this point. Newton refers to “extension, hardness, impenetrability, mobility, and inertia” as “the qualities of bodies” which “are to be esteemed the universal qualities of all bodies whatsoever.” Following him, Locke calls our simple ideas of “solidity, extension, figure, motion or rest, and number” ideas of “the original or primary qualities of bodies,” and says that even if bodies are divided “till their parts become insensible, they must retain still each of them all those qualities. For division... can never take away either solidity, extension, figure, or mobility from any body, but only makes two or more distinct separate masses of matter, of that which was one before.”
+
+Though Locke uses the word “quality” for those attributes which belong to bodies even when they are not sensed or are not even sensible, he also appears to recognize that number, extension, and figure are, as the traditional objects of the mathematical sciences, traditionally regarded as quantities rather than qualities. “It has been generally taken for granted,” he writes, “that mathematics alone are capable of demonstrative certainty; but to have such an agreement or disagreement as may intuitively be perceived, being, as I imagine, not the privilege of the ideas of number, extension, and figure alone, it may possibly be the want of due method and application in us... that demonstration has been thought to have so little to do in other parts of knowledge.” Yet, he adds, “in other simple ideas, whose modes and differences are made and counted by degrees, and not quantity, we have not so nice and accurate a distinction of their differences as to perceive, or find ways to measure, their just equality.”
+
+Newton also gives some indication that his “universal qualities” are quantities. He restricts them to attributes “which admit neither intensification nor remission of degrees.” One difference between quantity and quality, according to an ancient opinion, is that qualities are subject to variation in degree, quantities not. One thing may be white or hot to a greater or less degree than another, Aristotle observes, but “one thing cannot be two cubits long in a greater degree than another. Similarly with regard to number: what is ‘three’ is not more truly three than what is ‘five’ is five . . . Nor is there any other kind of quantity, of all that have been mentioned, with regard to which variation in degree can be predicated.”
+
+**GRANTED THAT WHAT** Newton and Locke call “qualities” are not qualities, except in the sense in which the word “quality” means attribute, difficult questions remain concerning their enumeration of the universal or primary attributes of bodies. Do extension, hardness, impenetrability, motion and rest, figure and number constitute an exhaustive enumeration? Are these *all* the corporeal quantities, or only the basic ones from which others can be derived? Are they all of the same kind and, among them, are some more fundamental than others?
+
+Descartes, for example, seems to make extension the one primary attribute of bodies. “I observed,” he writes, “that nothing at all belonged to the nature or essence of bodies, except that it was a thing with length, breadth, and depth, admitting of various shapes and various motions. I found also that its shape and motions were only modes, which no power could make to exist apart from it... Finally, I saw that gravity, hardness, the power of heating, of attracting, and of purging, and all other qualities which we experience in bodies, consisted solely in motion or its absence, and in the configuration and situation of their parts.”
+
+With motion and figure modes of extension, and all the other properties of bodies the result of their motions or configurations, the three dimensions of extension (or spatial magnitude) become almost identical with body itself. Considering the statement *body possesses extension*, Descartes points out that, though “the meaning of extension is not identical with that of body, yet we do not construct two distinct ideas in our imagination, one of body, the other of extension, but merely a single image of extended body; and from the point of view of the thing it is exactly as if I had said: *body is extended*, or better, *the extended is extended*.”
+
+But, Descartes adds, when we consider the expression *extension is not body*, “the meaning of the term extension becomes otherwise than as above. When we give it this meaning there is no special idea corresponding to it in the imagination.” It becomes a purely abstract entity, which may properly be the object of the geometer’s consideration; but then it should be treated as an abstraction and not as if it had independent reality.
+
+Aquinas also distinguishes between physical and mathematical quantities, or the quantities which inhere in bodies and the quantities abstracted therefrom. “Quantities, such as number, dimension, and figure, which are the terminations of quantity, can be considered apart from sensible qualities, and this is to abstract them from sensible matter. But they cannot be considered without understanding the substance which is subject to quantity” —that is, corporeal or material substance. Like a body, a mathematical solid has three dimensions, but, as Aquinas points out, lacking matter, this three-dimensional object does not occupy space or fill a place. The three spatial dimensions are not for him, however, the only primary quantities of either the physical or the mathematical body. Number and figure are as fundamental.
+
+Still another enumeration of corporeal quantities is given by Lucretius in his description of the properties of atoms. According to him, atoms vary in size, weight, and shape. Each of these attributes is a distinct quantity, not reducible to the others. In addition, atoms have the property which Newton calls “impenetrability” and Locke “solidity.” But whereas atoms may be unequal in size and weight, and different in shape or configuration, they are all equal in their solidity, being absolutely indivisible through lack of void or pores.
+
+**THE DISTINCTION BETWEEN** mathematical and physical quantity and the enumeration or ordering of diverse quantities seem to require the consideration of two prior questions. What is the nature of quantity? What are the kinds or modes of quantity?
+
+Terms like quantity and quality do not appear to be susceptible of definition. Quantity is, perhaps, the fundamental notion in the mathematical sciences, yet neither it nor such terms as magnitude, figure, and number are defined in the great books of geometry or arithmetic. In Aristotle’s theory of the categories as the highest genera, such terms as substance, quantity, quality, and relation are strictly indefinable, if to define a term is to give its genus and differentia.
+
+With quite a different theory of the categories, Kant also treats them as indefinable. As indicated in the chapter on QUALITY, they are for him the transcendental concepts of the understanding. He uses such terms as quantity, quality, and relation, with modality as a coordinate fourth, to represent the four major groupings of the categories. In his table of the categories, Kant’s treatment of quantity, under which he lists the concepts of unity, plurality, and totality, parallels the treatment of quantity in his table of judgments, according to which judgments are classified as universal, particular, and singular. All these considerations of quantity belong to what Kant calls his “transcendental logic.” So far as Kant considers quantity in its mathematical or physical (rather than logical) significance, he discusses it in connection with the transcendental forms of space and time which provide, according to him, the *a priori* foundations of geometry and arithmetic—the sciences of magnitude and number. But in none of these connections are quantity and its principal modes, magnitude and number, defined.
+
+Though indefinable, quantity can, according to Aristotle, be characterized by certain distinctive marks. As we have already observed, where qualities admit of variation in degree, quantities do not. With few exceptions, each quality has a contrary, whereas definite quantities such as an extent or a number are not opposed by contrary quantities. Aristotle considers the possibility that such apparently quantitative terms as ‘large’ and ‘small’ may also appear to be contrary to one another, as hot is to cold, or white is to black. But, he argues, these terms represent quantities only relatively, not absolutely. When things are compared with respect to size, one may be judged to be both larger and smaller than others, but the sizes of each of two things unequal in size are not contrary to one another.
+
+These two characteristics (lack of contrariety and of variation in degree) do not, however, satisfy Aristotle’s search for a distinctive mark of quantity. They apply to substances, such as tree or man, as well as to figures and numbers. This fact could have some bearing on the issue whether the objects of mathematics have a separate existence comparable to that of substances, but in Aristotle’s view at least, quantities are not substances. Physical quantities are the attributes of bodies; the objects of mathematics consist of quantities abstracted from sensible matter.
+
+Conceiving quantity as one of the attributes of substance, Aristotle says that “the most distinctive mark of quantity is equality and inequality.” Only when things are compared quantitatively can they be said to be equal or unequal; and, conversely, in whatever respect things are said to be equal or unequal, in that respect they are determined in quantity.
+
+“How far is it true,” Plotinus asks, “that equality and inequality are characteristic of quantity?” It is significant, he thinks, that triangles and other figures are said to be similar as well as equal. “It may, of course, be the case that the term ‘similarity’ has a different sense here from that understood in reference to quality”; or another alternative, Plotinus adds, may be that “similarity is predicable of quantity only insofar as quantity possesses [qualitative] differences.” In any case, comparison, whether in terms of equality or likeness, seems to generate the relationships fundamental to the mathematical treatment of quantities.
+
+Euclid does not define magnitude in itself, but only the relation of magnitudes to one another. The first four definitions in the fifth book of his *Elements* illustrate this. “1. A magnitude is a part of a magnitude, the less of the greater, when it measures the greater. 2. The greater is a multiple of the less when it is measured by the less. 3. A ratio is a sort of relation in respect of size between two magnitudes of the same kind. 4. Magnitudes are said to have a ratio to one another, which are capable, when multiplied, of exceeding one another.”
+
+Archimedes also states his understanding of the distinction between kinds of magnitudes—without defining these kinds—by reference to their comparability. Assuming that any given magnitude can, by being multiplied, exceed any other magnitude of the same kind, he is able to know that magnitudes are of the same kind if, by being multiplied, they can exceed one another. It follows that an indivisible point and a finite or divisible magnitude, such as a line, are not of the same kind, for they cannot have a ratio to one another. For the same reason, the length of line, the area of a plane, and the volume of a solid are not magnitudes of the same kind. Since they bear no ratio to one another, they are quantitatively incomparable.
+
+**THE EMPHASIS UPON** ratios has some significance for a controversial point in the definition of the subject matter of mathematics. In the tradition of the great books, mathematicians and philosophers seem to agree that arithmetic and geometry have as their objects the two principal species of quantity—number and magnitude. This is the opinion of Euclid, Nicomachus, Descartes, and Galileo; it is the opinion of Plato, Aristotle, Aquinas, Bacon, Hume, and Kant. But writers like Russell and Whitehead, who reflect developments in mathematics since the 19th century, reject the traditional opinion as unduly narrowing the scope of mathematics.
+
+To give adequate expression to the universality of mathematics, they sometimes propose that it should be conceived as the science not merely of quantity, but of relations and order. In view of the fact that the great books of mathematics deal with quantities largely in terms of their relationship or order to one another, the broader conception seems to fit the older tradition as well as more recent developments. Whether there is a genuine issue here concerning the definition of mathematical subject matter may depend, therefore, on whether the fundamental terms which generate the systems of relationship and order are or are not essentially quantitative. To this question the traditional answer seems to be that the mathematician studies not relations of any sort, but the relation of quantities.
+
+The problem of the kinds of quantity seems to appeal for solution to the principle of commensurability. For example, Galileo’s observation that finite and infinite quantities cannot be compared in any way, implies their utter diversity. But he goes further and says that “the attributes ‘larger,’ ‘smaller,’ and ‘equal’ have no place either in comparing infinite quantities with each other or in comparing infinite with finite quantities.” If the notion of quantity entails the possibility of equality or inequality between two quantities of the same kind, then either infinite quantities are not quantities, or each infinite quantity belongs to a kind of its own.
+
+The principle of incommensurability seems to be applied by mathematicians to distinguish quantities which are different species of the same generic kind. For example, the one-dimensional, two-dimensional, and three-dimensional quantities of a line, a plane, and a solid, are incommensurable magnitudes. The number of days in a year and the number of years in infinite or endless time are incommensurable multitudes.
+
+The distinction between magnitude and multitude (or number) as two modes of quantity appears to be based upon another principle, that of continuity and discontinuity. Yet the question can be raised whether magnitudes are commensurable with numbers, at least to the extent of being measured by numbers. It may be necessary, however, to postpone answering it until we have examined the fundamental difference between magnitude and multitude as generic kinds of quantity.
+
+What if magnitude and multitude, or continuous and discontinuous quantity, do not divide quantity into its ultimate kinds? Aquinas, for example, proposes that the two basic kinds are dimensive and virtual quantity. “There is quantity of bulk or dimensive quantity,” he writes, “which is to be found only in corporeal things, and has, therefore, no place in God. There is also quantity of virtue, which is measured according to the perfection of some nature or form.” It is in the latter sense, according to Aquinas, that Augustine writes: “In things which are great, but not in bulk, to be greater is to be better.”
+
+Just as dimensive quantities can be incommensurable with one another, so with respect to virtual quantities, God’s infinite perfection makes him incommensurable with finite creatures. But a dimensive quantity cannot be either commensurable or incommensurable with a virtual quantity. The standard of measurement by which dimensive quantities are compared, and the standard by which virtual quantities are ordered, represent utterly diverse principles of commensurability. Euclid’s statement that “those magnitudes are said to be commensurable which are measured by the same measure, and those incommensurable which cannot have a common measure,” cannot be extended to cover dimensive and virtual quantities, for the very meaning of “measure” changes when we turn from the dimensions of a body to the perfections of a being.
+
+The distinction which Aquinas makes between dimensive and virtual magnitudes has its parallel in the distinction he makes between two kinds of number, for both depend on the difference between material and formal quantity. “Division is twofold,” he writes. “One is material, and is division of the continuous; from this results number, which is a species of quantity. Number in this sense is found only in material things which have quantity. The other kind of division is formal, and is effected by opposite or diverse, forms; and this kind of division results in a multitude, which does not belong to a genus, but is transcendental in the sense in which being is divided by one and many. Only this kind of multitude is found in immaterial things.” According to the example suggested in the context, such is the multitude which is the number of persons in the Trinity.
+
+**THE MATERIAL** quantities of physics and mathematics seem to fall under the two main heads of magnitude and multitude. “Quantity is either discrete or continuous,” writes Aristotle. “Instances of discrete quantities are number and speech; of continuous, lines, surfaces, solids, and, besides these, time and place.” Nicomachus explains the two kinds of quantity by examples. “The unified and continuous,” he says, is exemplified by “an animal, the universe, a tree, and the like, which are properly and peculiarly called ‘magnitudes’”; to illustrate the discontinuous, he points to “heaps of things, which are called ‘multitudes,’ a flock, for instance, a people, a chorus, and the like.”
+
+The principle of this distinction appears to be the possession or lack of a common boundary. To take Aristotle’s example of speech as a quantity, the letters of a written word or the syllables of vocal utterance comprise a multitude rather than a continuum or magnitude “because there is no common boundary at which the syllables join, each being separate and distinct from the rest.” The continuity of magnitudes can be readily seen, according to Aristotle, in the possibility of finding a common boundary at which the parts of a line join or make contact. “In the case of a line,” he says, “this common boundary is the point; in the case of a plane, it is the line... . Similarly, you can find a common boundary in the case of the parts of a solid, namely, either a line or a plane.”
+
+Accepting the principle of the distinction, Plotinus insists that “number and magnitude are to be regarded as the only true quantities.” All others, like space and time, or motion, are quantities only in a relative sense, that is, insofar as they can be measured by number or involve magnitude. Galileo raises another sort of difficulty. The Aristotelian conception of magnitudes as continuous quantities implies their infinite divisibility. This means, in his terms, that “every magnitude is divisible into magnitudes” and that “it is impossible for anything continuous to be composed of indivisible parts.” Galileo acknowledges the objections to “building up continuous quantities out of indivisible quantities” on the ground that “the addition of one indivisible to another cannot produce a divisible, for if this were so it would render the indivisible divisible.” Suppose a line to comprise an odd number of indivisible points. Since such a line can, in principle, be cut into two equal parts, we are required to do the impossible, namely, “to cut the indivisible which lies exactly in the middle of the line.”
+
+To this and other objections which seem to him of the same type, Galileo replies that “a divisible magnitude cannot be constructed out of two or ten or a hundred or a thousand indivisibles, but requires an infinite number of them. ... I am willing,” he says, “to grant to the Peripatetics the truth of their opinion that a continuous quantity is divisible only into parts which are still further divisible, so that however far the division and subdivision be continued, no end will be reached; but I am not so certain that they will concede to me that none of these divisions of theirs can be a final one, as is surely the fact, because there always remains ‘another’; the final and ultimate division is rather one which resolves a continuous quantity into an infinite number of indivisible quantities.”
+
+The question remains whether these indivisible units, an infinite number of which constitute the continuity of a finite magnitude, can properly be called quantities. At least they are not magnitudes, as is indicated by Euclid’s definition of a point as “that which has no part,” or by Nicomachus’ statement that “the point is the beginning of dimension, but is not itself a dimension.” If, in addition to having position, a point had size or extent, a finite line could not contain an infinite number of points. This problem of infinite and infinitesimal quantities is more fully discussed in the chapter on INFINITY.
+
+**WITHIN EACH OF** the two main divisions of quantity—magnitude and number—further sub-divisions into kinds are made. Relations of equality and inequality, or proportions of these ratios, may occur between quantities different in kind—different plane figures, for example. But the great books of mathematics indicate other problems in the study of quantity than those concerned with the ratios and proportions of quantities. The classification of lines and figures results in the discovery of the properties which belong to each type. Possessing the same properties, all lines or figures of a certain type are similar in kind, not equal in quantity. In addition to developing the properties of such straight lines as perpendiculars and parallels, or such curved lines as circles and ellipses, parabolas and hyperbolas, the geometer defines the different types of relationship in which straight lines can stand to curves, e.g., tangents, secants, asymptotes.
+
+As there are types of lines and figures, both plane and solid, so there are types of numbers. Euclid and Nicomachus divide the odd numbers into the prime and the composite—into those which are divisible only by themselves and unity, such as 5 and 7, and those which have other factors, such as 9 and 15. The composite are further differentiated into the variety which is simply secondary and composite and “the variety which, in itself, is secondary and composite, but relatively is prime and incomposite.” To illustrate the latter, Nicomachus asks us to compare 9 with 25. “Each in itself,” he writes, “is secondary and composite, but relatively to each other they have only unity as a common measure, and no factors in them have the same denominator, for the third part in the former does not exist in the latter nor is the fifth part in the latter found in the former.”
+
+The even numbers are divided by Nicomachus into the even-times-even (numbers like 64 which can be divided into equal halves, and their halves can again be divided into equal halves, and so on until division must stop); the even-times-odd (numbers like 6, 10, 14, 18 which can be divided into equal halves, but whose halves cannot be divided again into equal halves); and the odd-times-even (numbers like 24, 28, 40 which can be divided into equal parts, whose parts also can be so divided, and perhaps again these parts, but which cannot be divided in this way as far as unity). By another principle of classification, the even numbers fall into the superabundant, the deficient, and the perfect. The factors which produce superabundant or deficient numbers, when added together, amount to more or less than the number itself; but a number is perfect, Nicomachus writes, when, “comparing with itself the sum and combination of all the factors whose presence it will admit, it neither exceeds them in multitude nor is exceeded by them.” It is “equal to its own parts”; as, for example, 6, “for 6 has the factors half, third, and sixth, 3, 2, and 1, respectively, and these added together make 6 and are equal to the original number.” At the time of Nicomachus only four perfect numbers were known—6, 28, 496, 8128; since his day seven more have been discovered.
+
+The further classification of numbers as linear, plane, and solid, and of plane numbers as triangular, square, pentagonal, etc., assigns properties to them according to their configurations. The analysis of figurate numbers by Nicomachus or Pascal represents one of the great bridges between arithmetic and geometry, of which the other, in the opposite direction, is the algebraic rendering of geometrical loci in Descartes’ analytical geometry.
+
+In either direction of the translation between arithmetic and geometry, discontinuous and continuous quantities seem to have certain properties in common, at least by analogy. Euclid, for example, proposes numerical ratios as the test for the commensurability of magnitudes. “Commensurable magnitudes have to one another,” he writes, “the ratio which a number has to a number.” With the exception of infinite numbers, all numbers are commensurable and so provide the criterion for determining whether two magnitudes are or are not commensurable.
+
+Introducing the notion of dimensionality into the discussion of figurate numbers, Nicomachus observes that “mathematical speculations are always to be interlocked and to be explained one by means of another.” Though the dimensions by which linear, plane, and solid numbers are to be distinguished “are more closely related to magnitude ... yet the germs of these ideas are taken over into arithmetic as the science which is the mother of geometry and more elementary than it.” The translation does not seem to fail in any respect. The only non-dimensional number, unity, finds its geometrical analogue in the point, which has position without magnitude.
+
+When diverse magnitudes are translated into numbers, the diversity of the magnitudes seems to be effaced by the fact that their numerical measures do not have a corresponding diversity. The numbers will appear to be commensurable though the magnitudes they measure are not, as magnitudes, comparable. As Descartes points out, it is necessary, therefore, to regard each order of magnitude as a distinct dimension.
+
+“By dimension,” Descartes writes, “I understand nothing but the mode and aspect according to which a subject is considered to be measurable. Thus it is not merely the case that length, breadth, and depth are dimensions; but weight also is a dimension in terms of which the heaviness of objects is estimated. So, too, speed is a dimension of motion, and there are an infinite number of similar instances. For that very division of the whole into a number of parts of identical nature, whether it exist in the real order of things or be merely the work of the understanding, gives us exactly that dimension in terms of which we apply number to objects.”
+
+The theory of dimensions can be illustrated by the choice of clocks, rules, and balances as the fundamental instruments for the measurement of physical quantities. They represent the three dimensions in the fundamental equations of mechanics—time, distance, and mass.
+
+Additional dimensions may be introduced in electricity or thermodynamics. In developing the theory of heat, Fourier, for example, enumerates five quantities which, in order to be numerically expressed, require five different kinds of units, “namely, the unit of length, the unit of time, that of temperature, that of weight, and finally the unit which serves to measure quantities of heat.” To which he adds the remark that “every undetermined magnitude or constant has one dimension proper to itself, and that the terms of one and the same equation could not be compared, if they had not the same exponent of dimension.”
+
+A fuller discussion of the basic physical quantities, their definition, measurement, and their relation to one another, belongs to the chapter on MECHANICS. The consideration of time and space as quantities, or physical dimensions, occurs in the chapters devoted to those subjects.
+
+---
+
+## OUTLINE OF TOPICS
+
+1.  The nature and existence of quantity: its relation to matter, substance, and body; the transcendental categories of quantity
+    1a. The relation between quantity and quality: reducibility of quality to quantity
+    1b. The relation of quantities: equality and proportion
+
+2.  The kinds of quantity: continuous and discontinuous
+
+3.  The magnitudes of geometry: the relations of dimensionality
+    3a. Straight lines: their length and their relations; angles, perpendiculars, parallels
+    3b. Curved lines: their kinds, number, and degree
+        1.  Circles
+        2.  Ellipses
+        3.  Parabolas
+        4.  Hyperbolas
+    3c. The relations of straight and curved lines: tangents, secants, asymptotes
+    3d. Surfaces
+        1.  The measurement and transformation of areas
+        2.  The relations of surfaces to lines and solids
+    3e. Solids: regular and irregular
+        1.  The determination of volume
+        2.  The relations of solids: inscribed and circumscribed spheres; solids of revolution
+
+4.  Discrete quantities: number and numbering
+    4a. The kinds of numbers: odd-even, square-triangular, prime-composite
+    4b. The relations of numbers to one another: multiples and fractions
+    4c. The number series as a continuum
+
+5.  Physical quantities
+    5a. Space: the matrix of figures and distances
+    5b. Time: the number of motion
+    5c. The quantity of motion: momentum, velocity, acceleration
+    5d. Mass: its relation to weight
+    5e. Force: its measure and the measure of its effect
+
+6.  The measurements of quantities: the relation of magnitudes and multitudes; the units of measurement
+    6a. Commensurable and incommensurable magnitudes
+    6b. Mathematical procedures in measurement: superposition, congruence; ratio and proportion; parameters and coordinates
+    6c. Physical procedures in measurement: experiment and observation; clocks, rules, balances
+
+7.  Infinite quantity: the actual infinite and the potentially infinite quantity; the mathematical and physical infinite of the great and the small
+
+---
+## REFERENCES
+
+To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4 Homer**: *Iliad*, BK II [265-283] 12d, the number **4** is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12.
+
+**Page Sections**: When the text is printed in one column, the letters a and b refer to the upper and lower halves of the page. For example, in **53 James**: *Psychology*, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters a and b refer to the upper and lower halves of the left-hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of the page. For example, in **7 PLATO**: *Symposium*, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.
+
+**Author’s Divisions**: One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., *Iliad*, BK II [265-283] 12d.
+
+**Bible References**: The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows; e.g., OLD TESTAMENT: Nehemiah, 7:45—(D) II Esdras, 7:46.
+
+**Symbols**: The abbreviation “esp” calls the reader’s attention to one or more especially relevant parts of a whole reference; “passim” signifies that the topic is discussed intermittently rather than continuously in the work or passage cited.
+
+For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of The Great Ideas, consult the Preface.
+
+### 1. The nature and existence of quantity: its relation to matter, substance, and body; the transcendental categories of quantity
+
+**7 PLATO**: *Theaetetus*, 518b-519b / *Sophist*, 566d / *Philebus*, 616a
+
+**8 ARISTOTLE**: *Categories*, CH 5 [3a24-4a9] 8a-b; CH 6 9a-11a / *Posterior Analytics*, BK I, CH 13 [79b6-10] 108c; CH 18 [81a40-b6] 111b-c / *Topics*, BK I, CH 9 147a-b / *Physics*, BK I, CH 2 [185a20-4] 260a-b; CH 4 [187b14-22] 262d; BK II, CH 2 [193b22-194a11] 270a-c; BK IV, CH 1 [208b19-24] 287b-c; CH 2 288b-289a / *Metaphysics*, BK I, CH 5 [985b22-986a21] 503d-504b; CH 6 [987b10-34] 505c-506a; CH 8 [989b29-990a32] 508a-c; CH 9 [991b9-992a17] 509d-511a; BK II, CH 1 [995b13-18] 514a; [996a13-15] 514c; CH 2 [997a12-998a19] 516b-d; CH 5 520c-521b; BK V, CH 13 541b-c; BK VII, CH 10 [1035b32-1036a12] 559b-c; CH 11 [1036b32-1037a4] 560b-c; BK VIII, CH 3 [1043b34-1044a14] 568b-d; BK IX, CH 1 [1045b28-32] 570b; BK XI, CH 2 [1060b36-19] 588c-d; CH 3 [1061a29-4] 589c; BK XII, CH 1 [1069a18-25] 598a; CH 5 [1071a23-31] 600d-601a; BK XIII, CH 1-3 607a-610a; CH 6-9 611d-618c; BK XIV 619b,d-626d / *Soul*, BK I, CH 4 [408b31]-CH 5 [409b18] 638d-639c; BK III, CH 7 [431b13-19] 664b
+
+**11 NICOMACHUS**: *Arithmetic*, BK I, 811b-812a
+
+**17 PLOTINUS**: *Second Ennead*, TR IV, CH 9 53a-b; CH 11-12 53d-55b / *Third Ennead*, TR VI, CH 16-18 116c-118c / *Fourth Ennead*, TR VII, CH 8, 196a-b / *Fifth Ennead*, TR I, CH 4, 210b-c / *Sixth Ennead*, TR I, CH 4-5 253b-254d; TR II, CH 13 276a-c; TR III, CH 11-15 286d-289c; TR VI 310d-321b esp CH 3-7 311c-314a, CH 13-18 316d-321b
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 3, A 2, CONTRARY 15c-16a; Q 5, A 3, REP 4 25a-d; Q 7, A 1, REP 2 31a-d; Q 8, A 2, REP 3 35c-36b; Q 10, A 6, ANS 45c-46d; Q 11, A 1, REP 1 46d-47d; A 3, REP 2 49a-c; Q 44, A 1, REP 3 238b-239a; Q 85, A 1, REP 2 451c-453c
+
+**20 AQUINAS**: *Summa Theologica*, PART I-II, Q 52, A 1, ANS 15d-18a; PART III SUPPL, Q 79, A 1, REP 3 951b-953b; Q 80, A 5, REP 3 963a-964b; Q 83, A 2, ANS 976c-978c; A 3, REP 2 978c-980d
+
+**23 HOBBES**: *Leviathan*, PART III, 172b; PART IV, 269d-270a; 271d-272a
+
+**31 DESCARTES**: *Rules*, XII, 18d-19c; XIV, 29b-30b / *Objections and Replies*, 154a; 231a-b
+
+**31 SPINOZA**: *Ethics*, PART I, PROP 15, SCHOL 360b-361d; PART II, PROP 2 374a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH VIII, SECT 9-26 134c-138b passim, esp SECT 9 134c; CH XXIII, SECT 9, 206b; CH XXXII, SECT 2, 239d
+
+**35 BERKELEY**: *Human Knowledge*, SECT 9-15 414d-416a; SECT 73 427b-c
+
+**42 KANT**: *Pure Reason*, 15b-c; 41c-45b esp 43d-44a; 69c-72c; 74b-76c; 137a-140a,c; 161d-163a; 211c-213a
+
+**53 JAMES**: *Psychology*, 551a; 874a-878a esp 875a-876b, 878a
+
+### 1a. The relation between quantity and quality: reducibility of quality to quantity
+
+**7 PLATO**: *Meno*, 176d-177a / *Timaeus*, 458b-460b; 462b-465d / *Philebus*, 615c-616c
+
+**8 ARISTOTLE**: *Categories*, CH 7 [6b20-26] 11b; CH 8 [10a11-16] 15a-b; [10b26-11a14] 15d-16b / *Generation and Corruption*, BK I, CH 2 [315b32-316a4] 411b-c / *Metaphysics*, BK V, CH 4 [1014b20-27] 535a; CH 14 [1020a3-8] [1020b14-17] 541d; CH 28 [1024b10-16] 546c; BK X, CH 1 [1052b1-1053b8] 578d-580a; BK XI, CH 6 [1063a22-28] 591c; BK XII, CH 1 [1069a18-25] 598a; BK XIII, CH 8 [1083a1-17] 614d / *Soul*, BK II, CH 11 [424a14-19] 657b / *Sense and the Sensible*, CH 6 [445b4-446a20] 683b-684c; CH 7 [448a20-b16] 687a-d; [449a21-30] 688d-689a
+
+**10 GALEN**: *Natural Faculties*, BK I, CH 2, 167d-168b
+
+**11 EUCLID**: *Elements*, BK VII, DEFINITIONS, 16-19 127b
+
+**11 NICOMACHUS**: *Arithmetic*, BK II, 831d-841c
+
+**12 LUCRETIUS**: *Nature of Things*, BK I [298-304] 4d; BK II [398-521] 20a-21c; [677-687] 23c-d; [730-864] 24b-26a; BK III [221-227] 32d-33a; BK IV [26-268] 44b-47d; [522-721] 51a-53d
+
+**17 PLOTINUS**: *Second Ennead*, TR IV, CH 13 55b-d / *Fourth Ennead*, TR VII, CH 8, 196a-b / *Fifth Ennead*, TR I, CH 4, 210c / *Sixth Ennead*, TR III, CH 13-15 287d-289c
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 8, A 2, REP 3 35c-36b; Q 42, A 1, REP 1-2 224b-225d; Q 78, A 3, REP 2 410a-411d
+
+**20 AQUINAS**: *Summa Theologica*, PART I-II, Q 49, A 2, ANS 2b-4a; Q 50, A 1, REP 3 6a-7b; Q 52 15d-19c; Q 53, AA 2-3 21a-22d; PART II-II, Q 24, AA 4-10 491d-498a; PART III, Q 7, A 12 754c-755c
+
+**23 HOBBES**: *Leviathan*, PART I, 49a-d; PART III, 172b
+
+**31 DESCARTES**: *Rules*, XII, 19a-c / *Objections and Replies*, 162d-165d; 228c-229c; 231a-b
+
+**34 NEWTON**: *Optics*, BK I, 428a-b; 431a-455a esp 450a-453a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH VIII, SECT 9-26 134c-138b passim; CH XXI, SECT 3 178d; SECT 75 200b-d; CH XXIII, SECT 8-9 206a-c; SECT 11 206d-207a; SECT 37, 214a-b; CH XXXI, SECT 2 239b-d; BK IV, CH II, SECT 9-13 311b-312b; CH III, SECT 12-14 316a-d; SECT 28 322a-c
+
+**35 BERKELEY**: *Human Knowledge*, SECT 9-15 414d-416a; SECT 25 417d-418a; SECT 73 427b-c; SECT 102 432d-433a
+
+**35 HUME**: *Human Understanding*, SECT XI, DIV 122 505c-d
+
+**42 KANT**: *Pure Reason*, 15b-c; 23a-24a; 32d-33b [fn 1]; 68a-72c; 211c-213a
+
+**43 MILL**: *Utilitarianism*, 448c-d; 475b [fn 1]
+
+**46 HEGEL**: *Philosophy of Right*, PART I, PAR 63 28b-c; ADDITIONS, 40 122d-123b
+
+**50 MARX**: *Capital*, 149d
+
+**53 JAMES**: *Psychology*, 104b; 319b-322a; 346a-348a
+
+**54 FREUD**: *Hysteria*, 87a / *Interpretation of Dreams*, 384a / *Narcissism*, 403d-404a / *Beyond the Pleasure Principle*, 639b-d
+
+### 1b. The relation of quantities: equality and proportion
+
+**7 PLATO**: *Phaedo*, 228d-229c / *Parmenides*, 494a-c; 500c-502a; 508c-d; 510d-511a / *Theaetetus*, 518b-519b
+
+**8 ARISTOTLE**: *Categories*, CH 6 [6a27-35] 10d-11a / *Generation and Corruption*, BK II, CH 6 [333a27-34] 434a / *Metaphysics*, BK V, CH 13 [1020a22-26] 541c; CH 15 [1020b26-1021a14] 542a-c; BK X, CH 3 [1054b1-3] 581b; CH 5-6 583a-584c; BK XIV, CH 1 [1088a20-29] 620c / *Memory and Reminiscence*, CH 2 [452b7-23] 694b-d
+
+**9 ARISTOTLE**: *Ethics*, BK II, CH 6 [1106a26-b8] 351d-352a; BK V, CH 3-5 378c-381d passim / *Politics*, BK V, CH 1 [1301b29-36] 503a
+
+**11 EUCLID**: *Elements*, BK I, COMMON NOTIONS 2a; PROP 4 4a-b; PROP 8 6b-7a; PROP 26 16a-17b; BK V 81a-98b esp DEFINITIONS, 5 81a, 7,9-10 81b; BK VI, PROP 23 117a-b; BK X 191a-300b
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, ASSUMPTIONS 404b / *Spirals*, 484b / *Quadrature of the Parabola*, 527a-b
+
+**11 NICOMACHUS**: *Arithmetic*, BK I-II, 821d-831d; BK II, 841c-848d
+
+**16 KEPLER**: *Harmonies of the World*, 1012b-1014b; 1078b-1080a
+
+**17 PLOTINUS**: *Sixth Ennead*, TR III, CH 15 289a-c
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 13, A 7, ANS 68d-70d; Q 42, A 1, ANS and REP I 224b-225d; Q 47, A 2, REP 2 257b-258c
+
+**20 AQUINAS**: *Summa Theologica*, PART I-II, Q 113, A 9, ANS 368d-369c
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 142a-145a
+
+**31 DESCARTES**: *Discourse*, PART V, 47c / *Geometry*, BK I, 295a-298b; BK III, 332b-341b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA I 25a; LEMMA II, SCHOL, 31b-32a; BK II, LEMMA I 159b; LEMMA 2 168a-169b
+
+**35 LOCKE**: *Human Understanding*, BK IV, CH I, SECT 9-10 311b-c
+
+**38 ROUSSEAU**: *Social Contract*, BK II, 407b-408b
+
+**42 KANT**: *Pure Reason*, 73c-d; 211c-213a / *Judgement*, 497a-498b passim
+
+**50 MARX**: *Capital*, 19a-25d esp 19d-20b, 25a-d
+
+**53 JAMES**: *Psychology*, 551a; 874a-878a esp 874b-875a
+
+### 2. The kinds of quantity: continuous and discontinuous
+
+**7 PLATO**: *Parmenides*, 499d-500c / *Theaetetus*, 515b-c
+
+**8 ARISTOTLE**: *Categories*, CH 6 [4b20-5a37] 9a-d / *Physics*, BK IV, CH 4 [211a29-b4] 290c; CH 5 [212b3-6] 291d; BK V, CH 3 [227a10-34] 307d-308b; BK VI, CH 1-2 312b,d-315d / *Heavens*, BK I, CH 1 [268a6-11] 359a / *Generation and Corruption*, BK I, CH 2 [315b25-317a17] 411b-413a; BK II, CH 10 [337a22-34] 439b-c / *Metaphysics*, BK III, CH 4 [1001b4-25] 519d-520c; BK V, CH 6 [1015b35-1016a17] 536b-c; [1016b-32] 537a-b; CH 13 [1020a9-14] 541b; BK VIII, CH 3 [1043b33-1044a14] 568b-d; BK X, CH 1 [1052a15-37] 578b,d; CH 3 [1054a20-29] 581a; BK XI, CH 12 [1068b26-1069a14] 597d-598a,c; BK XIV, CH 1 [1087b34-1088a14] 620a-b
+
+**9 ARISTOTLE**: *Ethics*, BK II, CH 6 [1106a26-28] 351d
+
+**11 EUCLID**: *Elements*, BK V, DEFINITIONS, 3-5 81a; BK VII, DEFINITIONS, 2 127a; 20 127b; BK X, PROP 1 191b-192a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, ASSUMPTIONS, 5 404b / *Spirals*, 484b / *Quadrature of the Parabola*, 527a-b
+
+**11 NICOMACHUS**: *Arithmetic*, BK I, 811d-812b
+
+**17 PLOTINUS**: *Second Ennead*, TR IV, CH 7, 52c / *Fourth Ennead*, TR I, CH 1, 139d-140a / *Sixth Ennead*, TR I, CH 4 253b-254b; TR III, CH 13, 287d-288a
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 3, A 1, REP 1 14b-15b; Q 7, AA 3-4 32c-34c; Q 11, A 2 47d-48d; Q 30, A 3, ANS and REP 2 169b-170c; Q 42, A 1, REP 1-2 224b-225d; Q 52, A 1 278d-279b; Q 85, A 8, REP 2 460b-461b
+
+**20 AQUINAS**: *Summa Theologica*, PART II-II, Q 24, A 4, REP 1 491d-492b; PART III, Q 7, A 12, REP 1 754c-755c
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 139c-153a passim; THIRD DAY, 201a-202a
+
+**30 BACON**: *Novum Organum*, BK I, APH 48 110d-111a
+
+**31 DESCARTES**: *Rules*, XIV, 32b-33b / *Discourse*, PART IV, 52d-53a / *Meditations*, V, 93b / *Geometry*, BK I, 295a-296b
+
+**31 SPINOZA**: *Ethics*, PART I, PROP 13, COROL 359d; PROP 15, SCHOL 360b-361d
+
+**33 PASCAL**: *Geometrical Demonstration*, 434b-439b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 1 25a; LEMMA II, SCHOL, 31a-32a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XV, SECT 9 164b-d; CH XVI, SECT 3-4 165d-166b
+
+**35 BERKELEY**: *Human Knowledge*, SECT 123-132 437c-439c
+
+**35 HUME**: *Human Understanding*, SECT XII, DIV 124-125 506a-507a
+
+**42 KANT**: *Pure Reason*, 66d-72c esp 68a-72c; 131c; 135a-140a,c esp 137d-138d [antithesis]; 152a-d; 161d-163a
+
+**51 TOLSTOY**: *War and Peace*, BK XI, 469a-d
+
+### 3. The magnitudes of geometry: the relations of dimensionality
+
+**8 ARISTOTLE**: *Categories*, CH 6 [5a1-23] 9b-c; CH 8 [10a11-16] 15a-b / *Topics*, BK VI, CH 6 [143b11-23] 197b/ *Heavens*, BK I, CH 1 359a-c; BK II, CH 4 [286b12-33] 378a-c / *Metaphysics*, BK I, CH 9 [992a10-24] 510b-c; BK V, CH 6 [1016b25-31] 537b; BK XIII, CH 2 [1077a14-37] 608b-d
+
+**11 EUCLID**: *Elements*, BK I, DEFINITIONS, 1-2,5 1a; 14 1b; BK XI, DEFINITIONS, 1 301a
+
+**11 NICOMACHUS**: *Arithmetic*, BK II, 832b-d
+
+**16 KEPLER**: *Epitome*, BK IV, 865a-b
+
+**17 PLOTINUS**: *Sixth Ennead*, TR II, CH 13 276a-c; TR III, CH 13-14 287d-289a
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 85, A 8, REP 2 460b-461b
+
+**23 HOBBES**: *Leviathan*, PART IV, 269d
+
+**31 DESCARTES**: *Rules*, XIV, 29b-32a / *Discourse*, PART IV, 52d-53a / *Meditations*, V, 93a-d; VI, 96b-d / *Objections and Replies*, 216d-217c; 228c-229a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XIII, SECT 5-6 149b-d
+
+**42 KANT**: *Pure Reason*, 25a-b
+
+**53 JAMES**: *Psychology*, 876b-878a
+
+### 3a. Straight lines: their length and their relations; angles, perpendiculars, parallels
+
+**8 ARISTOTLE**: *Prior Analytics*, BK I, CH 24 [41b14-21] 58c; CH 35 66c-d; BK II, CH 16 [64b28-65a9] 85c-d / *Posterior Analytics*, BK I, CH 4 [73a34-38] 100b; CH 5 101b-102b passim; CH 24 [85b37-86a3] 117b-c / *Topics*, BK VI, CH 11 [148b23-33] 203a / *Heavens*, BK I, CH 2 [268b15-20] 359d / *Metaphysics*, BK IX, CH 9 [1051a23-26] 577c
+
+**9 ARISTOTLE**: *Gait of Animals*, CH 9 [708b34-709a2] 247b
+
+**11 EUCLID**: *Elements*, BK I, DEFINITIONS, 2-4,8-12 1a; 23 2a; POSTULATES, 1-2,4-5 2a; PROP 1-34 2b-21b; BK II, PROP 11 38a-39a; BK IV, PROP 10 73b-74b; BK VI, DEFINITIONS, 2-3 99a; PROP 2-17 100b-112a; PROP 30 123a-b; PROP 32 124b-125a; BK X 191a-300b passim; BK XI, DEFINITIONS, 11 301b; PROP 1-23 302b-319a; PROP 26 321b-323a; PROP 35 332b-334b; BK XIII, PROP 5-12 372b-381a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, DEFINITIONS, 1-2 404a; ASSUMPTIONS, 1 404b; PROP 2 405a-b / *Spirals*, PROP 1-2 484b
+
+**16 PTOLEMY**: *Almagest*, BK I, 26a-28b
+
+**16 COPERNICUS**: *Revolutions of the Heavenly Spheres*, BK I, 543a-545b; BK II, 569b-570a
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 85, A 8, REP 2 460b-461b
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 149d-150d; THIRD DAY, 233d
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 16 53b-54a; LEMMA 23 67a; LEMMA 26 71a-72a; BK III, LEMMA 7 339b
+
+**42 KANT**: *Pure Reason*, 110a; 212c-d
+
+**52 DOSTOEVSKY**: *Brothers Karamazov*, BK V, 121a-b
+
+**53 JAMES**: *Psychology*, 876b-877a
+
+### 3b. Curved lines: their kinds, number, and degree
+
+**8 ARISTOTLE**: *Heavens*, BK I, CH 2 [268b15-20] 359d
+
+**11 EUCLID**: *Elements*, BK I, DEFINITIONS, 2-3 1a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, DEFINITIONS, 1-2 404a; ASSUMPTIONS, 2 404b / *Spirals*, DEFINITIONS -PROP 28 490a-501a
+
+**28 GALILEO**: *Two New Sciences*, SECOND DAY, 195b-c
+
+**31 DESCARTES**: *Geometry*, BK I-III, 298b-332b; BK III, 341a-353b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 11 29b-30b; LEMMA 15-PROP 29 and SCHOL 50a-75b; LEMMA 28 76b-78a; PROP 48-50 102b-105a; BK II, LEMMA 3 189b-190a; BK III, LEMMA 5 338b-339a
+
+#### 3b(1) Circles
+
+**8 ARISTOTLE**: *Categories*, CH 7 [7b29-33] 12c-d / *Prior Analytics*, BK I, CH 24 [41b14-21] 58c; BK II, CH 25 [69a30-34] 91a-b / *Posterior Analytics*, BK I, CH 11 [94a20-35] 128d-129a / *Heavens*, BK II, CH 4 [286b13-287a3] 378b-c / *Meteorology*, BK III, CH 3 [373a6-17] 477c-d; CH 5 480a-481c / *Metaphysics*, BK IX, CH 9 [1051a27-29] 577c
+
+**11 EUCLID**: *Elements*, BK I, DEFINITIONS, 15-18 1b; BK III-IV 41a-80b; BK VI, PROP 33 125a-126a; BK XII, PROP 2 339a-340b; PROP 16 362b-363a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, ASSUMPTIONS, 5 404b; PROP 1 405a; PROP 3-6 405b-408a / *Measurement of a Circle* 447a-451b / *Spirals*, PROP 3-9 485a-488a / *Book of Lemmas* 561a-568b
+
+**11 APOLLONIUS**: *Conics*, BK I, PROP 4-5 606b-608b; PROP 9 613b-614b; PROP 17-19 626a-627b; PROP 21 628a-629a; PROP 32 638a-640a; PROP 34 641a-643a; PROP 36-41 643b-653b; PROP 43 654b-655b; PROP 45 657a-658b; PROP 47 659b-660b; PROP 50 663a-666b; BK II, PROP 6-7 686b-687a; PROP 26-30 700b-702b; PROP 44 710b-711a; PROP 49-51 714b-726a; BK III, PROP 1-3 731a-735b; PROP 16-17 747b-750a; PROP 27 761b-762b; PROP 37-38 772b-775b; PROP 42 780b-782a; PROP 45-50 783b-790a; PROP 53-54 792b-796a
+
+**16 PTOLEMY**: *Almagest*, BK I, 14a-21a; 26a-28b; BK VI, 208a-b
+
+**16 COPERNICUS**: *Revolutions of the Heavenly Spheres*, BK I, 532b-538a; 545b-556b
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 149d-150d; 155b-156d
+
+**31 DESCARTES**: *Geometry*, BK II, 313b-314a
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 29 138a-b
+
+#### 3b(2) Ellipses
+
+**11 ARCHIMEDES**: *Conoids and Spheroids*, PROP 4-9 459a-464a; PROP 11-14 464b-467a
+
+**11 APOLLONIUS**: *Conics*, BK I, PROP 13 618a-620a; PROP 15 621b-624a; SECOND DEFINITIONS, 9,11 626a; PROP 17-19 626a-627b; PROP 21 628a-629a; PROP 23 630a-b; PROP 25 631a-b; PROP 30 636a-637a; PROP 32 638a-640a; PROP 34 641a-643a; PROP 36-41 643b-653b; PROP 43 654b-655b; PROP 45 657a-658b; PROP 47 659b-660b; PROP 50 663a-666b; PROP 56-58 675b-679b; BK II, PROP 6-7 686b-687a; PROP 26-30 700b-702b; PROP 44-45 710b-711b; PROP 47-50 712b-723a; BK II, PROP 52-BK III, PROP 3 726b-735b; BK III, PROP 16-17 747b-750a; PROP 27 761b-762b; PROP 37-38 772b-775b; PROP 42 780b-782a; PROP 45-50 783b-790a; PROP 52-54 791b-796a
+
+**16 KEPLER**: *Epitome*, BK V, 975a-984b passim
+
+**31 DESCARTES**: *Geometry*, BK II, 308b-313b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 12 41a; LEMMA 15-PROP 29 and SCHOL 50a-75b esp LEMMA 15-PROP 18 50a-51a; LEMMA 28, COROL-PROP 31 and SCHOL 78a-81a
+
+**34 HUYGENS**: *Light*, CH V, 604b-606b
+
+#### 3b(3) Parabolas
+
+**11 ARCHIMEDES**: *Conoids and Spheroids*, PROP 3 458b-459a; PROP 11 464b-465a / *Quadrature of the Parabola*, PROP 1-5 528a-529b; PROP 14-22 531b-536a; PROP 24 537a-b / *Method*, PROP 1 571a-572b
+
+**11 APOLLONIUS**: *Conics*, BK I, PROP 11 615a-616a; PROP 17-20 626a-628a; PROP 22 629a-630a; PROP 24 631a; PROP 26-27 631b-634a; PROP 32-33 638a-640b; PROP 35 643a-b; PROP 42 653b-654b; PROP 46 659a-b; PROP 49 661b-663a; PROP 52-53 668a-670b; BK II, PROP 5 686a; PROP 7 687a; PROP 24 699b-700a; PROP 28-30 701b-702b; PROP 44 710b-711a; PROP 46 711b-712a; PROP 48-51 713a-726a; BK III, PROP 1-3 731a-735b; PROP 16-17 747b-750a; PROP 37-38 772b-775b; PROP 41 778b-780b; PROP 54 793b-796a
+
+**28 GALILEO**: *Two New Sciences*, SECOND DAY, 193a-195c; FOURTH DAY, 238d-239d
+
+**31 DESCARTES**: *Geometry*, BK II, 308b-310b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 13-14 45a; LEMMA 15-PROP 29 and SCHOL 50a-75b esp PROP 19 51a; PROP 30 76a-b
+
+#### 3b(4) Hyperbolas
+
+**11 ARCHIMEDES**: *Conoids and Spheroids*, PROP 11 464b-465a
+
+**11 APOLLONIUS**: *Conics*, BK I, PROP 12 616a-618a; PROP 14 620a-621b; PROP 16-19 624b-627b; PROP 21-22 628a-630a; PROP 24 631a; PROP 26 631b-632b; PROP 28-32 634a-640a; PROP 34 641a-643a; PROP 36-41 643b-653b; PROP 43-45 654b-658b; PROP 47-48 659b-661a; PROP 50-51 663a-668a; PROP 54-55 670b-675a; PROP 59-60 679b-681b; BK II, PROP 1-5 682a-686a; PROP 7-23 687a-699b; PROP 25 700a; PROP 28-45 701b-711b; PROP 47-51 712b-726a; BK III, PROP 1-26 731a-761a; PROP 28-40 763a-778b; PROP 42-51 780b-791b; PROP 53-56 792b-798b
+
+**31 DESCARTES**: *Geometry*, BK II, 306b-307a; 308b-312b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 12 41a; LEMMA 15-PROP 29 and SCHOL 50a-75b esp LEMMA 15-PROP 18 50a-51a
+
+### 3c. The relations of straight and curved lines: tangents, secants, asymptotes
+
+**8 ARISTOTLE**: *Prior Analytics*, BK I, CH 24 [41b14-21] 58c
+
+**11 EUCLID**: *Elements*, BK III, DEFINITIONS, 2,4-5 41a; 7-11 41a-b; PROP 2-4 42b-44a; PROP 7-8 44b-47a; PROP 11-12 48b-49a; PROP 14-24 50a-56a esp PROP 16-17 51b-53a; PROP 26-29 57b-59a; BK III, PROP 31-BK IV, PROP 16 59b-80b; BK VI, PROP 33 125a-126a; BK XII, PROP 1 338a-339a; PROP 16 362b-363a; BK XIII, PROP 9-12 375b-381a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, ASSUMPTIONS, 1-2,5 404b; PROP 1 405a; PROP 3-4 405b-406b; PROP 21-22 418a-419a / *Measurement of a Circle*, PROP 3 448b-451b / *Spirals*, PROP 3-9 485a-488a; PROP 12-13 490b; PROP 16-20 491b-495b / *Quadrature of the Parabola*, PROP 1-5 528a-529b; PROP 18-19 535a / *Book of Lemmas*, PROP 1-3 561a-562a; PROP 6 563b-564a; PROP 8-13 564b-567a; PROP 15 567b-568b
+
+**11 APOLLONIUS**: *Conics*, BK I, FIRST DEFINITIONS, 4-8 604a-b; PROP 15-51 621b-668a; BK II 682a-730b esp PROP 14-15 691b-692b, PROP 17 693b-694a; BK III, PROP 1-44 731a-783b; PROP 53-56 792b-798b
+
+**16 PTOLEMY**: *Almagest*, BK I, 14a-24b; 26a-28b
+
+**16 COPERNICUS**: *Revolutions of the Heavenly Spheres*, BK I, 532b-542b
+
+**16 KEPLER**: *Epitome*, BK V, 973a-975a
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 149d-150d: THIRD DAY, 229d-230a; 233b-234b; FOURTH DAY, 239b-d
+
+**31 DESCARTES**: *Geometry*, BK I-II, 298b-331b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 5-7 27a-b; LEMMA 11 29b-30b; LEMMA 15-PROP 29 and SCHOL 50a-75b; LEMMA 29 138a-b
+
+**35 HUME**: *Human Understanding*, SECT XII, DIV 124 506a-c esp 506c
+
+### 3d. Surfaces
+
+**8 ARISTOTLE**: *Heavens*, BK II, CH 4 [286b13-287a3] 378b-c
+
+**11 EUCLID**: *Elements*, BK I, DEFINITIONS, 5-7 1a; 15-22 1b-2a; POSTULATES, 3 2a; PROP 1 2b-3a; PROP 22 13b-14a; PROP 46 27b-28a; BK VI, PROP 18 112a-b; BK XI, DEFINITIONS, 2 301a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, DEFINITIONS, 3-4 404a
+
+**11 APOLLONIUS**: *Conics*, BK I, FIRST DEFINITIONS, 1 604a
+
+**11 NICOMACHUS**: *Arithmetic*, BK II, 832c-833b
+
+**31 DESCARTES**: *Objections and Replies*, 228c-229a
+
+#### 3d(1) The measurement and transformation of areas
+
+**7 PLATO**: *Meno*, 180c-182c
+
+**8 ARISTOTLE**: *Categories*, CH 7 [7b29-33] 12c-d; CH 14 [15a29-32] 21a / *Prior Analytics*, BK II, CH 25 [69a30-34] 91a-b / *Sophistical Refutations*, CH 11 [171b12-18] 236b; [171b34-172a7] 236d / *Physics*, BK I, CH 2 [185a14-17] 259d-260a / *Metaphysics*, BK II, CH 2 [996b18-22] 515b / *Soul*, BK II, CH 2 [413a13-19] 643b
+
+**11 EUCLID**: *Elements*, BK I, PROP 4 4a-b; PROP 8 6b-7a; PROP 26 16a-17b; PROP 35-45 21b-27b; BK I, PROP 47-BK II, PROP 14 28a-40b; BK III, DEFINITIONS, 1 41a; 11 41b; BK VI, DEFINITIONS, 1 99a; PROP 1 99a-100a; PROP 14-17 109a-112a; PROP 19-29 112b-123a; PROP 31 123b-124a; BK X, PROP 9 197a-198b; PROP 13, LEMMA-PROP 14 200b-202a; PROP 16, LEMMA 203a-b; PROP 19 206a; PROP 21 and LEMMA 206b-207b; PROP 24-26 209b-211b; PROP 32, LEMMA 217b-218a; PROP 53, LEMMA 235a-b; PROP 59, LEMMA 242a-b; BK XII, PROP 1-2 338a-340b; BK XIII, PROP 1-5 369a-373a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, ASSUMPTIONS, 3-4 404b; PROP 5-16 406b-414b; PROP 23-25 419a-420b; PROP 28-30 422a-423a; PROP 32-33 423b-425b; PROP 34, COROL-PROP 37 427a-428a; PROP 39-43 429a-432b; BK II, PROP 3 437a-b; PROP 6 441b-442b; PROP 8-9 443b-446a / *Measurement of a Circle*, PROP 1-2 447a-448a / *Conoids and Spheroids*, PROP 2-6 458a-460b / *Spirals*, PROP 21-28 495b-501a / *Quadrature of the Parabola*, PROP 14-17 531b-535a; PROP 20-24 535b-537b / *Book of Lemmas*, PROP 4-5 562b-563b; PROP 7 564b; PROP 14 567a-b / *Method*, PROP 1 571a-572b
+
+**16 KEPLER**: *Epitome*, BK V, 979b-984b passim
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 153d-154a; 155b-156d; SECOND DAY, 193a-194d; FOURTH DAY, 239d-240a
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 2-4 25a-26b; LEMMA 8-9 27b-28b; LEMMA 22 64a-65b; PROP 30-31 and SCHOL 76a-81a; PROP 81 140b-142b
+
+**53 JAMES**: *Psychology*, 673b
+
+#### 3d(2) The relations of surfaces to lines and solids
+
+**8 ARISTOTLE**: *Metaphysics*, BK I, CH 9 [992a10-24] 510b-c
+
+**11 EUCLID**: *Elements*, BK XI, DEFINITIONS, 2-8 301a-b; PROP 1-8 302b-308a; PROP 11-19 309a-314b; PROP 24 319b-320b; PROP 28 323b-324a; PROP 38 336a-337a
+
+**11 ARCHIMEDES**: *Conoids and Spheroids*, DEFINITIONS 455a-b; PROP 7-9 461a-464a; PROP 11-18 464b-468b / *Floating Bodies*, BK I, PROP 1 538a-b
+
+**11 APOLLONIUS**: *Conics*, BK I, FIRST DEFINITIONS, 1 604a; PROP 1-14 604b-621b; PROP 52-58 668a-679b
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 142b-143d
+
+### 3e. Solids: regular and irregular
+
+**11 EUCLID**: *Elements*, BK XI, DEFINITIONS, 1 301a; 12-28 301b-302b; PROP 27 323a-b; BK XIII, PROP 13-18 381a-396a
+
+**11 ARCHIMEDES**: *Conoids and Spheroids*, 452a-455a
+
+**11 APOLLONIUS**: *Conics*, BK I, FIRST DEFINITIONS, 2-3 604a
+
+**11 NICOMACHUS**: *Arithmetic*, BK II, 832c-d; 836b-c
+
+**16 KEPLER**: *Epitome*, BK IV, 863b-868b / *Harmonies of the World*, 1011a-1012a
+
+#### 3e(1) The determination of volume
+
+**11 EUCLID**: *Elements*, BK XI, DEFINITIONS, 9-10 301b; PROP 25 320b-321b; PROP 28-34 323b-332b; PROP 36-37 334b-336a; PROP 39 337a-b; BK XII, PROP 3-15 341a-362b; PROP 18 367a-368b
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, LEMMAS-PROP 20 414b-418a; PROP 26-28 421a-422b; PROP 31-32 423b-424b; PROP 34 and COROL 425b-427a; PROP 38 428b-429a; PROP 41 431a-b; PROP 44 433a-b; BK II, PROP 1-2 434b-437a; PROP 4-5 437b-441b; PROP 7-9 442b-446a / *Conoids and Spheroids*, PROP 10 464a; PROP 18-32 468b-481b / *Method*, PROP 2-4 572b-576b; PROP 7 579a-580b; PROP 10-15 583a-592a
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 154c-155b; SECOND DAY, 196b-c
+
+#### 3e(2) The relations of solids: inscribed and circumscribed spheres; solids of revolution
+
+**8 ARISTOTLE**: *Heavens*, BK II, CH 4 [287a2-11] 378c
+
+**11 EUCLID**: *Elements*, BK XI, DEFINITIONS, 14 301b; 18,21 302a; BK XII, PROP 3-4 341a-344b; PROP 7 347b-348b; PROP 17 363a-367a; BK XIII, PROP 13-17 381a-393a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, DEFINITIONS, 5-6 404a; PROP 23-32 419a-424b; PROP 35-41 427a-431b / *Conoids and Spheroids*, 452a-455a; PROP 19-20 468b-469b
+
+**33 PASCAL**: *Equilibrium of Liquids*, 395a-b
+
+**34 HUYGENS**: *Light*, CH V, 603b-604b
+
+### 4. Discrete quantities: number and numbering
+
+**7 PLATO**: *Parmenides*, 496a-d
+
+**8 ARISTOTLE**: *Categories*, CH 6 [4b23-36] 9a-b; [5a24-36] 9c-d / *Posterior Analytics*, BK I, CH 2 [72a2-24] 98d / *Physics*, BK III, CH 7 [207b1-14] 285d-286a; BK IV, CH 11 [219b2-8] 299b; [220a21-24] 300a; CH 12 [220b27-32] 300b; CH 14 [223b21-25] 303a / *Metaphysics*, BK VIII, CH 3 [1043b33-1044a14] 568b-d; BK X, CH 1 [1053a24-31] 579d-580a; CH 3 [1054a20-29] 581a; CH 6 [1056b32-1057a7] 584b; BK XIII, CH 6-9 611d-618c; BK XIV 619b,d-626d
+
+**11 EUCLID**: *Elements*, BK VII, DEFINITIONS, 1-2 127a
+
+**11 ARCHIMEDES**: *Sand-Reckoner* 520a-526b
+
+**11 NICOMACHUS**: *Arithmetic*, BK I, 811d-812b; 813d-814b
+
+**17 PLOTINUS**: *Fifth Ennead*, TR V, CH 4-5, 230b-231a / *Sixth Ennead*, TR I, CH 4-5 253b-254d; TR II, CH 13 276a-c; TR VI 310d-321b
+
+**18 AUGUSTINE**: *Confessions*, BK X, PAR 19 76a-b / *Christian Doctrine*, BK II, CH 38 654b-c
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 5, A 5, ANS 26c-27c; Q 30, A 3 169b-170c; Q 85, A 8, REP 2 460b-461b; Q 118, A 2, REP 2 601c-603b
+
+**20 AQUINAS**: *Summa Theologica*, PART I-II, Q 52, A 1, ANS 15d-18a
+
+**33 PASCAL**: *Arithmetical Triangle*, 455a-456b
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XVI 165c-167c
+
+**53 JAMES**: *Psychology*, 874b-876b
+
+### 4a. The kinds of numbers: odd-even, square-triangular, prime-composite
+
+**7 PLATO**: *Euthyphro*, 196d-197a / *Phaedo*, 244c-d / *Gorgias*, 254a-c / *Parmenides*, 496a-d / *Theaetetus*, 515b-c
+
+**8 ARISTOTLE**: *Posterior Analytics*, BK II, CH 13 [96a34-b2] 131c / *Topics*, BK II, CH 6 [120a5-6] 168c; BK VI, CH 4 [142b6-10] 196a; CH 11 [149a29-37] 203c-d / *Sophistical Refutations*, CH 13 [173b8-10] 239a / *Metaphysics*, BK V, CH 14 [1020b2-8] 541d
+
+**11 EUCLID**: *Elements*, BK VII, DEFINITIONS, 6-14 127a-b; 16-19 127b; 21-22 128a; PROP 1 128a-b; PROP 21-32 139b-144b; BK VIII, PROP 5 154b-155a; PROP 9 157a-158a; PROP 11-12 159b-160b; PROP 14-27 161b-170a; BK IX, PROP 1-10 171a-176b; PROP 16-17 182a-b; PROP 20-36 183b-190b; BK X, PROP 28, LEMMA 1-2 213a-214b
+
+**11 NICOMACHUS**: *Arithmetic*, BK I, 814b-821d; BK II, 831d-841c
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 144b-d
+
+**33 PASCAL**: *Arithmetical Triangle*, 455a-456a; 470b-473b / *Correspondence with Fermat*, 486b
+
+### 4b. The relations of numbers to one another: multiples and fractions
+
+**7 PLATO**: *Gorgias*, 254a-c / *Theaetetus*, 515b-c
+
+**8 ARISTOTLE**: *Physics*, BK IV, CH 8 [215b12-19] 295b / *Metaphysics*, BK V, CH 15 [1020b26-1021a14] 542a-c
+
+**11 EUCLID**: *Elements*, BK VII-VIII 127a-170a esp BK VII, DEFINITIONS, 3-5 127a, 15,20 127b; BK IX, PROP 1-19 171a-183b; PROP 35 188b-189a
+
+**11 ARCHIMEDES**: *Conoids and Spheroids*, LEMMA 455b-456a; LEMMA to PROP 2 456b-457b / *Spirals*, PROP 10-11 488a-489b / *Sand-Reckoner* 520a-526b
+
+**11 NICOMACHUS**: *Arithmetic*, BK I-II, 821d-831d; BK II, 841c-848d
+
+**16 KEPLER**: *Harmonies of the World*, 1012b-1014b
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 144b-145a; SECOND DAY, 193b-c
+
+**33 PASCAL**: *Arithmetical Triangle*, 447a-454b; 456b-460a; 468b-473b / *Correspondence with Fermat*, 477b-478a; 484b-485a; 486b
+
+**42 KANT**: *Pure Reason*, 212d-213a
+
+### 4c. The number series as a continuum
+
+**11 EUCLID**: *Elements*, BK V, DEFINITIONS, 5 81a; BK VII, DEFINITIONS, 20 127b; BK X, PROP 5-9 195a-198b
+
+**31 DESCARTES**: *Geometry* 295a-353b esp BK I, 295a-298b
+
+**33 PASCAL**: *Geometrical Demonstration*, 434b-439b passim
+
+**34 NEWTON**: *Principles*, BK II, LEMMA 2 168a-169b
+
+**45 FOURIER**: *Theory of Heat* 169a-251b passim
+
+### 5. Physical quantities
+
+### 5a. Space: the matrix of figures and distances
+
+**7 PLATO**: *Timaeus*, 456a-458a
+
+**8 ARISTOTLE**: *Categories*, CH 6 [5a6-23] 9b-c / *Physics*, BK IV, CH 1-9 287a-297c
+
+**12 LUCRETIUS**: *Nature of Things*, BK I [418-448] 6b-c; [951-1007] 12d-13b
+
+**17 PLOTINUS**: *Sixth Ennead*, TR III, CH 11, 286d-287a
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 8, A 2, REP 1,3 35c-36b
+
+**30 BACON**: *Novum Organum*, BK I, APH 48 110d-111a
+
+**31 DESCARTES**: *Rules*, XIV 28a-33b / *Discourse*, PART IV, 52d-53a / *Objections and Replies*, 169c-170a; 231a-b
+
+**33 PASCAL**: *Vacuum*, 370a; 372a-373a / *Geometrical Demonstration*, 434a-439b
+
+**34 NEWTON**: *Principles*, DEFINITIONS, SCHOL 8b-13a esp 8b-9a, 12a-b; BK III, GENERAL SCHOL, 370a-b / *Optics*, BK III, 542b-543a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XV 162b-165c passim
+
+**35 BERKELEY**: *Human Knowledge*, SECT 110-117 434b-436a; SECT 123-132 437c-439c
+
+**42 KANT**: *Pure Reason*, 23a-26b; 28b-33d; 160b-163a
+
+**45 FOURIER**: *Theory of Heat*, 249a-251b passim
+
+**53 JAMES**: *Psychology*, 399a; 548b-552a esp 548b-549a; 626b; 877b
+
+### 5b. Time: the number of motion
+
+**7 PLATO**: *Timaeus*, 450c-451d / *Parmenides*, 505a-b
+
+**8 ARISTOTLE**: *Categories*, CH 6 [5a6-14] 9b-c / *Physics*, BK IV, CH 10-14 297c-304a,c; BK VI 312b,d-325d passim, esp CH 1-2 312b,d-315d / *Generation and Corruption*, BK II, CH 10 [337a22-34] 439b-c / *Metaphysics*, BK V, CH 13 [1020a25-33] 541c; BK XII, CH 6 [1071b6-12] 601b / *Memory and Reminiscence*, CH 2 [452b7-29] 694b-695a
+
+**12 AURELIUS**: *Meditations*, BK VI, SECT 15 275a-b
+
+**16 KEPLER**: *Epitome*, BK IV, 905a-907a; BK V, 979b-985b / *Harmonies of the World*, 1019b-1020b
+
+**17 PLOTINUS**: *Third Ennead*, TR VII 119b-129a passim, esp CH 8-10 123b-126a / *Fourth Ennead*, TR IV, CH 15 165c-d / *Sixth Ennead*, TR I, CH 4-5 253b-254d; CH 16 260d-261c; TR III, CH 11, 286d-287a; CH 22, 294c
+
+**18 AUGUSTINE**: *Confessions*, BK XI, PAR 12-40 92b-99a / *City of God*, BK XI, CH 6 325c-d; BK XII, CH 15 351b-352d passim
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 7, A 3, REP 4 32c-33c; Q 10, A 1, ANS 40d-41d; AA 4-6 43b-46d; Q 53, A 3 283b-284d; Q 57, A 3, REP 2 297b-298a; Q 63, A 6, REP 4 330c-331c; Q 66, A 4, REP 4 348d-349d; PART I-II, Q 31, A 2, ANS and REP 1 753c-754a
+
+**20 AQUINAS**: *Summa Theologica*, PART II-II, Q 113, A 7, REP 5 366a-367c; PART III SUPPL, Q 84, A 3 985d-989b
+
+**21 DANTE**: *Divine Comedy*, PARADISE, XXVII [106-120] 148b-c
+
+**28 GALILEO**: *Two New Sciences*, THIRD DAY, 201a-202a
+
+**30 BACON**: *Novum Organum*, BK I, APH 48 110d-111a; BK II, APH 46 177c-179a
+
+**31 DESCARTES**: *Objections and Replies*, 110d-111a; 213b-c
+
+**32 MILTON**: *Paradise Lost*, BK V [577-591] 187b-188a
+
+**33 PASCAL**: *Geometrical Demonstration*, 432b-433b; 434a-439b passim
+
+**34 NEWTON**: *Principles*, DEFINITIONS, SCHOL 8b-13a esp 8b, 9b-10a, 12a-b; BK I, PROP 1-3 and SCHOL 32b-35b; PROP 4, COROL VI-VII 36a; PROP 10, COROL II 42a; PROP 15 46b-47a; BK III, PHENOMENON I-II 272a-273b; PHENOMENON IV-VI 274a-275a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XIV 155b-162a esp SECT 22 159d; CH XV 162b-165c passim
+
+**35 BERKELEY**: *Human Knowledge*, SECT 97-98 431d-432a
+
+**35 HUME**: *Human Understanding*, SECT XII, DIV 124-125 506a-507a
+
+**36 STERNE**: *Tristram Shandy*, 292a-293b
+
+**42 KANT**: *Pure Reason*, 23a-24a; 26b-33d esp 27a; 72c-76c; 130b-133c
+
+**45 FOURIER**: *Theory of Heat*, 249a-251b passim
+
+**51 TOLSTOY**: *War and Peace*, BK XI, 469a-c
+
+**53 JAMES**: *Psychology*, 398a-408a passim, esp 399a-b, 407a-408a
+
+### 5c. The quantity of motion: momentum, velocity, acceleration
+
+**8 ARISTOTLE**: *Physics*, BK IV, CH 8 [215a24-216a21] 295a-d; CH 11 [219b10-13] 298d-299a; BK V, CH 4 [228b20-312] 309b-c; BK VI 312b,d-325d passim, esp CH 1-2 312b,d-315d; BK VII, CH 4 330d-333a; BK VIII, CH 8 348b-352a / *Metaphysics*, BK V, CH 6 [1016b4-7] 536b-c; CH 13 [1020a25-33] 541c; BK X, CH 1 [1052b24-31] 579b
+
+**12 LUCRETIUS**: *Nature of Things*, BK II [294-307] 18d-19a
+
+**17 PLOTINUS**: *Sixth Ennead*, TR I, CH 4-5 253b-254d; CH 16 260d-261c
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 7, A 3, REP 4 32c-33c; Q 25, A 2, REP 3 144c-145b
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 166d-168a; THIRD DAY, 197b-c; 200a-207d; 209a-210c; 224b-225d; FOURTH DAY, 240a-d; 243d-249b
+
+**30 BACON**: *Novum Organum*, BK II, APH 35, 163a-c; APH 48 179d-188b
+
+**34 NEWTON**: *Principles*, DEF II 5b; DEF VII-VIII 7a-8a; LAW I-II 14a-b; COROL I 15a; COROL III 16b-17b; LAWS OF MOTION, SCHOL, 20a-22a; BK I, LEMMA 10 28b-29a; LEMMA 11, SCHOL, 31b-32a; PROP 1, COROL I 33a / *Optics*, BK III, 540a-541b
+
+**34 HUYGENS**: *Light*, CH I, 558b-563b passim
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XVIII, SECT 2 174a-b
+
+**35 HUME**: *Human Understanding*, SECT IV, DIV 27, 460c
+
+**51 TOLSTOY**: *War and Peace*, BK XI, 469a-c; 470d-471a; BK XV, 589d
+
+### 5d. Mass: its relation to weight
+
+**7 PLATO**: *Timaeus*, 462d-463c
+
+**8 ARISTOTLE**: *Physics*, BK IV, CH 9 296b-297c / *Heavens*, BK I, CH 6 [273b22-274a18] 364c-365b; BK III, CH 2 [301a21-b18] 392c-393a; BK IV, CH 2 399d-401c
+
+**12 LUCRETIUS**: *Nature of Things*, BK I [358-369] 5c; BK II [80-108] 16a-b; [294-296] 18d
+
+**16 KEPLER**: *Epitome*, BK V, 970b
+
+**17 PLOTINUS**: *Second Ennead*, TR VII, CH 1-2 62d-64b
+
+**28 GILBERT**: *Loadstone*, BK VI, 115d-116a
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 158b-c
+
+**30 BACON**: *Novum Organum*, BK II, APH 24, 154d-155a; APH 35, 163c-d; APH 36, 166b-c; APH 40, 171d-172b; APH 48, 179d-180a
+
+**34 NEWTON**: *Principles*, DEF I 5a; BK II, PROP 24 203a-204a; BK III, PROP 6 279b-281b; PROP 8 282b-283b; PROP 20 291b-294b
+
+**45 FOURIER**: *Theory of Heat*, 249a-251b passim
+
+**45 FARADAY**: *Researches in Electricity*, 632a
+
+### 5e. Force: its measure and the measure of its effect
+
+**8 ARISTOTLE**: *Physics*, BK VII, CH 5 333a-d; BK VIII, CH 10 [266a25-267a21] 353c-354d / *Heavens*, BK III, CH 2 [301b2-32] 392d-393b
+
+**9 ARISTOTLE**: *Motion of Animals*, CH 3 [699a27-b2] 234b-c
+
+**16 KEPLER**: *Epitome*, BK IV, 938b-939a; BK V, 969a-971b
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 105, A 4, REP 1 541c-542a
+
+**20 AQUINAS**: *Summa Theologica*, PART III SUPPL, Q 84, A 3, REP 2 985d-989b
+
+**28 GILBERT**: *Loadstone*, BK II, 26d-40b passim; 54d-55c
+
+**28 GALILEO**: *Two New Sciences*, THIRD DAY, 202d-203a
+
+**31 DESCARTES**: *Rules*, IX, 15c / *Objections and Replies*, 231c-232a
+
+**34 NEWTON**: *Principles*, DEF III-VIII 5b-8a; DEFINITIONS, SCHOL, 11a-13a; LAWS OF MOTION 14a-24a; BK I, LEMMA 10 28b-29a; PROP 1-17 and SCHOL 32b-50a esp PROP 6 37b-38b; PROP 70-93 and SCHOL 131b-152b; BK III, PROP 1-9 276a-284a esp PROP 6, COROL V 281b; GENERAL SCHOL, 371b-372a / *Optics*, BK III, 531b; 541b-542a
+
+**45 FARADAY**: *Researches in Electricity*, 338a-b; 514d-532a; 646b-655d; 670a-673d; 817a-818d
+
+**51 TOLSTOY**: *War and Peace*, BK XI, 570d; EPILOGUE I, 678a-b
+
+### 6. The measurements of quantities: the relation of magnitudes and multitudes; the units of measurement
+
+**8 ARISTOTLE**: *Physics*, BK IV, CH 12 [220b15-31] 300c-d; CH 14 [223b12-224a1] 303c-d / *Metaphysics*, BK III, CH 2 [997b25-33] 516c; BK V, CH 6 [1016b18-31] 537b; BK X, CH 1 [1052b15-1053b31] 579a-580a
+
+**9 ARISTOTLE**: *Ethics*, BK V, CH 5 [1133a5-29] 380d-381c
+
+**17 PLOTINUS**: *Sixth Ennead*, TR I, CH 4 253b-254b
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 3, A 5, REP 2 17c-18b; Q 10, A 6, ANS and REP 4 45c-46d; Q 66, A 4, REP 3 348d-349d
+
+**30 BACON**: *Novum Organum*, BK II, APH 45-47 176a-179c
+
+**31 DESCARTES**: *Rules*, XIV, 31b-33b / *Geometry*, BK I, 296a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XVI, SECT 3-4 165d-166b; SECT 8 167c; CH XVII, SECT 9 170a-b; BK IV, CH II, SECT 10 311b-c
+
+**39 SMITH**: *Wealth of Nations*, BK I, 14b
+
+**42 KANT**: *Judgement*, 497a-498d esp 498b-d
+
+**45 LAVOISIER**: *Elements of Chemistry*, PART III, 87d-88a
+
+**45 FOURIER**: *Theory of Heat*, 249b-251b
+
+**45 FARADAY**: *Researches in Electricity*, 820d-821c
+
+**46 HEGEL**: *Philosophy of Right*, ADDITIONS, 40 122d-123b
+
+**50 MARX**: *Capital*, 20b; 44a
+
+**53 JAMES**: *Psychology*, 346a-347a; 400a-408a; 551a-b; 567a-570a
+
+### 6a. Commensurable and incommensurable magnitudes
+
+**7 PLATO**: *Theaetetus*, 515b-c / *Laws*, BK VII, 729b-c
+
+**8 ARISTOTLE**: *Prior Analytics*, BK I, CH 23 [41a23-27] 58a / *Physics*, BK VII, CH 4 330d-333a / *Metaphysics*, BK I, CH 2 [983a11-20] 501b-c; BK X, CH 1 [1053a14-18] 579c-d
+
+**11 EUCLID**: *Elements*, BK V, DEFINITIONS, 5 81a; BK X 191a-300b esp DEFINITIONS 1, 2,3 191a, PROP 2 192a-193a, PROP 5-9 195a-198b
+
+**11 ARCHIMEDES**: *Equilibrium of Planes*, BK I, PROP 6-7 503b-504b
+
+**16 KEPLER**: *Harmonies of the World*, 1012a-b; 1013a-b
+
+### 6b. Mathematical procedures in measurement: superposition, congruence; ratio and proportion; parameters and coordinates
+
+**11 EUCLID**: *Elements*, BK I, POSTULATES, 4, COMMON NOTIONS, 4 2a; PROP 4 4a-b; PROP 8 6b-7a; PROP 26 16a-17b; BK V 81a-98b esp DEFINITIONS, 5 81a, 7 81b; BK VI, PROP 1 99a-100a; PROP 4-7 102a-105b; BK VII, DEFINITIONS, 20 127b; PROP 2-3 128b-130b; PROP 34 146a-147a; PROP 36-39 147b-149b; BK X, PROP 3-4 193a-195a
+
+**11 ARCHIMEDES**: *Measurement of a Circle*, PROP 3 448b-451b / *Equilibrium of Planes*, BK I 502a-509a / *Sand-Reckoner* 520a-526b / *Floating Bodies*, BK I 538a-542a
+
+**16 PTOLEMY**: *Almagest*, BK I, 14a-24b; 26a-28b
+
+**16 COPERNICUS**: *Revolutions of the Heavenly Spheres*, BK I, 532b-556b
+
+**28 GALILEO**: *Two New Sciences*, SECOND DAY, 178c-179c
+
+**31 DESCARTES**: *Geometry*, BK III, 332b-341b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA 1 25a; LEMMA 28-PROP 31 and SCHOL 76b-81a; BK III, LEMMA 5 338b-339a
+
+### 6c. Physical procedures in measurement: experiment and observation; clocks, rules, balances
+
+**5 ARISTOPHANES**: *Birds* [992-1020] 555a-b
+
+**6 HERODOTUS**: *History*, BK II, 49d-50a; 70b-c; BK IV, 139c
+
+**6 THUCYDIDES**: *Peloponnesian War*, BK III, 421b-c; BK V, 487d
+
+**8 ARISTOTLE**: *Metaphysics*, BK III, CH 2 [997b27-33] 516c
+
+**16 PTOLEMY**: *Almagest*, BK I, 24b-26a; BK II, 34b-39b; BK III, 77a-86b; 104b-107a; BK V, 143a-144a; 165a-176a esp 166a-167b
+
+**16 COPERNICUS**: *Revolutions of the Heavenly Spheres*, BK I, 510b; BK II, 558b-559b; 567b-576a; 586b-589a; BK III, 646a-652b; 672a-674b; BK IV, 705a-714b esp 705a-706a
+
+**28 GILBERT**: *Loadstone*, BK IV, 85c-89c; BK V, 92a-95a
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 136d-137c; 148d-149c; 164a-166c; 167a-168a; THIRD DAY, 207d-208c
+
+**28 HARVEY**: *Motion of the Heart*, 286c-288c
+
+**30 BACON**: *Novum Organum*, BK I, APH 109, 129b; BK II, APH 39, 170b-c; APH 44-48 175d-188b passim
+
+**33 PASCAL**: *Great Experiment* 382a-389b
+
+**34 NEWTON**: *Principles*, DEFINITIONS, SCHOL, 9b-10a; LAWS OF MOTION, SCHOL, 20a-22a; BK II, GENERAL SCHOL 211b-219a; PROP 40, SCHOL 239a-246b; BK III, PROP 20 291b-294b; LEMMA 4 333a-337b
+
+**34 HUYGENS**: *Light*, CH I, 554b-557b
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XIV, SECT 17-21 158a-159d
+
+**36 SWIFT**: *Gulliver*, PART IV, 169a
+
+**41 GIBBON**: *Decline and Fall*, 299b-c
+
+**45 LAVOISIER**: *Elements of Chemistry*, PART I, 14a-c; 22d-24a; 33b-36a; 41a-44d; PART III, 87d-90a; 91a-95a; 96b-103b
+
+**45 FOURIER**: *Theory of Heat*, 175b; 184b-185b
+
+**45 FARADAY**: *Researches in Electricity*, 277d-279a; 316b-318c; 366d-371d; 444a-451a; 465d-467a,c; 768d-773d; 778b,d-788c
+
+**53 JAMES**: *Psychology*, 56a-57b; 348a-355b; 401a-404a
+
+### 7. Infinite quantity: the actual infinite and the potentially infinite quantity; the mathematical and physical infinite of the great and the small
+
+**7 PLATO**: *Parmenides*, 495a-497b
+
+**8 ARISTOTLE**: *Physics*, BK I, CH 2 [185a28-b4] 260a-b; BK III, CH 1 [200b15-19] 278a; CH 4-8 280c-286d / *Heavens*, BK I, CH 5-7 362c-367b / *Generation and Corruption*, BK I, CH 3 [318a13-24] 414c-d / *Metaphysics*, BK II, CH 2 [994b23-27] 513a-b; BK IX, CH 6 [1048b9-17] 574a; BK XI, CH 10 [1066a35-b22] 594d-595b; BK XII, CH 7 [1073a3-13] 603a-b
+
+**11 EUCLID**: *Elements*, BK IX, PROP 20 183b-184a; BK X, PROP 1 191b-192a
+
+**11 ARCHIMEDES**: *Sphere and Cylinder*, BK I, ASSUMPTIONS, 5 404b / *Spirals*, 484b / *Sand-Reckoner* 520a-526b / *Quadrature of the Parabola*, 527a-b / *Method* 569a-592a passim
+
+**11 APOLLONIUS**: *Conics*, BK II, PROP 14 691b-692a
+
+**11 NICOMACHUS**: *Arithmetic*, BK I, 812a; BK II, 829b
+
+**12 LUCRETIUS**: *Nature of Things*, BK I [551-634] 7d-8d; [951-1113] 12d-14d
+
+**16 KEPLER**: *Epitome*, BK V, 973a-975a
+
+**17 PLOTINUS**: *Sixth Ennead*, TR VI, CH 2-3 311b-312b; CH 17, 319d-320a
+
+**18 AUGUSTINE**: *City of God*, BK XI, CH 5 324d-325c; BK XII, CH 18 354b-d
+
+**19 AQUINAS**: *Summa Theologica*, PART I, Q 7 31a-34c; PART I-II, Q 1, A 4, REP 2 612a-613a
+
+**20 AQUINAS**: *Summa Theologica*, PART III, Q 7, A 12, REP 1 754c-755c; Q 10, A 3, REP 1-2 769d-771b
+
+**28 GALILEO**: *Two New Sciences*, FIRST DAY, 139c-153a passim, esp 145b-146c, 150d-151c; THIRD DAY, 201a-202a; 205b-d; 224b-c
+
+**31 DESCARTES**: *Objections and Replies*, 112b
+
+**31 SPINOZA**: *Ethics*, PART I, PROP 15, SCHOL 360b-361d
+
+**33 PASCAL**: *Pensées*, 121 195a; 231-233, 213b-214a / *Geometrical Demonstration*, 434a-439b
+
+**34 NEWTON**: *Principles*, BK I, LEMMA I-11 and SCHOL 25a-32a esp LEMMA II, SCHOL, 31a-b; BK II, LEMMA 2 168a-169b; BK III, GENERAL SCHOL, 370a-b / *Optics*, BK III, 543a
+
+**35 LOCKE**: *Human Understanding*, BK II, CH XIII, SECT 4 149b; SECT 6 149c-d; CH XIV, SECT 26-27 160c-161a; SECT 30 161c-d; CH XV, SECT 2-4 162c-163b; SECT 9 164b-d; CH XVI, SECT 8-CH XVII, SECT 22 167c-174a esp CH XVII, SECT 7-8 169b-170a, SECT 12-21 170d-173d; CH XXIX, SECT 16 237b-238a
+
+**35 BERKELEY**: *Human Knowledge*, SECT 123-132 437c-439c
+
+**35 HUME**: *Human Understanding*, SECT XII, DIV 124 506a-c
+
+**42 KANT**: *Pure Reason*, 24d; 26d; 130b-133c; 135a-137a,c; 152a-d; 158a-159d; 160b-163a / *Judgement*, 498b-501b
+
+**43 FEDERALIST**: NUMBER 31, 103d
+
+**46 HEGEL**: *Philosophy of Right*, ADDITIONS, 17 119a
+
+**51 TOLSTOY**: *War and Peace*, BK XI, 469a-d; EPILOGUE I, 695b-c
+
+---
+
+## CROSS-REFERENCES
+
+**For**:
+
+*   Discussions relevant to the problem of the existence of quantities and of their relation to matter, substance, and body, see BEING 7b, 7b(5)—7b(6); MATTER 2a; QUALITY 3d.
+*   Discussions relevant to the conception of the categories as transcendental concepts of the understanding, see FORM 1c; JUDGMENT 8c—8d; MEMORY AND IMAGINATION 6c(1); MIND 1e(1); PRINCIPLE 2b(3).
+*   Other considerations of the relation between quantity and quality, see MECHANICS 4b; QUALITY 3a.
+*   The conception of equality and inequality as the basic relation between quantities, see SAME AND OTHER 3d; and for the general theory of ratios and proportions, see MATHEMATICS 4c; RELATION 5a(3); SAME AND OTHER 3b.
+*   The division of quantities into magnitudes and multitudes, or continuous and discontinuous quantities, see MATHEMATICS 2c; ONE AND MANY 3a(2)-3a(4); and for the conception of space and time as magnitudes, see MECHANICS 3a; SPACE 1a; TIME 1.
+*   Other discussions of magnitudes and numbers as the objects of geometry and arithmetic, see MATHEMATICS 2; ONE AND MANY 2a; SPACE 3b-3c; TIME 6c.
+*   Other discussions of such physical quantities as space, time, motion, mass, and force, see ASTRONOMY 7; CHANGE 5a-5b; MECHANICS 5d-5e(2), 6b-6e; SPACE 3d; TIME 4.
+*   The general theory of measurement, see MATHEMATICS 5a; MECHANICS 3a; PHYSICS 4d.
+*   Other discussions of infinite quantity, see INFINITY 1b, 3a-3e; SPACE 3a; TIME 2b.
+
+---
+
+## ADDITIONAL READINGS
+
+Listed below are works not included in *Great Books of the Western World*, but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:
+
+I. Works by authors represented in this collection.
+II. Works by authors not represented in this collection.
+
+For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of *The Great Ideas*.
+
+**I.**
+
+AUGUSTINE. *On Music*
+
+DESCARTES. *The Principles of Philosophy*, PART II, 8-23
+
+HOBBES. *Concerning Body*, PART II, CH 12, 14; PART III, CH 17-20, 23-24
+
+NEWTON. *The Method of Fluxions and Infinite Series*
+
+———. *Universal Arithmetic*
+
+BERKELEY. *A Defence of Free Thinking in Mathematics*
+
+KANT. *Metaphysical Foundations of Natural Science*, DIV I
+
+HEGEL. *Science of Logic*, VOL I, BK I, SECT II-III
+
+**II.**
+
+SEXTUS EMPIRICUS. *Against the Physicists*, BK II, CH 4
+
+ORÉSME. *Treatise on the Breadth of Forms*
+
+SUÁREZ. *Disputationes Metaphysicae*, IV (9), XIII (14), XIV, XVI, XVIII (3-6), XXVIII (1), XXXIX-XLI
+
+LEIBNIZ. *New Essays Concerning Human Understanding*, BK II, CH 16
+
+T. REID. *An Essay on Quantity*
+
+VOLTAIRE. “Number,” “Numbering,” in *A Philosophical Dictionary*
+
+GAUSS. *General Investigations of Curved Surfaces*
+
+WHEWELL. *The Philosophy of the Inductive Sciences*, VOL I, BK II, CH 9-10
+
+RIEMANN. *Über die Hypothesen welche der Geometrie zu Grunde liegen (The Hypotheses of Geometry)*
+
+JEVONS. *On a General System of Numerically Definite Reasoning*
+
+DEDEKIND. *Essays on the Theory of Numbers*
+
+CLIFFORD. *The Common Sense of the Exact Sciences*, CH 1, 3
+
+HELMHOLTZ. *Counting and Measuring*
+
+BOSANQUET. *Logic*, VOL I, CH 3-4
+
+C. S. PEIRCE. *Collected Papers*, VOL III, PAR 252-288, 554-562
+
+MCLELLAN and DEWEY. *The Psychology of Number*
+
+POINCARÉ. *Science and Hypothesis*, PART I
+
+CASSIRER. *Substance and Function*, PART I, CH 2; SUP I
+
+L. W. REID. *The Elements of the Theory of Algebraic Numbers*
+
+WHITEHEAD and RUSSELL. *Principia Mathematica*, PART III, SECT A, B; PART VI
+
+B. RUSSELL. *Principles of Mathematics*, CH 11-12, 14-15, 19-22, 29-36
+
+———. *Our Knowledge of the External World*, V
+
+———. *Introduction to Mathematical Philosophy*, CH 1-2, 7-8, 10-11
+
+N. R. CAMPBELL. *Physics; the Elements*, PART II
+
+W. E. JOHNSON. *Logic*, PART II, CH 7
+
+G. N. LEWIS. *The Anatomy of Science*, ESSAY I
+
+J. B. S. HALDANE. “On Being the Right Size,” in *Possible Worlds and Other Essays*
+
+EDDINGTON. *The Nature of the Physical World*, CH 12
+
+DICKSON. *Introduction to the Theory of Numbers*
+
+WHITEHEAD. *An Introduction to Mathematics*, CH 6-17
+
+———. *An Enquiry Concerning the Principles of Natural Knowledge*, CH 9-12
+
+———. *The Principle of Relativity with Applications to Physical Science*, CH 3
+
+———. *Process and Reality*, PART IV
+
+NAGEL. *On the Logic of Measurement*
+
+TARSKI. *Introduction to Logic*, PART I

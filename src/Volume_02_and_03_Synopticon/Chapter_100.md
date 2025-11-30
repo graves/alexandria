@@ -1,0 +1,1010 @@
+# Chapter 100: WILL
+
+## INTRODUCTION
+
+THE great controversy over the freedom of the will tends to overshadow the theory of the will itself. For some thinkers, the two notions are inseparable. As the word “choice” popularly connotes freedom in choosing between alternatives, so for them, liberty belongs to the very nature of the will. But others who affirm that men can act freely or voluntarily also deny that the will itself is ever free.
+
+Still others who distinguish between voluntary and reflex actions—on the part of brute animals as well as men—also distinguish between the voluntary and the free. They reserve freedom to men alone on the ground that men alone have wills. Far from identifying will with free will, they differentiate between those acts of the will which are necessitated and those which are free.
+
+It would appear from this sampling of conflicting opinions that the issue concerning free will presupposes, and often conceals, diverse theories of the will—different conceptions of its nature, its various acts, and its relation to other faculties. Those who affirm and those who deny the will’s freedom of action hardly meet on that issue if they proceed from different conceptions of what the will is and how it operates.
+
+The matter is further complicated by different conceptions of freedom. Even those who define will in somewhat similar terms conceive its liberty differently. As the chapter on LIBERTY indicates, freedom has many meanings—theological, metaphysical, psychological, moral, natural, and civil. What is called free in one of these senses may not be so regarded in another. But one thing is clear. If, as Hobbes thinks, the only sense in which freedom can be affirmed is that of natural or political liberty—the sense in which a man can do what he wills without restraint or compulsion—then the will is not free, for its freedom depends on how its own acts are caused, or how it causes other acts, not on how the acts it causes are affected by outward circumstances beyond its control.
+
+The problem of the freedom of the will seems, therefore, to be primarily psychological and metaphysical. It requires us to consider freedom in terms of cause and necessity. It appeals to such distinctions as that between the caused, the uncaused, and the self-caused, or to the difference between the predetermined, the contingent, and the spontaneous event. To this extent, the problem is metaphysical. But it is psychological insofar as the kind of event with which we are concerned is an interior act of a living thing and, even more specifically, of an intelligent being, a being which has mind in some sense of that term. We do not ask whether stones and vegetables have free will because we do not usually suppose that they have will. Even those who, like Aristotle, attribute desire to all things or who, like William James, find a striving toward goals in at least all living things, do not refer to volition or the voluntary in the absence of imagination or thought.
+
+The italicized words in the foregoing paragraph indicate ideas which have the most fundamental bearing on the discussion of will, and hence the relation of this to other chapters. The chapters on CAUSE and NECESSITY (and those on FATE and CHANCE) deal with doctrines which both affect and are affected by various theories of the will’s freedom. But if we are to postpone the question of free will until the nature of will itself is considered, we must begin with definitions which employ terms discussed in the chapters on MIND and DESIRE.
+
+***
+
+THE DISTINCTION BETWEEN thought and action sets the stage for the discovery of a factor or faculty which serves to connect them. Acting may follow upon thinking, but not without the intervention of a determination or a desire to translate thought into deed. Plato, in the *Republic*, divides the soul into three parts, of which one, reason, is the faculty of thought and knowledge, and the other two, spirit and appetite, are principles of action. Both spirit and appetite need to be guided and ruled by reason but, according to Plato, reason depends also upon spirit, for without its support even wisdom must fail to influence conduct. Though he does not use the word, the role he assigns to spirit as the auxiliary of reason corresponds to the function performed by what later writers call “will.”
+
+The word “will” appears in the English translation of Aristotle. It is used less frequently than other words—such as “wish,” “choice,” “purpose,” “impulse,” “appetite,” “desire”—to designate a motivating force, but along with them it signifies the factor which turns thought into action. Unlike Plato, who separates spirit and appetite, Aristotle makes appetite the generic notion, and treats will and desire as modes of appetite. But sometimes “desire” is used as a synonym for “appetite,” and sometimes “wish” or “choice” is substituted for “will.”
+
+In his treatise *On the Motion of Animals*, we find Aristotle saying that “the living creature is moved by intellect, purpose, wish, and appetite. All these are reducible to mind and desire. For both imagination and sensation have this much in common with mind, that all three are faculties of judgment. However, will, impulse, and appetite are all three forms of desire, while purpose belongs both to intellect and to desire.” But in the treatise *On the Soul*, we find him insisting that appetite be considered as the single “faculty of originating local movement,” though if the soul were to be divided into a rational and an irrational part, he would assign wish to the calculative or deliberative reason, desire and passion to the irrational part. “Wish,” he writes, “is a form of appetite, and when movement is produced according to calculation, it is also according to wish, but appetite can originate movement contrary to calculation, for desire is also a form of appetite.”
+
+What is said of purpose and wish is also said of choice. All three somehow combine reason and desire. Giving choice as the cause of specifically human action, and desire combined with deliberation as the origin of choice, Aristotle speaks of choice as “either desiderative reason or ratiocinative desire.” Lacking reason, animals do not have choice, according to Aristotle, or for that matter wish or purpose either; but insofar as their appetites are stirred by sensation or imagination, and the desires aroused lead to action, animals behave voluntarily.
+
+When the words “desire” and “appetite” are so used, not to name the generic faculty of originating movement, but to signify a motivation different in kind from wish, purpose, or choice, they correspond to what Aquinas later calls “animal appetite” or “sensitive desire.” This is for him the sphere of the emotions or passions. He treats the impulses of fear and anger, for example, as acts of the sensitive appetite.
+
+The kind of desire which, for Aristotle, depends upon practical reason, Aquinas calls “intellectual appetite” or “rational desire.” Since “will” is for him just another name for the desire or appetite which is determined by reason rather than sense, he necessarily holds that irrational animals do not have will.
+
+Aristotle says that “the apparent good is the object of appetite, and the real good is the primary object of rational wish.” Aquinas distinguishes somewhat differently between the object of the passions and the object of the will. For each sort of appetite or desire, the object takes its special character from the faculty by which it is apprehended. The sensible good, perceived or imagined, stands to the sensitive appetite as the intelligible good, judged by reason, stands to the intellectual appetite or will.
+
+In one place Aristotle differentiates between wish and choice by saying that we can wish for the impossible, whereas choice is always of things within our power. But his more usual distinction is in terms of means and ends. “The end is what we wish for,” he writes, “the means what we deliberate about and choose.” Aquinas also divides the acts of the will according as they concern means or ends, but where Aristotle mentions only choice and wish, Aquinas enumerates three acts of the will with respect to ends (volition, intention, and enjoyment) and three with respect to means (consent, choice, and use).
+
+According to Aquinas, each of these acts of the will responds to a distinct act of the practical reason and, except for the will’s last acts, each may in turn be followed by further practical thought. This progressive determination of the will by reason goes on until the use of means leads to action, and action leads to the enjoyment of the end accomplished. As in practical reasoning ends come before means, so for the will the end comes first in the order of intention; but in the order of execution action begins with the means.
+
+***
+
+LIKE ARISTOTLE AND Aquinas, Kant and Hegel conceive will as a faculty of desire or activity founded upon reason, and so they attribute will, as they attribute reason, to man alone. But both Kant and Hegel go further and almost identify will in its pure state with reason.
+
+“The faculty of desire,” writes Kant, “in so far as its inner principle of determination as the ground of its liking or predilection lies in the reason of the subject, constitutes the will”; and he goes on to say that the will, “in so far as it may determine the voluntary act of choice... is the practical reason itself.” Only man can claim “possession of a will which takes no account of desires and inclinations, and on the contrary conceives action as possible to him, nay, even necessary, which can only be done by disregarding all desires and sensible inclinations.”
+
+In this last statement, Kant seems to use the word “desire” in a sense which is opposed to will. The context indicates that he has in mind something like the distinction made by Aquinas between sensitive and rational desire. This indication is confirmed by his own distinction between brute and human choice. “That act which is determinable only by inclination as a sensuous impulse or stimulus would be irrational brute choice (*arbitrium brutum*). The human act of choice, however, as human, though in fact affected by such impulses or stimuli, is not determined by them; and it is, therefore, not pure in itself when taken apart from the acquired habit of determination by reason.” But, according to Kant, the human act of choice can be determined solely by reason. Only then is it “determined to action by the pure will.”
+
+One point must be observed, to which we shall subsequently return. The pure will is for Kant a free will. “The act of choice that is determined by pure reason,” he writes, “is the act of free will. ... The freedom of the act of volitional choice is its independence of being determined by sensuous impulses or stimuli. This forms the negative conception of the free will. The positive conception of freedom is given by the fact that the will is the capability of pure reason to be practical of itself.” Insofar as pure reason is able to become practical, that is, to determine choices and direct action, independently of all sensuous impulses or inclinations, that reason is in itself the pure will, and that will is in its very essence free.
+
+For Hegel also, freedom is of the essence of will. “Freedom,” he writes, “is just as fundamental a character of the will as weight is of bodies. Heaviness constitutes the body and is the body. The same is the case with freedom and will, since the free entity is the will. Will without freedom is an empty word, while freedom is actual only as will, as subject.”
+
+Though the passions enter into the sphere of the subjective will, according to Hegel, will transforms them. “Subjective volition—Passion—is that which sets men in activity, that which effects ‘practical’ realization.” When it is occupied with the passions, the subjective will, Hegel writes, “is dependent and can gratify its desires only within the limits of this dependence.” The passions, however, are common to both men and animals. “An animal too has impulses, desires, inclinations,” Hegel says, “but it has no will and must obey its impulses if nothing external deters it.” Only man, “the wholly undetermined, stands above his impulses and may make them his own, put them into himself as his own. An impulse is something natural, but to put it into my ego depends on my will.”
+
+Hegel explains this aspect of the will by reference to that “element of pure indeterminacy or that pure reflection of the ego into itself which involves the dissipation of every restriction and every content either immediately presented by nature, by needs, desires, and impulses, or given and determined by any means whatever.” But indeterminacy is only one moment of the will, its negative aspect. The second moment occurs in “the transition from undifferentiated indeterminacy to the differentiation, determination, and positing of a determinacy as a content and object.” Both of these moments are partial, each the negation of the other. “The indeterminate will,” in Hegel’s opinion, is “just as one-sided as the will rooted in sheer determinacy. What is properly called the will includes in itself both the preceding moments.”
+
+As the unity of both these moments, the will “is particularity reflected into itself and so brought back to universality, *i.e.*, it is individuality. It is,” Hegel continues, “the self-determination of the ego, which means that at one and the same time the ego posits itself as its own negative, *i.e.*, as restricted and determinate, and yet remains by itself, *i.e.*, in its self-identity and universality.” While the two previous moments of the will are “through and through abstract and one-sided,” the third moment gives us the individual will and freedom in the concrete. “Freedom lies neither in indeterminacy nor in determinacy; it is both of these at once... . Freedom is to will something determinate, yet in this determinacy to be by oneself and to revert once more to the universal.”
+
+***
+
+IN THE TRADITION OF the great books, other writers place the essence of the will not in its freedom, but in its being the cause of the voluntary acts performed by animals and men. The students of physiology from Aristotle to William James distinguish the movements of the various bodily organs—the heart, the lungs, the organs of digestion, excretion, and reproduction—from those movements of the whole animal or of its members which are somehow based upon desire and imagination or thought.
+
+Aristotle sometimes calls these physiological changes “non-voluntary” and sometimes “involuntary,” though he has another meaning for “involuntary” when he describes the conduct of a man, compelled by fear, to do something contrary to his wishes, *e.g.*, the captain who throws his cargo overboard to save his ship. The completely non-voluntary motion is one which occurs quite apart from any knowledge of the end, or without conscious desire, whereas the involuntary involves some conflict of desires. When the involuntary in this special sense is not considered, only a twofold division is made, as in James’ distinction between reflex and voluntary movements, Harvey’s distinction between natural and animal motions, or Hobbes’ distinction between vital and animal motions.
+
+“There be in animals,” Hobbes writes, “two sorts of motions peculiar to them: one called vital ... such as are the course of the blood, the pulse, the breathing, the concoction, nutrition, excretion, etc.; to which motions there needs no help of imagination. The other is animal motion, otherwise called voluntary motion, as to go, to speak, to move any of our limbs, in such manner as is first fancied in our minds... . Because going, speaking, and the like voluntary motions, depend always upon a precedent thought of whither, which way, and what, it is evident that the imagination is the first internal beginning of all voluntary motion.”
+
+But the imagination, according to Hobbes, gives rise to voluntary motions through arousing desire or appetite. When desires and aversions, hopes and fears, alternately succeed one another, what Hobbes means by “deliberation” takes place; and, he declares, “in deliberation the last appetite or aversion, immediately adhering to the action, or to the omission thereof, is that which we call WILL, the act (not the faculty) of willing. And beasts that have deliberation must necessarily also have will. The definition of the will given commonly by the Schools, that it is a rational appetite, is not good. For if it were, then could there be no voluntary act against reason. For a voluntary act is that which proceedeth from the will, and no other.”
+
+Locke disagrees with Hobbes’ view that willing is an act of desire. “That the will is perfectly distinguished from desire,” he thinks, may be seen in the fact that desire “may have a quite contrary tendency from that which our wills set us upon.” Desire, according to Locke, “is an uneasiness of the mind for want of some absent good”; whereas will is the “power to begin or forbear, continue or end, the several actions of our minds, and motions of our bodies, barely by a thought or preference of the mind ordering or, as it were, commanding the doing or not doing, such or such a particular action. ... The actual exercise of that power, by directing any particular action or its forbearance, is that which we call volition or willing.”
+
+Though volition is not an act of desire, Locke holds that it is the uneasiness of desire which “determines the will to the successive voluntary actions.” And though Locke speaks of willing as if it were an act of thought, he distinguishes between the mind’s power of understanding and of willing. The one is a passive, the other is an active power. Understanding or perceptivity is “a power to receive ideas or thoughts”; will or motivity is the “power to direct the operative faculties to motion or rest.”
+
+In this conception of the will as the power the mind has to control the faculties, or the motions of the body, which can be voluntarily exercised, Locke, like Hobbes before him and William James after, explains the will’s action in terms of thinking of the motion to be performed or the deed to be done. Discussing the theory of what he calls “ideo-motor action,” James says that “a supply of ideas of the various movements that are possible, left in the memory by experiences of their involuntary performance, is thus the first prerequisite of the voluntary life.” Reflexive or other innately determined movements do not depend upon consciousness of the movement to be performed. That is why “voluntary movement must be secondary, not primary functions of our organism”; or as he says in another place, the action which is performed voluntarily “must before that, at least once, have been impulsive or reflex.”
+
+The kind of idea which initiates a voluntary movement James calls a “kinaesthetic image”—an image of the sensations which will be experienced when the movement takes place. “In perfectly simple voluntary acts,” he writes, “there is nothing else in the mind but the kinaesthetic image, thus defined, of what the act is to be.” In certain cases, however, there must be “an additional mental antecedent, in the shape of a *fiat*, decision, consent, volitional mandate... before the movement can follow.” This becomes necessary when contrary kinaesthetic images vie with one another to initiate antagonistic movements. “The express fiat, or act of mental consent to the movement, comes in when the neutralization of the antagonistic and inhibitory idea is required.
+
+“With the prevalence, once there as a fact, of the motive idea,” James goes on, “the psychology of volition properly stops. The movements which ensue are exclusively physiological phenomena, following according to physiological laws upon neural events to which the idea corresponds. The willing terminates with the prevalence of the idea. ... We thus find that we reach the heart of our inquiry into volition when we ask by what process it is that the thought of any given object comes to prevail stably in the mind.” The answer James gives is that it is “the essential achievement of the will ... to attend to a difficult object and hold it fast before the mind. The so-doing *is the fiat*. ... Effort of attention is thus the essential phenomenon of the will.”
+
+Though Freud does not use the word “will,” or analyze voluntary movements in ideo-motor terms, he does attribute to what he calls “the ego” the function which Locke and James ascribe to will. “In popular language,” he writes, “we may say that the ego stands for reason and circumspection, while the id stands for the untamed passions.” To the ego is given “the task of representing the external world for the id,” and so of protecting it from destructive conflicts with reality.
+
+In discharging this function, “on behalf of the id, the ego controls the path of access to motility, but,” Freud continues, “it interpolates between desire and action the procrastinating factor of thought, during which it makes use of the residues of experience stored up in memory. In this way it dethrones the pleasure-principle, which exerts undisputed sway over the processes in the id, and substitutes for it the reality-principle, which promises greater security and greater success.”
+
+***
+
+AS THE PROBLEM OF the will’s freedom involves the question of whether or how its acts are caused, so the will’s action raises a problem concerning how it causes the voluntary effects it produces. In Locke’s view, we are equally at a loss to explain how one body moves another and how our own bodies are moved by our will. “The passing of motion out of one body into another,” he thinks, “is as obscure and inconceivable as how our minds move or stop our bodies by thought; which we every moment find that they do.”
+
+If we could “explain this and make it intelligible,” Locke says in another place, “then the next step would be to understand creation.” Hume agrees that “it must forever escape our most diligent inquiry” how “the motion of our body follows upon the command of our will.” That it does, he says, “is a matter of common experience, like other natural events. But the power and energy by which this is effected, like that in other natural events, is unknown and inconceivable.”
+
+No less mysterious to Hume is the coming into “existence of an idea, consequent to the command of the will,” which seems to imply a “creative power, by which it raises from nothing a new idea, and with a kind of *fiat*, imitates the omnipotence of its Maker.” How “this operation is performed, the power by which it is produced,” seems to him “entirely beyond our comprehension.”
+
+Spinoza and Descartes take a different view of the relation between the will and the intellect or understanding. Neither admits that the human will forms new ideas, or, as Spinoza says, that there are “mere fancies constructed by the free power of the will.” Both conceive the will’s activity as consisting in assent or dissent to ideas, their affirmation or negation. But beyond this point they part company.
+
+For one thing, Descartes distinguishes between the will as a faculty of choice and the understanding as a faculty of knowledge, where Spinoza holds that “the will and the intellect are one and the same.” Since Spinoza denies that will and intellect are anything except “the individual volitions and ideas themselves,” it is more precise, he suggests, to say that the individual volition (*i.e.*, the affirmation or negation of this idea) and the individual idea affirmed or denied are one and the same.
+
+In consequence, they differ with respect to the power of volition. Spinoza criticizes the supposition he finds in Descartes, that “the will extends itself more widely than the intellect, and is therefore different from it.” Whereas Descartes thinks that “the faculty of comprehension which I possess ... is of very small extent and extremely limited,” Spinoza says, “I am conscious of a will so extended as to be subject to no limits.” We can affirm or deny much more than we can know with certitude.
+
+This difference between Spinoza and Descartes reveals itself most strikingly in their conception of God’s will. According to Descartes, the omnipotence of God lies in the supremacy of his will—in its absolute independence even with respect to the divine intellect. “It is self-contradictory that the will of God should not have been from eternity indifferent to all that has come to pass or ever will occur. ... Thus, to illustrate, God did not will ... the three angles of a triangle to be equal to two right angles because he knew that they could not be otherwise. On the contrary ... it is because he willed the three angles of a triangle to be necessarily equal to two right angles that this is true and cannot be otherwise.” Against Descartes’ voluntarism, Spinoza declares it absurd to say that “God could bring it about that it should not follow from the nature of a triangle that its three angles should be equal to two right angles.”
+
+Such different conceptions of the will or of its power necessarily lead to opposite conclusions concerning free will—in man or God. The human mind, according to Spinoza, “cannot be the free cause of its own actions.” In each of its volitions, as in each of its ideas, it is determined by a cause. The supposition of an infinite will in God does not exempt that will from the need to be determined in its acts; nor can God “on this account be said to act from freedom of will.” Yet Spinoza also affirms that “God alone is a free cause, for God alone exists and acts from the necessity of his own nature.” Freedom does not reside in the will, nor in the absence of necessity or causal determination, but rather in self-determination. It does not consist in choice, but in the absence of compulsion by causes which lie outside one’s own nature. Hence only an infinite being—a *causa sui* in Spinoza’s sense—can be free.
+
+Descartes, on the other hand, places freedom in the will and identifies it with the power of choice. “The faculty of will,” he writes, “consists alone in our having the power of choosing to do a thing or choosing not to do it ... or rather it consists alone in the fact that in order to affirm or deny, pursue or shun, those things placed before us by the understanding, we act so that we are unconscious that any outside force constrains us in so doing.” Descartes seems to conceive the will as cause of itself in its acts of choice. But he does not attribute to the human will the autonomy Spinoza ascribes to God. “The knowledge of the understanding,” he writes, “should always precede the determination of the will”; and in another place he says that “our will impels us neither to follow after nor to flee from anything, except as our understanding represents it as good or evil.”
+
+In order to be free, Descartes explains, “it is not necessary that I should be indifferent as to the choice of one or the other of two contraries; but contrariwise the more I lean to the one—whether I recognize clearly that the reasons of the good and the true are to be found in it, or whether God so disposes my inward thought—the more freely do I choose and embrace it.” The will always retains “the power of directing itself towards one side or the other apart from any determination by the understanding.” The human will is, in this sense, always undetermined from without, though it is not always indifferent to the alternatives confronting it. It is indifferent, Descartes holds, only when a man “does not know what is the more true or the better, or at least when he does not see clearly enough to prevent him from doubting about it. Thus the indifference which attaches to human liberty is very different from that which belongs to the divine.”
+
+***
+
+THE DENIAL OF FREE WILL in the tradition of western thought seems to follow from the principle that every happening must have a cause. In the sphere of human conduct, voluntary acts are no less determined effects of prior causes than involuntary acts. Though both are equally necessitated, the difference between the voluntary and the involuntary, according to Hobbes, Locke, and Hume, consists in the fact that when a man acts voluntarily, he does what he himself has decided to do.
+
+The fact that his decision to act in a certain way is itself caused, does not, in the opinion of these writers, abolish the freedom of his action, but only the freedom of his will. If freedom is attributed not to a man’s will, but to the man who can do what he wills, then, these writers think, there is no conflict between freedom and necessity—or between freedom and the universal reign of causality. For them freedom is abridged only by external forces which coerce a man to act contrary to his wishes or constrain him from acting as he wills. Freedom in this sense is incompatible only with exterior compulsion, not with the inner causal determination of every act of the will.
+
+To those who deny free will, it does not seem to be an entirely satisfactory answer to say, as Descartes does, that we are immediately conscious of our freedom of choice. In the *Third Set of Objections*, urged by Thomas Hobbes against Descartes, Objection XII (which is directed against *Meditation* IV wherein Descartes discusses free will) contains this statement: “We must note here also that the freedom of the will has been assumed without proof, and in opposition to the opinion of the Calvinists.” In replying, Descartes merely repeats his original statement of the evidence for free will.
+
+“I made no assumption concerning freedom,” he writes, “which is not a matter of universal experience. Though there are many who, looking to the divine foreordination, cannot conceive how that is compatible with liberty on our part, nevertheless no one, when he considers himself alone, fails to experience that to will and to be free are the same thing (or rather that there is no difference between what is voluntary and what is free).” To Gassendi who, in another set of objections, also denies “the indeterminateness of the will,” Descartes replies: “These matters are such that anyone ought to experience them in himself rather than be convinced of them by ratiocination. ... Refuse then to be free, if freedom does not please you; I at least shall rejoice in my liberty, since I experience it in myself, and you have assailed it not with proof but with bare negations merely.”
+
+The experience of free will is no proof either, the opponents reply, for the experience is open to the suspicion that it is illusory rather than real. It may be, Hume suggests, only “a false sensation or seeming experience which we have ... of liberty or indifference in many of our actions.” We suffer this illusion, even foist it upon ourselves, he further suggests, because we are motivated by “the fantastical desire of showing liberty.” In the same vein, Freud later discounts objections to the determinism of psychoanalysis on the part of those who refuse to recognize the hidden causes which control their actions. “You have an illusion of a psychic freedom within you which you do not want to give up,” he says. But this “deeply rooted belief in psychic freedom and choice” “must be given up because it “is quite unscientific. ... It must give way before the claims of a determinism which governs even mental life.”
+
+***
+
+THE DILEMMA OF FREE WILL or determinism does not seem to other writers to be so easily resolvable. “All theory is against the freedom of the will,” says Dr. Johnson; “all experience for it.” Tolstoy states the dilemma in similar terms. “Regarding man as a subject of observation” by the rational methods of the sciences, Tolstoy writes, “we find a general law of necessity to which he (like all that exists) is subject. But regarding him from within ourselves as what we are conscious of, we feel ourselves to be free. This consciousness is a source of self-cognition quite apart from and independent of reason. Through his reason man observes himself, but only through consciousness does he know himself. ... You say: I am not free. But I have lifted my hand and let it fall. Everyone understands that this illogical reply is an irrefutable demonstration of freedom. That reply is the expression of a consciousness that is not subject to reason.”
+
+The problem cannot be solved, Tolstoy thinks, by ignoring one side of the question. To do that is to put the problem “on a level on which the question itself cannot exist. In our time,” Tolstoy continues, “the majority of so-called advanced people—that is, the crowd of ignoramuses—have taken the work of the naturalists who deal with one side of the question for a solution of the whole problem.” But to admit that “from the point of view of reason man is subject to the law of necessity ... does not advance by a hair’s breadth the solution of the question, which has another, opposite, side, based on the consciousness of freedom.” Not only does this “unshakable, irrefutable consciousness of freedom, uncontrolled by experiment or argument” constitute for Tolstoy “the other side of the question,” but it is also for him that “without which no conception of man is possible.”
+
+William James takes a somewhat different view of the dilemma of free will or determinism. Conceiving the act of free will in terms of the exertion of an effort on our part which is not determined by its object, James is willing to admit that our consciousness of freedom may be a delusion. “Even in effortless volition we have the consciousness of the alternative being also possible. This is surely a delusion here,” he writes; “why is it not a delusion everywhere?” Hence it seems to him that “the question of free will is insoluble on strictly psychological grounds.”
+
+But if the existence of free will cannot be proved from experience, neither, in his opinion, can determinism be scientifically demonstrated. “The most that any argument can do for determinism,” he says, “is to make it a clear and seductive conception, which a man is foolish not to espouse, so long as he stands by the great scientific postulate that the world must be one unbroken fact, and that prediction of all things without exception must be ideally, if not actually, possible.” For those who accept this postulate, “a little fact like effort can form no real exception to the overwhelming reign of deterministic law.”
+
+Yet it remains a postulate, and postulation is not proof. Furthermore, there is “a moral postulate about the Universe... which would lead one to espouse the contrary view ... the postulate that what ought to be can be, and that bad acts cannot be fated, but that good ones must be possible in their place.” As scientific law and prediction seem to call for the postulate of determinism, so moral responsibility and the genuineness of moral options seem to demand free will.
+
+Hume recognizes that “it may be said... that, if voluntary actions be subjected to the same laws of necessity with the operations of matter, there is a continued chain of necessary causes, pre-ordained, and pre-determined, reaching from the original cause of all to every single volition of every human creature.” But he does not think that the assertion of “no contingency anywhere in the universe; no indifference; no liberty,” requires us to give up our notions of moral responsibility, and to abstain from making judgments of praise or blame concerning human actions. “The mind of man is so formed by nature,” he writes, “that, upon the appearance of certain characters, dispositions, and actions, it immediately feels the sentiment of approbation or blame. The characters which engage our approbation are chiefly such as contribute to the peace and security of human society; as the characters which excite blame are chiefly such as tend to public detriment and disturbance.”
+
+In Hume’s opinion, “remote and uncertain speculations” concerning the causation of human character or conduct, or concerning the general structure of the universe, do not affect “the sentiments which arise from the natural and immediate view of the objects. ... Why should not the acknowledgement of a real distinction between vice and virtue,” he asks, “be reconcilable to all speculative systems of philosophy, as well as that of a real distinction between personal beauty and deformity?” James takes the exactly opposite view. A doctrine of necessity or determinism is for him incompatible with moral responsibility, or with the distinction between virtue and vice. Holding that free will is indispensable to the moral life, James chooses “the alternative of freedom.” In doing so he confesses that “the grounds of his opinion are ethical rather than psychological.”
+
+He does go one step further into what he calls “the logic of the question.” Since postulation is not proof—since a postulate is not an undeniable axiom but an expression of what James elsewhere calls “the will to believe”—the kind of dilemma which is formed by conflicting postulates can be resolved only by the exercise of free choice. The alternatives of free will and determinism constitute that kind of dilemma for James, and so it seems to him quite proper that the first act of free will should be to believe in free will.
+
+“When scientific and moral postulates war thus with each other,” he writes, “and objective proof is not to be had, the only course is voluntary choice, for skepticism itself, if systematic, is also voluntary choice.” Hence belief in free will “should be voluntarily chosen from amongst other possible beliefs. Freedom’s first deed should be to affirm itself. We ought never to hope for any other method of getting at the truth if indeterminism be a fact. Doubt of this particular truth will therefore probably be open to us to the end of time, and the utmost that a believer in free will can ever do will be to show that the deterministic arguments are not coercive. That they are seductive,” James concludes, “I am the last to deny; nor do I deny that effort may be needed to keep the faith in freedom, when they press upon it, upright in the mind.”
+
+***
+
+IN THE TRADITION OF THE great books, not all who affirm free will think that to do so requires them to deny the universal reign of causality in nature; nor do they base their affirmation on our immediate consciousness of free choice or make it an act of faith—a pragmatic postulate. Kant, for example, explicitly disclaims that freedom is a matter of faith. “It is the only one of all the ideas of pure reason,” he says, “whose object is a matter of fact.” This means for him that its objective reality can be proved. In contrast, “the existence of God and the immortality of the soul are matters of faith,” by which Kant means that they must be postulated by the practical reason as conditions necessary for the conceivability of the *summum bonum* which the moral law commands us to seek.
+
+In order to understand Kant’s proof of freedom, it is necessary to remember that he conceives the freedom of the will in terms of its autonomy, and its autonomy in terms of the fact that the practical reason, with which the pure will is identical, legislates for itself in proclaiming, and obeys only itself in upholding, the moral law. “Autonomy of the will,” he writes, “is that property of it by which it is a law unto itself... . Now the idea of freedom is inseparably connected with the conception of autonomy, and this again with the universal principle of morality.” The moral law, Kant goes on, “expresses nothing else than the autonomy of the pure practical reason,” and “this self-legislation of the pure and, therefore, practical reason is freedom in the positive sense.”
+
+In saying that “a free will and a will subject to moral laws are one and the same,” Kant thinks that he may be suspected of circular reasoning, in that he appears to make freedom a condition of morality and at the same time to infer freedom from the existence of the moral law. There is no question that for him freedom “must be the foundation of all moral laws and the consequent responsibility.” But, he explains, no inconsistency results from calling “freedom the condition of the moral law” and also maintaining that “the moral law is the condition under which we can first become conscious of freedom,” if it be understood that “freedom is the *ratio essendi* [ground of being] of the moral law, while the moral law is the *ratio cognoscendi* [ground of knowing] of freedom.”
+
+We know that our will is free from knowing the existence of the moral law. We know that the moral law exists, for otherwise reason could never judge, as it does, that we ought to have done what we did not do. It is not freedom but the moral law “of which we become directly conscious (as soon as we trace for ourselves maxims of the will).” This, Kant says, “first presents itself to us, and leads directly to the concept of freedom.” Whenever a man judges that “he can do a certain thing because he is conscious that he ought,” then, according to Kant, “he recognizes that he is free, a fact which but for the moral law he would never have known.”
+
+The freedom which Kant thinks can be directly deduced from the moral law is a very special kind of causality. In the sensible world of nature, each cause is in turn the effect of some prior cause. None is the first or unconditioned cause, an uncaused cause. But for Kant freedom is “a faculty of absolute spontaneity” and consists in “the unconditioned causality of the cause ... a causality capable of producing effects independently of and even in opposition to the power of natural causes, and capable, consequently, of spontaneously originating a series of events.”
+
+How are these two modes of causality—which Kant calls “the causality of nature and of freedom”—compatible with one another? To affirm both would appear to get us into the antinomy in which the thesis that “causality according to the laws of nature is not the only causality ... a causality of freedom is also necessary,” is contradicted by the antithesis that “there is no such thing as freedom, but everything in the world happens solely according to the laws of nature.” Yet Kant thinks he can show that “this antinomy is based upon a mere illusion, and that nature and freedom are at least not opposed.”
+
+It would be impossible, he admits, “to escape this contradiction if the thinking subject, which seems to itself free, conceived itself in the same sense or in the very same relation when it calls itself free as when in respect to the same action it assumes itself to be subject to the laws of nature.” But the contradiction is only apparent or illusory if man belongs to two worlds—the sensible world of natural phenomena and the supersensible world of intelligible beings or *noumena*. “The notion of a being that has free will,” writes Kant, “is the notion of a *causa noumenon*”—of a cause which does not operate under the temporal conditions of natural causality. “The notion of causality as physical necessity... concerns only the existence of things so far as it is determinable in time and, consequently, as phenomena, in opposition to their causality as things in themselves.”
+
+To remove “the apparent contradiction between freedom and the mechanism of nature in one and the same action, we must remember... that the necessity of nature, which cannot coexist with the freedom of the subject, appertains only to the attributes of the thing that is subject to time-conditions, consequently only to those of the acting subject as a phenomenon. ... But the very same subject,” Kant continues, “being on the other side conscious of himself as a thing in himself, considers his existence also in so far as it is not subject to time-conditions, and regards himself as only determinable by laws which he gives himself through reason.”
+
+In the latter mode of supersensible existence, man exercises the causality of a free will. He is not in any way subject to the natural necessity which governs all physical things. Yet the two worlds—the moral world of freedom and the physical world of necessity—meet in the same act. “The rational being,” Kant explains, “can justly say of every unlawful action that he performs, that he could very well have left it undone; although as appearance it is sufficiently determined in the past, and in this respect is absolutely necessary.”
+
+***
+
+THE APPARENT CONFLICT BETWEEN freedom and nature arises for Kant because he conceives the act of free will to be absolutely spontaneous. It is as uncaused as the swerve of the atoms (discussed in the chapter on CHANCE) on which Lucretius bases the existence of free will. There is another conception of freedom that does not attribute to free will any special character which brings it into conflict with ordinary causality. It does not belong to liberty, Aquinas thinks, that “what is free should be the first cause of itself.” Not only is God the ultimate cause of what a man freely chooses to do, as He is the first cause of every natural event, but the will as a natural faculty of man never moves itself to operation. It is always moved by the reason, even in its acts of choice, and so these acts, wherein the will is free, are also caused.
+
+Where Kant identifies will with free will (which implies that the will is free in all its acts), Aquinas distinguishes between those acts of the will which are necessitated and those which are free. He quotes Augustine to the effect that “natural necessity does not take away the liberty of the will,” for that liberty exists only in the will’s choice of means, not in its volition of the end. “Just as the intellect naturally and of necessity adheres to first principles,” Aquinas explains, “so the will adheres to the last end.” And just as the intellect assents of necessity to those “propositions which have a necessary connection with first principles, namely, demonstrable conclusions,” so the will adheres of necessity only to those things “which have a necessary connection with happiness.” With regard to all else—the whole realm of particular goods which are merely contingent means—the will is not necessitated, and so its choice among them is free.
+
+Although Aquinas says that unless man has free choice, “counsels, exhortations, commands, prohibitions, rewards and punishments would be in vain,” he does not postulate free will as an indispensable condition of moral conduct. Rather he shows how reason in causing the will’s choices at the same time leaves them free. “The root of liberty,” he writes, “is the will as the subject thereof, but it is the reason as its cause. For the will can tend freely towards various objects precisely because the reason can have various perceptions of good.” When, for example, “the deliberating reason is indifferently disposed to opposite things, the will can be inclined to either.” The freedom of the will’s choice with respect to particular means thus lies in the fact that, with respect to all contingent matters, “the judgment of reason may follow opposite courses, and is not determinate to one.”
+
+“In all particular goods,” Aquinas writes, “the reason can consider an aspect of some good and the lack of some good, which has the aspect of evil; and in this respect it can apprehend any single one of such goods as something to be chosen or to be avoided. The perfect good alone, which is happiness, cannot be apprehended by reason as an evil, or lacking in any way. Consequently man wills happiness of necessity, nor can he will not to be happy, or to be unhappy. Now since choice is not of the end, but of the means, it is not of the perfect good, which is happiness, but of particular goods. Therefore, man chooses not of necessity, but freely.”
+
+Like Aquinas, Locke holds that “to be determined by our own judgment is no restraint to liberty.” But where Locke thinks the “constant determination to a pursuit of happiness, no abridgment of liberty,” Aquinas holds that because “man wills happiness of necessity,” his will is not free in the volition of its natural end. Yet Locke does mention the case “wherein a man is at liberty in respect of willing”—the case in which “a man may suspend the act of his choice from being determined for or against the thing proposed, till he has examined whether it be really of a nature in itself and consequences to make him happy or not.”
+
+In this type of case Aquinas locates what is peculiar to the causality of freedom. Sometimes the judgment of reason is determined by its object, as when it contemplates the final end of actions. But when it deliberates about alternative means (which are both particular and contingent), reason can judge either way. What determines it to judge this way rather than that? Aquinas’ answer is that such judgments of the reason are voluntary, in contrast to reason’s involuntary assent to self-evident truths, wherein it is determined entirely by the object being considered. But if a voluntary judgment is one in which the will determines the reason’s assent, and if reason’s judgments concerning means are voluntary in this sense, then the act of the reason which causes the will’s act of choice is itself an act caused by the will. The will’s choice is, therefore, not uncaused; but, as Aquinas conceives it, the way in which it is caused makes it self-determining, and to this extent free.
+
+***
+
+THE GENERAL THEORY OF the will figures most prominently in the theology of Aquinas and in the philosophy of Kant and Hegel. They not only present the most elaborate analyses of its nature and its relation to reason but, in the tradition of the great books, they are the most stalwart defenders of its freedom. Their differences in principle and in reasoning may, however, obscure the common ground they share.
+
+This may be seen in their conception of freedom. Aquinas does not attribute autonomy or spontaneity to the will. Yet in his view of free choice as a self-determining act of the will, there is something analogous to Kant’s autonomy; and where Kant makes the pure will essentially free and spontaneous, Aquinas holds that the will, with respect to willing or not willing, is always free and inviolable. It is absolutely within “the power of the will,” he writes, “not to act and not to will.” He does not try to explain such freedom of exercise in the same way as freedom of choice.
+
+It is only with regard to the latter that Aquinas appeals to the causal reciprocity between reason and will to show how the will’s act of choice can be both free and caused. The kind of causation which Aquinas thinks takes place in free choice—the will determining the reason to make the practical judgment by which it is itself determined—seems to involve a circularity, or perhaps simultaneity, in action and reaction. If this is possible only because reason and will are spiritual powers, then here too there is some likeness to Kant’s theory of the will’s action as belonging to the supersensible world rather than to the domain of physical movement.
+
+On one other point, they tend to agree even more plainly. “Free choice,” writes Aquinas, “is part of man’s dignity.” Man’s dignity for Kant—his membership in what Kant calls “the kingdom of ends”—is “rendered possible by the freedom of the will.” But though they share this opinion of the source of human dignity in rationality and freedom, they do not draw the same moral consequences from their affirmation of free will as pivotal in human life.
+
+Aquinas, like Aristotle, does not find moral goodness only in the will. On the contrary, the rectitude of the will depends on the goodness of the end it adheres to and the means it chooses. But like the Stoics, Kant makes the will the sole repository of moral goodness.
+
+As Epictetus says that all good and evil lie in man’s will, and that the morally neutral sphere is “in the region outside the will’s control,” so Kant begins his moral philosophy with the statement, “Nothing can possibly be conceived in the world, or even out of it, which can be called good without qualification, except a Good Will.” In his view, “a good will is good not because of what it performs or effects, not by its aptness for the attainment of some proposed end, but simply by virtue of the volition; that is, it is good in itself.” In another place, he adds that “though not indeed the sole and complete good,” the will, good in itself, “must be the supreme good and the condition of every other, even of the desire of happiness.”
+
+These fundamental issues concerning the will in moral philosophy are more fully treated in the chapter on DUTY. The problems of the will in political theory are considered in the chapters on LAW and STATE—especially those problems which involve the concept of the sovereign will and the distinction of the particular will and the general will, the majority will and the will of all. The strictly theological problems concerning God’s freedom and man’s freedom in relation to God’s will are also reserved for treatment elsewhere.
+
+---
+
+## OUTLINE OF TOPICS
+
+1.  The existence and nature of will: its relation to reason or mind and to desire or emotion
+2.  The analysis of the power and acts of the will
+    *   2a. The objects of the will: the scope of its power
+    *   2b. The motivation of the will
+        *   (1) The rational determination of the will’s acts by judgments concerning good and evil or by the moral law
+        *   (2) The sensitive determination of the will’s acts by estimations of benefit and harm, or pleasure and pain: the impulsion of the passions
+    *   2c. The acts of the will
+        *   (1) The classification and order of the will’s acts: means and ends
+        *   (2) The several acts of the will with respect to ends: their antecedents and consequences
+        *   (3) The several acts of the will with respect to means: their antecedents and consequences
+3.  The functioning of will in human conduct and thought
+    *   3a. The role of the will in behavior
+        *   (1) The distinction between the voluntary and the involuntary: the conditions of voluntariness; comparison of men and animals with respect to voluntary behavior
+        *   (2) The range of purposive conduct: the relation of habit and instinct to the voluntary
+    *   3b. The role of the will in thought
+        *   (1) The distinction between knowledge and opinion in relation to the willful in thought: the will to believe and wishful thinking
+        *   (2) The will as cause of error
+        *   (3) Religious faith as dependent on an act of will or practical reason
+4.  The divine will
+    *   4a. The relation of the divine will and intellect
+    *   4b. The freedom of the divine will: the divine will in relation to the possible and the impossible
+5.  The freedom of the will
+    *   5a. Interpretations of the meaning of free will
+        *   (1) The freedom of the will as consisting in a freely determined choice or a free judgment of the reason
+        *   (2) The freedom of the will as consisting in the freedom of a man to act or not to act: freedom from external constraints or coercions
+        *   (3) The freedom of the will as consisting in a totally uncaused or spontaneous act
+        *   (4) The freedom of the will as the autonomy of the reason legislating for itself: the identity of pure will and free will
+    *   5b. Arguments for the freedom of the will
+        *   (1) Man’s immediate consciousness of his freedom of choice: reason’s reflexive knowledge of its autonomy
+        *   (2) The freedom of the will as deriving from the indetermination of practical reason judging particular goods
+        *   (3) The deduction of free will from the moral law or from the fact of pure practical reason
+        *   (4) Free will as a pragmatic option: the postulation of free will as an indispensable condition of moral responsibility and action
+    *   5c. Arguments against the freedom of the will: free will as a violation of the course of nature or the reign of causality; the impossibility of proving free will
+6.  The analysis of the will’s range of freedom
+    *   6a. The limitations on the freedom of the will: the distinction between acts of the will which are necessitated and acts of the will which are free
+    *   6b. The distinction between the will’s freedom of exercise and the will’s freedom of choice
+    *   6c. The distinction between voluntary behavior and behavior resulting from free choice: comparison of men and animals with respect to freedom
+7.  The implications of free will
+    *   7a. Free will as a source of human dignity: its relation to slavery and civil liberty
+    *   7b. The factors of freedom and necessity in the philosophy of history
+    *   7c. Human freedom in relation to the will of God: fate, predestination, and providence
+    *   7d. God as the object of the human will: the quiescence of the will in the beatific vision
+    *   7e. Free will in relation to sin and salvation
+        *   (1) The freedom to sin: Adam’s freedom and the freedom of fallen human nature
+        *   (2) The relation of freedom to grace
+8.  The will as a factor in morality and in society
+    *   8a. The inviolability of the will: its freedom from external compulsions or constraints
+    *   8b. The goodness or malice of the will
+        *   (1) The conditions of the will’s rectitude or disorder
+        *   (2) A good will as the exclusive or principal human good
+    *   8c. The will and virtue: justice and charity as habits of the will
+    *   8d. The will and duty: the categorical imperative
+    *   8e. The will and right: the harmony of individual wills in external practical relations
+9.  Differences among men in the sphere of will
+    *   9a. The distinction between men of strong and weak will: cultivation of will power
+    *   9b. The pathology of the will: indecision, obsession, compulsion, inhibition
+10. Will as a term in political theory
+    *   10a. The sovereign will: the will of the people; the will of the majority
+    *   10b. The relation of law to will
+    *   10c. The general will, particular wills, the will of each, and the will of all
+
+---
+
+## REFERENCES
+
+To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4 Homer:** *Iliad*, BK II [265-283] 12d, the number 4 is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12.
+
+**Page Sections:** When the text is printed in one column, the letters a and b refer to the upper and lower halves of the page. For example, in **53 James:** *Psychology*, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters a and b refer to the upper and lower halves of the left-hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of the page. For example, in **7 PLATO:** *Symposium*, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.
+
+**Author’s Divisions:** One or more of the main divisions of a work (such as part, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., *Iliad*, BK II [265-283] 12d.
+
+**Bible References:** The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows; e.g., OLD TESTAMENT: *Nehemiah*, 7:45—(D) *II Esdras*, 7:46.
+
+**Symbols:** The abbreviation `esp` calls the reader’s attention to one or more especially relevant parts of a whole reference; `passim` signifies that the topic is discussed intermittently rather than continuously in the work or passage cited.
+
+For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of The Great Ideas, consult the Preface.
+
+**1. The existence and nature of will: its relation to reason or mind and to desire or emotion**
+*   **7 PLATO:** *Republic*, BK IV, 350b-353c
+*   **8 ARISTOTLE:** *Metaphysics*, BK IX, CH 5 [1047b35-1048a24] 573b-c / *Soul*, BK III, CH 7 [431b2-12] 664a-b; CH 9 [432b22-] 664d-665a; CH 10 [433a23-26] 666a
+*   **9 ARISTOTLE:** *Motion of Animals*, CH 6 [700b15-25] 235d-236a / *Ethics*, BK VI, CH 2 387d-388b / *Rhetoric*, BK I, CH 10 [1368b33-1369a4] 612a-b
+*   **12 LUCRETIUS:** *Nature of Things*, BK II [251-293] 18b-d
+*   **12 EPICTETUS:** *Discourses*, BK I, CH 10, 148c; 149d-150a; CH 23 170a-172d
+*   **17 PLOTINUS:** *Third Ennead*, TR VI, CH 4 108c-109b / *Sixth Ennead*, TR VIII 342d-353d
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 19-24 58b-60a / *City of God*, BK IX, CH 4-5 287a-289a; BK XIV, CH 6-9 380b-385b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 14, A 8, ANS 82c-83b; Q 19, A 1, ANS and REP 2 108d-109c; A 2, ANS 109c-110b; Q 54, A 2, ANS 285d-286c; Q 59 306b-310a; Q 75, A 6, ANS 383c-384c; Q 80, A 2 428a-d; Q 82 431d-436c; Q 83, AA 3-4 438d-440b; Q 87, A 4 468b-d; PART I-II, Q 6, A 2, REP 1 646a-c; A 8 650d-651c; Q 9, A 6, ANS 662a-d; Q 10, A 1 662d-663d; Q 12, A 1 669c-670b; Q 13, A 1 672d-673c; A 5, REP 1 675c-676b; Q 17, A 1 686d-687c; Q 18, A 7, ANS 698c-699c; Q 19, AA 3-6 704c-708a; Q 24, A 2, ANS 727d-728c; Q 26, A 1, ANS 734a-d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 50, A 5 10b-d; Q 62, A 3, REP 1 61c-62b; Q 77, A 1 145a-d
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVII [91-105] 79b-c; XVIII [1-75] 79d-80c `esp` [64-75] 80c
+*   **23 HOBBES:** *Leviathan*, PART I, 61a-c; 64a-c; PART III, 165c; PART IV, 272a
+*   **27 SHAKESPEARE:** *Troilus and Cressida*, ACT II, SC II [51-67] 114a-b; [163-182] 115b-c; ACT III, SC II [80-96] 121a / *Othello*, ACT I, SC III [322-337] 212b-c
+*   **30 BACON:** *Advancement of Learning*, 55b-d; 66c-d; 67a-b
+*   **31 DESCARTES:** *Meditations*, III, 82d-83a; IV 89a-93a / *Objections and Replies*, DEF I 130a; AXIOM VII 132a; 141d; 215d-216c; 228c
+*   **31 SPINOZA:** *Ethics*, PART I, PROP 31 366d-367a; PART II, AXIOM 3 373d; PROP 48-49 391a-394d; PART III, PROP 9, SCHOL 399c; THE AFFECTS, DEF I, EXPL 416c-d
+*   **35 LOCKE:** *Civil Government*, CH VI, SECT 57-63 36d-38c `passim` / *Human Understanding*, BK II, CH VI 131b-c; CH VII, SECT 3 131d-132a; CH XXI, SECT 5-6 179c-180a; SECT 15 181c; SECT 29-48 184d-190d `passim`; SECT 73 198c-199c; CH XXIII, SECT 18 209a; SECT 28 211b-d; SECT 30 212a-b; BK IV, CH XIII, SECT 2 363d-364a
+*   **35 BERKELEY:** *Human Knowledge*, SECT 26-28 418a-c; SECT 144 441d
+*   **35 HUME:** *Human Understanding*, SECT VII, DIV 51-53 472b-474b
+*   **38 ROUSSEAU:** *Inequality*, 337d-338a
+*   **41 GIBBON:** *Decline and Fall*, 150c
+*   **42 KANT:** *Pure Reason*, 164a-165c `esp` 164b-c; 234c-236a `esp` 235c-d; 236d-237a / *Fund. Prin. Metaphysic of Morals*, 256a-d; 264d-265a; 271c-d; 279b; 280b-c; 282d-283b; 284d-285a / *Practical Reason*, 303b-304b; 314a-d; 315c; 329b-c / *Pref. Metaphysical Elements of Ethics*, 367c / *Intro. Metaphysic of Morals*, 385a-d; 386b-d / *Judgement*, 483d-484b; 508d [fn 1]
+*   **43 MILL:** *Utilitarianism*, 463c-464d
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 4 12d-13a; PAR 22 17c-d; PAR 25-26 18a-c; ADDITIONS, 17 119a; 26 121a-b; 90 130b-d / *Philosophy of History*, INTRO, 163a-164a; PART IV, 362b-d
+*   **53 JAMES:** *Psychology*, 51a-b; 660b-661a; 767a; 814b-820b `esp` 814b-815a, 816a-817b, 819a
+*   **54 FREUD:** *Hysteria*, 10c / *Interpretation of Dreams*, 276c; 351d; 353a-b / *Ego and Id*, 702c-d; 715c-d / *War and Death*, 760d-761a / *New Introductory Lectures*, 837b-838d `esp` 838b
+
+**2. The analysis of the power and acts of the will**
+
+**2a. The objects of the will: the scope of its power**
+*   **8 ARISTOTLE:** *Topics*, BK VI, CH 8 [146a37-b6] 200b; [146b36-147a11] 200d-201a / *Metaphysics*, BK XII, CH 7 [1072a23-b4] 602b-c / *Soul*, BK III, CH 7 [431b2-12] 664a-b; CH 10 [433a13-31] 665d-666a; [433b5-18] 666b-c
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 2-4 357b-359c; BK VI, CH 2 387d-388b
+*   **12 EPICTETUS:** *Discourses*, BK II, CH 24 203c-210a; BK IV, CH 1 213a-223d
+*   **17 PLOTINUS:** *Third Ennead*, TR I, CH 8-10 81d-82b / *Fourth Ennead*, TR IV, CH 35, 177d-178a
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 19-24 58b-60a / *City of God*, BK XI, CH 8 346d-347b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 19, A 1, REP 1-3 108d-109c; A 3, ANS 110b-111c; A 6, REP 1-2 113c-114d; A 7, ANS 114d-115d; A 9, ANS 116d-117d; Q 20, A 1, ANS and REP 3 120a-121b; Q 21, A 1, REP 2 124b-125b; Q 54, A 2, ANS 285d-286c; Q 59, A 1, ANS and REP 1 306c-307b; A 2 307c-308b; A 3, ANS 308b-309a; A 4, ANS and REP 2-3 309a-310a; Q 62, A 8 323c-324a; Q 75, A 6, ANS 383c-384c; Q 82, A 2, REP 1-2 432d-433c; AA 4-5 434c-436c; Q 87, A 4, REP 2 468b-d; Q 105, A 4, ANS 541c-542a; PART I-II, QQ 1-5 609a-643d; Q 6, A 4, REP 2 647b-648a; Q 9, A 1, ANS and REP 3 657d-658d; A 6, ANS and REP 3 662a-d; Q 10, A 1, ANS and REP 3 662d-663d; A 2 663d-664d; Q 13, A 2, ANS 673c-674c; AA 3-5 674c-676b; Q 18, A 6 697d-698c; A 7, ANS 698c-699c; Q 19, A 1, ANS and REP 1,3 703b-d; A 2, REP 1 703d-704c; A 3 704c-705a; A 5, ANS 705d-707a; Q 20, A 1, ANS and REP 1-2 712a-d
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVII [91]-XVIII [75] 79b-80c
+*   **23 HOBBES:** *Leviathan*, PART I, 87c; 93c; PART III, 165b-c
+*   **27 SHAKESPEARE:** *Othello*, ACT I, SC III [322-337] 212b-c
+*   **31 DESCARTES:** *Meditations*, IV 89a-93a / *Objections and Replies*, AXIOM VII 132a
+*   **31 SPINOZA:** *Ethics*, PART II, PROP 49 398d-400b `esp` PROP 9, SCHOL 399c; PART IV, PROP 19 429d; PROP 63 443d-444a
+*   **33 PASCAL:** *Pensées*, 81 186b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 5, 179c; SECT 15 181c; SECT 41 188b-c; BK IV, CH X, SECT 19 354a-c
+*   **35 BERKELEY:** *Human Knowledge*, SECT 26-29 418a-c
+*   **35 HUME:** *Human Understanding*, SECT VII, DIV 51-53 472b-474b; DIV 58 476a-b
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 256a-d; 259a-b / *Practical Reason*, 298a-300a; 304a-307d `esp` 304a-d; 315c; 327a-329a; 350c-351b / *Pref. Metaphysical Elements of Ethics*, 367c / *Science of Right*, 397b-398a; 403b-404d / *Judgement*, 584d-585c; 605d-606b [fn 2]
+*   **43 MILL:** *Representative Government*, 331b-c / *Utilitarianism*, 463c-464d
+*   **46 HEGEL:** *Philosophy of Right*, PART I, PAR 39 21d; PAR 41 22c-d; PAR 45 23c-d; PART II, PAR 107 40b-c; PAR 109-111 41a-c; ADDITIONS, 8 117c-d; 26 121a-b; 70 127b / *Philosophy of History*, PART IV, 319b-320a
+*   **53 JAMES:** *Psychology*, 660b-661a; 767a-768a; 787a; 814b-819a; 830a
+*   **54 FREUD:** *Hysteria*, 110c / *Ego and Id*, 715c-716a / *Civilization and Its Discontents*, 800d-801a / *New Introductory Lectures*, 838b-839b `esp` 838c-d
+
+**2b. The motivation of the will**
+*   **8 ARISTOTLE:** *Soul*, BK III, CH 9 [432b13]-CH 10 [433b30] 665a-666d
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 2-4 357b-359c / *Rhetoric*, BK I, CH 10 [1368b1-1369a7] 611c-613a
+*   **17 PLOTINUS:** *Sixth Ennead*, TR VIII, CH 1-4 342d-344d
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 19-24 58b-60a / *City of God*, BK IX, CH 4-5 287a-289a; BK XXII, CH 2, 587b-d
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 82, A 4 434c-435c; PART I-II, Q 9 657d-662d; Q 17, A 5 689c-690b
+*   **23 HOBBES:** *Leviathan*, PART I, 64b-c
+*   **31 DESCARTES:** *Meditations*, IV, 90b-93a / *Objections and Replies*, 126a-b; DEF I 130a; AXIOM VII 132a; 228c
+*   **31 SPINOZA:** *Ethics*, PART II, PROP 49 398d-400b; PART IV, PROP 9-19 426d-429d; PROP 63 443d-444a
+*   **35 LOCKE:** *Human Understanding*, BK II, CH VII, SECT 3 131d-132a; CH XX, SECT 6 177a-b; CH XXI, SECT 29-57 184d-193c `passim`; SECT 73 198c-199c
+*   **42 KANT:** *Pure Reason*, 164a-165c; 236d-237a / *Fund. Prin. Metaphysic of Morals*, 259a-c; 262a-c; 264d-265b; 279b,d-287d `esp` 282b-283d, 284d-285a / *Practical Reason*, 298a-300a; 301a; 304a-d; 315c; 318c-d; 327a-329a; 330c-331a; 341c-342a / *Intro. Metaphysic of Morals*, 385c-386b; 389a-390a,c / *Judgement*, 571c-572a; 605d-606b [fn 2]
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 25-26 18a-c; PART I, PAR 35 21a-b; ADDITIONS, 22 120c-d / *Philosophy of History*, INTRO, 166b; PART IV, 362b-d
+*   **49 DARWIN:** *Descent of Man*, 310c-d; 592b-d
+*   **53 JAMES:** *Psychology*, 790a-799b `esp` 792b-795b, 798b-799b; 807a-814b
+*   **54 FREUD:** *General Introduction*, 592d-593a
+
+**(1) The rational determination of the will’s acts by judgments concerning good and evil or by the moral law**
+*   **8 ARISTOTLE:** *Topics*, BK VI, CH 8 [146b36-147a11] 200d-201a / *Metaphysics*, BK XII, CH 7 [1072a26-29] 602b / *Soul*, BK III, CH 7 [431b1-12] 664a-b; CH 9 [432b13]-CH 10 [433b18] 665a-666c; CH 10 [433b27-30] 666c-d
+*   **9 ARISTOTLE:** *Motion of Animals*, CH 6 [700b15]-CH 7 [701a39] 235d-236d / *Ethics*, BK III, CH 2 357b-358a; CH 3 [1113a3]-CH 4 [1113b1] 359a-c; BK VI, CH 2 387d-388b; CH 13 394b-d / *Rhetoric*, BK I, CH 10 611c-613a `passim`
+*   **12 LUCRETIUS:** *Nature of Things*, BK IV [877-891] 55d
+*   **14 PLUTARCH:** *Pericles*, 121b / *Timoleon*, 197c-198a
+*   **17 PLOTINUS:** *Sixth Ennead*, TR VIII, CH 1-4 342d-344d
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 16, A 1, REP 2 28b-d; Q 19, A 7, ANS 114d-115d; Q 21, A 1, REP 2 124b-125b; Q 27, A 3, REP 3 155c-156a; Q 59, A 1, REP 3 306c-307b; Q 82, A 2, ANS and REP 3 432d-433c; A 3, REP 2 433c-434c; A 4 434c-435c; Q 83, A 3 438d-439c; A 4, REP 3 439c-440b; Q 87, A 4 468b-d; PART I-II, Q 1, A 6, REP 3 614a-c; Q 3, A 4, REP 3-4 625a-626b; Q 8, A 1, ANS and REP 3 655b-656a; Q 9, A 1 657d-658d; A 3, REP 3 659c-660a; A 4, ANS 660a-d; A 6, REP 2-3 662a-d; Q 12, A 1, REP 1,3 669c-670b; A 5, ANS 672a-c; Q 13, A 1 672d-673c; A 3, ANS 674c-675a; A 5 675c-676b; Q 14 677b-681a; Q 15, A 3, ANS 682c-683b; A 4 683b-684a; Q 16, A 1, REP 1 684b-d; Q 17, A 5 689c-690b; Q 19, A 3 704c-705a; A 5, ANS 705d-707a; A 10, ANS and REP 1 710b-711d; Q 20, A 1, ANS and REP 1 712a-d
+*   **21 DANTE:** *Divine Comedy*, HELL, I [1]-III [21] 1a-4b; PURGATORY, XVI [52-84] 77b-d; XVIII [1-75] 79d-80c
+*   **27 SHAKESPEARE:** *Troilus and Cressida*, ACT II, SC II [51-67] 114a-b; [163-182] 115b-c
+*   **30 BACON:** *Advancement of Learning*, 66c-d
+*   **31 DESCARTES:** *Rules*, I, 1d-2a / *Discourse*, PART III, 50b / *Meditations*, IV 89a-93a / *Objections and Replies*, 125b-c; AXIOM VII 132a; 141d; 216b-c; 228c
+*   **31 SPINOZA:** *Ethics*, PART II, PROP 49, SCHOL 399c; PART IV, PROP 61 443a-b; PROP 63 443d-444a; APPENDIX, II 447b; XXX 450c-d
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 33 186a; SECT 37 187a-b; SECT 48-49 190c-191a
+*   **38 ROUSSEAU:** *Inequality*, 337d-338a
+*   **42 KANT:** *Pure Reason*, 169c-170a / *Fund. Prin. Metaphysic of Morals*, 264d-265b `esp` 265b; 271c-d; 279b,d; 282d-283b / *Practical Reason*, 298a-300a; 306d-307a; 318c-321b `esp` 319c-d / *Pref. Metaphysical Elements of Ethics*, 367c / *Science of Right*, 397b-398a / *Judgement*, 477b-c; 571c-572a; 605d-606b [fn 2]
+*   **46 HEGEL:** *Philosophy of Right*, PART II, PAR 139 48d-49b; ADDITIONS, 90-91 130b-131d
+*   **49 DARWIN:** *Descent of Man*, 310d
+*   **53 JAMES:** *Psychology*, 796a-798b; 807a-808a
+
+**(2) The sensitive determination of the will’s acts by estimations of benefit and harm, or pleasure and pain: the impulsion of the passions**
+*   **8 ARISTOTLE:** *Soul*, BK III, CH 10 [433a21-31] 665d-666a; [433b5-13] 666b; CH 11 [434a10-15] 666d-667a
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 1 [1111a21]-CH 2 [1111b19] 357a-c; CH 4 359a-c; BK X, CH 1 [1172a18-27] 426a; CH 2 [1172b35-1173a4] 427a / *Rhetoric*, BK I, CH 10 611c-613a `passim`
+*   **12 AURELIUS:** *Meditations*, BK VII, SECT 55 283b-c
+*   **19 AQUINAS:** *Summa Theologica*, PART I-II, Q 6, A 4, REP 3 647b-648a; AA 6-7 649a-650d; Q 9, A 2 658d-659c; A 4, CONTRARY 660a-d; A 5, ANS and REP 2-3 660d-662a; Q 10, A 3 664d-665c
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 77, A 1 145a-d
+*   **21 DANTE:** *Divine Comedy*, HELL, I [1]-III [21] 1a-4b; PURGATORY, XVIII [1-75] 79d-80c; PARADISE, I [97-142] 107b-d
+*   **22 CHAUCER:** *Manciple’s Tale* [17,097-144] 490a-b
+*   **23 HOBBES:** *Leviathan*, PART I, 64a-c
+*   **31 SPINOZA:** *Ethics*, PART IV, PROP 9-18 426d-429d
+*   **35 LOCKE:** *Human Understanding*, BK II, CH VII, SECT 3 131d-132a; CH XX, SECT 6 177a-b; CH XXI, SECT 12 180d-181a; SECT 31 185c-d; SECT 34-35 186a-d; SECT 40 187d-188b
+*   **38 ROUSSEAU:** *Inequality*, 337d-338a
+*   **42 KANT:** *Pure Reason*, 164a-165c; 234c-236a `esp` 235c-d / *Fund. Prin. Metaphysic of Morals*, 259a-b; 260a-c; 265b; 284d-285a / *Practical Reason*, 298d-300a; 306d-307a; 341c-342a / *Intro. Metaphysic of Morals*, 385c-386b / *Judgement*, 477b-c; 571c-572a; 605d-606b [fn 2]
+*   **43 MILL:** *Liberty*, 269c-270c `passim` / *Utilitarianism*, 463c-464d
+*   **49 DARWIN:** *Descent of Man*, 310c-d; 316a-317a; 592b-d
+*   **53 JAMES:** *Psychology*, 796b-797b; 799a-b; 808b-814b; 829b-830a
+*   **54 FREUD:** *Interpretation of Dreams*, 363b-364b; 377c-378b / *Instincts*, 412c-414b `passim`, `esp` 413d-414a; 419a-420a / *General Introduction*, 592d-593a / *Beyond the Pleasure Principle*, 639a-640c / *Ego and Id*, 702c-d / *New Introductory Lectures*, 838c-d
+
+**2c. The acts of the will**
+
+**(1) The classification and order of the will’s acts: means and ends**
+*   **9 ARISTOTLE:** *Ethics*, BK I, CH 2 [1094a18-22] 339b; CH 4 [1095a13-20] 340b; BK III, CH 2 [1111b20-29] 357c-d; CH 3 [1112b13-1113a12] 358c-359a; CH 5 [1113b3-5] 359c; BK VI, CH 2 387d-388b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 19, A 2, REP 2 109c-110b; A 5, ANS 112d-113c; Q 20, A 1, ANS and REP 3 120a-121b; Q 83, A 4, ANS and REP 1-2 439c-440b; PART I-II, Q 1, A 6 614a-c; Q 6, A 4, ANS 647b-648a; Q 8, A 2, ANS and REP 1 656a-d; A 3 657a-c; Q 9, A 3 659c-660a; A 4, ANS 660a-d; Q 12, A 4 671c-672a; Q 13, A 3 674c-675a; Q 15, A 3 682c-683b; Q 16, A 3 685b-686a; Q 19, AA 7-8 708a-709d
+*   **31 DESCARTES:** *Discourse*, PART III, 50b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 52-53 191d-192b
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 256a-b; 257c-d; 265c-267b; 274d-275b / *Practical Reason*, 327d-329a / *Pref. Metaphysical Elements of Ethics*, 367c
+*   **53 JAMES:** *Psychology*, 51a-b
+
+**(2) The several acts of the will with respect to ends: their antecedents and consequences**
+*   **8 ARISTOTLE:** *Soul*, BK III, CH 10 [433a13-31] 665d-666a; [433b5-18] 666b-c
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 2 [1111b20-29] 357c-d; CH 3 [1112b13-1113a3] 358c-359a; CH 4 359a-c; BK VI, CH 2 387d-388b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 20, A 1, ANS and REP 3 120a-121b; PART I-II, QQ 8-12 655a-672c
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 256a-b; 265c-267b `esp` 266a-c; 271d-279d `esp` 273d-277b / *Practical Reason*, 327d-329a / *Pref. Metaphysical Elements of Ethics*, 367c / *Judgement*, 586a-b; 594b-595d
+*   **53 JAMES:** *Psychology*, 767a-798a `esp` 767a-768a, 788a-b, 790a, 791b-792b, 796a-b
+
+**(3) The several acts of the will with respect to means: their antecedents and consequences**
+*   **8 ARISTOTLE:** *Soul*, BK III, CH 10 [433a13-31] 665d-666a
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 2-3 357b-359a; BK VI, CH 2 387d-388b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 59, A 3, REP 1 308b-309a; Q 60, A 2 311a-d; A 3, ANS 311d-312b; Q 83, A 3 438d-439c; PART I-II, Q 9, A 3, ANS and REP 1 659c-660a; A 4, ANS 660a-d; QQ 13-17 672d-693d
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 265c-267d `esp` 266c-267d / *Judgement*, 586a-b
+*   **53 JAMES:** *Psychology*, 767a-790a `esp` 767a-768a; 827a-835a
+
+**3. The functioning of will in human conduct and thought**
+
+**3a. The role of the will in behavior**
+*   **8 ARISTOTLE:** *Metaphysics*, BK VI, CH 1 [1025b22-25] 547d; BK IX, CH 5 [1047b35-1048a24] 573b-c; CH 7 [1049a5-8] 574c / *Memory and Reminiscence*, CH 2 [453a15-31] 695b-d
+*   **9 ARISTOTLE:** *Motion of Animals*, CH 6-11 235d-239d / *Ethics*, BK III, CH 1-5 355b,d-361a; BK VI, CH 2 387d-388b
+*   **12 LUCRETIUS:** *Nature of Things*, BK II [251-293] 18b-d; BK IV [877-891] 55d
+*   **12 EPICTETUS:** *Discourses*, BK I, CH 11 116d-118d
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 19-27 58b-60c
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 14, A 8, ANS 82c-83b; Q 18, A 3, ANS 106b-107c; Q 19, A 4, ANS and REP 4 111c-112c; Q 20, A 1, REP 1 120a-121b; Q 25, A 1, REP 4 143d-144c; PART I-II, Q 1 609a-615c; Q 3, A 4, REP 3-4 625a-626b; Q 6 644a-651c; Q 9, A 1, ANS and REP 3 657d-658d; Q 11, A 1, REP 2 666b,d-667a; Q 12, A 1, ANS 669c-670b; Q 13, AA 4-5 675a-676b; QQ 16-17 684a-693d; Q 18, A 6, ANS 697d-698c; A 7, ANS 698c-699c; Q 20 712a-716d; Q 21, A 2 718a-d
+*   **23 HOBBES:** *Leviathan*, PART I, 64a-c; PART IV, 272a
+*   **30 BACON:** *Advancement of Learning*, 55b-d; 67a-b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 5, 179c; BK IV, CH X, SECT 19 354a-c
+*   **35 HUME:** *Human Understanding*, SECT VII, DIV 51-52 472b-473c; DIV 58 476a-b
+*   **42 KANT:** *Pure Reason*, 169c-170a / *Fund. Prin. Metaphysic of Morals*, 264d-265a; 275b; 279b,d-287d `esp` 282b-283d / *Practical Reason*, 293d [fn 3]; 296a-d; 307d-314d; 331c-337a,c / *Intro. Metaphysic of Morals*, 383c-d; 385a-c / *Judgement*, 463a-467a; 571c-572a; 587a-588a; 607c
+*   **46 HEGEL:** *Philosophy of Right*, PART I, PAR 72 31c; PART II, PAR 115 42b-c / *Philosophy of History*, INTRO, 165a-166b
+*   **53 JAMES:** *Psychology*, 291a-295a; 790a-798b `esp` 792a-b, 794a-795a, 797b-798a; 807a-808a
+*   **54 FREUD:** *Ego and Id*, 715c-716a / *New Introductory Lectures*, 838b
+
+**(1) The distinction between the voluntary and the involuntary: the conditions of voluntariness; comparison of men and animals with respect to voluntary behavior**
+*   **7 PLATO:** *Laws*, BK IX, 746a-748d
+*   **8 ARISTOTLE:** *Metaphysics*, BK V, CH 5 [1015a27-b3] 535d; BK IX, CH 5 573a-c / *Soul*, BK III, CH 9-11 664d-667a
+*   **9 ARISTOTLE:** *Motion of Animals*, CH 11 239a-d / *Ethics*, BK III, CH 1 [1109b30]-CH 2 [1111b9] 355b,d-357b; CH 5 359c-361a; BK V, CH 8 [1135a15]-CH 9 [1136b14] 383a-384d; BK VI, CH 2 [1139a17-21] 387d / *Rhetoric*, BK I, CH 10 [1368b7-13] 611d; CH 13 [1373b27-37] 618a
+*   **10 GALEN:** *Natural Faculties*, BK I, CH 12, 173a-c
+*   **12 EPICTETUS:** *Discourses*, BK II, CH 7, 183c-184a
+*   **17 PLOTINUS:** *Sixth Ennead*, TR VIII, CH 1-4 342d-344d
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 18, A 3, ANS 106b-107c; Q 19, A 12, REP 2 118d-119d; Q 41, A 2 218c-219d; Q 47, A 1, REP 1 256a-257b; Q 81, A 3, ANS and REP 2 430c-431d; Q 82, A 1, ANS and REP 1,3 431d-432c; Q 105, A 4, REP 2-3 541c-542a; PART I-II, Q 1, A 2, ANS 610b-611b; Q 6 644a-651c; Q 7, A 2, ANS 652d-653c; Q 9, A 4, REP 1 660a-d; Q 11, A 2, ANS 667b-d; Q 13, A 2 673c-674c; Q 15, A 2 682a-c; Q 16, A 2 684d-685b; Q 18, A 6, ANS 697d-698c; Q 19, A 6, ANS and REP 3 707a-708a; Q 20, A 2, REP 3 712d-713c; Q 21, A 2, ANS 718a-d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 72, A 3, ANS and REP 1-2 113b-114a
+*   **23 HOBBES:** *Leviathan*, PART I, 61a-b; 64b-c; 87c; 93c
+*   **28 HARVEY:** *On Animal Generation*, 456c-458a `passim`
+*   **33 PASCAL:** *Provincial Letters*, 24b-26b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 5, 179c; SECT 7-11 180a-d
+*   **38 ROUSSEAU:** *Inequality*, 337d-338a
+*   **42 KANT:** *Pure Reason*, 164a-165c `esp` 164b-c; 234c-236a `esp` 235c-d; 236d-237a / *Fund. Prin. Metaphysic of Morals*, 264d-265a; 279b,d; 282d-283b; 284d-285a; 286c-287d / *Practical Reason*, 296a-d; 307d-314d; 331c-337a,c / *Intro. Metaphysic of Morals*, 386b-d / *Judgement*, 587a-588a
+*   **46 HEGEL:** *Philosophy of Right*, PART II, PAR 115 42b-c; PAR 117 42c-d; PAR 139 48d-49b; ADDITIONS, 5 116d-117a; 10 117d-118a; 90 130b-d
+*   **49 DARWIN:** *Origin of Species*, 120b-c / *Descent of Man*, 291b; 292c-294c `passim`
+*   **50 MARX:** *Capital*, 85c-d
+*   **51 TOLSTOY:** *War and Peace*, BK XII, 548d-549d; BK XIII, 578b-579d; EPILOGUE I, 689c-690a
+*   **53 JAMES:** *Psychology*, 4a-7a; 8a-b; 9a-17b `esp` 11b-12a, 13a-14b, 17a-b; 47b-52b `esp` 49a-b, 51a-52a; 71b [fn 1]; 269a-274a `esp` 272a-273a; 291a-295a `esp` 293a, 294b-295a; 691a-b; 704a-706b; 767b-790a `esp` 767b-768a, 790a; 827a-835a `esp` 827b
+*   **54 FREUD:** *Origin and Development of Psycho-Analysis*, 13a-c / *General Introduction*, 454b-476a,c `passim`, `esp` 473b-d
+
+**(2) The range of purposive conduct: the relation of habit and instinct to the voluntary**
+*   **8 ARISTOTLE:** *Metaphysics*, BK IX, CH 5 573a-c / *Soul*, BK II, CH 5 [417b21-418a3] 647d-648c; BK III, CH 4 [429b5-9] 661d
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 5 359c-361a
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 10-11 55c-56b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 18, A 3, ANS 106b-107c; Q 83, A 2, ANS 438a-d; Q 115, A 4, ANS 589d-590c; PART I-II, Q 6, A 4, REP 3 647b-648a; Q 12, A 5, ANS and REP 3 672a-c; Q 13, A 2 673c-674c
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 50, A 1, REP 1 6a-7b; A 3 8b-9a; A 5, REP 1,3 10b-d; Q 71, A 4, ANS and REP 3 108b-109a; Q 94, A 1, REP TO CONTRARY 221a-d
+*   **25 MONTAIGNE:** *Essays*, 39a-40a; 179b-c
+*   **28 HARVEY:** *On Animal Generation*, 456c-458a `passim`
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 256d-257a; 264d-265a; 279b,d-287d `esp` 282b-283d / *Practical Reason*, 316c-317a / *Pref. Metaphysical Elements of Ethics*, 378a-b
+*   **43 MILL:** *Utilitarianism*, 463c-464d
+*   **44 BOSWELL:** *Johnson*, 135c-136a
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 17 16c; PART I, PAR 41 22c-d; PART II, PAR 123 44a-b; ADDITIONS, 11 118a; 78 128c-d
+*   **49 DARWIN:** *Descent of Man*, 288b-d
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE I, 665a-d
+*   **53 JAMES:** *Psychology*, 8a-9a; 71b [fn 1]; 74b-78b `esp` 75b, 77a-b; 80a; 90b-93a `esp` 92a-93a; 691a-b; 704a-706b `esp` 706a-b; 767b-768a; 774a; 788a-789a; 790b-791a
+
+**3b. The role of the will in thought**
+*   **8 ARISTOTLE:** *Soul*, BK II, CH 5 [417b21-31] 647d-648a; BK III, CH 4 [429b5-9] 661d / *Memory and Reminiscence*, CH 2 [453a15-31] 695b-d
+*   **12 LUCRETIUS:** *Nature of Things*, BK IV [777-817] 54b-d
+*   **18 AUGUSTINE:** *Confessions*, BK VII, PAR 20-21 58c-59a
+*   **19 AQUINAS:** *Summa Theologica*, PART I-II, Q 6, A 7, REP 3 650a-d; Q 9, A 1, ANS and REP 3 657d-658d; Q 10, A 2, ANS 663d-664d; Q 11, A 1, REP 1 666b,d-667a; Q 13, A 4, REP 2 675a-c; Q 14, A 1, REP 1 677b-678a; Q 16, A 1, REP 3 684b-d; A 4, ANS 686a-d; Q 17, A 1, ANS 686d-687c; Q 19, A 3, REP 3 704c-705a
+*   **31 DESCARTES:** *Meditations*, III, 83b-c; IV 89a-93a `passim` / *Objections and Replies*, 125c-126b; 167a-b; 215d-216c
+*   **31 SPINOZA:** *Ethics*, PART II, PROP 49, DEMONST-SCHOL, 391c-392c
+*   **33 PASCAL:** *Pensées*, 99 191a / *Geometrical Demonstration*, 439b-441b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 5, 179c; SECT 12 180d-181a; SECT 17-19 182a-c; SECT 38, 187c; BK IV, CH XIII 363c-364b; CH XX, SECT 15-16 393a-394a
+*   **35 HUME:** *Human Understanding*, SECT VII, DIV 53 473c-474b
+*   **42 KANT:** *Pure Reason*, 240b-243c
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 5-9 13a-14d; PAR 13 15c-d
+*   **53 JAMES:** *Psychology*, 381b-385b; 666b-667a; 818b-820b `esp` 820a
+
+**(1) The distinction between knowledge and opinion in relation to the willful in thought: the will to believe and wishful thinking**
+*   **12 LUCRETIUS:** *Nature of Things*, BK IV [777-817] 54b-d
+*   **19 AQUINAS:** *Summa Theologica*, PART I-II, Q 13, A 4, REP 2 675a-c; Q 17, A 6, ANS 690b-d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 67, A 3, ANS 83b-84d; PART II-II, Q 2, A 1 391a-392a
+*   **24 RABELAIS:** *Gargantua and Pantagruel*, BK III, 148a-150d; 154a-156c; 159d-163c; 166a-171a; 175c-178a
+*   **28 HARVEY:** *Motion of the Heart*, 283b
+*   **30 BACON:** *Advancement of Learning*, 27a-c; 38d-39a
+*   **31 DESCARTES:** *Objections and Replies*, 125c-126b
+*   **31 SPINOZA:** *Ethics*, PART I, APPENDIX 369b-372d
+*   **35 LOCKE:** *Human Understanding*, BK IV, CH XIII 363c-364b; CH XX, SECT 15-16 393a-394a
+*   **42 KANT:** *Pure Reason*, 240b-243c / *Judgement*, 601d
+*   **43 MILL:** *Liberty*, 269c-270c
+*   **51 TOLSTOY:** *War and Peace*, BK XII, 585b
+*   **53 JAMES:** *Psychology*, 636a-b; 644a-b; 652a-659a `passim`, `esp` 653a-654a, 659b [fn 1]; 660b-661b; 820a-b
+*   **54 FREUD:** *War and Death*, 760d-761a / *New Introductory Lectures*, 819b-c; 874c-d; 882a-b
+
+**(2) The will as cause of error**
+*   **31 DESCARTES:** *Meditations*, IV 89a-93a `esp` 90b-91b / *Objections and Replies*, 167a-b; 215d-216c
+*   **31 SPINOZA:** *Ethics*, PART II, PROP 49, SCHOL, 392c-393c
+
+**(3) Religious faith as dependent on an act of will or practical reason**
+*   **18 AUGUSTINE:** *Confessions*, BK I, PAR 1 1a-b; BK VI, PAR 6-8 36c-37c; BK VIII, PAR 10-12 55c-56b; PAR 18-25 57d-60a; PAR 28-29 60d-61a
+*   **20 AQUINAS:** *Summa Theologica*, PART II-II, Q 2, A 1, REP 3 391a-392a; AA 9-10 398c-400b; Q 4, A 2 403d-404c
+*   **30 BACON:** *Advancement of Learning*, 41b-d
+*   **31 DESCARTES:** *Rules*, III, 4d-5a / *Objections and Replies*, 125c-126b
+*   **33 PASCAL:** *Pensées*, 252 219a-220a; 268-282 222a-223b; 284 223b-224a; 287 224a-b / *Geometrical Demonstration*, 440a-b
+*   **35 LOCKE:** *Toleration*, 15b
+*   **40 GIBBON:** *Decline and Fall*, 296b-c
+*   **42 KANT:** *Judgement*, 604d-606d `esp` 606a-d; 607c-610a `esp` 607c
+*   **46 HEGEL:** *Philosophy of History*, PART IV, 350a-b
+*   **51 TOLSTOY:** *War and Peace*, BK V, 196a-198b
+*   **53 JAMES:** *Psychology*, 652b-653a; 661b; 826b-827a
+
+**4. The divine will**
+*   **NEW TESTAMENT:** *Romans*, 12:1-2 / *Ephesians*, 1:9-11 / *II Timothy*, 1:8-10
+*   **12 EPICTETUS:** *Discourses*, BK IV, CH 1, 218b-219a; CH 3, 224d
+*   **18 AUGUSTINE:** *Confessions*, BK VI, PAR 6 44d-45a; BK XI, PAR 12 92b; BK XII, PAR 18, 103a-b; BK XIII, PAR 5 111d / *City of God*, BK X, CH 7, 303a; BK XII, CH 14 350d-351b; CH 17, 354a; BK XXII, CH 2 587b-588a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, QQ 19-21 108d-127c; Q 59, A 1, ANS 306c-307b; A 2, ANS 307c-308b; Q 60, A 1, REP 2 310b-311a; Q 61, A 2, REP 1 315c-316a; Q 62, A 6, REP 1 322a-d; Q 63, A 1, ANS 325c-326c; Q 66, A 2, ANS 345d-347b; PART I-II, Q 1, A 2, REP 3 610b-611b; Q 10, A 1, REP 2 662d-663d; Q 19, AA 9-10 709d-711d; Q 39, A 2, REP 3 790d-791b
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 93, A 4, REP 1 218b-d; Q 97, A 3, REP 1 237b-238b; PART III, Q 18 810a-815d; Q 21, A 1, ANS 823d-824d; A 4, ANS 826b-827c; PART III SUPPL, Q 72, A 3, ANS and REP 5 920c-922b
+*   **21 DANTE:** *Divine Comedy*, PARADISE, III [64-90] 110a-b; XIX [86-90] 135d-136a
+*   **23 HOBBES:** *Leviathan*, PART II, 113b-c; 162c
+*   **30 BACON:** *Advancement of Learning*, 38a
+*   **31 DESCARTES:** *Objections and Replies*, 228a-c
+*   **31 SPINOZA:** *Ethics*, PART I, DEF 7 355b; PROP 16-17 362a-363c; PROP 32-35 367a-369a; APPENDIX 369b-372d; PART II, PROP 3, SCHOL 374b-c; PART IV, PREF 422b,d-424a
+*   **32 MILTON:** *Paradise Lost*, BK III [80-134] 137a-138a; BK VII [139-173] 220a-221a
+*   **35 BERKELEY:** *Human Knowledge*, SECT 29-33 418c-419a
+*   **41 GIBBON:** *Decline and Fall*, 150c-151b
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 265b-c; 276b-277a / *Practical Reason*, 303b-304a; 321b-c; 324b-325a; 325d-326a; 328b
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 675a-677b; 680b-c; 684b-d
+
+**4a. The relation of the divine will and intellect**
+*   **18 AUGUSTINE:** *Confessions*, BK XIII, PAR 19 115c-d / *City of God*, BK XII, CH 18 354a-d
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 14, A 8, ANS and REP 1 82c-83b; Q 19, A 1, ANS 108d-109c; A 2, REP 2-4 109c-110b; A 3, REP 6 110b-111c; A 4, ANS and REP 4 111c-112c; A 6, REP 2 113c-114d; A 11, REP 1 118b-d; Q 21, A 1, REP 2 124b-125b; A 2 125c-d; QQ 22-24 127c-143c; Q 25, A 1, REP 4 143d-144c; Q 26, A 2, REP 2 150c-151a; Q 27, AA 3-5 155c-157c; Q 50, A 1, ANS 269b-270a; Q 54, A 2, ANS 285d-286c; Q 59, A 2, ANS 307c-308b; Q 105, A 1, REP 2 538d-539c; PART I-II, Q 1, A 4, REP 1 612a-613a
+*   **23 HOBBES:** *Leviathan*, PART IV, 271b
+*   **31 DESCARTES:** *Objections and Replies*, 228a-c; 229c-d
+*   **31 SPINOZA:** *Ethics*, PART I, PROP 17 362b-363c; PROP 32-33 367a-369a `esp` PROP 33, SCHOL 1-2 367c-369a
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 265a-c / *Practical Reason*, 303b-304a; 321b-c; 324b-325a
+
+**4b. The freedom of the divine will: the divine will in relation to the possible and the impossible**
+*   **OLD TESTAMENT:** *Exodus*, 33:19 / *Psalms*, 135:6—(D) *Psalms*, 134:6 / *Isaiah*, 14:24-27; 46:9-13—(D) *Isaias*, 14:24-27; 46:9-12 / *Jeremiah*, 51:29—(D) *Jeremias*, 51:29 / *Daniel*, 4:34-35—(D) *Daniel*, 4:31-32
+*   **NEW TESTAMENT:** *Matthew*, 20:1-16 / *John*, 5:21 / *Romans*, 8:28-39; 9:15-26 / *I Corinthians*, 12:18 / *Ephesians*, 1:3-11 `esp` 1:9, 1:11 / *James*, 1:18
+*   **9 ARISTOTLE:** *Ethics*, BK VI, CH 2 [1139b5-11] 388a-b
+*   **17 PLOTINUS:** *Sixth Ennead*, TR VIII 342d-353d
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 6 44d-45a; BK XIII, PAR 45 123a / *City of God*, BK V, CH 10 215c-216c; BK XXI, CH 7-8 565d-568d; BK XXII, CH 30, 617d-618a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 19, AA 3-4 110b-112c; A 10 117d-118b; Q 22, A 3, REP 3 130d-131c; Q 23, A 5, REP 3 135d-137d; A 6, REP 3 137d-138c; Q 25, AA 3-6 145b-150a; Q 41, A 2 218c-219d; Q 46, A 1, REP 9-10 250a-252d; Q 47, A 1, REP 1 256a-257b; Q 59, A 2, ANS 307c-308b; Q 60, A 1, REP 2 310b-311a; Q 61, A 2, REP 1 315c-316a; Q 76, A 5, REP 1 394c-396a; Q 104, AA 3-4 537b-538c; PART I-II, PROLOGUE 609a,c
+*   **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 91, A 1, REP 2 1016b-1017c
+*   **31 DESCARTES:** *Meditations*, IV, 90b / *Objections and Replies*, 228a-c; 229c-d
+*   **31 SPINOZA:** *Ethics*, PART I, DEF 7 355b; PROP 16-17 362a-363c `esp` PROP 17, SCHOL 362c-363c; PROP 32-35 367a-369a; APPENDIX 369b-372d; PART II, PROP 3, SCHOL 374b-c; PART IV, PREF 422b,d-424a
+*   **32 MILTON:** *Paradise Lost*, BK VII [139-173] 220a-221a / *Samson Agonistes* [300-329] 346a-b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 50-51 191b-c
+*   **35 BERKELEY:** *Human Knowledge*, SECT 106 433c-d
+*   **42 KANT:** *Practical Reason*, 303b-304b / *Intro. Metaphysic of Morals*, 393c / *Judgement*, 594d [fn 1]
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 684c-d; 685c; 693b
+
+**5. The freedom of the will**
+
+**5a. Interpretations of the meaning of free will**
+
+**(1) The freedom of the will as consisting in a freely determined choice or a free judgment of the reason**
+*   **18 AUGUSTINE:** *Confessions*, BK IX, PAR 1 61c-d / *City of God*, BK XXII, CH 30, 617c-618a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 19, A 10 117d-118b; Q 59, A 3 308b-309a; Q 62, A 3, REP 2 319c-320b; A 8, REP 2-3 323c-324a; Q 82, A 1, REP 3 431d-432c; Q 83 436c-440b; PART I-II, Q 1, A 1, ANS 609b-610b; A 2, ANS 610b-611b; Q 6, A 2, ANS and REP 2 646a-c; Q 13, A 6 676c-677b; Q 17, A 1, REP 2 686d-687c
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVI [52-84] 77b-d; XVIII [1-75] 79d-80c
+*   **31 DESCARTES:** *Discourse*, PART III, 49b-d; 50b / *Meditations*, IV, 90b-91b / *Objections and Replies*, AXIOM VII 132a; 141b; 141d; 228c
+*   **32 MILTON:** *Paradise Lost*, BK III [80-134] 137a-138a
+*   **33 PASCAL:** *Provincial Letters*, 154b-159a
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 48-54 190c-192c `passim`; SECT 57 193b-c; SECT 73 198c-199c
+*   **38 ROUSSEAU:** *Inequality*, 337d-338a
+*   **44 BOSWELL:** *Johnson*, 392d-393a
+*   **53 JAMES:** *Psychology*, 388a; 787a; 820b-822a `esp` 821b-822a; 825a-826a
+
+**(2) The freedom of the will as consisting in the freedom of a man to act or not to act: freedom from external constraints or coercions**
+*   **23 HOBBES:** *Leviathan*, PART I, 59b; 86c; PART II, 112d-113a
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 7-27 180a-184c; SECT 57 193b-c; SECT 73 198c-199c; CH XXIII, SECT 18 209a
+*   **35 HUME:** *Human Understanding*, SECT VIII, DIV 73 483c-484a
+
+**(3) The freedom of the will as consisting in a totally uncaused or spontaneous act**
+*   **12 LUCRETIUS:** *Nature of Things*, BK II [251-293] 18b-d
+*   **31 SPINOZA:** *Ethics*, PART I, DEF 7 355b; PROP 17, COROL 1-2 and SCHOL 362b-363c; PROP 32 367a-b; PART II, PROP 48 391a-c
+*   **42 KANT:** *Pure Reason*, 140b,d-143a `esp` 141b,d-142d; 164a-165c; 167d-171a; 237a-b / *Fund. Prin. Metaphysic of Morals*, 279b,d-280a; 281c-283b; 285a-d / *Practical Reason*, 292a-293b; 296a-b; 301d-302a; 304a-b; 307d-308c; 311a-b; 327d-328a / *Intro. Metaphysic of Morals*, 383c-d; 386b-d; 392d-393c / *Judgement*, 463a-465c; 571c-572a
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 692c-694d
+*   **53 JAMES:** *Psychology*, 223a-b; 388a; 787a
+
+**(4) The freedom of the will as the autonomy of the reason legislating for itself: the identity of pure will and free will**
+*   **42 KANT:** *Pure Reason*, 236d-237a / *Fund. Prin. Metaphysic of Morals*, 264d-265a; 279b,d-287d `esp` 280b-c, 283d-285a / *Practical Reason*, 291a-293c; 296a-d; 297a-314d `esp` 302a-d, 307d-311d, 314a-d; 326a-b; 327d-329a / *Intro. Metaphysic of Morals*, 386d-387a,c; 390b,d-391a; 392d-393c / *Judgement*, 463a-465c; 571c-572a; 587c-d
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 4-17 12d-16c `passim`, `esp` PAR 4 12d-13a, PAR 7 14a-c, PAR 14-15 15d-16b; PAR 22 17c-d; PAR 29 19a-b; PART II, PAR 106-107 40a-c; PART III, PAR 142 55a; PAR 149 56b; ADDITIONS, 4 116a-d; 7 117b-c; 12 118a-c; 17 119a; 67-68 126d-127a; 95 132b
+
+**5b. Arguments for the freedom of the will**
+
+**(1) Man’s immediate consciousness of his freedom of choice: reason’s reflexive knowledge of its autonomy**
+*   **18 AUGUSTINE:** *Confessions*, BK VII, PAR 5 44c-d
+*   **31 DESCARTES:** *Objections and Replies*, 141a-b; 216a
+*   **35 HUME:** *Human Understanding*, SECT VIII, DIV 72, 483c-d [fn 1]
+*   **38 ROUSSEAU:** *Inequality*, 338a
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 283b-d / *Practical Reason*, 291b-c; 302a-303b; 310b-311d / *Judgement*, 604c-d; 606c-607c
+*   **44 BOSWELL:** *Johnson*, 392d-393a
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE I, 688a-689b
+*   **53 JAMES:** *Psychology*, 661a; 797b-798b; 820b-823a `esp` 821b-822a; 848b-849a
+
+**(2) The freedom of the will as deriving from the indetermination of practical reason judging particular goods**
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 2-3 357b-359a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 19, A 3, ANS 110b-111c; Q 22, A 2, REP 4-5 128d-130d; Q 59, A 3, ANS 308b-309a; Q 82, A 2 432d-433c; Q 83, A 1 436d-438a; PART I-II, Q 6, A 2, REP 2 646a-c; Q 10, A 1, REP 3 662d-663d; AA 2-4 663d-666a,c; Q 13, A 6 676c-677b; Q 17, A 1, REP 2 686d-687c; A 6, ANS 690b-d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 109, A 2, REP 1 339c-340b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 52-53 191d-192b; SECT 57 193b-c; SECT 73 198c-199c
+
+**(3) The deduction of free will from the moral law or from the fact of pure practical reason**
+*   **42 KANT:** *Pure Reason*, 164a-171a; 236d-237a / *Fund. Prin. Metaphysic of Morals*, 279b,d-287d `esp` 280b-c, 282b-283d / *Practical Reason*, 291a-d; 302a-303b; 304a-d; 307d-314d `esp` 310b-311d; 331a-337a,c; 348b-349b / *Intro. Metaphysic of Morals*, 390b,d-391a
+
+**(4) Free will as a pragmatic option: the postulation of free will as an indispensable condition of moral responsibility and action**
+*   **42 KANT:** *Practical Reason*, 291b-d; 348b-349b
+*   **43 MILL:** *Utilitarianism*, 471d-472a
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 688a-694d
+*   **53 JAMES:** *Psychology*, 294a-295a; 820b-827a `esp` 822b-823a
+
+**5c. Arguments against the freedom of the will: free will as a violation of the course of nature or the reign of causality; the impossibility of proving free will**
+*   **12 LUCRETIUS:** *Nature of Things*, BK II [251-293] 18b-d
+*   **17 PLOTINUS:** *Third Ennead*, TR I 78a-82b
+*   **18 AUGUSTINE:** *City of God*, BK V, CH 9-10 213b-216c
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 83, A 1, REP 1-5 436d-438a; PART I-II, Q 13, A 6, REP 1-3 676c-677b
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVI [52-84] 77b-d
+*   **22 CHAUCER:** *Nun’s Priest’s Tale* [15,238-256] 456b-457a
+*   **23 HOBBES:** *Leviathan*, PART II, 113b
+*   **25 MONTAIGNE:** *Essays*, 218c-219a
+*   **31 SPINOZA:** *Ethics*, PART I, DEF 7 355b; PROP 16-17 362a-363c; PROP 26-APPENDIX 365b-372d; PART II, PROP 48-49 391a-394d; PART III, 395a-d; PART IV, PREF, 422b,d-423b
+*   **35 LOCKE:** *Human Understanding*, BK I, CH III, SECT 14, 108d-109a; BK II, CH XXI, SECT 22-25 183b-184b; SECT 48-52 190c-191d `passim`, `esp` SECT 49 190d-191a
+*   **35 HUME:** *Human Understanding*, SECT VIII 478b-487a
+*   **42 KANT:** *Pure Reason*, 140b,d-143a; 164a-171a / *Fund. Prin. Metaphysic of Morals*, 279b,d-287d `esp` 282b-284d, 285c-287b / *Practical Reason*, 291a-293b; 296a-d; 301d-302d; 307d-314d `esp` 310b-311d; 331c-337a,c; 340a-342d / *Intro. Metaphysic of Morals*, 390b,d-391a / *Judgement*, 571c-572a
+*   **44 BOSWELL:** *Johnson*, 392d-393a
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 692c-696d
+*   **53 JAMES:** *Psychology*, 291a-295b `esp` 293a-294a, 295a-b; 822b-826a; 848b-849a
+*   **54 FREUD:** *Origin and Development of Psycho-Analysis*, 13c / *General Introduction*, 454b-c; 462d; 486d
+
+**6. The analysis of the will’s range of freedom**
+
+**6a. The limitations on the freedom of the will: the distinction between acts of the will which are necessitated and acts of the will which are free**
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 2 357b-358a; CH 4-5 359a-361a `passim`, `esp` CH 5 [1114a31-b25] 360c-d; BK VI, CH 2 [1139b5-11] 388a-b
+*   **12 EPICTETUS:** *Discourses* 105a-245a,c `esp` BK I, CH 1 105a-106c, CH 18 124a-125a, CH 29 134d-138a, BK II, CH 5 142c-144a, CH 10 148c-150a, CH 23 170a-172d, BK III, CH 2 177c-178d, CH 10 185d-187a, CH 14 189c-190a, CH 18 192a-c, BK IV, CH 1 213a-223d
+*   **12 AURELIUS:** *Meditations* 253a-310d `esp` BK II, SECT 16 259a, BK V, SECT 19 272a, BK VI, SECT 16 275b-d, SECT 22 276a, BK VII, SECT 16 280d, BK VIII, SECT 16-17 286d, SECT 28 287c, SECT 48 289c, BK X, SECT 34-35 301a-b, BK XII, SECT 3 307b-d
+*   **18 AUGUSTINE:** *City of God*, BK V, CH 9-10 213b-216c
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 18, A 3, ANS 106b-107c; Q 19, A 3, ANS 110b-111c; A 10, ANS 117d-118b; Q 60, AA 2-3 311a-312b; Q 62, A 8 323c-324a; Q 82, AA 1-2 431d-433c; Q 83, A 1, REP 5 436d-438a; A 2, ANS 438a-d; PART I-II, Q 1, A 5 613a-614a; A 7 614c-615a; Q 5, A 4, ANS and REP 2 639a-640b; A 8, ANS and REP 2 642d-643d; Q 10 662d-666a,c; Q 13, AA 5-6 675c-677b; Q 17, A 5, REP 3 689c-690b; A 6, ANS 690b-d; AA 7-9 690d-693d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 50, A 5, REP 3 10b-d
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVIII [1-75] 79d-80c; XXI [34-72] 85b-d
+*   **23 HOBBES:** *Leviathan*, PART III, 165c
+*   **31 DESCARTES:** *Discourse*, PART III, 50b / *Objections and Replies*, AXIOM VII 132a; 141b; 141d; 228c
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 12 180d-181a; SECT 52-53 191d-192b; SECT 57 193b-c; SECT 59 193d-194a
+*   **42 KANT:** *Pure Reason*, 164a-165c `esp` 164b-c; 234c-236a `esp` 235c-d; 236d-237a / *Fund. Prin. Metaphysic of Morals*, 259c-260c; 264d-265b / *Practical Reason*, 325d-326b
+*   **44 BOSWELL:** *Johnson*, 407b
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 8-21 14c-17c; PART II, PAR 118 42d-43b; ADDITIONS, 90 130b-d
+*   **48 MELVILLE:** *Moby Dick*, 159a
+*   **51 TOLSTOY:** *War and Peace*, BK XI, 577a-582a `esp` 578d-579a; BK XIV, 605b-d; BK XV, 630c-631a; EPILOGUE II, 688a-694d
+*   **53 JAMES:** *Psychology*, 291a-295a `esp` 291a-b, 293a; 388a; 821b-822b; 830a
+
+**6b. The distinction between the will’s freedom of exercise and the will’s freedom of choice**
+*   **19 AQUINAS:** *Summa Theologica*, PART I-II, Q 6, A 3 646d-647b; A 7, REP 3 650a-d; Q 9, A 3 659c-660a; Q 10, A 2, ANS 663d-664d; Q 13, A 6, ANS 676c-677b
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 12 180d-181a
+
+**6c. The distinction between voluntary behavior and behavior resulting from free choice: comparison of men and animals with respect to freedom**
+*   **9 ARISTOTLE:** *Ethics*, BK III, CH 2 [1111b6-9] 357b
+*   **17 PLOTINUS:** *Third Ennead*, TR II, CH 3 93d-94c
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 19, A 10, ANS 117d-118b; A 12, REP 3 118d-119d; Q 59, A 3, ANS 308b-309a; Q 115, A 4, ANS 589d-590c; PART I-II, Q 6, A 2 646a-c; Q 10, A 3, ANS 664d-665c; Q 11, A 2 667b-d; Q 12, A 5 672a-c; Q 13, A 2 673c-674c; Q 15, A 2 682a-c; Q 16, A 2 684d-685b; Q 17, A 2 687d-688b
+*   **25 MONTAIGNE:** *Essays*, 218c-219b
+*   **31 DESCARTES:** *Discourse*, PART V, 59c-60b / *Objections and Replies*, 156a-d
+*   **35 LOCKE:** *Human Understanding*, BK II, CH XXI, SECT 8-11 180a-d
+*   **38 ROUSSEAU:** *Inequality*, 337d-338a
+*   **42 KANT:** *Pure Reason*, 164a-165c / *Practical Reason*, 316c-317a / *Pref. Metaphysical Elements of Ethics*, 372a-b / *Intro. Metaphysic of Morals*, 386b-d; 393c-d / *Judgement*, 584d-585d; 587a-588a
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 11 15a-b; PART I, PAR 47 24a-b; ADDITIONS, 4 116a-d; 10 117d-118a; 28 121b / *Philosophy of History*, INTRO, 168d; PART III, 304d-305b
+*   **49 DARWIN:** *Descent of Man*, 311b-d
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 689c-690a
+
+**7. The implications of free will**
+
+**7a. Free will as a source of human dignity: its relation to slavery and civil liberty**
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 59, A 3, CONTRARY 308b-309a; Q 62, A 8, REP 3 323c-324a; Q 96, A 4 512d-513c; PART I-II, PROLOGUE 609a,c; Q 20, A 6, REP 3 716b-d; Q 21, A 3, REP 2 718d-719c
+*   **21 DANTE:** *Divine Comedy*, PARADISE, V [19-84] 112b-113a
+*   **24 RABELAIS:** *Gargantua and Pantagruel*, BK I, 65c-d
+*   **26 SHAKESPEARE:** *Julius Caesar*, ACT I, SC II [135-161] 570d-571a
+*   **31 SPINOZA:** *Ethics*, PART II, PROP 49, SCHOL, 394c-d
+*   **32 MILTON:** *Areopagitica*, 394b-395b
+*   **38 MONTESQUIEU:** *Spirit of Laws*, BK XII, 85a
+*   **38 ROUSSEAU:** *Inequality*, 338a / *Social Contract*, BK I, 389a-d; 393b-c
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 271d-279d `esp` 273d-277b / *Practical Reason*, 325d-326b; 327d-329a; 341b-342c; 344a; 346b-348b `esp` 348a-b; 355a-d / *Judgement*, 594b-595c
+*   **43 MILL:** *Liberty*, 316b-d
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 18 16c-d; PAR 21 17a-c; PART I, PAR 36 21b-c; PAR 48 24b-c; PAR 57 26b-27a; ADDITIONS, 14 118c-d; 36 122b-c; 62 126a; 67 126d / *Philosophy of History*, INTRO, 161a-c; PART I, 230a-c; 236a-c; PART IV, 350b-c
+*   **51 TOLSTOY:** *War and Peace*, BK XI, 577a-578b; 581c-582a; BK XIV, 605b-d; BK XV, 630c-631a; EPILOGUE II, 688a-690a
+*   **52 DOSTOEVSKY:** *Brothers Karamazov*, BK V, 127b-137c `passim`
+
+**7b. The factors of freedom and necessity in the philosophy of history**
+*   **15 TACITUS:** *Annals*, BK III, 49c; BK IV, 69a; BK VI, 91b-d / *Histories*, BK I, 194b
+*   **18 AUGUSTINE:** *City of God*, BK I, CH 36 149c-d; BK IV, CH 33 206c-d; BK V, CH 1 207d-208c
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVI [52-105] 77b-d
+*   **43 MILL:** *Representative Government*, 332a-d
+*   **46 HEGEL:** *Philosophy of Right*, PART III, PAR 340-347 110b-111c; PAR 352-360 112b-114a,c / *Philosophy of History*, INTRO, 160b-164d; 168b-d; 170a-172b; 175c-176c; 179b-c; 182d; 186a-c; 203c-206a,c; PART IV, 315a; 348a; 368d-369a,c
+*   **50 MARX:** *Capital*, 7c; 10b-11b
+*   **51 TOLSTOY:** *War and Peace*, BK III, 140b; 143a-c; 144d; BK IX, 342a-344b; BK X, 389a-391c; 405a-b; 430d-431a; 447c-448c; 465c-467a; BK XII, 469a-472b; BK XIII, 563a-571a; BK XV, 618b-621b; EPILOGUE I, 645a-650c; EPILOGUE II 675a-696d
+
+**7c. Human freedom in relation to the will of God: fate, predestination, and providence**
+*   **OLD TESTAMENT:** *Genesis*, 3 / *Exodus*, 4:21; 7-14 `esp` 7:3, 9:12, 10:1, 14:17 / *Deuteronomy*, 11:26-28; 30:15-20 / *Joshua*, 11:19-20; 24:14-24—(D) *Josue*, 11:19-20; 24:14-24 / *Judges*, 9:23 / *I Kings*, 8:57-58—(D) *III Kings*, 8:57-58 / *Job*, 3:23; 12:14-25; 34:29 / *Psalms*, 119:36; 139:15-16; 141:4—(D) *Psalms*, 118:36; 138:15-16; 140:4 / *Proverbs*, 21:1 / *Ecclesiastes*, 1:12-14-15; 3:14-15; 6:10; 7:13-15; 9:1-2; 11:5-6 / *Isaiah*, 14:24-27; 63:17; 64:8—(D) *Isaias*, 14:24-27; 63:17; 64:8 / *Malachi*, 4:6—(D) *Malachias*, 4:6
+*   **APOCRYPHA:** *Wisdom of Solomon*, 7:16; 19:4—(D) OT, *Book of Wisdom*, 7:16; 19:4 / *Ecclesiasticus*, 15:11-20—(D) OT, *Ecclesiasticus*, 15:11-21
+*   **NEW TESTAMENT:** *Matthew*, 6:10; 20:1-16 `esp` 20:15-16; 23:37; 26:39 / *Luke*, 22:3-4 / *John*, 5:21; 6:22-71 `esp` 6:37, 6:40, 6:44-45, 6:64-65, 6:70-71; 10:26-29; 12:37-40; 13:18-27—(D) *John*, 5:21; 6:22-72 `esp` 6:37, 6:40, 6:44-45, 6:65-66, 6:71-72; 10:26-29; 12:37-40; 13:18-27 / *Acts*, 4:27-28; 7:51; 13:48; 17:24-27 `esp` 17:26 / *Romans*, 8:28-9:26 `esp` 8:28-30, 9:18-21; 11:1-10 / *I Corinthians*, 7:21-23; 9:16-17; 12 / *Ephesians*, 1:3-12; 2:8-10; 4:7-14 / *Philippians*, 2:12-13 / *I Thessalonians*, 5:18 / *II Thessalonians*, 2:11-14—(D) *II Thessalonians*, 2:10-13 / *II Timothy*, 1:8-9 / *James*, 4:13-15 / *I Peter*, 1:1-5
+*   **4 HOMER:** *Iliad*, BK VI [342-358] 43c-d; BK XIX [74-144] 137d-138c; BK XXIV [507-551] 176c-177a / *Odyssey*, BK XIV [441-445] 264c; BK XVII [117-150] 285b-c
+*   **5 AESCHYLUS:** *Agamemnon* [160-254] 53d-54d / *Choephoroe* 70a-80d `esp` [269-314] 72d-73b, [885-1076] 78d-80d / *Eumenides* 81a-91d
+*   **5 SOPHOCLES:** *Oedipus the King* 99a-113a,c `esp` [1297-1415] 111b-112b / *Oedipus at Colonus* 114a-130a,c `esp` [258-291] 116c-d, [939-1015] 123a-d / *Philoctetes* [169-200] 183d-184a; [1316-1347] 193d-194a
+*   **5 EURIPIDES:** *Helen* [711-721] 304d-305a / *Electra* 327a-339a,c `esp` [1168-1359] 337d-339a,c / *Heracles Mad* [1255-1357] 376a-d / *Orestes* 394a-410d `esp` [478-629] 398d-400b
+*   **6 HERODOTUS:** *History*, BK I, 7b-8a; 20a-22a; 46c-d; BK III, 98b-99a; BK VII, 218b-220b; BK IX, 291b-c
+*   **7 PLATO:** *Republic*, BK X, 439b-441a,c / *Laws*, BK I, 650a-b; BK IV, 679a-b; BK X, 765d-769c `esp` 767c-768b
+*   **12 EPICTETUS:** *Discourses*, BK I, CH 1, 106a-b; CH 12 118d-120b; CH 17, 123c-d; BK III, CH 22, 197c-198b; CH 24, 208d-210a; BK IV, CH 1, 218b-219c; CH 3, 224d; CH 7, 233d-234a
+*   **12 AURELIUS:** *Meditations*, BK II, SECT 11 258a-b; BK III, SECT 11 262a-b; BK VI, SECT 44 278b-c
+*   **13 VIRGIL:** *Aeneid*, BK IV [332-361] 176a-177a
+*   **14 PLUTARCH:** *Coriolanus*, 188d-189c / *Sulla*, 370c-371b
+*   **15 TACITUS:** *Annals*, BK III, 49b-c; BK IV, 69a; BK VI, 91b-d
+*   **17 PLOTINUS:** *Third Ennead*, TR II-III 82c-97b `passim`
+*   **18 AUGUSTINE:** *Confessions*, BK II, PAR 14 12a-b / *City of God*, BK I, CH 36 149c-d; BK IV, CH 33 206c-d; BK V, CH 1 207d-208c; CH 9-10 213b-216c; BK XVIII, CH 2, 472d-473a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 17, A 1, ANS 100d-101d; Q 19, A 8 116a-d; Q 22, A 2, REP 4-5 128d-130d; Q 23 132b-141a; Q 83, A 1, REP 2-4 436d-438a; Q 100, A 2, REP 1 521c-522b; Q 103, A 5, REP 3 531b-532b; Q 105, A 4 541c-542a; Q 116 592d-595c `passim`; PART I-II, Q 6, A 1, REP 3 644d-646a; A 4, REP 1 647b-648a; Q 9, A 6 662a-d; Q 10, A 4 665d-666a,c; Q 21, A 4, REP 2 719d-720a,c
+*   **21 DANTE:** *Divine Comedy*, HELL, VII [61-96] 10b-c; PURGATORY, XVI [52-105] 77b-d; PARADISE, I [94-142] 107b-d; III [64-90] 110a-b; XX [31-148] 137a-138b
+*   **22 CHAUCER:** *Troilus and Cressida*, BK IV, STANZA 150-154 108a-b / *Nun’s Priest’s Tale* [15,236-256] 456b-457a / *Canon’s Yeoman’s Tale* [16,940-949] 487a
+*   **23 MACHIAVELLI:** *Prince*, CH XXV, 35a-b
+*   **23 HOBBES:** *Leviathan*, PART II, 113b-c; PART IV, 272b-c
+*   **25 MONTAIGNE:** *Essays*, 250a; 342a-b
+*   **27 SHAKESPEARE:** *Hamlet*, ACT II, SC II [220-223] 51b / *King Lear*, ACT I, SC II [128-164] 249a-b
+*   **29 CERVANTES:** *Don Quixote*, PART II, 408c
+*   **31 DESCARTES:** *Objections and Replies*, 141b
+*   **31 SPINOZA:** *Ethics*, PART I, APPENDIX 369b-372d `passim`
+*   **32 MILTON:** *Paradise Lost*, BK III [80-134] 137a-138a; [167-216] 139a-140a; BK V [224-245] 180a-b; [506-543] 186a-187a; BK VI [168-188] 200a; BK VII [139-173] 220a-221a; BK IX [342-375] 254b-255b; BK X [1-62] 274b-275b; [615-640] 287b-288b / *Areopagitica*, 394b-395b
+*   **35 HUME:** *Human Understanding*, SECT VIII, DIV 78-81 485c-487a
+*   **41 GIBBON:** *Decline and Fall*, 230b
+*   **42 KANT:** *Practical Reason*, 334a-335c
+*   **44 BOSWELL:** *Johnson*, 173c; 392d-393a; 549c
+*   **46 HEGEL:** *Philosophy of History*, INTRO, 158c-160b; 161d-162a; 182d-184d
+*   **48 MELVILLE:** *Moby Dick*, 158b-159a; 396b; 409b-410b
+*   **51 TOLSTOY:** *War and Peace*, BK IX, 342a-344b; 357b-358b; BK X, 447d; BK XI, 481d; BK XII, 553b; BK XV, 619d-620a; 630d-631c; EPILOGUE I, 650b-c; EPILOGUE II, 675a-677b; 680b-c; 684b-d
+*   **52 DOSTOEVSKY:** *Brothers Karamazov*, BK V, 121d-137c `passim`
+*   **54 FREUD:** *Interpretation of Dreams*, 246c-247d / *General Introduction*, 582a-b
+
+**7d. God as the object of the human will: the quiescence of the will in the beatific vision**
+*   **OLD TESTAMENT:** *Exodus*, 33:18-23 / *Deuteronomy*, 4:29 / *I Chronicles*, 16:11; 28:9—(D) *I Paralipomenon*, 16:11; 28:9 / *II Chronicles*, 15:2-4,12-15—(D) *II Paralipomenon*, 15:2-4,12-15 / *Psalms*, 27:8; 42:1-6; 63:1-6; 70:4; 73:25,28; 84:2-3; 119:10—(D) *Psalms*, 26:8; 41:1-6; 62:1-6; 69:4; 72:25,28; 83:2-3; 118:10 / *Isaiah*, 26:8-9—(D) *Isaias*, 26:8-9 / *Jeremiah*, 29:13—(D) *Jeremias*, 29:13 / *Amos*, 5:4-8
+*   **APOCRYPHA:** *Wisdom of Solomon*, 1:1; 13:1-9—(D) OT, *Book of Wisdom*, 1:1; 13:1-9
+*   **NEW TESTAMENT:** *Philippians*, 3:7-10
+*   **18 AUGUSTINE:** *Confessions*, BK I, PAR 1 1a-b; BK VII, PAR 22 50a; BK XII, PAR 11 101d / *City of God*, BK XIV, CH 11 385d-387a; BK XV, CH 21-22 415b-416c; BK XXII, CH 30, 617c-618a / *Christian Doctrine*, BK I, CH 4 625b-c; CH 15 628b-c
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 12, A 1, ANS 50c-51c; A 8, REP 4 57b-58b; Q 59, A 4, REP 3 309a-310a; Q 60, A 5 313b-314c; Q 82, A 2, ANS 432d-433c; A 3, ANS and REP 3 433c-434c; Q 95 506b-510a; Q 100 520d-522b; Q 105, A 4, ANS 541c-542a; Q 111, A 2, ANS 569c-570b; PART I-II, Q 1, A 8 615a-c; Q 2, A 8 621c-622b; Q 3, A 1 622c-623a; A 4 625a-626b; Q 4, AA 1-4 629d-632c; Q 5, A 1, ANS 636d-637c; A 4, ANS and REP 2 639a-640b; A 5, REP 1 640b-641a; Q 9, A 6 662a-d; Q 11, A 1, REP 1 666b,d-667a; AA 3-4 667d-669b; Q 12, A 2 670b-c; A 3, REP 1 670d-671b; Q 13, A 1, ANS 672d-673c; Q 16, A 3, CONTRARY and REP 3 685b-686a; Q 19, A 9, ANS 709d-710b; A 10 710b-711d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 62 59d-63a; PART II-II, Q 25, A 1 501b-502a; A 12 509c-510b; Q 26, AA 2-3 511a-512c; Q 27, AA 3-8 522c-527b; PART III, Q 9, A 2, REP 3 764c-765a
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XXI [34-78] 85b-d; PARADISE, I [97-142] 107b-d; III [43-90] 109d-110b; XX [130-141] 138a; XXI [64-75] 138d-139a; XXVI [25-36] 146a
+*   **42 KANT:** *Practical Reason*, 325a-327d `esp` 326b-327a; 337a-355d `esp` 346b-347c
+*   **52 DOSTOEVSKY:** *Brothers Karamazov*, BK V, 127b-137c `passim`
+
+**7e. Free will in relation to sin and salvation**
+
+**(1) The freedom to sin: Adam’s freedom and the freedom of fallen human nature**
+*   **OLD TESTAMENT:** *Genesis*, 3 / *Deuteronomy*, 11:26-28; 30:15-20 / *Joshua*, 24:14-24—(D) *Josue*, 24:14-24 / *Isaiah*, 5:1-7—(D) *Isaias*, 5:1-7
+*   **APOCRYPHA:** *Ecclesiasticus*, 15:11-20—(D) OT, *Ecclesiasticus*, 15:11-21
+*   **NEW TESTAMENT:** *Romans*, 5:12-8:21 / *Hebrews*, 10:26-31
+*   **18 AUGUSTINE:** *Confessions*, BK VII, PAR 5 44c-d / *City of God*, BK V, CH 9-10 213b-216c; BK XII, CH 21 357a-b; BK XIV, CH 11-12 385d-387b; CH 15 388d-390a; BK XXII, CH 1, 587a-b; CH 30, 617c-618a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 17, A 1, ANS 100d-101d; Q 22, A 2, REP 4 128d-130d; A 3, REP 3 130d-131c; Q 23, A 1, REP 1 132c-133b; A 3, REP 3 134b-135a; Q 24, A 3 142d-143c; Q 47, A 2, ANS 257b-258c; Q 62, A 3, REP 2 319c-320b; A 8 323c-324a; Q 63, A 1, REP 4 325c-326c; AA 5-7 329a-332b; A 9, REP 3 333b-d; Q 83, A 2, ANS and REP 3 438a-d; Q 100, A 2 521c-522b; PART I-II, Q 1, A 7, REP 1 614c-615a; Q 6, A 8 650d-651c; Q 9, A 6, REP 3 662a-d; Q 21, A 2 718a-d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 74, AA 1-2 129a-130a; Q 109, A 2 339c-340b; AA 7-10 344a-347d
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVI [52-105] 77b-d; XVII [82]-XVIII [75] 79b-80c; PARADISE, I [94-142] 107b-d; IV [64-114] 111b-d; V [19-30] 112b; VII [25-33] 115c
+*   **30 BACON:** *Advancement of Learning*, 17d-18a
+*   **32 MILTON:** *Paradise Lost*, BK III [80-134] 137a-138a; [167-216] 139a-140a; BK V [224-245] 180a-b; [506-543] 186a-187a; BK IX [342-375] 254b-255b; BK X [1-16] 274b / *Samson Agonistes* [373-419] 347b-348b / *Areopagitica*, 394b-395b
+*   **35 LOCKE:** *Toleration*, 8c-d; 10c-d; 15d-16a
+*   **46 HEGEL:** *Philosophy of History*, PART III, 304d-305b
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 689b
+*   **52 DOSTOEVSKY:** *Brothers Karamazov*, BK V, 127b-137c `passim`
+
+**(2) The relation of freedom to grace**
+*   **OLD TESTAMENT:** *Psalms*, 95:7-9—(D) *Psalms*, 94:7-9 / *Proverbs*, 1:20-33 / *Isaiah*, 5:1-7—(D) *Isaias*, 5:1-7
+*   **NEW TESTAMENT:** *John*, 1:1-18 `esp` 1:5, 1:10-13; 5:21; 6:37,64-66; 8:31-36; 10:26-29; 12:37-40; 13:18-27 / *Acts*, 7:51; 13:38-48; 15:1-11 / *Romans*, 4-8; 9:9-18; 11:5-10,26-32 / *I Corinthians*, 7:21-23; 9:1,19-21 / *II Corinthians*, 3:17; 6:1-2 / *Galatians*, 4-5:1-4,13,18,22-24 / *Ephesians*, 1:3-12; 2:4-10 / *Philippians*, 2:12-13 / *Titus*, 3:3-7 / *James*, 1:25; 2:10-12 / *I Peter*, 2:15-16 / *Revelation*, 3:20—(D) *Apocalypse*, 3:20
+*   **18 AUGUSTINE:** *Confessions*, BK IX, PAR 1 61c-d / *City of God*, BK X, CH 32 319d-322a,c; BK XV, CH 1, 398a-c; BK XXII, CH 1, 587a-b; CH 30, 617c-618a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 23, A 3, REP 3 134b-135a; AA 5-6 135d-138c; A 8 140a-141a; Q 62, A 3, REP 2 319c-320b; A 4, ANS 320b-321b; Q 83, A 2, CONTRARY 438a-d; Q 95, A 1, REP 3,5 506b-507c; Q 100, A 2, REP 1 521c-522b; PART I-II, Q 5, A 5, REP 1 640b-641a; Q 9, A 6, REP 3 662a-d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 108, A 1, ANS and REP 2 331a-332b; Q 109, A 2 339c-340b; Q 110, A 4 350d-351d; Q 111, A 2 352d-353d; Q 113, A 3 362c-363c; A 5 364b-365a; PART II-II, Q 183, A 4, REP 1 627d-628d
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, I [22-84] 53b-54a; V [58-66] 59c; VII [37-60] 62d-63a; XI [25-45] 69a-b; XII [115-136] 71c-d; XXI [34-72] 85b-d; XXVIII [124-142] 95d-96a; PARADISE, III [64-90] 110a-b; VII [64-84] 115d-116a; XX [31-148] 137a-138b; XXI [52-75] 138d-139a
+*   **31 DESCARTES:** *Meditations*, IV, 91a-b / *Objections and Replies*, 125c-126b
+*   **32 MILTON:** *Paradise Lost*, BK II [1027-1033] 133b; BK III [56-415] 136b-144b `esp` [130-134] 138a, [227-238] 140b; BK XI [251-262] 304b-305a; BK XII [576-605] 331b-332a
+*   **33 PASCAL:** *Provincial Letters*, 141a-166b `esp` 154b-159a
+*   **42 KANT:** *Pure Reason*, 238b
+*   **43 MILL:** *Liberty*, 296b-297b
+*   **46 HEGEL:** *Philosophy of Right*, PART III, PAR 140, 50a / *Philosophy of History*, PART III, 310d-311a
+*   **52 DOSTOEVSKY:** *Brothers Karamazov*, BK V, 127b-137c `passim`
+
+**8. The will as a factor in morality and in society**
+
+**8a. The inviolability of the will: its freedom from external compulsions or constraints**
+*   **7 PLATO:** *Gorgias*, 285c-d
+*   **12 EPICTETUS:** *Discourses* 105a-245a,c `esp` BK I, CH 1 105a-106c, CH 17-29, 123b-138a, BK II, CH 5 142c-144a, CH 10 148c-150a, CH 23 170a-172d, BK IV, CH 1 213a-223d
+*   **12 AURELIUS:** *Meditations* 253a-310d `esp` BK II, SECT 9 257d, SECT 11 258a-b, SECT 16 259a, BK V, SECT 8 269d-270b, SECT 19 272a, SECT 34 273c, BK VI, SECT 16 275b-d, SECT 22 276a, BK VII, SECT 16 280d, BK VIII, SECT 16-17 286d, SECT 28 287c, SECT 48 289c, BK IX, SECT 7 292b, BK X, SECT 34-35 301a-b, BK XI, SECT 36 306c, BK XII, SECT 3 307b-d
+*   **18 AUGUSTINE:** *City of God*, BK V, CH 10, 216a-b; BK IX, CH 4 287a-288b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 82, A 1, ANS and REP 1 431d-432c; Q 83, A 1, REP 1-5 436d-438a; Q 105, A 4, REP 1 541c-542a; PART I-II, Q 6, A 4 647b-648a; A 5, REP 1 648b-649a; Q 9, A 4, REP 2 660a-d
+*   **21 DANTE:** *Divine Comedy*, PARADISE, IV [64-114] 111b-d
+*   **25 MONTAIGNE:** *Essays*, 14a
+*   **32 MILTON:** *Paradise Lost*, BK IX [342-350] 254b-255a / *Samson Agonistes* [1348-1379] 369a-b
+*   **35 LOCKE:** *Toleration*, 3c-4a / *Human Understanding*, BK II, CH XXI, SECT 59 193d-194a
+*   **42 KANT:** *Pure Reason*, 164a-b; 168d-170d; 235c-d / *Fund. Prin. Metaphysic of Morals*, 279b,d-280a; 281c-283b; 284d-285a / *Practical Reason*, 301d-302d; 304a-d; 307d-308c; 316a-b; 327d-328b / *Intro. Metaphysic of Morals*, 386b-d; 392d-393a / *Judgement*, 605d [fn 2]
+*   **43 FEDERALIST:** NUMBER 73, 218d-219a; NUMBER 79, 233c-d
+*   **44 BOSWELL:** *Johnson*, 407b
+*   **46 HEGEL:** *Philosophy of Right*, PART I, PAR 91-92 35d-36a
+*   **48 MELVILLE:** *Moby Dick*, 370b-371a; 408b-409a
+*   **51 TOLSTOY:** *War and Peace*, BK XII, 577a-582a `esp` 578d-579a, 581d-582a; BK XIV, 605c-d; BK XV, 630c-631a
+
+**8b. The goodness or malice of the will**
+*   **9 ARISTOTLE:** *Ethics*, BK IV, CH 9 [1128b20-30] 376a,c
+*   **17 PLOTINUS:** *Fourth Ennead*, TR IV, CH 35, 177d-178a
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 19-24 58b-60a / *City of God*, BK XI, CH 3-9 343d-348b; BK XIV, CH 6-9 380b-385b
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 48, AA 5-6 263a-264d; Q 49, A 1, REP 1 264d-265d; PART I-II, Q 4, A 4 631d-632c; Q 9, A 6, REP 3 662a-d; QQ 18-21 693b,d-720a,c `esp` Q 19 703a-711d
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, XVII [82]-XVIII [75] 79b-80c
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 256a-261d `esp` 256a-b, 257c-d; 265c / *Practical Reason*, 304a-307d; 314d-319b `esp` 316a-317d; 321b-329a; 356a-360d / *Intro. Metaphysic of Morals*, 389a-390a,c / *Judgement*, 591b-592d; 595a-d
+*   **46 HEGEL:** *Philosophy of Right*, PART II, PAR 114 42a-b; PART III, PAR 142-157 55a-57d; ADDITIONS, 92-100 131d-133a
+*   **53 JAMES:** *Psychology*, 826a-827a
+
+**(1) The conditions of the will’s rectitude or disorder**
+*   **9 ARISTOTLE:** *Ethics*, BK I, CH 13 [1102b13-1103a4] 348a-c; BK VI, CH 2 387d-388b
+*   **12 EPICTETUS:** *Discourses*, BK I, CH 17 122d-124a
+*   **14 PLUTARCH:** *Pericles*, 121b / *Timoleon*, 197c-198a
+*   **17 PLOTINUS:** *Fourth Ennead*, TR IV, CH 35, 177d-178a
+*   **18 AUGUSTINE:** *Confessions*, BK VII, PAR 22 50a; BK XII, PAR 11 101d / *City of God*, BK IX, CH 4-5 287a-289a; BK XII, CH 3 343d-344b; CH 6-8 345b-347b; BK XIV, CH 6-9 380b-385b; CH 11 385d-387a; CH 15 388d-390a; BK XV, CH 21-22 415b-416c
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 49, A 1, REP 3 264d-265d; PART I-II, Q 4, A 4 631d-632c; Q 5, A 7, ANS 642a-d; Q 6, A 4, REP 3 647b-648a; Q 19 703a-711d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 50, A 5, ANS and REP 3 10b-d; Q 55, A 1, REP 2 26b-27a
+*   **21 DANTE:** *Divine Comedy*, HELL, XI [22-66] 15b-d; PURGATORY, I-XXVIII 53a-96a `esp` I [22-84] 53b-54a, V [58-66] 59c, VII [37-60] 62d-63a, XI [25-45] 69a-b, XII [115-136] 71c-d, XVI [52-105] 77b-d, XVII [82]-XVIII [75] 79b-80c, XXI [34-78] 85b-d, XXVIII [124-142] 95d-96a; PARADISE, XV [1-6] 128b-c
+*   **25 MONTAIGNE:** *Essays*, 159a-162c
+*   **30 BACON:** *Advancement of Learning*, 72a
+*   **31 DESCARTES:** *Meditations*, IV 89a-93a
+*   **32 MILTON:** *Paradise Lost*, BK IX [342-375] 254b-255b / *Samson Agonistes* [1334-1379] 368b-369b
+*   **33 PASCAL:** *Provincial Letters*, 24b-26b; 44a-53a
+*   **42 KANT:** *Practical Reason*, 321b-329a / *Pref. Metaphysical Elements of Ethics*, 365b-d
+*   **46 HEGEL:** *Philosophy of Right*, PART I, PAR 81 34c-d; ADDITIONS, 51 124c-d / *Philosophy of History*, INTRO, 166b; PART III, 312d-313a; PART IV, 365c
+*   **52 DOSTOEVSKY:** *Brothers Karamazov*, BK V, 127b-137c `passim`
+
+**(2) A good will as the exclusive or principal human good**
+*   **12 EPICTETUS:** *Discourses*, BK I, CH 11 116d-118d; CH 22 127c-128c; CH 25 129d-131b; CH 29 134d-138a; BK II, CH 16 156b-158d; BK III, CH 10 185d-187a
+*   **18 AUGUSTINE:** *City of God*, BK IX, CH 4 287a-288b
+*   **19 AQUINAS:** *Summa Theologica*, PART I-II, Q 1, A 1, REP 2 609b-610b; Q 3, A 4 625a-626b; Q 19, A 1, REP 2 703b-d
+*   **30 BACON:** *Advancement of Learning*, 72a
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 256a-261d `esp` 256a-b, 257c-d / *Practical Reason*, 314d-319b `esp` 316a-317d; 321b-329a / *Intro. Metaphysic of Morals*, 389a-390a,c / *Judgement*, 591b-592a
+*   **43 MILL:** *Utilitarianism*, 453c-454a; 463c-464d
+
+**8c. The will and virtue: justice and charity as habits of the will**
+*   **9 ARISTOTLE:** *Ethics*, BK I, CH 13 [1102b13-1103a4] 348a-c; BK II, CH 6 [1106b36-1107a3] 352c; BK III, CH 1-5 355b,d-361a; BK V, CH 8-11 383a-387a,c; BK VI, CH 2 387d-388b; CH 13 [1145a3-5] 394d; BK VII, CH 1-10 395a-403c
+*   **18 AUGUSTINE:** *City of God*, BK IX, CH 4-5 287a-289a; BK XII, CH 8-9 346d-348b; BK XIV, CH 6-9 380b-385b; BK XV, CH 21-22 415b-416c
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 21, A 1, REP 1 124b-125b; A 2, REP 1 125c-d; Q 59, A 4, REP 3 309a-310a; Q 60, A 5, ANS and REP 4 313b-314c; QQ 95-96 506b-513c; Q 100 520d-522b; PART I-II, Q 5, A 5, REP 1 640b-641a; Q 13, A 1, ANS 672d-673c; Q 19, A 10, ANS 710b-711d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 50, A 5 10b-d; Q 55, A 1, REP 2 26b-27a; Q 56, A 6 34b-35a; Q 59, A 4, ANS and REP 2 48c-49a; Q 60, AA 2-3 50d-52b; Q 62, A 3 61c-62b; A 4, ANS 62b-63a; PART II-II, Q 23, A 8, ANS 488d-489c; Q 24, A 1 489d-490b; A 10, REP 3 496d-498a
+*   **23 HOBBES:** *Leviathan*, PART III, 240d; 245b-c
+*   **38 ROUSSEAU:** *Political Economy*, 369a-c; 372b-c / *Social Contract*, BK I, 393b-c
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 256a-b
+*   **43 MILL:** *Utilitarianism*, 463c-464d
+*   **53 JAMES:** *Psychology*, 81b-83b; 186b-187a; 807a-808a; 816a-819a `esp` 818a
+
+**8d. The will and duty: the categorical imperative**
+*   **12 AURELIUS:** *Meditations*, BK VIII, SECT 32 287d-288a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 25, A 3, REP 3 145b-147a; PART I-II, Q 19, AA 3-6 704c-708a; AA 9-10 709d-711d
+*   **21 DANTE:** *Divine Comedy*, PARADISE, V [13-84] 112b-113a
+*   **25 MONTAIGNE:** *Essays*, 13d-14c
+*   **38 ROUSSEAU:** *Political Economy*, 372b-373b / *Social Contract*, BK I, 393b-c
+*   **42 KANT:** *Pure Reason*, 190c-d; 236d-237a / *Fund. Prin. Metaphysic of Morals*, 253a-254a; 260a-261d; 265c-266d; 268c-270c; 272a-b; 273d-279d `esp` 277d-279d / *Practical Reason*, 321b-329a; 330d-331a / *Pref. Metaphysical Elements of Ethics*, 365b-d; 373d / *Intro. Metaphysic of Morals*, 386b-d; 388b-c; 389a-390a,c; 390b; 392b-393a / *Science of Right*, 416b-417b / *Judgement*, 571c-d; 605d-606b [fn 2]
+*   **43 MILL:** *Liberty*, 296b-c / *Utilitarianism*, 446a-d; 453c-454a; 458b-459b; 469d-470b
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 29 19a-b; PART I, PAR 79 33a-c; PART II, PAR 133 47a; PAR 135 47b-d; PAR 140 49b-54a `passim`; PART III, PAR 148-149 56a-b; ADDITIONS, 84 129b; 86 129c; 95 132b / *Philosophy of History*, PART IV, 362c-d
+*   **53 JAMES:** *Psychology*, 272b-273a; 797b-798a; 807a-808a
+
+**8e. The will and right: the harmony of individual wills in external practical relations**
+*   **42 KANT:** *Pure Reason*, 114a-115a / *Pref. Metaphysical Elements of Ethics*, 371b-372a / *Intro. Metaphysic of Morals*, 386d-387a,c / *Science of Right* 397a-458a,c `esp` 397b-398a, 400b,d-402a, 416b-417a, 435a-b, 448b-d
+*   **46 HEGEL:** *Philosophy of Right*, INTRO, PAR 4, 12d; PAR 19 16d-17a; PAR 21 17a-c; PAR 29-30 19a-c; PAR 33, 20b-c; PART I, PAR 34-40 21a-22c; PAR 44-45 23c-d; PAR 57, 26d; PAR 65-66, 28d-29a; PAR 73-75 31c-32b; PAR 79 33a-c; PAR 81-82 34c-d; PAR 104 39b-d; PART II, PAR 107 40b-c; PAR 113-114 41d-42b; PAR 117-118, 42c-d; PAR 120 43c-d; PAR 127-130 45b-46a; PAR 132, 46b; PAR 141, 54c-d; PART III, PAR 151-155 57a-c; PAR 217, 72b; PAR 258, 80b-c; ADDITIONS, 20 119d-120b; 52 124d-125a; 82 129a
+*   **50 MARX:** *Capital*, 37c-d; 83d-84a
+
+**9. Differences among men in the sphere of will**
+
+**9a. The distinction between men of strong and weak will: cultivation of will power**
+*   **5 SOPHOCLES:** *Antigone* [1-99] 131a-132a / *Electra* [328-471] 158c-159d
+*   **5 EURIPIDES:** *Hippolytus* [373-430] 228b-d / *Electra* [907-956] 335b-d; [959-987] 335d-336a
+*   **8 ARISTOTLE:** *Soul*, BK III, CH 9 [432b11-433a8] 665a-c; CH 11 [434a5-15] 666d-667a
+*   **9 ARISTOTLE:** *Ethics*, BK VII, CH 1-10 395a-403c / *Rhetoric*, BK I, CH 12 [1372b11-16] 616b
+*   **12 EPICTETUS:** *Discourses*, BK I, CH 2 106d-108b; CH 5 110b-c; BK II, CH 15 155c-156b; BK IV, CH 9 237d-238d
+*   **12 AURELIUS:** *Meditations*, BK VII, SECT 55 283b-c
+*   **18 AUGUSTINE:** *Confessions*, BK VIII, PAR 26-27 60b-c
+*   **19 AQUINAS:** *Summa Theologica*, PART I-II, Q 19, A 8, ANS 708d-709d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 84, A 4, ANS and REP 5 176d-178a
+*   **21 DANTE:** *Divine Comedy*, PURGATORY, V [1-21] 59a; XVII [76-145] 80d-81b; PARADISE, IV [64-90] 111b-c
+*   **22 CHAUCER:** *Clerk’s Tale* [8572-8583] 308a / *Second Nun’s Prologue* [15,469-489] 461a / *Parson’s Tale*, PAR 53-61 526b-530a
+*   **25 MONTAIGNE:** *Essays*, 115b-121c; 124c-125a; 159a-162c; 200d-205b; 492b-493a
+*   **26 SHAKESPEARE:** *3rd Henry VI*, ACT III, SC 1 [123-195] 87c-88a / *Richard III* 105a-148a,c / *Taming of the Shrew*, ACT IV, SC I [191-214] 218b-c / *Richard II* 320a-351d / *Julius Caesar*, ACT IV, SC III [145-195] 589d-590c
+*   **27 SHAKESPEARE:** *Othello*, ACT I, SC III [302-410] 212b-213a; ACT II, SC III [29-270] 217b-219d / *King Lear*, ACT V, SC III 278d-279a / *Macbeth*, ACT I, SC VII [28-82] 289c-290b
+*   **30 BACON:** *Advancement of Learning*, 76d-77c
+*   **42 KANT:** *Fund. Prin. Metaphysic of Morals*, 258b-c / *Practical Reason*, 326b-327d; 356a-360d / *Pref. Metaphysical Elements of Ethics*, 368d-369a; 369c-370c
+*   **43 MILL:** *Liberty*, 295b-296b; 300c / *Representative Government*, 346c-350a `passim` / *Utilitarianism*, 463c-464d
+*   **48 MELVILLE:** *Moby Dick*, 123a-124a; 137b-138a; 409b-410b
+*   **51 TOLSTOY:** *War and Peace*, BK I, 15a-16a; BK IV, 177d; BK VI, 235a; BK X, 441c-442a; BK XIII, 575b-c; 578b; BK XIV, 589c-590c; 605b-d
+*   **53 JAMES:** *Psychology*, 80a-83b `esp` 81b-83a; 274a-275a; 795b; 798b-801a; 817a-819a; 826a-827a
+*   **54 FREUD:** *New Introductory Lectures*, 884b-c
+
+**9b. The pathology of the will: indecision, obsession, compulsion, inhibition**
+*   **23 HOBBES:** *Leviathan*, PART I, 77d
+*   **44 BOSWELL:** *Johnson*, 38a-c; 138c-139a; 481d
+*   **48 MELVILLE:** *Moby Dick* `esp` 123a-b, 135a-138a, 404b-411a
+*   **51 TOLSTOY:** *War and Peace*, BK III, 115d-116a; BK V, 203a-d; BK VI, 235a-238c; 245d-246a; 266c-267c; BK VII, 291b; BK VIII, 304b-305a; BK XI, 519a-c; 527b-528b
+*   **53 JAMES:** *Psychology*, 799b-807a; 828b-829a
+*   **54 FREUD:** *Hysteria*, 81c-86a `esp` 82b-d, 83d-84c; 90a-b; 99c-102a / *Interpretation of Dreams*, 247d-248b / *General Introduction*, 550d-556d `esp` 551b-552a; 572b-c; 612a-b / *Ego and Id*, 713c-716c `passim` / *Inhibitions, Symptoms, and Anxiety*, 119b-d; 729a-733c `esp` 731c-d
+
+**10. Will as a term in political theory**
+
+**10a. The sovereign will: the will of the people; the will of the majority**
+*   **6 THUCYDIDES:** *Peloponnesian War*, BK III, 432b-c
+*   **9 ARISTOTLE:** *Politics*, BK IV, CH 4 [1291b30-38] 491a-b; CH 9 [1294b35-39] 494d
+*   **14 PLUTARCH:** *Tiberius Gracchus*, 678b-d
+*   **23 HOBBES:** *Leviathan*, PART II, 100c-101a; 117c-d; 130b-131a; 131d-132a; PART IV, 272c
+*   **35 LOCKE:** *Civil Government*, CH VII, SECT 87-94 44a-46c `passim`; CH VIII, SECT 95-99 46c-47c; CH XIV, SECT 163-168 63a-64c `passim`; CH XIX, SECT 240-243 81b-d
+*   **38 MONTESQUIEU:** *Spirit of Laws*, BK I, 3c; BK II, 4b; BK III, 12d-13a; BK IV, 15a-b; BK V, 30b-c
+*   **38 ROUSSEAU:** *Political Economy*, 369a-370d / *Social Contract*, BK I, 392d-393b; BK II, 395a-396d; 399b-400c; BK III, 409b-c; BK III-IV, 419c-427a
+*   **42 KANT:** *Science of Right*, 436c; 437c-d; 439a-441d; 445a-c; 448b-d; 450a-b
+*   **43 FEDERALIST:** NUMBER 39, 126c-127a; NUMBER 51, 164a-165a; NUMBER 71, 214d-215a; NUMBER 78, 230d, 232a
+*   **43 MILL:** *Liberty*, 268b-271d
+*   **46 HEGEL:** *Philosophy of Right*, PART III, PAR 281 95b-d; PAR 320 106c / *Philosophy of History*, INTRO, 172d-173a; 175b-c; PART III, 302a-d
+*   **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 680b-684a
+
+**10b. The relation of law to will**
+*   **7 PLATO:** *Laws*, BK III, 669b-670c; BK IV, 681b-682c; BK IX, 754a-b
+*   **9 ARISTOTLE:** *Ethics*, BK X, CH 9 [1180a14-24] 434d-435a / *Politics*, BK III, CH 16 485b-486c; BK VI, CH 3 521c-522a
+*   **19 AQUINAS:** *Summa Theologica*, PART I, Q 21, A 2, REP 1 125c-d
+*   **20 AQUINAS:** *Summa Theologica*, PART I-II, Q 90, A 1, REP 3 205b-206b; Q 96, A 5, ANS and REP 3 233d-234d
+*   **23 HOBBES:** *Leviathan*, PART II, 130c; 130d-131a; 131d-132b; 132d-133a; PART IV, 272c
+*   **35 LOCKE:** *Civil Government*, CH IV, SECT 21 29d; CH VI, SECT 57-63 36d-38c; CH XI 55b-58b `esp` SECT 137 56d-57b; CH XIII, SECT 151 59d-60a; CH XIX, SECT 212 74a-b
+*   **38 MONTESQUIEU:** *Spirit of Laws*, BK V, 30b-c; BK XI, 69a
+*   **38 ROUSSEAU:** *Political Economy*, 369a-372b / *Social Contract*, BK I, 393b-c; BK II, 395b-d; 399b-400c; BK III, 419d-420a
+*   **42 KANT:** *Pure Reason*, 110c / *Fund. Prin. Metaphysic of Morals*, 273d-274a / *Science of Right*, 401c-402a; 412c-d; 416b-417a; 435a-437c; 438d-439a; 448b-d; 450a; 450d-452a
+*   **43 FEDERALIST:** NUMBER 78, 230d-232a
+*   **43 MILL:** *Liberty*, 316b-d / *Representative Government*, 327b,d-332d `esp` 328d
+*   **46 HEGEL:** *Philosophy of Right*, PART III, PAR 219 72d-73a / *Philosophy of History*, INTRO, 170c-178a; PART IV, 327d-328a; 350b-c; 361c-d; 364d-365a
+*   **50 MARX-ENGELS:** *Communist Manifesto*, 427a-b
+
+**10c. The general will, particular wills, the will of each, and the will of all**
+*   **23 HOBBES:** *Leviathan*, PART II, 100c-101a
+*   **35 LOCKE:** *Civil Government*, CH IV, SECT 21 29d; CH XIII, SECT 151 59d-60a; CH XIX, SECT 212 74a-b
+*   **38 ROUSSEAU:** *Political Economy*, 369a-370d; 372b-c / *Social Contract*, BK I, 392d-393b; BK II, 395a-398b; 399b-400c; BK III, 409b-410a; 418a; BK IV, 425a-427a
+*   **42 KANT:** *Pure Reason*, 114b-d / *Science of Right*, 437c-d; 448b-d; 450a-b; 451c-452a
+*   **43 MILL:** *Liberty*, 268b-271d / *Representative Government*, 327b,d-332d `esp` 332a-d
+*   **46 HEGEL:** *Philosophy of Right*, PART I, PAR 84 35a; PART III, PAR 155 57c; PAR 219 72d-73a; PAR 257 80b; PAR 258, 80d-81b; PAR 270, 84d-86c; ADDITIONS, 48-49 124b-c; 51 124c-d; 162 143b-144c / *Philosophy of History*, INTRO, 170c-171c; 172d-173c; 203b-206a,c; PART I, 211a-c; PART IV, 363c-d; 366c-367a
+*   **54 FREUD:** *Group Psychology*, 686d-687b [fn 2]
+
+---
+
+### CROSS-REFERENCES
+
+*   **For:** The general consideration of the will in relation to desire, emotion, and mind or reason, **see** DESIRE 3b(1); EMOTION 1; MIND 1b(2), 1d, 1e(3)-1g; PRUDENCE 4a, 5b; REASONING 5e(3); SENSE 3c.
+*   **For:** Other discussions of the voluntary, the involuntary, and the nonvoluntary, **see** ANIMAL 1a(3), 4b; HABIT 6c; KNOWLEDGE 8b(2); MAN 1a; NECESSITY AND CONTINGENCY 5a; VIRTUE AND VICE 4e(1).
+*   **For:** The bearing of the voluntary on the distinction between knowledge and opinion, **see** KNOWLEDGE 4b; OPINION 2b.
+*   **For:** The discussion of rationalization or wishful thinking, **see** DESIRE 5b; EMOTION 3b; OPINION 2a; REASONING 5a.
+*   **For:** The theory of error which attributes error to free will, **see** MIND 5a; TRUTH 3d(2).
+*   **For:** The conception of faith as dependent on an act of the will or practical reason, **see** GOD 6c(2); KNOWLEDGE 6c(5); METAPHYSICS 2d; OPINION 4a; RELIGION 1a.
+*   **For:** The understanding of the divine will and its relation to the divine intellect, and for the problem of God’s freedom, **see** GOD 4e, 4g, 5c, 5g; LIBERTY 5d; MIND 10g.
+*   **For:** Discussions relevant to the various doctrines of, and the many-sided controversy over, the freedom of the will, **see** CAUSE 3; CHANCE 1b; FATE 3, 5; LIBERTY 1c, 3c, 4a-4b, 5a-5c; MAN 1a; METAPHYSICS 2d; MIND 1e(3); NATURE 2f; NECESSITY AND CONTINGENCY 5a-5a(1), 5a(3); PRUDENCE 4a; PUNISHMENT 2a; VIRTUE AND VICE 5c.
+*   **For:** Other discussions which have a bearing on the implications of free will, **see** GOD 7d; HISTORY 4a(1); LIBERTY 1c, 5a, 5c; LOVE 5a, 5a(2); NATURE 6b; SIN 3b-3c, 6a; SLAVERY 2d, 3d; VIRTUE AND VICE 8b.
+*   **For:** The ethical doctrine which makes a good will the exclusive or principal good, **see** GOOD AND EVIL 3b-3b(2); and for the relation of the will to duty, the moral law, and the categorical imperative, **see** DUTY 1, 5; JUSTICE 1e; LAW 4c; LIBERTY 3c; NECESSITY AND CONTINGENCY 5a(2); PRINCIPLE 4b.
+*   **For:** The moral theory which judges the rectitude of the will by the ends it adheres to and by the means it chooses, **see** HAPPINESS 3; LIBERTY 3c; PRUDENCE 3a; VIRTUE AND VICE 4e(2)-4e(3); and for the consideration of the will in relation to virtue, especially prudence, justice, and charity, **see** HABIT 5b; JUSTICE 1c, 1e; LOVE 1a, 5b; PRUDENCE 4a; VIRTUE AND VICE 2a(1), 5c, 8d(3).
+*   **For:** Another treatment of the pathology of the will, **see** DESIRE 6b; EMOTION 3c(2).
+*   **For:** The will as a concept in political theory, and especially in relation to law and sovereignty, **see** DEMOCRACY 5b; GOVERNMENT 1h; LAW 1b; MONARCHY 1a(2).
+
+---
+
+### ADDITIONAL READINGS
+
+Listed below are works not included in *Great Books of the Western World*, but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:
+I. Works by authors represented in this collection.
+II. Works by authors not represented in this collection.
+
+For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of *The Great Ideas*.
+
+**I.**
+*   EPICTETUS. *The Manual*
+*   AUGUSTINE. *On Free Will*
+*   ———. *On Grace and Free Will*
+*   ———. *On the Predestination of the Saints*
+*   AQUINAS. *Summa Contra Gentiles*, BK I, CH 72-88; BK III, CH 88-98
+*   ———. *Quaestiones Disputatae, De Veritate*, QQ 22, 24; *De Malo*, Q 6
+*   DESCARTES. *The Principles of Philosophy*, PART I, 6, 32, 34-35, 37, 39, 41-42
+*   HUME. *A Treatise of Human Nature*, BK II, PART III
+*   HEGEL. *Science of Logic*, VOL I, SECT II, CH 3
+*   J. S. MILL. *A System of Logic*, BK VI, CH 2
+*   ———. *An Examination of Sir William Hamilton's Philosophy*, CH 26
+*   W. JAMES. “The Dilemma of Determinism,” in *The Will to Believe*
+*   FREUD. *The Predisposition to Obsessional Neurosis*
+
+**II.**
+*   EPICURUS. *Letter to Menoeceus*
+*   CICERO. *De Finibus* (On the Supreme Good), III-IV
+*   ANSELM OF CANTERBURY. *De Libero Arbitrio*
+*   BERNARD OF CLAIRVAUX. *Concerning Grace and Free Will*
+*   DUNS SCOTUS. *Opus Oxoniense*, BK I-II, IV
+*   ———. *Reportata Parisiensia*, BK I, DIST 10, QQ 1, 3; BK IV, DIST 49, QQ 9; 17
+*   VALLA. *Dialogue on Free Will*
+*   LUTHER. *A Treatise on Christian Liberty*
+*   CALVIN. *Institutes of the Christian Religion*, BK II, CH 5
+*   SUAREZ. *Disputationes Metaphysicae*, XI (3), XIX, XXIII-XXIV, XXX (9, 16-17), XXXV (5)
+*   BURTON. *The Anatomy of Melancholy*, PART I, SECT I, MEMB II, SUB-SECT II
+*   JOHN OF SAINT THOMAS. *Cursus Philosophicus Thomisticus, Philosophia Naturalis*, PART IV, Q 12
+*   MALEBRANCHE. *De la recherche de la vérité*, BK I, CH I (2), 2
+*   BOSSUET. *Traité du libre arbitre*
+*   CUDWORTH. *A Treatise of Freewill*
+*   LEIBNIZ. *New Essays Concerning Human Understanding*, BK II, CH 21
+*   J. EDWARDS. *A Careful... Enquiry into the Modern ... Notions of Freedom of Will*
+*   VOLTAIRE. “Free-Will,” “Will,” in *A Philosophical Dictionary*
+*   ———. *The Ignorant Philosopher*, CH 13
+*   T. REID. *Essays on the Active Powers of the Human Mind*, I-II
+*   BENTHAM. *An Introduction to the Principles of Morals and Legislation*, CH 8-10
+*   GODWIN. *An Enquiry Concerning Political Justice*, BK IV, CH 5-6
+*   J. G. FICHTE. *The Vocation of Man*
+*   SCHELLING. *Of Human Freedom*
+*   SCHOPENHAUER. *The World as Will and Idea*, VOL I, BK II, IV; VOL II, SUP, CH 19-20; VOL III, SUP, CH 28
+*   J. MILL. *Analysis of the Phenomena of the Human Mind*, CH 24-25
+*   BALZAC. *The Wild Ass’s Skin*
+*   LOTZE. *Microcosmos*, BK III, CH 5
+*   BAIN. *The Emotions and the Will*
+*   EMERSON. “Power,” in *The Conduct of Life*
+*   E. HARTMANN. *Philosophy of the Unconscious*, (A) I-II, IV, VII
+*   H. SIDGWICK. *The Methods of Ethics*, BK I, CH 5
+*   GEORGE ELIOT. *Daniel Deronda*
+*   T. H. GREEN. *The Principles of Political Obligation*, (F, G)
+*   ———. *Prolegomena to Ethics*, BK II
+*   RIBOT. *The Diseases of the Will*
+*   BERGSON. *Time and Free Will*
+*   WUNDT. *Outlines of Psychology*, (14)
+*   BOSANQUET. *Science and Philosophy*, 15
+*   BRADLEY. *Ethical Studies*, 1
+*   ———. *Collected Essays*, VOL I (14); VOL II (26-28)
+*   ROYCE. *The World and the Individual*, SERIES I (10)
+*   MANN. *Buddenbrooks*
+*   H. COHEN. *Ethik des reinen Willens*
+*   T. HARDY. *The Dynasts*
+*   WOODWORTH. *Psychological Issues*, CH 2
+*   MOORE. *Ethics*, CH 6
+*   MCTAGGART. *The Nature of Existence*, CH 40, 57
+*   B. RUSSELL. *Our Knowledge of the External World*, VIII
+*   ———. *The Analysis of Mind*, LECT 14
+*   LOSSKY. *Freedom of Will*
+*   GARRIGOU-LAGRANGE. *God, His Existence and Nature*, PART II, CH 4; APPENDIX 4
+*   ———. *The One God*, CH 19, 22-23
+*   MARITAIN. *Scholasticism and Politics*, CH V
+*   SANTAYANA. *The Realm of Spirit*, CH 4-5

@@ -1,0 +1,495 @@
+# Chapter 89: SPACE
+
+## INTRODUCTION
+
+On the level of our everyday observations, space and time seem to be the obvious, the common, and the connected properties of physical things. We distinguish things from one another by their position in space, as we mark happenings by the date of their occurrence. The where and when of a thing is often used to identify it, for it is generally agreed that two bodies cannot occupy the same place at the same time, and that at the same time two distinct places cannot be occupied by the same body. According to a theologian like Aquinas, these limitations of space and time apply even to bodiless things, i.e., to angels.
+
+> "An angel and a body are said to be in a place," he writes, "in quite a different sense."
+>
+> Whereas a body is in the place which contains it, "an angel is said to be in a corporeal place by application of the angelic power . . . not as being contained, but as somehow containing it." It follows, nevertheless, that at a given time an angel "is not everywhere, nor in several places, but in only one place." Nor does the incorporeality of angels permit more than one angel to be at the same time in the same place. According to the manner in which an angel is at a place—by the action of his power—"there can be only one angel in one place," Aquinas declares, even as there can be only one body in one place at a time.
+
+Location or position in space, and spatial relationships such as higher and lower, nearer and farther, are so familiar and intelligible that they provide terms of reference whereby men speak metaphorically of the moral hierarchy and spiritual distances. The whole of Dante’s *Divine Comedy*, for example, involves a spatial metaphor which sets forth the gradations of sin and the degrees of blessedness in terms of places beneath the earth and in the heavens above.
+
+As he mounts from sphere to sphere in Paradise, Dante meets Piccarda Donati in the Heaven of the Moon. She explains to him that this place “which appears so far down,” is assigned to those who have violated their vows in some particular. Dante wonders why she and the others do not “desire a more exalted place, in order to see more.” Piccarda replies: "Brother, the virtue of charity quiets our will, and makes us wish only for that which we have, and quickens not our thirst for aught else. ... So that as we are, from seat to seat throughout this realm, to all the realm is pleasing, as to the King who inwills us with His will; and His will is our peace.”
+
+This speech of Piccarda’s makes it clear to Dante “how everywhere in Heaven is Paradise, even if the grace of the Supreme Good does not there rain down in one measure.” These different measures of beatitude in the diffusion of God’s love and light are represented by the celestial spheres from the earth-adjacent moon to the Crystalline Heaven, the outermost bound of the physical universe, of which Dante says that it “has no other Where than in the Divine Mind.”
+
+---
+
+When the whole expanse of physical space or the boundary of the universe is considered, Newton no less than Dante conceives the omnipresence and eternity of God as that which somehow encompasses all space and time. God “is not duration or space,” Newton writes at the end of the *Principia*, “but He endures and is present . . . and by existing always and everywhere, He constitutes duration and space.” In the concluding queries of the *Optics*, Newton appears to think of infinite space as the Divine Sensorium in which all things are at once present to God, who “being in all places is more able by His will to move the bodies within His boundless uniform sensorium, and thereby to form and reform the parts of the Universe, than we are by our will to move the parts of our own bodies.”
+
+The physicist does not have to turn theologian, however, to be confronted with the mysteries of space. Even without the modern complication of the relation of its three dimensions to time as a fourth dimension, the physical concept of space raises difficulties for analysis.
+
+In the tradition of western thought, conflicting definitions of space seem to result from a fundamental difference in the object being defined—whether it is an inseparable property of bodies, perhaps even identical with unformed matter, or a reality apart from the bodies which move and have their being in it. Sometimes this difference is signified by a difference between the meaning of the word “place” or “extension” and the meaning of “space.” It appears also to be involved in the contrast between filled space and empty space (i.e., the void or vacuum); and it bears some relation to Aristotle’s distinction between space and place, and to Newton’s distinction between absolute and relative space.
+
+The controversial character of space in physical theory may be appreciated in terms of these oppositions in meaning, and the issues which they raise. In addition, physical theory is confronted with the problem of action-at-a-distance (i.e., action through a void or through an ethereal medium), the problem of the infinity of space (or the question of a bounded or unbounded universe), and the distinction between one physical space and the variety of geometrical spaces.
+
+Space, which at first seems easily apprehended by sense and susceptible to measurement, becomes upon examination so subtle as to be almost a vanishing object. Reason finds it difficult to say precisely what space is in itself, and how it is related to matter and motion. Even the familiar space of ordinary sense-perception seems to have its puzzles. A psychologist like James is concerned with how the different fields of touch, vision, and hearing coalesce to form the single space of our experience; and in dealing with the process by which we learn to perceive the spatial manifold of positions and directions, he cannot avoid the issue of innate as opposed to acquired space-perception.
+
+---
+
+Plato’s theory of space is set forth in the *Timaeus* as part of “the likely story” which Timaeus tells about the production and constitution of the universe. The sensible things which come into being and pass away are, according to him, patterned after the eternal forms. To the eternal patterns and their copies in the world of change, Timaeus finds it necessary to add a third factor in order to account for the physical elements and their generation. This factor, he says, is “difficult to explain and dimly seen. ... It is the receptacle, and in a manner the nurse, of all generation.” In contrast to the elements which are perpetually changing into and out of one another, the receptacle “never departs from her own nature, and never in any way assumes a form like that of any of the things which enter into her. . . . The forms which enter into and go out of her are the likenesses of real existences modelled after their patterns in a wonderful and inexplicable manner.”
+
+Timaeus distinguishes the three principles as that which comes to be and passes away in the process of generation, that in which the generation takes place, and that which the generated thing resembles and which is its source. He likens the receptacle or “receiving principle to a mother, the source to a father, and the intermediate nature to a child,” and adds that “if the model is to take every variety of form, then the matter in which the model is fashioned will not be duly prepared, unless it is formless and free from the impress of any of those shapes which it is hereafter to receive from without. ... Wherefore, that which is to receive all forms should have no form. ... The mother and receptacle of all created, visible, and in any way sensible things, is not to be termed earth, or air, or fire, or water, or any of their compounds, or any of the elements from which these are derived, but is an invisible and formless being which receives all things, and in some mysterious way partakes of the intelligible, and is most incomprehensible.”
+
+This third factor which Timaeus sometimes calls “matter” as well as “receptacle,” he also sometimes calls “space.” When matter and space are identified with each other under the conception of a receptacle for the forms, they have the characteristics of being absolutely formless and imperceptible to the senses. Nor are they, as are the forms, genuinely intelligible to reason. “The third nature, which is space, and is eternal,” Timaeus says, “admits not of destruction and provides a home for all created things, and is apprehended without the help of sense, by a kind of spurious reason, and is hardly real; which we beholding as in a dream, say of all existence that it must of necessity be in some place and occupy a space, but that which is neither in heaven nor on earth has no existence.”
+
+The precise meaning of this conception of space is difficult to determine. Does it, for example, find an echo in Plotinus’ statement that “space is a container, a container of body; it is the home of such things as consist of isolated parts”? But he also says that space “in a strict sense is unembodied and is not, itself, body,” and that “body is not a void,” but rather that “the void must be that in which body is placed,” seeming thereby to imply that space is essentially the void. The statement in the *Timaeus* that “there can be no such thing as a vacuum,” may apply only to the filled space of the created heaven and earth. May it not also be said that space is a void when it is identified with the formless matter of the receptacle prior to creation?
+
+This raises further questions. Is the receptacle space or matter? And is the conception of space in the *Timaeus* rightly interpreted by Aquinas, in commenting on Augustine’s reading of “the earth was void and empty” in Genesis 1:2? Augustine holds that by the word “earth” in this passage formless matter is to be understood. Because of its formlessness, Aquinas writes, “the earth is said to be void and empty, or invisible and shapeless,” and, he adds, “that is why Plato says matter is place.”
+
+---
+
+However these questions are answered, one thing seems to be clear. Space, functioning as receptacle, can be identified only with matter devoid of form, not with the matter of three-dimensional bodies. The relation of space to matter seems to be differently conceived by Descartes. Space is for him not an antecedent principle involved in the original production of sensible things, but rather—as the extension of bodies—it is inseparable in existence from them. It is a property which signifies the essence of material substances, as thinking signifies the essence of mind or soul. “By extension,” Descartes writes, “we understand whatever has length, breadth, and depth, not inquiring whether it be a real body or merely space.” Nevertheless, he goes on to say that “by extension we do not here mean anything distinct and separate from the extended object itself.”
+
+Descartes considers the significance of three statements: “extension occupies place, body possesses extension, and extension is not body.” The first statement, he thinks, means no more than “that which is extended occupies place.” The second statement seems to imply that “the meaning of extension is not identical with that of body; yet,” Descartes insists, “we do not construct two distinct ideas in our imagination, one of body, the other of extension, but merely a single image of extended body; and from the point of the view of the thing it is exactly as if I had said: body is extended, or better, the extended is extended.” Finally, in the statement that extension is not body, the word “extension,” according to Descartes, expresses a purely abstract conception—nothing which in itself has any sensible reality. So far as its existence is concerned, the thing conceived as extension cannot be separated from body. Those who think otherwise, Descartes asserts, are involved in “the contradiction of saying that the same thing is at the same time body and not body.”
+
+The point is summarized in his *Principles of Philosophy* by the statement that “the nature of matter or of body in its universal aspect, does not consist in being hard, or heavy, or colored ... but solely in the fact that it is a substance extended in length, breadth, and depth.” But, it may be asked, are the dimensions of a body the same as space? Descartes replies that “the same extension which constitutes the nature of a body constitutes the nature of space ... not only that which is full of body, but also of that which is called a vacuum.”
+
+If there were a vacuum, or empty space, extension might be separated from body. This Descartes flatly denies. “As regards a vacuum in the philosophic sense of the word, i.e., a space in which there is no substance, it is evident that such cannot exist, because the extension of space or internal place is not different from that of body.” And even “when we take this word vacuum in its ordinary sense,” Descartes goes on, “we do not mean a place or space in which there is absolutely nothing, but only a place in which there are none of those things which we expected to find there.”
+
+These points made in the *Principles* confirm the identification of three-dimensional space or extension with body which appears in the *Rules*. They seem to be further confirmed in the *Discourse* by the reference to “a continuous body, or a space indefinitely extended in length, height or depth” which is “the object of the geometricians.” Descartes does not, however, neglect the distinction between space as the extension of body, and place as the position one body occupies in relation to another. According to common usage, he says, the word “place” signifies that “in virtue of which a body is said to be here or there.” He objects to those who, like Aristotle, mean by “place” the surrounding surface of a body. Local motion or change of place is not, he argues, a change in the body’s surrounding surface, but a change in its relative position.
+
+---
+
+It is place rather than space which Aristotle seeks to define, and place in the sense of the circumference of a body rather than its position in space. He rejects the notion that place is the extension of a magnitude, for that would, he thinks, identify it with matter. Place belongs to body, not as matter or a property of matter, but as its boundary. It is, Aristotle writes, “the innermost motionless boundary . . . a kind of surface and, as it were, a vessel, i.e., a container of the thing.” This boundary is itself made at the surface of a body by a surrounding body or bodies. “If a body has another body outside it and containing it,” Aristotle writes, “it is in place, and if not, not.”
+
+The consequences of this conception of place are, first, a denial of space in the sense of void or empty place, since place is always “coincident with the thing” contained or bounded; second, a denial of any infinite place, since that would presuppose an actually infinite body—to Aristotle, an impossibility; and third, the conclusion that the whole universe itself does not have a place, for outside the outermost heaven which bounds the world, there can be no containing body by which the universe is bounded.
+
+Aristotle explains that by “heaven” he means “the extreme circumference of the whole”—a whole “composed of all natural perceptible body.” The two words which Einstein uses when he discusses “the possibility of a ‘finite’ and yet ‘unbounded’ universe” seem to apply to Aristotle’s conception of the world—finite in body or matter, yet unbounded, i.e., without anything outside itself to determine or define its boundary.
+
+Aristotle’s view of the world seems to be directly opposed to that of the ancient atomists. For them, the whole of matter is discontinuous, existing in indivisible units or atoms, each of which is a plenum—that is, a unit of matter absolutely continuous without void in it—but between which there is void or empty space. For Aristotle, the material world as a whole is a plenum, i.e., continuous body without void. Hence if by “space” is meant not place but void—a bodyless interval between or within bodies—there is no space. Aristotle considers the arguments of Democritus that without void local motion would be impossible, but he thinks “there is no necessity for there being a void if there is movement.”
+
+Following Democritus, Lucretius gives another reason for positing void or empty space. As the indivisibility of the simple bodies or atoms consists in their absolute solidity—their lack of void—so the divisibility of composite bodies derives from their being constituted by both atoms and void. “Wherever space lies empty, which we call the void,” Lucretius writes, “body is not there; moreover wherever body has its station, there is by no means empty void. Therefore the first bodies are solid and free from void. . . . If there were nothing which was empty and void, the whole would be solid; unless ... there were bodies determined, to fill all the places that they held, the whole universe would be but empty void space.”
+
+For Aristotle, in contrast, the divisibility of matter seems to depend upon its being continuous. On his view, the composite body, constituted by atoms separated from one another by void, is not divisible, but is already actually divided; whereas the very thing which Lucretius regards as indivisible because it is continuous—the voidless atom—is for Aristotle divisible. To call an atom divisible is, of course, to deny that it is atomic or, in the language of Lucretius, an uncuttable bit of “solid singleness.”
+
+Thus diametrically opposite theories of space and place seem to be connected with opposite theories of matter or body. Space as the empty interval or void between solid bodies goes along with atomism, whereas place as “the boundary of the containing body at which it is in contact with the contained body” goes along with the theory of the world as a material plenum.
+
+The atomic theory and the plenum theory are opposed in one other fundamental respect concerning space. According to Aristotle, the impossibility of an actually infinite body makes the largest place finite. According to Lucretius, the infinite number of atoms requires an infinite space. Asking whether “the void that we have discovered, or room or space . . . is altogether bounded or spreads out limitless and immeasurably deep,” Lucretius answers that “the whole universe is bounded in no direction.” His argument seems to be like Aristotle’s for an “unbounded universe.” Since there can be “nothing outside the whole sum,” he writes, “it lacks therefore bound or limit.” But where Aristotle’s meaning seems to be that the universe has no place, since all places are inside it, Lucretius appears to mean that empty space extends infinitely in all directions.
+
+---
+
+Modern atomists like Newton and Locke hold a theory of space which accords with the view of matter existing in discontinuous units, separated by intervals of emptiness. Newton’s distinction, for example, between absolute and relative space acknowledges a space that is relative to bodies, but also affirms an absolutely independent space, which has being in separation from matter or bodies. “Absolute space, in its own nature, without relation to anything external,” he writes, “remains always similar and immovable. Relative space is some movable dimension or measure of the absolute spaces, which our senses determine by its position to bodies and which is commonly taken for immovable space.” As for place in distinction from space, Newton holds that it is “a part of space which a body takes up, and is according to the space, either absolute or relative.” In opposing Aristotle’s view, he adds that place is “not the situation, nor the external surface of the body. For the places of equal solids are always equal; but their surfaces, by reason of their dissimilar figures, are often unequal.”
+
+Locke also distinguishes between space and place, the one consisting in “the relation of distance between any two bodies or points,” the other in “the relation of distance betwixt anything and any two or more points which are considered as keeping the same distance one with another and, so considered, as at rest.” With this conception of place, he holds in apparent agreement with Aristotle that “we can have no idea of the place of the universe, though we can of all the parts of it.” Yet he goes on to say that what lies beyond the universe is “one uniform space or expansion, wherein the mind finds no variety or marks.”
+
+This seems to indicate that Locke’s idea of space, like that of Lucretius, conceives an infinite void. “Those who assert the impossibility of space existing without matter must,” he writes, “make body infinite.” Furthermore, “those who dispute for or against a vacuum, do thereby confess that they have distinct ideas of vacuum and plenum, i.e., that they have an idea of extension void of solidity, though they deny its existence, or else they dispute about nothing at all. For they who so much alter the signification of words, as to call extension, body, and consequently make the whole essence of body to be nothing but pure extension, must talk absurdly whenever they speak of vacuum, since it is impossible for extension to be without extension: for vacuum, whether we affirm or deny it, signifies space without body, whose very existence no one can deny to be possible who will not make matter infinite, and take from God a power to annihilate any particle of it.”
+
+Precisely because he thinks no one can affirm an infinite body, and because he conceives space to be a void, distinct from bodies, Locke finds it necessary to affirm the infinity of space. “I would ask,” he says, “whether if God placed a man at the extremity of corporeal beings, he could not stretch his hand beyond his body. If he could, then he would put his arm where there was before space without body.” Furthermore, if “it be impossible for any particle of matter to move but into empty space, the same possibility of a body’s moving into a void space, beyond the utmost bounds of body, as well as into a void space interspersed amongst bodies, will always remain clear and evident. ... So that, wherever the mind places itself by any thought, either amongst or remote from all bodies, it can, in this uniform idea of space, no where find any bounds, any end; and so must necessarily conclude it... to be actually infinite.”
+
+---
+
+It may seem paradoxical that pure space—space existing without matter—is denied by one who also denies the existence of matter. “When I speak of pure or empty space,” Berkeley writes, “it is not to be supposed that the word ‘space’ stands for an idea distinct from or conceivable without body or motion.” What is meant, he suggests, is merely that the resistance one body gives to another in motion is absent when space is relatively empty. But this is always relative. “In proportion as the resistance is lesser or greater,” Berkeley says, “the space is more or less pure.” There would be absolutely pure space only if all bodies other than his own were annihilated. “If that, too, were annihilated,” Berkeley concludes, “then there could be no motion, and consequently no Space.”
+
+All these contradictions concerning space enter into Kant’s statement of the first cosmological antinomy, in which the thesis that the world is limited with regard to space and the antithesis that the world is infinite in space seem to be equally susceptible to proof—and so to disproof. Both alternatives violate our empirical concepts.
+
+If space “is infinite and unlimited,” Kant writes, “it is too large for every possible empirical concept. If it is finite and limited, you have a perfect right to ask what determines that limit. Empty space is not an independent correlate of things, and cannot be a final condition, still less an empirical condition forming part of possible experience—for how can there be experience of what is absolutely void? But in order to produce an absolute totality in an empirical synthesis, it is always requisite that the unconditioned should be an empirical concept. Thus it follows that a limited world would be too small for your concept.”
+
+Space itself, however, is for Kant “not an empirical concept which has been derived from external experience.” Rather it “is a necessary representation *a priori* forming the very foundation of all external intuitions” and, as Kant explains in his *Prolegomena*, it establishes geometry as an *a priori* science. “Space is nothing but the form of all phenomena of the external senses; it is the subjective condition of our sensibility, without which no external intuition is possible for us. ... Nothing which is seen in space is a thing by itself,” nor is “space a form of things supposed to belong to them by themselves.” The external objects which we perceive in space “are nothing but representations of our senses, the form of which is space.”
+
+So far as the experience of space is concerned, William James seems to take an opposite view. Time and space relations, he says, “are impressed from without” and “stamp copies of themselves within.” To the Kantian theory that space is “a quality produced out of the inward resources of the mind, to envelope sensations which, as given originally, are not spatial,” James replies that he can find “no introspective experience of mentally producing or creating space.”
+
+He proposes two other alternatives: “either (1) there is no spatial quality of sensation at all, and space is a mere symbol of succession; or (2) there is an extensive quality given immediately in certain particular sensations.” The second seems to James best suited to explain the development of our perceptions of space, and he does not think it inconsistent with the *a priori* or non-empirical character of geometry, whose necessary truths refer to ideal objects, not to experienced things in physical space.
+
+---
+
+The chapter on MATHEMATICS considers the relation of the postulates of diverse geometries to the diversity of Euclidean and non-Euclidean spaces, such as that of the flat plane, the surface of a sphere, and the surface of a pseudo-sphere. Just as different parallel postulates select different spaces for geometrical construction, so a postulate like Euclid’s concerning the equality of all right angles seems to assume a uniformity of space which permits geometrical figures to be transposed without alteration. “If translation through space warped or magnified forms,” James remarks, “then the relations of equality, etc., would always have to be expressed with a position-qualification added.”
+
+Confronted with a variety of purely mathematical spaces, the physicist is concerned with the problem of which geometry is, as Einstein says, in “correspondence with a ‘real’ object,” or true of the real world. “According to the general theory of relativity, the geometrical properties of space are not independent,” Einstein writes, “but are determined by matter.” It follows that our assumptions about the distribution of matter determine the character of the world’s space.
+
+On the assumption of a world “not inhabited by matter everywhere,” in whose infinite space “the average density of matter would necessarily be zero,” Einstein says we can imagine “a quasi-Euclidean universe” analogous to “a surface which is irregularly curved in its individual parts, but which nowhere departs appreciably from a plane: something like the rippled surface of a lake.” But if the “average density of matter... differs from zero, however small may be that difference, then the universe cannot be quasi-Euclidean.” It would be spherical (or elliptical) if the matter were uniformly distributed; but “since in reality the detailed distribution of matter is not uniform,” Einstein concludes that “the real universe will deviate in individual parts from the spherical, i.e., the universe will be quasi-spherical. But it will be necessarily finite.”
+
+The nature of the actual space of the universe thus seems to be related to the issue whether physical as opposed to mathematical space is a void or filled with matter. Defining a vacuum as “a space empty of all bodies known to the senses,” Pascal insists that “there is as much difference between nothingness and space, as there is between empty space and a material body,” so that “empty space occupies the mean between matter and nothingness.” Torricelli’s experiments seem to him complete proof against the disciples of Aristotle, for they upset the belief that “nature abhors a vacuum.”
+
+Gilbert’s observations on magnetic influences, Newton’s observations on the transmission of light and heat as well as gravitational pull, and Faraday’s on electrical phenomena, all seem to admit the possibility of action at a distance, or through a vacuum. But the question remains whether the so-called physical vacuum is an absolute void or merely empty of “all bodies known to the senses.”
+
+“Is not the heat of the warm room conveyed through the vacuum,” Newton asks, “by the vibrations of a much subtiler medium than air which after the air was drawn out remained in the vacuum? And is not this medium the same with that medium by which light is refracted and reflected, and by whose vibrations light communicates heat to bodies? ... And is not this medium exceedingly more rare and subtile than the air, and exceedingly more elastic and active? And does it not readily pervade all bodies? And is it not (by its elastic force) expanded through all the heavens?”
+
+Huygens also refers to an ethereal matter as the medium for the propagation of light. “One will see,” he writes, “that it is not the same that serves for the propagation of sound ... It is not the same air, but another kind of matter in which light spreads; since if the air is removed from the vessel, the light does not cease to traverse it as before.” But this ethereal medium, without which bodies would act at a distance upon one another—gravitationally, magnetically, electrically—through an absolute void, seems to have contrary properties. It is not only “subtiler” than air, but, as Newton suggests, it may be “denser than quick-silver or gold,” since “planets and comets, and all gross bodies perform their motions more freely, and with less resistance in this aethereal medium than in any fluid, which fills all space adequately without leaving any pores.” And, in still another place, he asks: “What is there in places almost empty of matter, and whence is it that the Sun and Planets gravitate towards one another, without dense matter between them?”
+
+Whatever may be thought of the ether as a physical hypothesis, the problem still remains whether action can take place at a distance through a void or must employ what Faraday calls “physical lines of force” through filled space. Faraday thinks the evidences support the latter alternative for both electricity and magnetism. He quotes a letter from Newton to Bentley to show that Newton was “an unhesitating believer in physical lines of gravitating force.”
+
+In that letter, posthumously discovered, Newton says: “That gravity should be innate, inherent and essential to matter, so that one body may act upon another at a distance through a vacuum, without the mediation of anything else, by and through which their action and force may be conveyed from one to another, is to me so great an absurdity, that I believe no man who has in philosophic matters a competent faculty of thinking, can ever fall into it.”
+
+## OUTLINE OF TOPICS
+
+1.  **Space, place, and matter**
+    1a. Space or extension as the essence or property of bodies: space, the receptacle, and becoming
+    1b. Place as the envelope or container of bodies: place as a part of space or as relative position in space
+    1c. The tridimensionality of bodies: the indeterminate dimensions of pure space or prime matter
+    1d. The exclusiveness of bodily occupation of space: impenetrability
+
+2.  **Space, void, and motion**
+    2a. The role of space or place in local motion: the theory of proper places; absolute and relative space
+    2b. The issue of the void or vacuum
+    (1) The distinction between empty and filled space
+    (2) The indispensability of void or vacuum for motion and division: the absence of void in atoms
+    (3) The denial of void or vacuum in favor of a plenum
+    2c. Space as a medium of physical action: the ether and action-at-a-distance; the phenomena of gravitation, radiation, and electricity
+
+3.  **Space, quantity, and relation**
+    3a. The finitude or infinity of space: the continuity and divisibility of space
+    3b. The relation of physical and mathematical space: sensible and ideal space
+    3c. Geometrical space, its kinds and properties: spatial relationships and configurations
+    3d. The measurement of spaces, distances, and sizes: trigonometry; the use of parallax
+
+4.  **The knowledge of space and figures**
+    4a. Space as the divine sensorium and space as a transcendental form of intuition: the *a priori* foundations of geometry
+    4b. The controversy concerning innate and acquired space-perception
+    4c. The perception of space: differences between visual, auditory, and tactual space; perspective and spatial illusions
+
+5.  **The mode of existence of geometrical objects: their character as abstractions; their relation to intelligible matter**
+
+6.  **The spiritual significance of place, position, and space**
+
+---
+## REFERENCES
+
+> To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4 Homer: *Iliad*, Bk II [265-283] 12d**, the number **4** is the number of the volume in the set; the number **12d** indicates that the passage is in section d of page 12.
+>
+> **Page Sections**: When the text is printed in one column, the letters **a** and **b** refer to the upper and lower halves of the page. For example, in **53 James: *Psychology*, 116a-119b**, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters **a** and **b** refer to the upper and lower halves of the left-hand side of the page, the letters **c** and **d** to the upper and lower halves of the right-hand side of the page. For example, in **7 PLATO: *Symposium*, 163b-164c**, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.
+>
+> **Author’s Divisions**: One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., ***Iliad*, Bk II [265-283] 12d**.
+>
+> **Bible References**: The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows; e.g., **OLD TESTAMENT: Nehemiah, 7:45—(D) II Esdras, 7:46**.
+>
+> **Symbols**: The abbreviation “**esp**” calls the reader’s attention to one or more especially relevant parts of a whole reference; “**passim**” signifies that the topic is discussed intermittently rather than continuously in the work or passage cited.
+>
+> For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of The Great Ideas, consult the Preface.
+
+**1. Space, place, and matter**
+
+**1a. Space or extension as the essence or property of bodies: space, the receptacle, and becoming**
+- **7 PLATO:** *Timaeus*, 455c-458b
+- **8 ARISTOTLE:** *Physics*, BK I, CH 9 [192b9-14] 268a; BK IV, CH 2 [209b5-210a11] 288b-d; CH 4 [211b5-212a2] 290c-291a
+- **17 PLOTINUS:** *Third Ennead*, TR VI, CH 13 114c-115b; CH 19 118c-119a
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 66, A 1, REP 1 343d-345c
+- **23 HOBBES:** *Leviathan*, PART IV, 270d-271a
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, XIV, 29b-32a / *Discourse on the Method*, PART IV, 52d-53a / *Meditations on First Philosophy*, II, 78c-d / *Objections and Replies*, DEF VII 130c-d; 135d-136a; 154a
+- **33 PASCAL:** *The Vacuum*, 370a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH XIII, SECT 11-27 150d-154d; CH XV, SECT 4, 162d-163a; CH XVII, SECT 20 172d-173c; BK III, CH VI, SECT 5, 269b-c; SECT 21 273c-d; CH X, SECT 6, 293b
+- **42 KANT:** *The Critique of Pure Reason*, 28b-33d
+
+**1b. Place as the envelope or container of bodies: place as a part of space or as relative position in space**
+- **8 ARISTOTLE:** *Physics*, BK IV, CH 1-5 287a-292c esp CH 4 289d-291c / *On the Heavens*, BK I, CH 7 [275b5-12] 366d
+- **17 PLOTINUS:** *Fourth Ennead*, TR III, CH 20, 152b-c / *Sixth Ennead*, TR I, CH 14 260b-c
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 8, A 2, ANS and REP 3 35c-36b; Q 50, A 1, REP 3 269b-270a; Q 52 278d-280d; Q 53, A 1, ANS 280d-282a; Q 66, A 4, REP 5 348d-349d
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 83, A 2, ANS and REP 5 976c-978c; A 3, REP 3-4 978c-980d; A 5, ANS 981b-982c; Q 84, A 2, REP 1 984c-985d
+- **23 HOBBES:** *Leviathan*, PART II, 172b; PART IV, 270d-271c
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, XII, 23c-d; XIII, 26b-c / *Meditations on First Philosophy*, II, 78c-d / *Objections and Replies*, 228c-229a
+- **33 PASCAL:** *The Vacuum*, 375a-376a
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, DEFINITIONS, SCHOL, 9a-10a-11a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH IV, SECT 2 129c-d; SECT 5 130d-131a; CH XIII, SECT 7-10 149d-150d; CH XV, SECT 5-8 163b-164b
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 111, 434c
+- **42 KANT:** *The Critique of Judgement*, 611d-612a
+- **53 JAMES:** *The Principles of Psychology*, 139a-140a; 626b
+
+**1c. The tridimensionality of bodies: the indeterminate dimensions of pure space or prime matter**
+- **7 PLATO:** *Timaeus*, 455c-458b
+- **8 ARISTOTLE:** *Topics*, BK VI, CH 5 [142b20-29] 196b / *Physics*, BK IV, CH 1 [209a5-7] 287d / *On the Heavens*, BK I, CH 1 359a-c / *Metaphysics*, BK V, CH 6 [1016b25-31] 537b; CH 13 [1020a7-14] 541b; BK VII, CH 3 [1029a11-19] 551c-d
+- **11 NICOMACHUS:** *Introduction to Arithmetic*, BK II, 832c
+- **17 PLOTINUS:** *Second Ennead*, TR IV 50a-57c esp CH 7-9 52a-53b, CH 15 56c-57a
+- **18 AUGUSTINE:** *Confessions*, BK XII, PAR 3-4 99d-100a; PAR 15 102b-c
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 3, A 2, CONTRARY 15c-16a; Q 66, A 1, REP 1 343d-345c
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 79, A 1, REP 3 951b-953b; Q 80, A 5, REP 3 963a-964b; Q 83, A 2, ANS 976c-978c; A 3, REP 1-2 978c-980d; A 5, ANS 981b-982c
+- **23 HOBBES:** *Leviathan*, PART IV, 269d
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, XIV, 29b-c; 31d / *Meditations on First Philosophy*, V, 93d
+- **31 SPINOZA:** *Ethics*, PART I, PROP 15, SCHOL, 360b
+- **33 PASCAL:** *The Vacuum*, 370a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH IV, SECT 5 130d-131a; CH XIV, SECT 26 160c-d; CH XV, SECT 1-8 162b-164b *passim*; CH XVII 167d-174a *passim*
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 117 436a
+- **52 DOSTOEVSKY:** *The Brothers Karamazov*, BK V, 121a-b
+
+**1d. The exclusiveness of bodily occupation of space: impenetrability**
+- **8 ARISTOTLE:** *Physics*, BK IV, CH 1 [209a5-7] 287d; CH 6 [213b4-12] 293a
+- **17 PLOTINUS:** *Fourth Ennead*, TR II, CH 1, 139d
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 8, A 2, ANS 35c-36b; Q 52, A 3, REP 1 280a-d
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 83, AA 2-4 976c-981b; A 5, ANS and REP 2 981b-982c; A 6, ANS and REP 2 982c-983b
+- **23 HOBBES:** *Leviathan*, PART I, 54b-c; PART IV, 271b-c
+- **28 GALILEO:** *Two New Sciences*, FIRST DAY, 153a; 156d-157b
+- **30 BACON:** *Novum Organum*, BK II, APH 36, 167b; APH 48, 179d-180a
+- **31 DESCARTES:** *Meditations on First Philosophy*, II, 78c-d
+- **33 PASCAL:** *Pensées*, 512 262a / *The Vacuum*, 370a
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, BK III, RULE III, 270b
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH IV 129b-131a; CH XV, SECT 11 162a-b; BK IV, CH VII, SECT 5 338b
+- **45 FARADAY:** *Experimental Researches in Electricity*, 854c-855a,c
+
+**2. Space, void, and motion**
+
+**2a. The role of space or place in local motion: the theory of proper places; absolute and relative space**
+- **7 PLATO:** *Timaeus*, 453c; 455c-458b; 460c-d / *Laws*, BK X, 762b-c
+- **8 ARISTOTLE:** *Physics*, BK III, CH 5 [205a10-206a8] 283b-284b; BK IV, CH 1 [208b1-24] 287a-c; CH 2 [210a2-4] 288d; CH 4 [211a4-6] 290a; [212a20-28] 291c; CH 5 [212b29-213a11] 292b; CH 8 [214b13-18] 294b; [215a1-10] 294c-d; BK VI 312b,d-325d *passim* / *On the Heavens*, BK I, CH 2 [268b11]-CH 3 [270a13] 359d-361b; CH 7 [274b30-33] 366a; CH 7 [275b30]-CH 8 [277b25] 367a-369a; CH 9 [278b22-279a8] 370a-b; BK II, CH 2 376b-377c; BK III, CH 5 [304b11-23] 395d-396a; CH 6 [305a22-28] 396c; BK IV, CH 1 399a-d; CH 3-5 401c-404d / *Metaphysics*, BK V, CH 13 [1020a25-33] 541c; BK XI, CH 10 [1067a8-33] 595c-596a / *On the Soul*, BK I, CH 3 [406b12-29] 635c-d
+- **9 ARISTOTLE:** *Nicomachean Ethics*, BK X, CH 4 [1174a29-b5] 428d
+- **11 NICOMACHUS:** *Introduction to Arithmetic*, BK II, 832c
+- **12 LUCRETIUS:** *On the Nature of Things*, BK I [988-1007] 13b; [1052-1082] 14a-c; BK II [184-250] 17b-18b
+- **16 PTOLEMY:** *Almagest*, BK I, 10b-11b
+- **16 COPERNICUS:** *On the Revolutions of the Heavenly Spheres*, BK I, 517b-518a; 519b-520b
+- **16 KEPLER:** *Epitome of Copernican Astronomy*, BK IV, 855b; 931b-932a
+- **17 PLOTINUS:** *Third Ennead*, TR VII, CH 8, 123d-124a
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 53 280d-284d
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 84, A 2, REP 1,4-5 984c-985d; A 3, ANS and REP 2-3 985d-989b
+- **21 DANTE:** *The Divine Comedy*, PURGATORY, XVIII [22-33] 80a; PARADISE, I [94-142] 107b-d; IV [73-87] 111b-c; XXI [40-45] 141d
+- **23 HOBBES:** *Leviathan*, PART I, 50a; 61b; PART II, 173a; PART IV, 271a-b; 271d
+- **28 GILBERT:** *On the Loadstone*, BK VI, 110b-c
+- **28 GALILEO:** *Two New Sciences*, FIRST DAY, 162d; 164a-c; THIRD DAY-FOURTH DAY 197a-260a,c esp THIRD DAY, 197b-d, 200b-c, 203a-b, 205b-208c
+- **30 BACON:** *Novum Organum*, BK II, APH 35, 163a-d; APH 36, 166b-c; APH 45 176a-177c; APH 48, 179d-180d; 181d
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, DEFINITIONS-LAWS OF MOTION 5a-24a esp DEFINITIONS, SCHOL 8b-13a; BK I-II 25a-267a *passim*, esp BK I, PROP 1-17, SCHOL 32b-50a, PROP 32-39 81a-88a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH XIII, SECT 7-10 149d-150d; SECT 27, 154c; CH XV, SECT 5-8 163b-164b
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 110-117 434b-436a
+- **42 KANT:** *The Critique of Pure Reason*, 29c-d; 31d-32a; 55c-56a; 84b-c; 135d [fn 2]
+- **51 TOLSTOY:** *War and Peace*, BK XI, 469a-d
+
+**2b. The issue of the void or vacuum**
+
+**2b(1) The distinction between empty and filled space**
+- **8 ARISTOTLE:** *Physics*, BK IV, CH 1 [208b25-26] 287c; CH 6-9 292c-297c esp CH 7 [213b30-214a16] 293b-c / *On the Heavens*, BK I, CH 9 [279a12-18] 370b-c; BK III, CH 2 [301b32-302a9] 393b
+- **12 LUCRETIUS:** *On the Nature of Things*, BK I [329-369] 5b-c; [418-448] 6b-c; [503-550] 7b-d
+- **17 PLOTINUS:** *Fourth Ennead*, TR III, CH 20, 152c
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 46, A 1, REP 4 250a-252d
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 83, A 2, ANS 976c-978c
+- **31 SPINOZA:** *Ethics*, PART I, PROP 15, SCHOL, 361b-d
+- **33 PASCAL:** *The Vacuum*, 359b-361a; 363b-365b; 370a; 373b-376a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH IV, SECT 2-5 129c-131a; CH XIII, SECT 11-27 150d-154d esp SECT 21-27 152d-154d; CH XIV, SECT 26 160c-d; CH XV, SECT 1-4 162b-163b *passim*; CH XVII, SECT 4 168b-d; SECT 20 172d-173c
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 116-117 435d-436a
+- **42 KANT:** *The Critique of Pure Reason*, 71b-72a; 84b-c; 135d [fn 2]; 152c-d
+
+**2b(2) The indispensability of void or vacuum for motion and division: the absence of void in atoms**
+- **8 ARISTOTLE:** *Physics*, BK IV, CH 6 292c-293b; CH 7 [214a16]-CH 8 [216b26] 293d-295d / *On the Heavens*, BK I, CH 7 [275b30-276a5] 367a; BK III, CH 2 [301b32-302a9] 393b; BK IV, CH 2 [308b29-310a13] 400b-401c / *On Generation and Corruption*, BK I, CH 8 [325a24-b11] 423d-424b
+- **12 LUCRETIUS:** *On the Nature of Things*, BK I [329-397] 5b-6a; [418-448] 6b-c; [483-550] 7a-d; [988-1007] 13b; [1052-1082] 14a-c; BK VI [998-1041] 93c-94a
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 84, A 3, REP 2 985d-989b
+- **28 GALILEO:** *Two New Sciences*, FIRST DAY, 138b-141d; 151c-153a; 156d-160a *passim*
+- **30 BACON:** *Novum Organum*, BK II, APH 48, 187c
+- **31 SPINOZA:** *Ethics*, PART I, PROP 15, SCHOL, 361b-d
+- **33 PASCAL:** *The Vacuum*, 359a-381b / *The Weight of the Mass of the Air*, 405b-415b
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, BK III, PROP 6, COROL II-IV 281b / *Optics*, BK III, 541b
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH XIII, SECT 23 153c-d; CH XVII, SECT 4 168b-d
+- **45 LAVOISIER:** *Elements of Chemistry*, PART I, 9a-b
+- **45 FARADAY:** *Experimental Researches in Electricity*, 850b,d-855a,c esp 851a-b
+
+**2b(3) The denial of void or vacuum in favor of a plenum**
+- **7 PLATO:** *Timaeus*, 460c-d; 470d-471c
+- **8 ARISTOTLE:** *Physics*, BK IV, CH 6-9 292c-297c / *On the Heavens*, BK I, CH 9 [279a12-18] 370b-c; BK III, CH 2 [301b32-302a9] 393b; CH 6 [305a14-22] 396b-c
+- **10 GALEN:** *On the Natural Faculties*, BK I, CH 6, 188c-189c
+- **12 LUCRETIUS:** *On the Nature of Things*, BK I [370-383] 5c-d
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 46, A 1, REP 4 250a-252d; Q 52, A 3, REP 2 280a-d
+- **23 HOBBES:** *Leviathan*, PART III, 172b; PART IV, 269d
+- **30 BACON:** *Novum Organum*, BK II, APH 8 140b; APH 48, 180a; 187c
+- **31 DESCARTES:** *Meditations on First Philosophy*, VI, 100d
+- **31 SPINOZA:** *Ethics*, PART I, PROP 15, SCHOL, 361b-d
+- **33 PASCAL:** *The Vacuum*, 376a-b; 379a-380a
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 116-117 435d-436a
+- **42 KANT:** *The Critique of Pure Reason*, 71b-72a; 84b-c; 135d [fn 2]
+- **45 FARADAY:** *Experimental Researches in Electricity*, 850b,d-855a,c esp 854a-855a,c
+
+**2c. Space as a medium of physical action: the ether and action-at-a-distance; the phenomena of gravitation, radiation, and electricity**
+- **8 ARISTOTLE:** *Physics*, BK VIII, CH 10 [266b25-267b20] 354b-d / *On the Heavens*, BK III, CH 2 [301b16-31] 393a-b / *On the Soul*, BK II, CH 7 [418b27]-CH 8 [420a26] 649b-651c; BK III, CH 12 [434b22-435a10] 667c-668a / *On Dreams*, CH 2 [459b28-34] 703b
+- **12 LUCRETIUS:** *On the Nature of Things*, BK I [440-448] 6c; BK VI [906-1041] 92b-94a
+- **16 KEPLER:** *Epitome of Copernican Astronomy*, BK IV, 897b-905a esp 900b-901b; 906a-b; 922a-b; 934b; BK V, 965a-b
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 8, A 1, REP 3 34d-35c
+- **28 GILBERT:** *On the Loadstone*, BK II, 26d-40b esp 30a-32c; 43a-c; 45d-47b; 51a-c; 54d-55c; BK V, 102d-104b; BK VI, 112d
+- **28 GALILEO:** *Two New Sciences*, THIRD DAY, 202d
+- **30 BACON:** *Novum Organum*, BK II, APH 36, 167b-c; APH 37 168d-169c; APH 45 176a-177c; APH 48, 183a-c; 186a
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, IX, 15c
+- **33 PASCAL:** *The Vacuum*, 366a-367a
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, DEF V-VIII 6a-8a; BK I, PROP 69, SCHOL 130b-131a; BK III, GENERAL SCHOL, 371b-372a / *Optics*, BK III, 516a-b; 520a-522b esp 521a-b; 525b-529a; 531b-542a *passim*, esp 531b
+- **34 HUYGENS:** *Treatise on Light*, CH 1, 553b-560b
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 102-108 432d-434a *passim*
+- **35 HUME:** *An Enquiry Concerning Human Understanding*, SECT VII, DIV 57, 475d [fn 2]
+- **36 SWIFT:** *Gulliver's Travels*, PART III, 118b-119a
+- **42 KANT:** *The Critique of Pure Reason*, 8d [fn 2]; 227b
+- **45 LAVOISIER:** *Elements of Chemistry*, PART I, 9b-c
+- **45 FARADAY:** *Experimental Researches in Electricity*, 441a-442b; 451a-454a; 463d-465d; 513d-514c; 521a-524a; 528c-532a; 604b-c; 631b-c; 648b-d; 685d-686c; 816b,d-819a,c; 819a-d; 824a-b; 832a-c; 840c-842c; 855a,c
+- **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 687d; 695c
+
+**3. Space, quantity, and relation**
+
+**3a. The finitude or infinity of space: the continuity and divisibility of space**
+- **8 ARISTOTLE:** *Categories*, CH 6 [5a6-23] 9b-c / *Physics*, BK III, CH 5 [205a10-206a8] 283b-284b; BK IV, CH 5 [212b11-21] 292a / *On the Heavens*, BK I, CH 9 [279a12-b4] 370b-d / *Metaphysics*, BK V, CH 13 [1020a25-33] 541c; BK XI, CH 10 [1067a8-33] 595c-596a
+- **11 ARCHIMEDES:** *The Sand-Reckoner* 520a-526b *passim*
+- **12 LUCRETIUS:** *On the Nature of Things*, BK I [951-1007] 12d-13b; BK II [89-94] 16a-b; [1048-1063] 28b-c; BK VI [647-652] 89a
+- **16 PTOLEMY:** *Almagest*, BK I, 10b
+- **16 COPERNICUS:** *On the Revolutions of the Heavenly Spheres*, BK I, 516a-517b
+- **16 KEPLER:** *Epitome of Copernican Astronomy*, BK IV, 882a-886b
+- **18 AUGUSTINE:** *The City of God*, BK XI, CH 5 324d-325c
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 8, A 4, REP 3 37c-38c; Q 46, A 1, REP 8 250a-252d; Q 52, A 1 278d-279b; Q 53, A 1, ANS and REP 1 280d-282a; A 2, ANS and REP 1 282a-283b
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 84, A 3, CONTRARY 985d-989b
+- **23 HOBBES:** *Leviathan*, PART I, 54b-c; 61b; PART II, 162b; PART IV, 271b
+- **30 BACON:** *Novum Organum*, BK I, APH 48 110d-111a
+- **31 DESCARTES:** *Objections and Replies*, 112b
+- **33 PASCAL:** *Pensées*, 121 195a; 205-206 211a / *On Geometrical Demonstration*, 434b-439b
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, DEFINITIONS, SCHOL, 8b-11a / *Optics*, BK III, 543a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH XIII, SECT 4 149b; SECT 21 152d-153b; CH XV, SECT 2-6 160c-d; CH XV, SECT 1-8 162b-164b *passim*; CH XVII, SECT 8 167c; CH XVII 167d-174a *passim*, esp SECT 3-4 168b-d, SECT 11 170c
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 117 436a
+- **42 KANT:** *The Critique of Pure Reason*, 24c-d; 28b-29c; 135a-137a,c; 152a-d; 160b-163a esp 162b / *The Critique of Judgement*, 501a-b
+- **51 TOLSTOY:** *War and Peace*, EPILOGUE II, 693c-694a *passim*
+- **53 JAMES:** *The Principles of Psychology*, 631a
+- **54 FREUD:** *A General Introduction to Psychoanalysis*, 562c-d
+
+**3b. The relation of physical and mathematical space: sensible and ideal space**
+- **8 ARISTOTLE:** *Physics*, BK IV, CH 1 [209a5-7] 287d; CH 8 [216b2-11] 296a-b / *Metaphysics*, BK XIV, CH 5 [1092a18-21] 625a
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 83, A 2, ANS 976c-978c; A 3, REP 1-2 978c-980d
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, XIV 28a-33b / *Discourse on the Method*, PART IV, 52d-53a / *Objections and Replies*, 169c-170a
+- **33 PASCAL:** *The Vacuum*, 370a; 373a-374a
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, DEFINITIONS, SCHOL 8b-13a esp 8b-9a, 12a-b
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH IV, SECT 5 130d-131a; CH XIV, SECT 26 160c-d; CH XV, SECT 1-8 162b-164b *passim*
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 110-117 434b-436a; SECT 124-128 437d-438d
+- **42 KANT:** *The Critique of Pure Reason*, 24a-26b; 161d-163a / *The Critique of Judgement*, 574b-575a
+- **53 JAMES:** *The Principles of Psychology*, 877b
+
+**3c. Geometrical space, its kinds and properties: spatial relationships and configurations**
+- **8 ARISTOTLE:** *Categories*, CH 6 [5a1-23] 9b-c / *On the Heavens*, BK I, CH 1 359a-c / *Metaphysics*, BK V, CH 6 [1016b25-31] 537b
+- **11 EUCLID:** *Elements*, BK I, DEFINITIONS, 1-2,5 1a; 14 1b; POSTULATES esp 5 2a; COMMON NOTIONS, 4 2a; PROP 4 4a-b; PROP 8 6b-7a; PROP 16 10b-11a; PROP 26 16a-17b; PROP 29 18b-19a; BK X, PROP 1 191b-192a; BK XI, DEFINITIONS, 1 301a
+- **11 ARCHIMEDES:** *On the Sphere and Cylinder*, BK I, ASSUMPTIONS esp 5 404b / *On Spirals*, 484b / *The Quadrature of the Parabola*, 527b
+- **11 NICOMACHUS:** *Introduction to Arithmetic*, BK II, 832b-d
+- **16 KEPLER:** *Epitome of Copernican Astronomy*, BK IV, 865a-b
+- **17 PLOTINUS:** *Sixth Ennead*, TR III, CH 13-14 287d-289a
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 85, A 8, REP 2 460b-461b
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, XIV 28a-33b esp 30d-32a / *Discourse on the Method*, PART IV, 52d-53a / *Meditations on First Philosophy*, V, 93a-d; VI, 96b-d / *Objections and Replies*, 217a-c; 228c-229a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH XIII, SECT 5-6 149b-d
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 123-132 437c-439c
+- **35 HUME:** *An Enquiry Concerning Human Understanding*, SECT XII, DIV 124-125 506a-507a *passim*
+- **42 KANT:** *The Critique of Pure Reason*, 24a-26b
+- **52 DOSTOEVSKY:** *The Brothers Karamazov*, BK V, 121a-b
+- **53 JAMES:** *The Principles of Psychology*, 550b-551b [fn 1-2]; 876b-878a esp 877b
+
+**3d. The measurement of spaces, distances, and sizes: trigonometry; the use of parallax**
+- **16 PTOLEMY:** *Almagest*, BK V, 165a-176a; BK IX, 270a-b
+- **16 COPERNICUS:** *On the Revolutions of the Heavenly Spheres*, BK I, 516a-b; 521b-529a; BK IV, 705a-714b
+- **16 KEPLER:** *Epitome of Copernican Astronomy*, BK IV, 861a-863b; 868b-887a / *The Harmonies of the World*, 1016b-1018a
+- **30 BACON:** *Novum Organum*, BK I, APH 109, 129b; BK II, APH 39, 170b-c; APH 45 176a-177c
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, XIV, 31b-33b
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, BK III, LEMMA 4 333a-337b
+- **41 GIBBON:** *The Decline and Fall of the Roman Empire*, 299b-c
+- **53 JAMES:** *The Principles of Psychology*, 551a-b; 673b
+
+**4. The knowledge of space and figures**
+
+**4a. Space as the divine sensorium and space as a transcendental form of intuition: the *a priori* foundations of geometry**
+- **34 NEWTON:** *Mathematical Principles of Natural Philosophy*, BK III, GENERAL SCHOL, 370a-371a / *Optics*, BK III, 529a; 542a-543a
+- **42 KANT:** *The Critique of Pure Reason*, 16a-c; 17d-18d; 23a-26b; 31b-d; 46a-c; 55c-56a; 62a-d; 68a-69c; 86b-c; 87b-c; 94b-95a; 99a-101b; 110a; 131a-c; 135d [fn 2]; 136c-137c [antithesis]; 153c-155a; 186d-187a; 211c-218d esp 211c-212a, 213d-215a / *The Critique of Practical Reason*, 307d-308b; 312c-313d / *The Critique of Judgement*, 471b-c; 551a-553c; 574b-575a
+- **53 JAMES:** *The Principles of Psychology*, 629a-631a; 874a; 876b-878a
+
+**4b. The controversy concerning innate and acquired space-perception**
+- **42 KANT:** *The Critique of Pure Reason*, 23a-24a; 25c-26a; 31d-32c / *The Critique of Practical Reason*, 307d-308b
+- **53 JAMES:** *The Principles of Psychology*, 474a-475a; 627a-635a esp 628b-631a, 633a-635a; 852b-853a; 860b-861a
+
+**4c. The perception of space: differences between visual, auditory, and tactual space; perspective and spatial illusions**
+- **8 ARISTOTLE:** *On Sense and the Sensible*, CH 6 [445b4-18] 683b-d / *On Memory and Reminiscence*, CH 2 [452b7-18] 694b-c
+- **12 LUCRETIUS:** *On the Nature of Things*, BK II [308-332] 19a-b; BK IV [230-255] 47b-c; [269-291] 47d-48a; [353-452] 48d-50a
+- **17 PLOTINUS:** *Second Ennead*, TR VIII 64c-65c
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH XIII, SECT 2 149a; SECT 5 149b-c
+- **35 BERKELEY:** *The Principles of Human Knowledge*, SECT 42-44 420c-421a
+- **53 JAMES:** *The Principles of Psychology*, 318b; 400a; 406b; 410a-b; 471b-479a esp 474a-477b; 540a-635a esp 541a, 548b-552a, 560a-575a, 627a-635a
+
+**5. The mode of existence of geometrical objects: their character as abstractions; their relation to intelligible matter**
+- **7 PLATO:** *Republic*, BK VI, 387b-c; BK VII, 394b-c / *Philebus*, 636b-c / *Seventh Letter*, 809c-810b
+- **8 ARISTOTLE:** *Posterior Analytics*, BK I, CH 13 [79a6-10] 108c; CH 18 [81b3-5] 111b-c / *Topics*, BK VI, CH 6 [143b11-33] 197b-c / *Physics*, BK II, CH 2 [193b23-194a11] 270a-c; BK III, CH 5 [204a17-19] 282a-b; BK IV, CH 1 [208b19-24] 287b-c / *On the Heavens*, BK III, CH 1 [299a1-17] 390b-c / *Metaphysics*, BK I, CH 6 [987b14-19] 505d; CH 8 [989b29-33] 508a; CH 9 [991b9-992a18] 509d-511a; BK III, CH 1 [995b13-18] 514a; [996a13-15] 514c; CH 2 [997b12-998a19] 516b-d; CH 5 [1001b26]-CH 6 [1002b25] 520c-521c; BK VII, CH 2 [1028b18-28] 551a-b; CH 10 [1035b32-1036a12] 559b-c; CH 11 [1036b32-1037a4] 560b-c; BK XI, CH 2 [1060b36-1061a19] 588c-d; CH 3 [1061a29-b4] 589c; BK XII, CH 1 [1069a30-37] 598b; BK XIII, CH 1-3 607a-610a; CH 6 [1080b23-30] 612c; CH 9 616d-618c; BK XIV, CH 3 622d-623d *passim*; CH 5 [1092a18-21] 625a; CH 6 [1093b24-29] 626d / *On the Soul*, BK III, CH 7 [431b3-19] 664b
+- **9 ARISTOTLE:** *On the Motion of Animals*, CH 1 [698a24-b1] 233b-c / *Nicomachean Ethics*, BK VI, CH 8 [1142a16-19] 391b
+- **11 NICOMACHUS:** *Introduction to Arithmetic*, BK I, 811a-812a
+- **18 AUGUSTINE:** *Confessions*, BK X, PAR 19 76a-b
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 5, A 3, REP 4 25a-d; Q 11, A 3, REP 2 49a-c; Q 44, A 1, REP 3 238b-239a; Q 85, A 1, REP 2 451c-453c
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 83, A 2, ANS 976c-978c; A 3, REP 2 978c-980d
+- **31 DESCARTES:** *Rules for the Direction of the Mind*, XIV 28a-33b esp 30d-32a / *Discourse on the Method*, PART IV, 52d-53a / *Meditations on First Philosophy*, I, 76b-c; V, 93a-d; V-VI, 96a-d / *Objections and Replies*, 169c-170a; 217a-d; 218c; 228c-229a
+- **35 LOCKE:** *An Essay Concerning Human Understanding*, BK II, CH XIII, SECT 5-6 149b-d; BK III, CH III, SECT 19 259c-260a; BK IV, CH IV, SECT 5-8 324d-325c
+- **35 BERKELEY:** *The Principles of Human Knowledge*, INTRO, SECT 12-16 408a-409d; SECT 12-16 415b-416a; SECT 123-128 437c-438d esp SECT 125-126 438a-c
+- **35 HUME:** *An Enquiry Concerning Human Understanding*, SECT IV, DIV 20 458a-b; SECT XII, DIV 122 505c-d; DIV 124-125 506a-507a esp DIV 125, 507b [fn 1]
+- **42 KANT:** *The Critique of Pure Reason*, 16a-c; 17d-18d; 24d-25b; 31b-d; 35b-36a; 46a-c; 55c; 62a-d; 68a-69c; 86b-c; 87b-c; 91c-d; 94b-95a; 211c-213c; 217c-d / *The Critique of Practical Reason*, 312c-d / *The Critique of Judgement*, 551a-552c
+- **53 JAMES:** *The Principles of Psychology*, 876b-878a; 880b-881a
+
+**6. The spiritual significance of place, position, and space**
+- **7 PLATO:** *Timaeus*, 455b-c
+- **8 ARISTOTLE:** *On the Heavens*, BK I, CH 3 [270a1-12] 361c-d; BK II, CH 1 375b,d-376a; CH 13 [293a15-b15] 384d-385a
+- **16 COPERNICUS:** *On the Revolutions of the Heavenly Spheres*, BK I, 520b; 526a-528a
+- **16 KEPLER:** *Epitome of Copernican Astronomy*, BK IV, 853b-854a; 857b-860b; 915b-916a / *The Harmonies of the World*, 1080b-1085b
+- **18 AUGUSTINE:** *Confessions*, BK VII, PAR 20-21 49d-50a
+- **19 AQUINAS:** *Summa Theologica*, PART I, Q 3, A 1, REP 5 14b-15b; Q 8, A 1, REP 3 34d-35c; Q 61, A 4 316d-317c; Q 66, A 3 347b-348d; Q 102 523d-527a,c
+- **20 AQUINAS:** *Summa Theologica*, PART III SUPPL, Q 84, A 2, REP 5 984c-985d
+- **21 DANTE:** *The Divine Comedy*, HELL, V [1-15] 7a; VI [77-87] 9a-b; IX [16-33] 12b-c; PURGATORY, IV [1-96] 57c-58c; XVIII [22-33] 80a-b; XX [124]-XXI [72] 84c-85d; PARADISE, I [64-142] 106d-107d; III [34-90] 109d-110b; IV [28-48] 111a; XXVII 148d-150b; XXX-XXXIII 151d-156a
+- **32 MILTON:** *Paradise Lost*, BK II [850-1009] 129b-133a; BK III [523-539] 146b-147a; BK VII [114-130] 234b-235a
+- **33 PASCAL:** *Pensées*, 194, 207b; 205-206 211a
+- **42 KANT:** *The Critique of Practical Reason*, 360d-361d
+- **46 HEGEL:** *The Philosophy of History*, INTRODUCTION, 186c-d
+- **54 FREUD:** *A General Introduction to Psychoanalysis*, 562c-d
+
+---
+## CROSS-REFERENCES
+
+- **For** other discussions of the theory of the receptacle, **see** FORM 1d(1); MATTER 1; WORLD 4b.
+- **For** other discussions of extension as a property of bodies, **see** BEING 7b(4); FORM 2d; MATTER 2a.
+- **For** other discussions of the doctrine of prime matter, **see** BEING 7c(3); CHANGE 2a; FORM 2c(3); INFINITY 4c; MATTER 1a.
+- **For** the role of space or place in local motion, **see** CHANGE 7a; RELATION 6a.
+- **For** discussions bearing on the measurement of space, **see** MATHEMATICS 5a; MECHANICS 3a; QUANTITY 6b-6c.
+- **For** matters relevant to space as a transcendental form of intuition and to the related problem of the foundations of geometry, **see** FORM 1c; MATHEMATICS 1c; MEMORY AND IMAGINATION 6c(2); MIND 1e(1), 4d(3); TIME 6c; and for other discussions bearing on space-perception, **see** QUALITY 2b; SENSE 3c(3).
+- **For** the problem of the mode of being which is possessed by the objects of geometry, **see** BEING 7d(3); IDEA 2g; MATHEMATICS 2a-2b; MATTER 1c.
+- **For** the issue concerning a void or vacuum, and for the related problem of action-at-a-distance, **see** ASTRONOMY 3b; CHANGE 7a; ELEMENT 5c; MECHANICS 5d, 6d(2).
+- **For** other considerations of the infinity or continuity of space, **see** INFINITY 3d; MATHEMATICS 2c; ONE AND MANY 3a(4); QUANTITY 2, 5a; and for discussions of astronomical space and the size of the universe, **see** ASTRONOMY 5, 9c; WORLD 6a, 7.
+- **For** the analysis of geometrical space, spatial relationships and configurations, **see** QUALITY 3b; QUANTITY 3-3c(2).
+- **For** the relation of spiritual being or action to place or space, **see** ANGEL 3f; ASTRONOMY 6; GOD 7g; IMMORTALITY 5g; SOUL 3e, 4d(3).
+
+---
+## ADDITIONAL READINGS
+
+*Listed below are works not included in* Great Books of the Western World, *but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:*
+
+*I. Works by authors represented in this collection.*
+*II. Works by authors not represented in this collection.*
+
+*For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of The Great Ideas.*
+
+**I.**
+
+- DESCARTES. *The Principles of Philosophy*, PART II, 4-19, 21
+- HOBBES. *Concerning Body*, PART II, CH 7
+- HUME. *A Treatise of Human Nature*, BK I, PART II
+- BERKELEY. *An Essay Towards a New Theory of Vision*
+- ———. *Siris*
+- KANT. *On the First Grounds of the Distinction of Regions in Space*
+- ———. *De Mundi Sensibilis atque Intelligibilis Forma et Principiis (Inaugural Dissertation)*
+- ———. *Metaphysical Foundations of Natural Science*
+- JAMES, W. *Collected Essays and Reviews*, XXI
+
+**II.**
+
+- SEXTUS EMPIRICUS. *Against the Physicists*, BK I, CH 1
+- ———. *Outlines of Pyrrhonism*, BK III, CH 1-20
+- SUÁREZ. *Disputationes Metaphysicae*, XXX (7), XXXIX, XL (7), LI-LIII
+- LEIBNIZ. *New Essays Concerning Human Understanding*, BK II, CH 13
+- ———. *Correspondence with Clarke*
+- D’ALEMBERT. *Traité de dynamique*
+- VOLTAIRE. “Space,” in *A Philosophical Dictionary*
+- WHEWELL. *The Philosophy of the Inductive Sciences*, VOL I, BK II, CH 2-6
+- RIEMANN. *Über die Hypothesen, welche der Geometrie zu Grunde liegen (The Hypotheses of Geometry)*
+- HODGSON. *Time and Space*
+- HELMHOLTZ. *Popular Lectures on Scientific Subjects*, II
+- CLIFFORD. *The Common Sense of the Exact Sciences*, CH 2, 4
+- LOTZE. *Metaphysics*, BK II, CH 1-2; BK III, CH 4
+- STALLO. *Concepts and Theories of Modern Physics*, CH 13-15
+- BRADLEY. *Appearance and Reality*, BK I, CH 4; BK II, CH 18
+- HILBERT. *The Foundations of Geometry*
+- MACH. *Space and Geometry in the Light of Physiological, Psychological and Physical Inquiry*
+- POINCARÉ. *Science and Hypothesis*, PART II
+- ———. *The Value of Science*, PART I, CH 3-4
+- ———. *Science and Method*, BK II, CH 1
+- CASSIRER. *Substance and Function*, PART I, CH 3; SUP IV-V
+- YOUNG, J. W. *Lectures on Fundamental Concepts of Algebra and Geometry*, LECT XVI-XVII
+- ROBB, A. *A Theory of Time and Space*
+- WEYL, H. *Space—Time—Matter*
+- ALEXANDER, S. *Space, Time, and Deity*
+- EDDINGTON. *Space, Time, and Gravitation*
+- WHITEHEAD. *The Organization of Thought*, CH 8
+- ———. *An Enquiry Concerning the Principles of Natural Knowledge*, CH 14
+- ———. *The Concept of Nature*, CH 5-6
+- BERGSON. *Time and Free Will*
+- ———. *Durée et simultanéité, à propos de la théorie d’Einstein*, CH 6
+- EINSTEIN. *Relativity: The Special and the General Theory*
+- ———. *Sidelights on Relativity*
+- ———. *The Meaning of Relativity*
+- LEWIS, G. N. *The Anatomy of Science*, ESSAY II
+- SANTAYANA. *The Realm of Matter*, CH 4
+- LENZEN. *The Nature of Physical Theory*, PART II, CH 11
+- BORING. *The Physical Dimensions of Consciousness*, CH 4
+- RUSSELL, B. *An Essay on the Foundations of Geometry*
+- ———. *Principles of Mathematics*, CH 44-52
+- ———. *The Analysis of Matter*, CH 28-29, 32, 36
+- ———. *Human Knowledge, Its Scope and Limits*, PART II, CH 6; PART IV, CH 6-7

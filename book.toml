@@ -1,0 +1,20 @@
+[book]
+title = "Great Books of the Western World"
+authors = ["Various Authors"]
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = ""
+additional-js = ["theme/searcher.js"]
+
+[output.html.search]
+enable = false
+
+[output.html.fold]
+enable = true
+level = 0

@@ -1,0 +1,743 @@
+# Chapter 16: DEMOCRACY
+
+## INTRODUCTION
+
+Of all the traditional names for forms of government, “democracy” has the liveliest currency today. Yet like all the others, it has a long history in the literature of political thought and a career of shifting meanings. How radically the various conceptions of democracy differ may be judged from the fact that, in one of its meanings, democracy flourished in the Greek city-states as early as the fifth century B.C.; while in another, democracy only began to exist in recent times or perhaps does not yet exist anywhere in the world.
+
+In our minds, democracy is inseparably connected with constitutional government. We tend to think of despotism or dictatorship as its only opposites or enemies. That is how the major political issue of our day is understood. But as recently as the 18th century, some of the American constitutionalists preferred a republican form of government to democracy; and at other times, both ancient and modern, oligarchy or aristocracy, rather than monarchy or despotism, is the major alternative. “Democracy” has even stood for the lawless rule of the mob—either itself a kind of tyranny or the immediate precursor of tyranny.
+
+Throughout all these shifts in meaning and value, the word “democracy” preserves certain constant political connotations. Democracy exists, according to Montesquieu, “when the body of the people is possessed of the supreme power.” As the root meaning of the word indicates, democracy is the “rule of the people.” While there may be, and in fact often has been, a difference of opinion with respect to the meaning of “the people,” this notion has been traditionally associated with the doctrine of popular sovereignty, which makes the political community as such the origin and basis of political authority. In the development of the democratic tradition, particularly in modern times, this has been accompanied by the elaboration of safeguards for the rights of man to assure that government actually functions for the people, and not merely for one group of them.
+
+Although they are essential parts of democracy, neither popular sovereignty nor the safeguarding of natural rights provides the specific characteristic of democracy, since both are compatible with any other just form of government. The specifically democratic element is apparent from the fact that throughout the many shifts of meaning which democracy has undergone, the common thread is the notion of political power in the hands of the many rather than the few or the one. Thus at the very beginning of democratic government, we find Pericles calling Athens a democracy because “its administration favours the many instead of the few.” Close to our own day, Mill likewise holds that democracy is “the government of the whole people by the whole people” in which “the majority ... will outvote and prevail.”
+
+According as the many exercise legal power as citizens or merely actual power as a mob, democracy is aligned with or against constitutional government. The quantitative meaning of “many” can vary from more than the few to all or something approximating all, and with this variance the same constitution may be at one time regarded as oligarchical or aristocratic, and at another as democratic. The way in which the many who are citizens exercise their power—either directly or through representatives—occasions the 18th-century distinction between a democracy and a republic, though this verbal ambiguity can be easily avoided by using the phrases “direct democracy” and “representative democracy,” as was sometimes done by the writers of *The Federalist* and their American contemporaries.
+
+These last two points—the extension of the franchise and a system of representation—mark the chief differences between ancient and contemporary institutions of democracy. Today constitutional democracy tends to be representative, and the grant of citizenship under a democratic constitution tends toward universal suffrage. That is why we no longer contrast democracy and republic. That is why even the most democratic Greek constitutions may seem undemocratic—oligarchical or aristocratic—to us.
+
+To the extent that democracy, ancient or modern, is conceived as a lawful form of government, it has elements in common with other forms of lawful government which, for one reason or another, may not be democratic. The significance of these common elements—the principle of constitutionality and the status of citizenship—will be assumed here. They are discussed in the chapters on *CONSTITUTION* and *CITIZEN*. The general theory of the forms of government is treated in the chapter on *GOVERNMENT*, and the two forms most closely related to democracy, in the chapters on *ARISTOCRACY* and *OLIGARCHY*.
+
+***
+
+THE EVALUATIONS of democracy are even more various than its meanings. It has been denounced as an extreme perversion of government. It has been grouped with other good, or other bad, forms of government, and accorded the faint praise of being called either the most tolerable of bad governments or the least efficient among acceptable forms. It has been held up as the political ideal, the only perfectly just state—that paragon of justice which has always been, whether recognized or not, the goal of political progress.
+
+Sometimes the same writer will express divergent views. Plato, for example, in the *Statesman*, claims that democracy has “a twofold meaning” according as it involves “ruling with law or without law.” Finding it “in every respect weak and unable to do either any great good or any great evil,” he concludes that it is “the worst of all lawful governments, and the best of all lawless ones.” The rule of the many is least efficient for either good or evil. But in the *Republic*, he places democracy at only one remove from tyranny. On the ground that “the excessive increase of anything often causes a reaction in the opposite direction,” tyranny is said to “arise naturally out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme form of liberty.”
+
+Similarly, Aristotle, in the *Politics*, calls democracy “the most tolerable” of the three perverted forms of government, in contrast to oligarchy, which he thinks is only “a little better” than tyranny, “the worst of governments.” Yet he also notes that, among existing governments, “there are generally thought to be two principal forms—democracy and oligarchy, . . . and the rest are only variations of these.” His own treatment conforms with this observation. He devotes the central portion of his *Politics* to the analysis of oligarchy and democracy. In his view, they are equal and opposite in their injustice, and to him both seem capable of degenerating into despotism and tyranny.
+
+Among the political philosophers of modern times, a certain uniformity of treatment seems to prevail in the context of otherwise divergent theories. Writers like Hobbes, Locke, and Rousseau, or Machiavelli, Montesquieu, and Kant differ in many and profound respects. But they classify the forms of government in much the same fashion. As Hobbes expresses it, “when the representative is one man, then is the commonwealth a monarchy; when an assembly of all that will come together, then it is a democracy, or popular commonwealth; when an assembly of a part only, then it is called an aristocracy.” Though Hobbes favors monarchy and Montesquieu either aristocracy or democracy, these writers do not make the choice among the three traditional forms a significant expression of their own political theories. For them, the more important choice is presented by other alternatives: for Hobbes between absolute and limited government; for Montesquieu and Locke, between government by law and despotism; for Rousseau and Kant, between a republic and a monarchy.
+
+The authors of *The Federalist* definitely show their preference for “popular government” as opposed to monarchy, aristocracy, or oligarchy. They usually refer to it as a “republic,” by which they mean “a government which derives all its powers directly or indirectly from the great body of the people, and is administered by persons holding their offices during pleasure, for a limited period, or during good behavior.” Alexander Hamilton and others involved in the American constitutional debates, as for example James Wilson, occasionally call this system a “representative democracy,” but in *The Federalist* a republic is sharply differentiated from a democracy. The “great points of difference,” however, turn out to be only “the delegation of the government (in a republic) to a small number of citizens elected by the rest,” and the “greater number of citizens, and greater sphere of country” to which a republic may extend. The difference, as already noted, is best expressed in the words “representative” and “direct” democracy.
+
+In Mill’s *Representative Government* we find democracy identified with the ideal state. “The ideally best form of government,” he writes, “is that in which the sovereignty, or supreme controlling power in the last resort, is vested in the entire aggregate of the community, every citizen not only having a voice in the exercise of that ultimate sovereignty, but being, at least occasionally, called on to take an actual part in the government, by the personal discharge of some public function, local or general.” Though Mill recognizes the infirmities of democracy and though he readily concedes that it may not be the best government for all peoples under all circumstances, his argument for its superiority to all other forms of government remains substantially unqualified.
+
+***
+
+IN MILL'S CONSTRUCTION of the democratic ideal as providing liberty and equality for all, the essential distinction from previous conceptions lies in the meaning of the word *all*. The republicans of the 18th century, in their doctrines of popular sovereignty and natural rights, understood citizenship in terms of equality of status and conceived liberty in terms of a man’s having a voice in his own government. The ancients, seeing that men could be free and equal members of a political community only when they lived as citizens under the rule of law, recognized that the democratic constitution alone bestowed such equality upon all men not born slaves. But generally, neither the ancients nor the 18th-century republicans understood liberty and equality for all men to require the abolition of slavery, the emancipation of women from political subjection, or the eradication of all constitutional discriminations based on wealth, race, or previous condition of servitude.
+
+With Mill, *all* means every human person without regard to the accidents of birth or fortune. “There ought to be no pariahs in a full-grown and civilized nation,” he writes, “no persons disqualified, except through their own default.” Under the latter condition, he would withhold the franchise from infants, idiots, or criminals (including the criminally indigent), but with these exceptions he would make suffrage universal. He sums up his argument by claiming that “it is a personal injustice to withhold from any one, unless for the prevention of greater evils, the ordinary privilege of having his voice reckoned in the disposal of affairs in which he has the same interest as other people,” and whoever “has no vote, and no prospect of obtaining it, will either be a permanent malcontent, or will feel as one whom the general affairs of society do not concern.” But it should be added that for Mill the franchise is not merely a privilege or even a right; “it is,” he says, “strictly a matter of duty.” How the voter uses the ballot “has no more to do with his personal wishes than the verdict of a juryman. ... He is bound to give it according to his best and most conscientious opinion of the public good. Whoever has any other idea of it is unfit to have the suffrage.”
+
+The notion of universal suffrage raises at once the question of the economic conditions prerequisite to the perfection of political democracy. Can men exercise the political freedom of citizenship without freedom from economic dependence on the will of other men? It was commonly thought by 18th-century republicans that they could not. “A power over a man’s subsistence,” Hamilton declares, “amounts to a power over his will.” On that basis, it was urged by many during the Philadelphia convention that a property qualification was necessary for suffrage.
+
+Kant also argues that suffrage “presupposes the independence or self-sufficiency of the individual citizen.” Because apprentices, servants, minors, women, and the like do not maintain themselves, each “according to his own industry, but as it is arranged by others,” he claims that they are “mere subsidiaries of the Commonwealth and not active independent members of it,” being “of necessity commanded and protected by others.” For this reason, he concludes, they are “passive,” not “active,” citizens and can be rightfully deprived of the franchise.
+
+For political democracy to be realized in practice, more may be required than the abolition of poll taxes and other discriminations based on wealth. In the opinion of Karl Marx, the “battle for democracy” will not be won, nor even the “first step” taken towards it, until “the working class raises the proletariat to the position of ruling class.” Quite apart from the merits of the revolutionary political philosophy which Marx erects, his views, and those of other social reformers of the 19th century, have made it a central issue that democracy be conceived in social and economic terms as well as political. Otherwise, they insist, what is called “democracy” will permit, and may even try to condone, social inequalities and economic injustices which vitiate political liberty.
+
+***
+
+THERE IS ONE other condition of equality which the status of citizenship demands. This is equality of educational opportunity. According to Mill, it is “almost a self-evident axiom that the State should require and compel the education, up to a certain standard, of every human being who is born its citizen.” All men may not be endowed with the same native abilities or talents, but all born with enough intelligence to become citizens deserve the sort of education which fits them for the life of political freedom. Quantitatively, this means a system of education as universal as the franchise; and as much for every individual as he can take, both in youth and adult life. Qualitatively, this means liberal education rather than vocational training, though in contemporary controversy this point is still disputed.
+
+The way in which it recognizes and discharges its educational responsibility tests the sincerity of modern democracy. No other form of government has a comparable burden, for no other calls *all* men to citizenship. In such a government, Montesquieu declares, “the whole power of education is required.” Whereas despotism may be preserved by fear and a monarchy by a system of honor, a democracy depends on civic virtue. For where “government is intrusted to private citizens,” it requires “love of the laws and of the country,” and this, according to Montesquieu, is generally “conducive to purity of morals.”
+
+Universal schooling by itself is not sufficient for this purpose. Democracy also needs what Mill calls the “school of public spirit.” It is only by participating in the functions of government that men can become competent as citizens. By engaging in civic activities, a man “is made to feel himself one of the public, and whatever is for their benefit to be for his benefit.” The “moral part of the instruction afforded by the participation of the private citizen, if even rarely, in public functions,” results, according to Mill, in a man’s being able “to weigh interests not his own; to be guided, in case of conflicting claims, by another rule than his private partialities; to apply, at every turn, principles and maxims which have for their reason of existence the common good.” If national affairs cannot afford an opportunity for every citizen to take an active part in government, then that must be achieved through local government, and it is for this reason that Mill advocates the revitalization of the latter.
+
+***
+
+THERE ARE OTHER problems peculiar to modern democracy. Because of the size of the territory and population of the national state, democratic government has necessarily become representative. Representation, according to *The Federalist*, becomes almost indispensable when the people are too large and too dispersed for assembly or for continuous, as well as direct, participation in national affairs. The pure democracy which the Federalists attribute to the Greek city-states may still be appropriate for local government of the town-meeting variety, but for the operations of federal or national government, the Federalists think the republican institutions of Rome a better model to follow.
+
+The Federalists have another reason for espousing representative government. The “mortal disease” of popular government, in their view, is the “violence of faction” which decides measures “not according to the rules of justice and the rights of the minor party, but by the superior force of an interested and overbearing majority.” Believing the spirit of faction to be rooted in the nature of man in society, the American statesmen seek to cure its evil not by “removing its causes,” but by “controlling its effects.” The principle of representation, Madison claims, “promises the cure.”
+
+Representation, by delegating government to a small number of citizens elected by the rest, is said “to refine and enlarge the public views by passing them through the medium of a chosen body of citizens, whose wisdom may best discern the true interest of their country.” From this it appears that representation provides a way of combining popular government with the aristocratic principle of government by the best men.
+
+The assumption that representation would normally secure the advantages of aristocratic government is not unmixed with oligarchical prejudices. If, as the Federalists frankly suppose, the best men are also likely to be men of breeding and property, representative government would safeguard the interests of the gentry, as well as the safety of the republic, against the *demos*—in Hamilton’s words, “that great beast.” Their concern with the evil of factions seems to be colored by the fear of the dominant faction in any democracy—the always more numerous poor.
+
+***
+
+THE LEAVENING OF popular government by representative institutions in the formation of modern democracies raises the whole problem of the nature and function of representatives. To what extent does representation merely provide an instrument which the people employs to express its will in the process of self-government? To what extent is it a device whereby the great mass of the people select their betters to decide for them what is beyond their competence to decide for themselves?
+
+According to the way these questions are answered, the conception of the representative’s function—especially in legislative matters—will vary from that of serving as the mere messenger of his constituents to that of acting independently, exercising his own judgment, and representing his constituents not in the sense of doing their bidding, but only in the sense that he has been chosen by them to decide what is to be done for the common good.
+
+At one extreme, the representative seems to be reduced to the ignominious role of a mouthpiece, a convenience required by the exigencies of time and space. Far from being a leader, or one of the best men, he need not even be a better man than his constituents. At the other extreme, it is not clear why the completely independent representative need even be popularly elected. In Edmund Burke’s theory of virtual representation, occasioned by his argument against the extension of the franchise, even those who do not vote are adequately represented by men who have the welfare of the state at heart. They, no less than voting constituents, can expect the representative to consider what is for their interest, and to oppose their wishes if he thinks their local or special interest is inimical to the general welfare.
+
+Between these two extremes, Mill tries to find a middle course, in order to achieve the “two great requisites of government: responsibility to those for whose benefit political power ought to be, and always professes to be, employed; and jointly therewith to obtain, in the greatest measure possible, for the function of government the benefits of superior intellect, trained by long meditation and practical discipline to that special task.” Accordingly, Mill would preserve some measure of independent judgment for the representative and make him both responsive and responsible to his constituents, yet without directing or restraining him by the checks of initiative, referendum, and recall.
+
+Mill’s discussion of representation leaves few crucial questions unasked, though it may not provide clearly satisfactory answers to all of them. It goes beyond the nature and function of the representative to the problem of securing representation for minorities by the now familiar method of proportional voting. It is concerned with the details of electoral procedure—the nomination of candidates, public and secret balloting, plural voting—as well as the more general question of the differences among the executive, judicial, and legislative departments of government with respect to representation, especially the difference of representatives in the upper and lower houses of a bicameral legislature. Like the writers of *The Federalist*, Mill seeks a leaven for the democratic mass in the leadership of men of talent or training. He would qualify the common sense of the many by the expertness or wisdom of the few.
+
+***
+
+THE ANCIENT ISSUE between the democratic and the oligarchical constitution turns primarily on a question of justice, not on the relative competence of the many and the few to rule. Either form of government may take on a more or less aristocratic cast according as men of eminent virtue or ability assume public office, but in neither case does the constitution itself guarantee their choice, except possibly on the oligarchical assumption that the possession of wealth signifies superior intelligence and virtue.
+
+The justice peculiar to the democratic constitution, Aristotle thinks, “arises out of the notion that those who are equal in any respect are equal in all respects; because men are equally free, they claim to be absolutely equal.” It does not seem to him inconsistent with democratic justice that slaves, women, and resident aliens should be excluded from citizenship and public office.
+
+In the extreme form of Greek democracy, the qualifications for public office are no different from the qualifications for citizenship. Since they are equally eligible for almost every governmental post, the citizens can be chosen by lot rather than elected by vote. Rousseau agrees with Montesquieu’s opinion of the Greek practice, that “election by lot is democratic in nature.” He thinks it “would have few disadvantages in a real democracy, but,” he adds, “I have already said that a real democracy is only an ideal.”
+
+The justice peculiar to the oligarchical constitution is, according to Aristotle, “based on the notion that those who are unequal in one respect are in all respects unequal; being unequal, that is, in property, they suppose themselves to be unequal absolutely.” The oligarchical constitution consequently does not grant citizenship or open public office to all the freeborn, but in varying degrees sets a substantial property qualification for both.
+
+Though he admits that the opposite claims of the oligarch and the democrat “have a kind of justice,” Aristotle also points out the injustice of each. The democratic constitution, he thinks, does injustice to the rich by treating them as equal with the poor simply because both are freeborn, while the oligarchical constitution does injustice to the poor by failing to treat all free men, regardless of wealth, as equals. “Tried by an absolute standard,” Aristotle goes on to say, “they are faulty, and, therefore, both parties, whenever their share in the government does not accord with their preconceived ideas, stir up a revolution.”
+
+Plato, Thucydides, and Plutarch, as well as Aristotle, observe that this unstable situation permits a demagogue or dynast to encourage lawless rule by the mob or by a coterie of the rich. Either paves the way to tyranny.
+
+To stabilize the state and to remove injustice, Aristotle proposes a mixed constitution which, by a number of different methods, “attempts to unite the freedom of the poor and the wealth of the rich.” In this way he hopes to satisfy the two requirements of good government. “One is the actual obedience of citizens to the laws, the other is the goodness of the laws which they obey.” By participating in the making of laws, all free men, the poor included, would be more inclined to obey them. But since the rich are also given a special function, there is, according to Aristotle, the possibility of also getting good laws passed, since “birth and education are commonly the accompaniments of wealth.”
+
+To Aristotle the mixed constitution is perfectly just, and with an aristocratic aspect added to the blend, it approaches the ideal polity. Relative to certain circumstances it has “a greater right than any other form of government, except the true and ideal, to the name of the government of the best.”
+
+Yet the true and the ideal, or what he sometimes calls the “divine form of government,” seems to be monarchy for Aristotle, or rule by the one superior man; and in his own sketch of the best constitution at the end of the *Politics*—the best practicable, if not the ideal—Aristotle clearly opposes admitting all the laboring classes to citizenship.
+
+***
+
+AS INDICATED IN the chapter on *CONSTITUTION*, Aristotle’s mixed constitution should be distinguished from the medieval mixed regime, which was a combination of constitutional with non-constitutional or absolute government, rather than a mixture of different constitutional principles. The mixed regime—or “royal and political government”—seems to have come into being not as an attempt to reconcile conflicting principles of justice, but as the inevitable product of a decaying feudalism and a rising nationalism. Yet Aquinas claims that a mixed regime was established by divine law for the people of Israel; for it was “partly kingdom, since there is one at the head of all; partly aristocracy, in so far as a number of persons are set in authority; partly democracy, i.e., government by the people, in so far as the rulers can be chosen from the people, and the people have the right to choose their rulers.” In such a system, the monarchical principle is blended with aristocratic and democratic elements to whatever extent the nobles and the commons play a part in the government. But neither group functions politically as citizens do under purely constitutional government.
+
+The question of constitutional justice can, however, be carried over from ancient to modern times. Modern democracy answers it differently, granting equality to all men on the basis of their being born human. It recognizes in wealth or breeding no basis for special political preferment or privilege. By these standards, the mixed constitution and even the most extreme form of Greek democracy must be regarded as oligarchical in character by a writer like Mill.
+
+Yet Mill, no less than Aristotle, would agree with Montesquieu’s theory that the rightness of any form of government must be considered with reference to the “humor and disposition of the people in whose favor it is established.” The constitution and laws, Montesquieu writes, “should be adapted in such a manner to the people for whom they are framed that it would be a great chance if those of one nation suit another.”
+
+Mill makes the same point somewhat differently when he says, “the ideally best form of government ... does not mean one which is practicable or eligible in all states of civilization.” But although he is willing to consider the forms of government in relation to the historic conditions of a people, not simply by absolute standards, Mill differs sharply from Montesquieu and Aristotle in one very important respect. For him, as we have seen, representative democracy founded on universal suffrage is, absolutely speaking, the only truly just government—the only one perfectly suited to the nature of man. Peoples whose accidental circumstances temporarily justify less just or even unjust forms of government, such as oligarchy or despotism, must not be forever condemned to subjection or disfranchisement, but should rather be raised by education, experience, and economic reforms to a condition in which the ideal polity becomes appropriate for them.
+
+***
+
+THE BASIC PROBLEMS of democratic government—seen from the point of view of those who either attack or defend it—remain constant despite the altered conception of democracy in various epochs.
+
+At all times, there is the question of leadership and the need for obtaining the political services of the best men without infringing on the political prerogatives of all men. The difference between the many and the few, between the equality of men as free or human and their individual inequality in virtue or talent, must always be given political recognition, if not by superiority in status, then by allocation of the technically difficult problems of statecraft to the expert or specially competent, with only certain broad general policies left to the determination of a majority vote. Jefferson and Mill alike hope that popular government may abolish privileged classes without losing the benefits of leadership by peculiarly gifted individuals. The realization of that hope, Jefferson writes Adams, depends on leaving “to the citizens the free election and separation of the *aristoi* from the pseudo-*aristoi*, of the wheat from the chaff.”
+
+At all times there is the danger of tyranny by the majority and, under the threat of revolution, the rise of a demagogue who uses mob rule to establish a dictatorship. Hobbes phrases this peculiar susceptibility of democracy to the mischief of demagogues by saying of popular assemblies that they “are as subject to evil counsel, and to be seduced by orators, as a monarch by flatterers,” with the result that democracy tends to degenerate into government by the most powerful orator.
+
+The democratic state has seldom been tempted to undertake the burdens of empire without suffering from a discordance between its domestic and its foreign policy. Again and again, Thucydides describes the efforts of the Athenians to reconcile their imperialism abroad with democracy at home.
+
+In his oration at the end of the first year of the Peloponnesian war, Pericles praises the democracy of Athens and at the same time celebrates the might of her empire. “It is only the Athenians,” he says, “who, fearless of consequences, confer their benefits not from calculations of expediency, but in the confidence of liberality.” But four years later, after the revolt of Mitylene, Cleon speaks in a different vein. Thucydides describes him as being “at that time by far the most powerful with the commons.” He tells his fellow citizens of democratic Athens that he has “often before now been convinced that a democracy is incapable of empire,” but “never more so than by your present change of mind in the matter of Mitylene.” He urges them to return to their earlier decision to punish the Mitylenians, for, he says, if they reverse that decision they will be “giving way to the three failings most fatal to empire—pity, sentiment, and indulgence.”
+
+Diodotus, who in this debate recommends a policy of leniency, does not do so in the “confidence of liberality” which Pericles had said was the attitude of a democratic state toward its dependencies. “The question is not of justice,” Diodotus declares, “but how to make the Mitylenians useful to Athens. ... We must not,” he continues, “sit as strict judges of the offenders to our own prejudice, but rather see how by moderate chastisements we may be enabled to benefit in the future by the revenue-producing powers of our dependencies. ... It is far more useful for the preservation of our empire,” he concludes, “voluntarily to put up with injustice, than to put to death, however justly, those whom it is our interest to keep alive.”
+
+Twelve years later, Alcibiades, no democrat himself, urges the Athenians to undertake the Sicilian expedition by saying, “we cannot fix the exact point at which our empire shall stop; we have reached a position in which we must not be content with retaining but must scheme to extend it, for, if we cease to rule others, we are in danger of being ruled ourselves.” In the diplomatic skirmishes which precede the invasion of Sicily, Hermocrates of Syracuse tries to unite the Sicilian cities so that they may escape “disgraceful submission to an Athenian master.” The Athenian ambassador, Euphemus, finds himself compelled to speak at first of “our empire and of the good right we have to it”; but he soon finds himself frankly confessing that “for tyrants and imperial cities nothing is unreasonable if expedient.”
+
+The denouement of the Peloponnesian war, and especially of the Syracusan expedition, is the collapse of democracy, not through the loss of empire but as a result of the moral sacrifices involved in trying to maintain or increase it. Tacitus, commenting on the decay of republican institutions with the extension of Rome’s conquests, underlines the same theme. It is still the same theme when the problems of British imperialism appear in Mill’s discussion of how a democracy should govern its colonies or dependencies.
+
+The incompatibility of empire with democracy is one side of the picture of the democratic state in external affairs. The other side is the tension between democratic institutions and military power or policy—in the form of standing armies and warlike maneuvers. The inefficiency traditionally attributed to democracy under peaceful conditions does not, from all the evidences of history, seem to render democracy weak or pusillanimous in the face of aggression.
+
+The deeper peril for democracy seems to lie in the effect of war upon its institutions and on the morality of its people. As Hamilton writes in *The Federalist*: “The violent destruction of life and property incident to war, the continual effort and alarm attendant on a state of continual danger, will compel nations the most attached to liberty to resort for repose and security to institutions which have a tendency to destroy their civil and political rights. To be more safe, they at length become willing to run the risk of being less free.”
+
+## OUTLINE OF TOPICS
+
+1.  Conceptions of democracy: the comparison of democracy with other forms of government
+2.  The derogation of democracy: the anarchic tendency of freedom and equality
+    *   2a. Lawless mob-rule: the tyranny of the majority
+    *   2b. The incompetence of the people and the need for leadership: the superiority of monarchy and aristocracy
+3.  The acceptance of democracy as one of several good forms of government
+    *   3a. Comparison of democratic and oligarchic justice: the mixed constitution as a compromise between the interests of the poor and rich
+    *   3b. Comparison of the political wisdom of the many and the few: the mixed regime as including both
+    *   3c. Comparison of democracy, aristocracy, and monarchy with respect to efficiency
+4.  The praise of democracy: the ideal state
+    *   4a. Liberty and equality for all under law
+        *   (1) Universal suffrage: the abolition of privileged classes
+        *   (2) The problem of economic justice: the choice between capitalism and socialism
+    *   4b. The democratic realization of popular sovereignty: the safeguarding of natural rights
+    *   4c. The infirmities of democracy in practice and the reforms or remedies for these defects
+    *   4d. The suitability of democratic constitutions to all men under all circumstances: conditions favorable to democracy; progress toward democracy
+5.  Democracy and representative government
+    *   5a. The distinction between direct democracy and representative, or republican, government: the territorial limits of democracy
+    *   5b. The theory of representation
+        *   (1) Majority rule and minority or proportional representation
+        *   (2) Ultimate limitations on the franchise
+        *   (3) Methods of election and voting
+        *   (4) The role of political parties: factions
+    *   5c. The distribution of functions and powers: checks and balances in representative democracy
+6.  The educational task of democracy: the training of all citizens
+7.  The growth and vicissitudes of democracy
+    *   7a. Demagoguery and the danger of revolution
+    *   7b. The dangers of imperialism: the treatment of dependencies
+    *   7c. The challenge of war and peace: the citizen army
+
+## REFERENCES
+
+*To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4** Homer: *Iliad*, BK II [265-283] 12d, the number **4** is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12.*
+
+*Page Sections: When the text is printed in one column, the letters a and b refer to the upper and lower halves of the page. For example, in **53** James: *Psychology*, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters a and b refer to the upper and lower halves of the left-hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of the page. For example, in **7** Plato: *Symposium*, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.*
+
+*Author’s Divisions: One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., *Iliad*, BK II [265-283] 12d.*
+
+*Bible References: The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows, e.g., OLD TESTAMENT: Nehemiah, 7:45—(D) II Esdras, 7:46.*
+
+*Symbols: The abbreviation “esp” calls the reader’s attention to one or more especially relevant parts of a whole reference; “passim” signifies that the topic is discussed intermittently rather than continuously in the work or passage cited.*
+
+*For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of The Great Ideas, consult the Preface.*
+
+**1. Conceptions of democracy: the comparison of democracy with other forms of government**
+
+**5** Euripides: *Suppliants* [399-462] 261d-262b
+**6** Herodotus: *History*, BK III, 107c-108c
+**6** Thucydides: *Peloponnesian War*, BK II, 395d-399a esp 396c-d
+**7** Plato: *Republic*, BK I, 301c-d; BK VIII, 408b-413d / *Statesman*, 598b-604b esp 603d-604b / *Laws*, BK III, 667c-676b esp 672d-676b; BK IV, 679c-682c; BK VI, 699d-700c; BK VIII, 733d-734a
+**9** Aristotle: *Politics*, BK III, CH 1, 471b,d-472c; CH 6 [1278b7-14] 475d; CH 7-8 476c-477c; BK IV, CH 2-6 488b-493a; CH 11-12 495b-497b; CH 16 [1301a10-15] 502c; BK V, CH 1 502a-503b; BK VI, CH 1-6 520a-524c / *Rhetoric*, BK I, CH 8 608a-c
+**14** Plutarch: *Lycurgus-Numa*, 62b-c / *Solon*, 70d-71c
+**20** Aquinas: *Summa Theologica*, PART I-II, Q 95, A 4, ANS 229b-230c; Q 105, A 1, ANS 307d-309d
+**23** Hobbes: *Leviathan*, PART II, 104b-106d; 114b-115a; 150c-151a; 154b-c; PART III, 228b; PART IV, 273a-b
+**35** Locke: *Civil Government*, CH I 25d-28c; CH IV, SECT 21 29d; CH VII, SECT 87-89 44a-d; CH VIII 46c-53c passim; CH X, SECT 132 55a-b; CH XI 55b-58b passim; CH XIII, SECT 149 59b-d
+**38** Montesquieu: *Spirit of Laws*, BK II-III 4a-13d esp BK II, 4a-6b, BK III, 9b-10c; BK V, 18d-25a; 31b-33a,c; BK VI, 34d-35c; BK VII, 44d-45b; 47c-48a; BK VIII, 51a-52c; BK IX, 59c; BK XI, 68b,d-69c
+**38** Rousseau: *Inequality*, 359a-b / *Social Contract*, BK II, 391a-393c; BK III, 395a-398b; BK IV, 410b-411c; 413c; 420a-424d
+**41** Gibbon: *Decline and Fall*, 81d
+**42** Kant: *Pure Reason*, 114b-d / *Science of Right*, 436c-d; 445a-c; 450a-452a esp 450a-d
+**43** FEDERALIST: NUMBER 9, 47a-48d; NUMBER 10, 51c-53a; NUMBER 14, 60a-61b; NUMBER 39, 125b-126b; NUMBER 48, 157c; NUMBER 63, 193d-194a
+**43** Mill: *Liberty*, 267d-268c / *Representative Government* 327a-442d passim, esp 341d-350a, 355b-356a, 366c-367a, 370a-372b
+**46** Hegel: *Philosophy of Right*, PART III, PAR 273 90c-92a; PAR 279, 93d-94c / *Philosophy of History*, INTRO, 172d-175c; PART II, 271c-274a esp 271d-272d, 273d-274a; 275b-276d
+**48** Melville: *Moby Dick*, 84b-85a
+**50** Marx-Engels: *Communist Manifesto*, 428d-429c
+
+---
+**2. The derogation of democracy: the anarchic tendency of freedom and equality**
+
+**5** Euripides: *Suppliants* [399-425] 261d-262a
+**6** Herodotus: *History*, BK III, 107c-108c
+**6** Thucydides: *Peloponnesian War*, BK VI, 533a-c
+**7** Plato: *Republic*, BK VIII, 408b-414b / *Laws*, BK III, 674c-676b; BK IV, 681b-682c; BK VIII, 733d-734a
+**9** Aristotle: *Ethics*, BK VIII, CH 10 [1161a7-9] 413b / *Politics*, BK IV, CH 2 [1289b35-11] 488b-c; CH 4 [1292a4-37] 491b-d; CH 6 [1292b40-1293a9] 492c; BK V, CH 9 [1310a25-36] 512c; CH 11 [1313b33-1314a1] 516c; BK VI, CH 4 [1319b2-32] 523a-b / *Athenian Constitution*, CH 28 565c-566b
+**14** Plutarch: *Dion*, 800c
+**23** Hobbes: *Leviathan*, PART II, 114b-115a; 150c-151a; PART IV, 273a-b
+**35** Locke: *Civil Government*, CH IV, SECT 21 29d; CH VI, SECT 57, 37a-b
+**38** Montesquieu: *Spirit of Laws*, BK III, 10a; BK VIII, 51a-52c; BK XI, 68b,d-69c
+**38** Rousseau: *Social Contract*, BK IV, 424b
+**43** FEDERALIST: NUMBER 10, 51c-d
+**43** Mill: *Liberty*, 298b-299a / *Representative Government*, 354b-355b; 387b-c; 403d
+**44** Boswell: *Johnson*, 125c-d; 127b-c; 211b-c
+**46** Hegel: *Philosophy of Right*, PART III, PAR 301 100b-101a; PAR 308 102c-103a / *Philosophy of History*, INTRO, 175b-c; PART IV, 366c-367a
+**50** Marx-Engels: *Communist Manifesto*, 431c
+
+*   **2a. Lawless mob-rule: the tyranny of the majority**
+    **5** Euripides: *Suppliants* [409-427] 261d-262a
+    **6** Herodotus: *History*, BK III, 108a
+    **6** Thucydides: *Peloponnesian War*, BK VI, 525a-b; 533a-c
+    **7** Plato: *Republic*, BK VIII, 411d-412d / *Statesman*, 598b-604b esp 603d-604b / *Laws*, BK III, 675c-676b; BK IV, 681b-682c
+    **9** Aristotle: *Politics*, BK III, CH 12 [1274a5-14] 470c-d; BK III, CH 10 [1281a11-28] 478d-479a; CH 11 [1281b39-1282a41] 479d-480b; BK IV, CH 4 [1292a4-37] 491b-d; CH 6 [1292b40-1293a9] 492c; BK V, CH 9 [1310a25-36] 512c; CH 10 [1312b40-8] 514d-515a; BK VI, CH 4 [1319b2-32] 523a-b
+    **14** Plutarch: *Agis*, 648b,d-649b
+    **23** Hobbes: *Leviathan*, PART II, 114d-115a; PART IV, 273b
+    **26** SHAKESPEARE: *2 Henry VI*, ACT IV, SC VI-VIII 61a-63b
+    **27** SHAKESPEARE: *Coriolanus*, ACT I, SC I [1-225] 351a-353d; ACT III, SC I [140-161] 370d-371a
+    **33** Pascal: *Pensées*, 878 345a-b
+    **38** Montesquieu: *Spirit of Laws*, BK III, 10a; BK VI, 35c-36a; BK VIII, 51a-52c
+    **38** Rousseau: *Social Contract*, BK III, 419b
+    **40** Gibbon: *Decline and Fall*, 14b
+    **41** Gibbon: *Decline and Fall*, 73b-c; 94d
+    **43** FEDERALIST: NUMBER 9, 47a-c; NUMBER 10, 50b-d; NUMBER 22, 84c-d; NUMBER 51, 164a-165a; NUMBER 58, 181b-c; NUMBER 63, 192c-193a
+    **43** Mill: *Liberty*, 268d-271c; 298b-299a; 302b-c / *Representative Government*, 366c-380b passim, esp 376b-c; 406c-d
+    **44** Boswell: *Johnson*, 260b; 422c
+    **46** Hegel: *Philosophy of Right*, PART III, PAR 303 101c-102a; ADDITIONS, 180 148b / *Philosophy of History*, INTRO, 172d-173a; PART III, 300a-b; PART IV, 365a
+
+*   **2b. The incompetence of the people and the need for leadership: the superiority of monarchy and aristocracy**
+    **5** Euripides: *Suppliants* [399-462] 261d-262b
+    **5** Aristophanes: *Knights* 470a-487a,c
+    **6** Herodotus: *History*, BK III, 107c-108c
+    **6** Thucydides: *Peloponnesian War*, BK III, 425a-d; BK V, 504c-505a; BK VI, 520b-c; 533a-c
+    **7** Plato: *Republic*, BK IV, 346c-347a; BK VI, 375d-376c; BK VIII, 409a-d; 411d-414b / *Statesman*, 598b-604b / *Laws*, BK III, 674d-676b
+    **9** Aristotle: *Politics*, BK III, CH 9 [1270b7-17] 466d; BK III, CH 10-13 478d-483a; CH 15 [1286a22-8] 484c-d / *Athenian Constitution*, CH 28 565c-566b
+    **12** Aurelius: *Meditations*, BK XI, SECT 23 306a
+    **14** Plutarch: *Lycurgus*, 34d / *Lycurgus-Numa*, 62b-64a,c / *Agis*, 648b,d-649b / *Dion*, 792d-802a,c esp 800c
+    **23** Hobbes: *Leviathan*, PART I, 94b-c; PART II, 104d-106d; 129b-130a; 152b-c; PART IV, 273a-b
+    **25** Montaigne: *Essays*, 147b-148a
+    **26** SHAKESPEARE: *Julius Caesar*, ACT I, SC I-II 568b,d-572c
+    **27** SHAKESPEARE: *Coriolanus*, ACT I, SC I [1-225] 351a-353d; ACT II, SC I [1-106] 361a-362a; ACT III, SC I [140-161] 370d-371a; ACT IV, SC VI [74-156] 383a-384a
+    **31** Descartes: *Discourse*, PART II, 44d-45a
+    **33** Pascal: *Pensées*, 878 345a-b
+    **35** Locke: *Civil Government*, CH XIX, SECT 223 76c-d
+    **38** Montesquieu: *Spirit of Laws*, BK II, 4d-5a; BK III, 10c-d; BK V, 25c-d; BK VIII, 51a-52c; BK XI, 71a-c; 72b; BK XIX, 142c-143a
+    **38** Rousseau: *Social Contract*, BK III, 401c-d; BK IV, 411a; 412a
+    **40** Gibbon: *Decline and Fall*, 68b,d-69a
+    **42** Kant: *Science of Right*, 450a-d
+    **43** FEDERALIST: NUMBER 55, 172d-173a; NUMBER 58, 181b-c; NUMBER 63, 192c-d
+    **43** Mill: *Liberty*, 298b-299a; 319d-323a,c passim / *Representative Government*, 353b-354b; 363b-366a; 375a-377a
+    **44** Boswell: *Johnson*, 86a-b; 172d-173a; 178a-c; 220a-d; 414c; 422c
+    **46** Hegel: *Philosophy of Right*, PART III, PAR 281 95b-d; PAR 308 102c-103a; PAR 317-318 104d-105b; ADDITIONS, 186 149b / *Philosophy of History*, INTRO, 173a-175c; PART II, 272c-273a; PART III, 300a-301c
+
+---
+**3. The acceptance of democracy as one of several good forms of government**
+
+**6** Herodotus: *History*, BK III, 107c-108c
+**7** Plato: *Statesman*, 600c-604b esp 603d-604b
+**9** Aristotle: *Politics*, BK III, CH 1, 471b,d-472c; CH 6 [1278b6-14] 475d; CH 7-8 476c-477c; CH 11 479b-480c; BK IV, CH 11-12 495b-497b / *Rhetoric*, BK I, CH 8 608a-c
+**20** Aquinas: *Summa Theologica*, PART I-II, Q 95, A 4, ANS 229b-230c; Q 105, A 1, ANS 307d-309d
+**23** Hobbes: *Leviathan*, PART II, 154b-c; PART III, 228b; PART IV, 273a-b
+**35** Locke: *Civil Government*, CH X, SECT 132 55a-b
+**38** Montesquieu: *Spirit of Laws*, BK II, 4a-6b; BK III, 9b-10c
+**38** Rousseau: *Inequality*, 359a-b / *Social Contract*, BK III, 410b-411c
+**42** Kant: *Science of Right*, 450a-d
+**43** FEDERALIST: NUMBER 10, 51c-53a; NUMBER 14, 60a-d; NUMBER 39, 125b-126b
+**46** Hegel: *Philosophy of Right*, PART III, PAR 273 90c-92a / *Philosophy of History*, INTRO, 173a-175c; PART II, 271c-274a passim
+
+*   **3a. Comparison of democratic and oligarchic justice: the mixed constitution as a compromise between the interests of the poor and rich**
+    **5** Euripides: *Suppliants* [399-462] 261d-262b
+    **6** Thucydides: *Peloponnesian War*, BK II, 396b-c; BK VI, 520a-d; BK VIII, 575d-576b; 590a-b
+    **7** Plato: *Laws*, BK IV, 681b-682c; BK VI, 699d-700b
+    **9** Aristotle: *Politics*, BK II, CH 6 [1265b26-1266a30] 461b-d; BK III, CH 8-13 477a-483a; BK IV, CH 3 [1289b26]-CH 4 [1290a21] 488d-489d; CH 8-9 493c-494d; CH 11-12 495b-497b; BK IV, CH 14-BK V, CH 1 498b-503b; BK VI, CH 2 [1318a4]-CH 3 [1318b5] 521b-522a
+    **14** Plutarch: *Lycurgus*, 34d-35d / *Solon*, 70d-71c / *Dion*, 800c
+    **23** Hobbes: *Leviathan*, PART II, 156b-c
+    **38** Montesquieu: *Spirit of Laws*, BK II, 5b-c; BK XI, 71d-72b
+    **38** Rousseau: *Social Contract*, BK IV, 412b-c
+    **40** Gibbon: *Decline and Fall*, 90d-91a
+    **41** Gibbon: *Decline and Fall*, 81d; 94c-95b; 96b-d; 403b-404d
+    **43** FEDERALIST: NUMBER 54, 171b-172b; NUMBER 57 176d-179b passim
+    **43** Mill: *Representative Government*, 384a-387d
+    **46** Hegel: *Philosophy of History*, PART II, 275b-276a
+    **50** Marx-Engels: *Communist Manifesto*, 432b-d
+
+*   **3b. Comparison of the political wisdom of the many and the few: the mixed regime as including both**
+    **5** Euripides: *Suppliants* [399-462] 261d-262b
+    **6** Herodotus: *History*, BK III, 107c-108c; BK V, 180c-d
+    **6** Thucydides: *Peloponnesian War*, BK III, 425a-d; BK VI, 520a-d
+    **7** Plato: *Crito* 213a-219a,c esp 213a-215d / *Republic*, BK IV, 346c-347a; BK VI, 375d-376c; 377a-379c / *Statesman*, 598b-604b / *Laws*, BK III, 674d-676b
+    **9** Aristotle: *Politics*, BK III, CH 10-13 478d-483a; CH 15 [1286a7-8] 484b-d; CH 16 [1287b8-36] 486a-c
+    **14** Plutarch: *Lycurgus*, 34d-35d / *Agis*, 648b,d-649a / *Dion*, 800c
+    **20** Aquinas: *Summa Theologica*, PART I-II, Q 95, A 4, ANS 229b-230c; Q 105, A 1, ANS and REP I-2 307d-309d
+    **23** Hobbes: *Leviathan*, PART II, 105d-106b; 129b-130a
+    **25** Montaigne: *Essays*, 303c-304a
+    **27** SHAKESPEARE: *Coriolanus* 351a-392a,c
+    **31** Descartes: *Discourse*, PART II, 44d-45a
+    **35** Locke: *Civil Government*, CH XIX, SECT 223 76c-d; SECT 240-242 81b-d
+    **38** Montesquieu: *Spirit of Laws*, BK II, 4d-5a; BK XI, 71a-c; BK XIX, 145c-d
+    **38** Rousseau: *Political Economy*, 369c-d / *Social Contract*, BK III, 411d-412a; 413c; 414d-415b; BK IV, 427a-428a passim
+    **41** Gibbon: *Decline and Fall*, 94c-95b
+    **43** FEDERALIST: NUMBER 3, 33b; NUMBER 10, 51d-52a; NUMBER 40, 130d-132a; NUMBER 49-50 159b-162c passim; NUMBER 55, 172d-173a; NUMBER 57 176d-179b passim; NUMBER 58, 181b-c; NUMBER 63, 192c-193a; NUMBER 68, 205b-d; NUMBER 71, 214d-215a; NUMBER 76, 227a
+    **43** Mill: *Liberty*, 298b-299a; 319d-323a,c passim / *Representative Government*, 353b-354b; 356b-362c passim; 363b-366a; 374c-377a; 384a-387d; 401a-406a passim, esp 402b-c; 407d-409c; 410d-412a
+    **44** Boswell: *Johnson*, 86a-b
+    **46** Hegel: *Philosophy of Right*, PART III, PAR 281 95b-d; PAR 297 99b; PAR 301 100b-101a; PAR 308 102c-103a; PAR 317-318 104d-105b; ADDITIONS, 186 149b
+
+*   **3c. Comparison of democracy, aristocracy, and monarchy with respect to efficiency**
+    **6** Herodotus: *History*, BK III, 107c-108c
+    **7** Plato: *Statesman*, 603d-604b / *Laws*, BK IV, 679b-680c; BK VI, 699d-700c
+    **9** Aristotle: *Politics*, BK III, CH 11-13 479b-483a; CH 15-18 484b-487a,c; BK IV, CH 11 495b-496d
+    **15** Tacitus: *Annals*, BK I, 4d-5b
+    **23** Hobbes: *Leviathan*, PART II, 104d-106d; 107d-108a; 129b-130a
+    **38** Montesquieu: *Spirit of Laws*, BK III, 10c-d; BK V, 25c-d; BK XI, 72b
+    **38** Rousseau: *Social Contract*, BK III, 411d-412a
+    **42** Kant: *Science of Right*, 450b-c
+    **43** FEDERALIST: NUMBER 37, 118d-119b; NUMBER 70, 210c-211a
+    **43** Mill: *Representative Government*, 344a-d; 363b-366a
+
+---
+**4. The praise of democracy: the ideal state**
+
+**5** Euripides: *Suppliants* [399-462] 261d-262b
+**6** Herodotus: *History*, BK III, 107c-d; BK V, 175b; BK VII, 238b-c
+**6** Thucydides: *Peloponnesian War*, BK II, 395d-399a esp 396c-397c; BK VI, 520a-d
+**7** Plato: *Republic*, BK VIII, 408b-413d
+**9** Aristotle: *Politics*, BK III, CH 11-12 479b-481b; BK IV, CH 11-12 495b-497b
+**14** Plutarch: *Lycurgus-Numa*, 62b-c
+**23** Hobbes: *Leviathan*, PART II, 114b-115a; 150c-151a
+**35** Locke: *Civil Government*, CH XIX, SECT 223 76c-d; SECT 240-242 81b-d
+**38** Montesquieu: *Spirit of Laws*, BK II, 4c-5a; BK III, 9b-10c
+**38** Rousseau: *Inequality*, 323a-328a,c passim / *Social Contract*, BK IV, 411a-c; BK IV, 427d
+**42** Kant: *Pure Reason*, 114b-d / *Science of Right*, 450d-452a / *Judgement*, 586a-587a
+**43** FEDERALIST: NUMBER 10 49c-53a; NUMBER 14, 60c-d; NUMBER 39, 125b-126b; NUMBER 46, 150c; NUMBER 55, 174c-d
+**43** Mill: *Representative Government*, 341d-350a esp 344d, 350a
+**46** Hegel: *Philosophy of History*, PART II, 276a-d
+**48** Melville: *Moby Dick*, 84b-85a
+
+*   **4a. Liberty and equality for all under law**
+    **5** Euripides: *Suppliants* [399-462] 261d-262b
+    **6** Herodotus: *History*, BK III, 107c-108d; BK VII, 232d-233d
+    **6** Thucydides: *Peloponnesian War*, BK II, 396c-d; BK VI, 520a-d
+    **7** Plato: *Laws*, BK III, 674c-676c; BK IV, 681b-682c; BK VI, 699d-700c
+    **9** Aristotle: *Ethics*, BK V, CH 6 [1134a24-b17] 382a-c / *Politics*, BK III, CH 1 471b,d-472c; CH 6 [1278b30-1279a22] 476a-c; CH 8-13 477a-483a passim; CH 16-17 485b-487a passim; BK IV, CH 4 [1291b30-38] 491a-b; CH 14 [1298a4-34] 498b-d; BK V, CH 1 502a-503b; CH 8 [1308a10-25] 510a-b; CH 9 [1310a25-36] 512c; BK VI, CH 2 520d-521b
+    **12** Aurelius: *Meditations*, BK I, SECT 14 254b-c
+    **14** Plutarch: *Lycurgus*, 36a-37b
+    **15** Tacitus: *Annals*, BK XI, 132a-c
+    **23** Machiavelli: *Prince*, CH V 8a-c
+    **23** Hobbes: *Leviathan*, PART I, 94b-d; PART II, 113c-116b; 150c-151a; 156b-c; PART IV, 273a-c
+    **35** Locke: *Civil Government*, CH IV, SECT 21 29d; CH VI, SECT 54-57 36c-37b; CH VII, SECT 87-94 44a-46c; CH XI, SECT 136-139 56c-58a; SECT 142 58b
+    **38** Montesquieu: *Spirit of Laws*, BK V, 19a-21a; BK VI, 34d; BK VIII, 51a-52c; BK XI, 68b,d-69c
+    **38** Rousseau: *Inequality*, 359a-b / *Social Contract*, BK II, 396d-398b; 405a-c; BK IV, 427d
+    **40** Gibbon: *Decline and Fall*, 14b
+    **41** Gibbon: *Decline and Fall*, 81d
+    **42** Kant: *Pure Reason*, 114b-d / *Science of Right*, 398c-399c; 400b,d-402a,c; 408c-409c; 436c-d; 438d-439a; 450d-452a esp 451b-c / *Judgement*, 586a-587a
+    **43** DECLARATION OF INDEPENDENCE: [7-28] 1a-b passim
+    **43** ARTICLES OF CONFEDERATION: IV [17-36] 5b-c
+    **43** CONSTITUTION OF THE U.S.: PREAMBLE 11a,c; ARTICLE IV, SECT 2 [519-521] 16a; AMENDMENTS, I-X 17a-18a; XIII, SECT I-XIV, SECT 2 18c-19a; XV 19b; XIX 19d
+    **43** FEDERALIST: NUMBER 26 92a-94d; NUMBER 37, 118d-119b; NUMBER 57, 177d-178a; NUMBER 84, 251b-254b
+    **43** Mill: *Liberty*, 267a-274a / *Representative Government*, 346a-c; 365b-366a; 370a-372b; 387b-d; 403d / *Utilitarianism*, 460a-c; 467a-b; 474d-476a
+    **44** Boswell: *Johnson*, 125c-d, 127b-c, 211b-c
+    **46** Hegel: *Philosophy of History*, PART I, 213b; PART II, 271d-272d; 275b-276d; PART IV, 362d-363a
+    **48** Melville: *Moby Dick*, 84b-85a
+    **50** Marx-Engels: *Communist Manifesto*, 429b-c
+    **51** Tolstoy: *War and Peace*, BK I, 10a-b
+    *   **(1) Universal suffrage: the abolition of privileged classes**
+        **5** Aristophanes: *Ecclesiazusae* 615a-628d
+        **6** Thucydides: *Peloponnesian War*, BK VI, 520b-c
+        **7** Plato: *Republic*, BK VIII, 406a-407a / *Laws*, BK VI, 705b
+        **9** Aristotle: *Politics*, BK III, CH 9-12 477c-481b passim; BK IV, CH 6 492b-493a; BK VI, CH 4 [1319b2-32] 523a-b
+        **38** Montesquieu: *Spirit of Laws*, BK II, 4a-5c; BK XI, 71d-72b
+        **38** Rousseau: *Social Contract*, BK IV, 427d
+        **40** Gibbon: *Decline and Fall*, 14b
+        **41** Gibbon: *Decline and Fall*, 73b-c; 81d-82b
+        **42** Kant: *Science of Right*, 436d-437c; 445a-c
+        **43** ARTICLES OF CONFEDERATION: VI [87-93] 6b
+        **43** CONSTITUTION OF THE U.S.: ARTICLE I, SECT 9 [289-295] 14a; ARTICLE VI [597-599] 16d; AMENDMENTS, XIV, SECT 1-3 18d-19a; XV 19b; XVI 19b-c; XIX 19d
+        **43** FEDERALIST: NUMBER 39, 125c-126b; NUMBER 57, 177a-b; NUMBER 84, 252a
+        **43** Mill: *Representative Government*, 344d-346c; 350a; 369b-370a; 380c-389b; 394a-396d; 403d
+        **50** Marx-Engels: *Communist Manifesto*, 416c-d; 425b-c; 428d-429c
+    *   **(2) The problem of economic justice: the choice between capitalism and socialism**
+        **5** Euripides: *Suppliants* [399-462] 261d-262b
+        **5** Aristophanes: *Ecclesiazusae* 615a-628d
+        **7** Plato: *Republic*, BK III, 341c-d; BK V, 363b-365d / *Laws*, BK V, 691b-697a
+        **9** Aristotle: *Ethics*, BK V, CH 2 [1130b30]-CH 4 [1132b20] 378b-380b / *Politics*, BK II, CH 5 458a-460a; CH 6 [1265a27-37] 460c-d; CH 7 461d-463c; BK V, CH 1 502a-503b; BK VI, CH 3 521c-522a; CH 5 [1320a19-b11] 523d-524b
+        **14** Plutarch: *Lycurgus*, 36a
+        **20** Aquinas: *Summa Theologica*, PART I-II, Q 105, A 2, ANS and REP 1-6 309d-316a
+        **23** Hobbes: *Leviathan*, PART II, 156b-157a
+        **27** SHAKESPEARE: *Coriolanus*, ACT I, SC I [1-226] 351a-353d
+        **35** Locke: *Civil Government*, CH V 30b-36a
+        **38** Montesquieu: *Spirit of Laws*, BK IV, 16a-17b; BK V, 19d-21d; BK VII, 44d-45b; BK XIII, 96a-102a,c
+        **38** Rousseau: *Political Economy*, 375b-d; 377b-d / *Social Contract*, BK I, 393d-394d; BK II, 405a-d
+        **39** Smith: *Wealth of Nations*, BK I, 28a-d; 61c-d; 109d-110d; BK IV, 201b-d; 239c-240a; 287c-d
+        **43** CONSTITUTION OF THE U.S.: AMENDMENTS, V [645-648] 17c; XIII 18c; XVI 19b
+        **43** FEDERALIST: NUMBER 10, 50b-53a; NUMBER 35, 113a-114b; NUMBER 60, 184d-186b; NUMBER 79, 233c
+        **43** Mill: *Liberty*, 309a-c / *Representative Government*, 345b-346a; 369b-370a / *Utilitarianism*, 467a-b; 472d-473c
+        **44** Boswell: *Johnson*, 304c
+        **46** Hegel: *Philosophy of History*, PART IV, 356d
+        **50** Marx: *Capital*, 33b-37a; 104b-105a; 113c-115c; 377c-378d
+        **50** Marx-Engels: *Communist Manifesto*, 419a-434d esp 428d-429c, 432b-c, 433b, 434c-d
+        **54** Freud: *Civilization and Its Discontents*, 787d-788b
+
+*   **4b. The democratic realization of popular sovereignty: the safeguarding of natural rights**
+    **5** Euripides: *Suppliants* [334-358] 261b-c; [399-462] 261d-262b
+    **6** Herodotus: *History*, BK III, 107c-d; BK VII, 245b
+    **6** Thucydides: *Peloponnesian War*, BK II, 396b-397c
+    **7** Plato: *Laws*, BK IV, 681d-682c
+    **9** Aristotle: *Politics*, BK III, CH 1 471b,d-472c; CH 6 [1278b7-14] 475d / *Rhetoric*, BK I, CH 8 [1365b22-31] 608a
+    **14** Plutarch: *Tiberius Gracchus*, 678b-d
+    **23** Hobbes: *Leviathan*, PART II, 101a-104d; PART III, 228b-c; PART IV, 273a-c
+    **31** Spinoza: *Ethics*, PART IV, PROP 37, SCHOL 2 435b-436a
+    **35** Locke: *Civil Government*, CH IV, SECT 21 29d; CH VII, SECT 87-CH VIII, SECT 99 44a-47c; CH IX, SECT 127-CH X, SECT 132 54a-55b; CH XI 55b-58b; CH XIII, SECT 149 59b-d; CH XIX 73d-81d passim, esp SECT 212 74a-b, SECT 243 81d
+    **38** Montesquieu: *Spirit of Laws*, BK II, 4a-6b
+    **38** Rousseau: *Inequality*, 323d; 356b-359a / *Political Economy*, 369b-c / *Social Contract*, BK I, 387b,d-392a; BK II, 395a-396a; BK IV, 420a-424d
+    **40** Gibbon: *Decline and Fall*, 14b; 91a-d
+    **41** Gibbon: *Decline and Fall*, 94d
+    **42** Kant: *Science of Right*, 429a-c, 434a; 435a-458a,c esp 436c, 437c-d, 450a-b, 451c-d
+    **43** DECLARATION OF INDEPENDENCE: [1-28] 1a-b; [41-47] 2a; [109-121] 3a-b
+    **43** CONSTITUTION OF THE U.S.: PREAMBLE 11a,c; AMENDMENTS, I-X 17a-18a; XIII-XV 18c-19b; XIX 19d
+    **43** FEDERALIST: NUMBER 10 49c-53a; NUMBER 14, 60c-d; NUMBER 22, 84d-85a; NUMBER 39 125a-128b; NUMBER 40, 131b; NUMBER 44, 144d-145a; 146c-d; NUMBER 46, 150b-c; NUMBER 51, 164a-165a; NUMBER 78, 231a-232c; NUMBER 83, 246a-b; NUMBER 84, 251b-254b
+    **43** Mill: *Liberty*, 267a-274a / *Representative Government*, 344d; 350a; 382b-c
+    **46** Hegel: *Philosophy of Right*, PART III, PAR 279, 93d-94d; PAR 308 102c-103a / *Philosophy of History*, INTRO, 175b-c; PART II, 272a-d
+
+*   **4c. The infirmities of democracy in practice and the reforms or remedies for these defects**
+    **5** Euripides: *Suppliants* [399-462] 261d-262b
+    **5** Aristophanes: *Acharnians* 455a-469a,c / *Knights* 470a-487a,c esp [1111-1150] 483d-484b / *Wasps* 507a-525d / *Peace* 526a-541d esp [601-692] 532d-534a / *Birds* 542a-563d / *Frogs* [686-705] 572a-b / *Lysistrata* [486-586] 589a-590d / *Ecclesiazusae* [169-188] 617a
+    **6** Herodotus: *History*, BK III, 108a-c; BK V, 180c-d
+    **6** Thucydides: *Peloponnesian War*, BK III, 425a-d; BK V, 504c-505a; BK VI, 533a-c
+    **7** Plato: *Republic*, BK VIII, 411d-413d / *Laws*, BK III, 674c-676b; BK VI, 699d-700c
+    **9** Aristotle: *Politics*, BK IV, CH 4 [1292a4-37] 491b-d; CH 6 [1292b40-1293a9] 492c; BK V, CH 9 [1310a25-36] 512c; BK VI, CH 4 [1318b6-1319b32] 522a-523b / *Athenian Constitution*, CH 28 565c-566b
+    **14** Plutarch: *Lycurgus*, 34d-35e / *Lycurgus-Numa*, 62b-64a,c / *Agis*, 648b,d-649b
+    **23** Hobbes: *Leviathan*, PART II, 148d-149b; 150c-d
+    **35** Locke: *Civil Government*, CH XIII, SECT 157-158 61c-62b
+    **38** Montesquieu: *Spirit of Laws*, BK II, 5a; BK III, 10a-c; BK VI, 35c-36a; BK VIII, 51a-52c; BK IX, 58b,d-59b; BK XI, 69a-c; BK XIX, 142c-143a
+    **38** Rousseau: *Social Contract*, BK III, 418a-420a; BK IV, 433a-434b
+    **40** Gibbon: *Decline and Fall*, 14b
+    **41** Gibbon: *Decline and Fall*, 94d-95c; 562c-565a esp 563d-564a
+    **43** FEDERALIST: NUMBER 10 49c-53a passim; NUMBER 22, 83b-d; NUMBER 44, 146c-d; NUMBER 48, 157c; NUMBER 49-50 159b-162c; NUMBER 55, 172b-173b; NUMBER 58, 181b-c; NUMBER 62, 189d-191c; NUMBER 63, 192b-195b, NUMBER 75, 223c-d
+    **43** Mill: *Liberty*, 268d-271a; 298b-299b; 309a-b / *Representative Government*, 354b-355b; 362c-389b passim, esp 380c-381a, 387b-d; 392b-399d; 403b-d; 406a-409c passim
+    **44** Boswell: *Johnson*, 178a-c, 374b-c
+    **46** Hegel: *Philosophy of Right*, PART III, PAR 303 101c-102a / *Philosophy of History*, INTRO, 172d-173a
+
+*   **4d. The suitability of democratic constitutions to all men under all circumstances: conditions favorable to democracy; progress toward democracy**
+    **6** Herodotus: *History*, BK VI, 193b-c; BK IX, 314a,c
+    **7** Plato: *Republic*, BK IX, 425c-427b
+    **9** Aristotle: *Politics*, BK III, CH 15 [1286b8-22] 484d-485a; BK IV, CH 2 [1289a13-20] 488c-d; CH 11-12 495b-497b; BK VI, CH 4 522a-523b
+    **38** Montesquieu: *Spirit of Laws*, BK I, 3b-d; BK VIII, 56b-c; 57b-c; BK XIV, 107b-d; BK XVI, 118b-c; BK XVII-XVIII, 122a-126c; BK XIX, 139c-140a
+    **38** Rousseau: *Inequality*, 324a-b / *Social Contract*, BK II, 402b-405a; 405c-406a; BK III, 410c; 411a-c; 415d; 421c-423a
+    **41** Gibbon: *Decline and Fall*, 562c-565a esp 562c-d, 563d-564a
+    **42** Kant: *Pure Reason*, 114b-115a / *Science of Right*, 436d-437c; 451a-b
+    **43** FEDERALIST: NUMBER 14, 60a-61b; NUMBER 39, 125b; NUMBER 55, 174c-d
+    **43** Mill: *Liberty*, 267d-268c; 272a / *Representative Government*, 328d-332d; 338b-340d; 344d-345a; 350b-355b; 387c-d; 395b-c; 413d-414d; 424c-428a passim, esp 427a-b; 433b-442d passim
+    **46** Hegel: *Philosophy of History*, INTRO, 161a-c; 172d-175c; PART II, 271c-274a; PART III, 300c-d
+
+---
+**5. Democracy and representative government**
+
+*   **5a. The distinction between direct democracy and representative, or republican, government: the territorial limits of democracy**
+    **9** Aristotle: *Politics*, BK VI, CH 4 [1318b21-27] 522b
+    **35** Locke: *Civil Government*, CH X, SECT 132 55a-b
+    **38** Montesquieu: *Spirit of Laws*, BK VIII, 56c-d; BK IX, 58b,d-60a; BK XI, 71a-c; BK XIX, 142c-143a
+    **38** Rousseau: *Social Contract*, BK III, 410c; 420a-423a
+    **42** Kant: *Science of Right*, 451c-452a
+    **43** FEDERALIST: NUMBER 10, 51c-53a; NUMBER 14, 60a-61b; NUMBER 48, 157c; NUMBER 63, 192c-194a
+    **43** Mill: *Representative Government*, 330a-b; 350a
+    **46** Hegel: *Philosophy of History*, INTRO, 175b-c; PART II, 273d-274a
+
+*   **5b. The theory of representation**
+    **7** Plato: *Laws*, BK VI, 697a-705c
+    **9** Aristotle: *Politics*, BK IV, CH 14 498b-499c passim; CH 15 499c-501c; BK VI, CH 3-4 521c-523b
+    **14** Plutarch: *Lycurgus*, 34d-35d / *Solon*, 70d-71c
+    **20** Aquinas: *Summa Theologica*, PART I-II, Q 90, A 3, ANS and REP 2 207a-c; Q 97, A 3, REP 3 237b-238b
+    **23** Hobbes: *Leviathan*, PART I, 96c-98a,c; PART II, 101a-b; 104d-105c; 117b-121a; 153a-159c
+    **35** Locke: *Civil Government*, CH VII, SECT 87-89 44a-d; CH XI, SECT 140 58a; CH XII, SECT 143 58c-d; CH XIII, SECT 154-158 60c-62b; CH XIX, SECT 240 81b
+    **38** Montesquieu: *Spirit of Laws*, BK XI, 71a-d
+    **38** Rousseau: *Social Contract*, BK III, 421c-423a
+    **39** Smith: *Wealth of Nations*, BK IV, 269d-271d
+    **40** Gibbon: *Decline and Fall*, 522c-523a
+    **42** Kant: *Science of Right*, 436c; 450a-b; 451c-452a
+    **43** DECLARATION OF INDEPENDENCE: [35-47] 1b-2a; [109-121] 3a-b passim
+    **43** CONSTITUTION OF THE U.S.: ARTICLE I 11a-14b passim
+    **43** FEDERALIST: NUMBER 10 49c-53a; NUMBER 14, 60a-61b; NUMBER 22, 82a-83a; NUMBER 28, 97b-d; NUMBER 35, 113a-114b; NUMBER 52-66 165a-203a passim, esp NUMBER 57, 176d-178b, NUMBER 63, 192b-194a; NUMBER 70, 227a; NUMBER 78, 231a-232c
+    **43** Mill: *Liberty*, 268b-c / *Representative Government* 327a-442d passim, esp 329d-330b, 338a-b, 350a, 355b-356b, 370a-372b, 389c-392b, 401a-406a
+    **46** Hegel: *Philosophy of Right*, PART III, PAR 301-303 100b-102a; PAR 308-311 102c-104a; ADDITIONS, 182 148c-d / *Philosophy of History*, INTRO, 175b-c
+    *   **(1) Majority rule and minority or proportional representation**
+        **9** Aristotle: *Politics*, BK III, CH 10 478d-479a; CH 13 [1283b21-34] 481b-d, CH 15 [1286a22-b22] 484c-485a; BK IV, CH 8 [1294a12-15] 493d-494a; BK V, CH 9 [1310a25-35] 512c; BK VI, CH 2 [1317b2-16] 520d; CH 3 [1318a19-b5] 521c-522a; CH 4 [1318b21-26] 522b
+        **33** Pascal: *Pensées*, 301-303 227b; 878 345a-b
+        **35** Locke: *Civil Government*, CH VIII, SECT 95-99 46c-47c; CH X, SECT 132 55a-b; CH XI, SECT 140 58a
+        **38** Montesquieu: *Spirit of Laws*, BK II, 4b-6d
+        **38** Rousseau: *Social Contract*, BK I, 391b; BK IV, 425d-427a esp 426d-427a
+        **39** Smith: *Wealth of Nations*, BK IV, 269d-271d
+        **40** Gibbon: *Decline and Fall*, 91b
+        **43** ARTICLES OF CONFEDERATION: V [49-73] 5d-6a
+        **43** CONSTITUTION OF THE U.S.: AMENDMENTS, XIV, SECT 2 18d-19a
+        **43** FEDERALIST: NUMBER 10 49c-53a; NUMBER 22, 82a-83a; NUMBER 35, 113a-114b; NUMBER 37, 120b-c; NUMBER 43, 141d-142d; NUMBER 51, 164a-165a passim; NUMBER 54 170a-172b; NUMBER 58, 181d-182a; NUMBER 62, 189b-d
+        **43** Mill: *Liberty*, 268d-271c, 298b-302c; 307b-312a / *Representative Government*, 366a-380b; 386a-387d; 406d-407d; 410b-c
+        **44** Boswell: *Johnson*, 261c-d
+        **46** Hegel: *Philosophy of Right*, PART III, PAR 311-313 103d-104b / *Philosophy of History*, INTRO, 172d-173a; PART IV, 365a
+    *   **(2) Ultimate limitations on the franchise**
+        **7** Plato: *Laws*, BK VI, 697d-700b; BK VII, 740d-741a
+        **9** Aristotle: *Politics*, BK IV, CH 6 492b-493a; BK VI, CH 3 521c-522a; CH 4 [1319b2-32] 523a-b; BK VIII, CH 9 533a-d / *Athenian Constitution*, CH 4 554b-d; CH 42 572b-d
+        **14** Plutarch: *Lycurgus-Numa*, 62b-d
+        **38** Montesquieu: *Spirit of Laws*, BK II, 4a-5c
+        **38** Rousseau: *Social Contract*, BK IV, 427c-432b
+        **42** Kant: *Science of Right*, 436d-437c
+        **43** CONSTITUTION OF THE U.S.: ARTICLE I, SECT 2 [5-10] 11b
+        **43** FEDERALIST: NUMBER 52, 165a-c; NUMBER 54 170a-172b; NUMBER 57, 177a
+        **43** Mill: *Representative Government*, 375a-b; 380c-389b passim, esp 382c-383c; 394b-396d
+        **46** Hegel: *Philosophy of Right*, PART III, PAR 311 103d-104a
+    *   **(3) Methods of election and voting**
+        **7** Plato: *Laws*, BK VI, 697a-705c; BK XII, 786b-787b
+        **9** Aristotle: *Politics*, BK IV, CH 9 [1294b6-13] 494c; CH 14 [1298b13-1299a1] 499a-c; CH 15 [1300a9-b4] 500d-501b
+        **14** Plutarch: *Lycurgus*, 45d
+        **15** Tacitus: *Annals*, BK I, 6a-b / *Histories*, BK IV, 267d-268c
+        **35** Locke: *Civil Government*, CH XIII, SECT 154-158 60d-62b; CH XIX, SECT 216 74d
+        **38** Montesquieu: *Spirit of Laws*, BK II, 5b-6a
+        **38** Rousseau: *Inequality*, 324c-325b / *Social Contract*, BK IV, 426c-428a
+        **43** CONSTITUTION OF THE U.S.: ARTICLE I, SECT 2 [5-10] 11b; SECT 2 [17]-SECT 3 [66] 11b-12a; SECT 4 [96-102], SECT 5 [107-109] 12b; ARTICLE II, SECT 1 [321-374] 14b-d; AMENDMENTS, XII 18a-c; XVII 19b-c
+        **43** FEDERALIST: NUMBER 52-61 165a-188d passim; NUMBER 62, 189a-b; NUMBER 68 205b-207a
+        **43** Mill: *Representative Government*, 370a-406a; 412a-414d
+        **44** Boswell: *Johnson*, 176a-b; 251a
+        **46** Hegel: *Philosophy of Right*, PART III, PAR 309-311 103b-104a / *Philosophy of History*, PART II, 277c-d
+    *   **(4) The role of political parties: factions**
+        **5** Aristophanes: *Lysistrata* [577-580] 590c
+        **6** Thucydides: *Peloponnesian War*, BK III, 434c-438b; BK IV, 458d-459c; 463a-465c; BK V, 502d-504a; BK VIII 564a-593a,c esp 568d-569a, 575c-576c, 577b-d, 579c-583c, 584b-585a, 585d-586b, 587a-590c
+        **7** Plato: *Laws*, BK V, 695a-c; BK IX, 744c-d
+        **9** Aristotle: *Ethics*, BK IX, CH 6 420c-421a / *Politics*, BK V, CH 9 [1309b14-1310a12] 511d-512b / *Athenian Constitution*, CH 5 554d-555a; CH 8, PAR 5 556c
+        **14** Plutarch: *Solon*, 68d; 75c-d / *Pericles*, 126c-d / *Pompey*, 521d
+        **15** Tacitus: *Annals*, BK VI, 97b-c / *Histories*, BK II, 224d-225a
+        **23** Machiavelli: *Prince*, CH IX, 14c-d
+        **23** Hobbes: *Leviathan*, PART II, 121c-d; 148d-149b; 150b
+        **38** Montesquieu: *Spirit of Laws*, BK III, 9d; BK XIX, 142b-143a
+        **38** Rousseau: *Social Contract*, BK II, 396b-d; BK IV, 424b
+        **39** Smith: *Wealth of Nations*, BK IV, 269d-271a; BK V, 420c-421a
+        **40** Gibbon: *Decline and Fall*, 652b-655c
+        **43** FEDERALIST: NUMBER 10 49c-53a; NUMBER 43, 141d-142d; NUMBER 50, 161d-162c passim; NUMBER 51, 164a-165a; NUMBER 60, 185b-187a
+        **43** Mill: *Liberty*, 289c-d / *Representative Government*, 366a-370a; 371c-372a; 376a-377a; 412b-413a
+        **44** Boswell: *Johnson*, 261c-d; 374b-c
+        **46** Hegel: *Philosophy of History*, PART II, 275b-d; 279b; PART III, 285d; PART IV, 336a-c; 366d-367a
+        **50** Marx-Engels: *Communist Manifesto*, 423d-425b
+
+*   **5c. The distribution of functions and powers: checks and balances in representative democracy**
+    **7** Plato: *Laws*, BK VI, 697a-705c
+    **9** Aristotle: *Politics*, BK IV, CH 14-16 498b-502a,c; BK VI, CH 8 525b-526d / *Athenian Constitution*, CH 42-69 572b-584a,c passim
+    **14** Plutarch: *Lycurgus*, 34d-35d / *Solon*, 70d-71c
+    **23** Hobbes: *Leviathan*, PART II, 103d-104b; 150b, 151c-152a
+    **35** Locke: *Civil Government*, CH VIII, SECT 107 49b-d; CH XI-XIII 58c-62b
+    **38** Montesquieu: *Spirit of Laws*, BK XI, 69d-75a
+    **38** Rousseau: *Social Contract*, BK IV, 428a-435a
+    **40** Gibbon: *Decline and Fall*, 26d-27b
+    **42** Kant: *Science of Right*, 436b-c; 438a-439a; 451d-452a
+    **43** ARTICLES OF CONFEDERATION: IX 7a-9a
+    **43** CONSTITUTION OF THE U.S.: ARTICLE I, SECT 1 11a-b; SECT 2 [41-47] 11d; SECT 3 [73-87] 12a; SECT 4 [96-102] 12b; SECT 5 12b-c; ARTICLE I, SECT 7 [152]-ARTICLE II, SECT 1 [326] 12d-14b; ARTICLE II, SECT 2 [409]-ARTICLE III, SECT 2 [492] 15a-d
+    **43** FEDERALIST: NUMBER 47-48 153c-159a esp NUMBER 48, 157c; NUMBER 51 162d-165a; NUMBER 52, 167a-b; NUMBER 57 176d-179b; NUMBER 58, 180d; NUMBER 60, 184d-185b; NUMBER 62, 189d-191c; NUMBER 63, 192c-193c; NUMBER 66, 200c-201d; NUMBER 69 207a-210c passim; NUMBER 73, 219b-221c; NUMBER 76, 226a-227b; NUMBER 78, 230a-233a; NUMBER 81, 237d-239c
+    **43** Mill: *Representative Government*, 355b-356b; 365b-366a; 369b-370a; 401d-402b; 406a-409c; 412b-c
+    **46** Hegel: *Philosophy of Right*, PART III, PAR 272 89d-90c; ADDITIONS, 178 147d-148a / *Philosophy of History*, INTRO, 192d-193a
+
+---
+**6. The educational task of democracy: the training of all citizens**
+
+**5** Euripides: *Suppliants* [399-462] 261d-262b
+**6** Thucydides: *Peloponnesian War*, BK II, 395d-399a
+**7** Plato: *Laws*, BK III, 675c-676b
+**9** Aristotle: *Politics*, BK IV, CH 9 [1294a19-24] 494c; BK V, CH 9 [1310a12-35] 512b-c; BK VII, CH 14 537b-538d; BK VIII, CH 1 542a-b
+**23** Hobbes: *Leviathan*, PART II, 114d-115a; 153a-155c
+**32** Milton: *Areopagitica* 381a-412b esp 384b-389a
+**38** Montesquieu: *Spirit of Laws*, BK IV, 15c-18d
+**38** Rousseau: *Political Economy*, 375d-377b
+**39** Smith: *Wealth of Nations*, BK V, 340c-343d
+**43** FEDERALIST: NUMBER 27, 95c-d; NUMBER 84, 253d-254b
+**43** Mill: *Liberty*, 317d-323a,c / *Representative Government*, 330a-b; 339a-341c; 349a-350a; 351a-c; 381b-382b; 386b-387d; 401a-406a passim; 418b-d; 420b-d; 424b-c
+**50** Marx: *Capital*, 237d-240d esp 238b-c
+**50** Marx-Engels: *Communist Manifesto*, 427c; 429b
+
+---
+**7. The growth and vicissitudes of democracy**
+
+**5** Aristophanes: *Ecclesiazusae* [169-188] 617a
+**6** Herodotus: *History*, BK I, 120b-c
+**6** Thucydides: *Peloponnesian War*, BK III, 434c-438b; BK VIII, 579d-580a
+**7** Plato: *Republic*, BK VIII, 408b-414b / *Laws*, BK III, 674d-676b
+**9** Aristotle: *Politics*, BK III, CH 12 [1273a37-1274a22] 470b-d / *Athenian Constitution*, CH 1-41 553a-572a esp CH 41 571c-572a / *Rhetoric*, BK I, CH 4 [1360a17-29] 600c
+**14** Plutarch: *Theseus*, 9a-d / *Themistocles*, 96b-c / *Pericles* 121a-141a,c / *Alcibiades*, 166a-174d / *Phocion* 604b,d-619d / *Tiberius Gracchus*, 675b-d; 678b-d / *Caius Gracchus* 681b,d-689a,c esp 683b-c
+**15** Tacitus: *Annals*, BK I, 1a-2a
+**23** Machiavelli: *Prince*, CH V 8a-c
+**23** Hobbes: *Leviathan*, PART II, 114b-115a; 150c-151a; PART IV, 273a-b
+**26** SHAKESPEARE: *Julius Caesar* 568a-596a,c
+**27** SHAKESPEARE: *Coriolanus* 351a-392a,c
+**38** Montesquieu: *Spirit of Laws*, BK III, 9b-10c
+**38** Rousseau: *Social Contract*, BK III, 418a-419b
+**41** Gibbon: *Decline and Fall*, 71d-73d passim; 217a-b; 218c-219a; 427b-428b; 562b-565a esp 562c-d; 574b-582b esp 574b-577d; 587b-588b
+**43** FEDERALIST: NUMBER 1 29a-31a passim; NUMBER 6 38d-41c passim; NUMBER 9-10 47a-53a; NUMBER 22, 82d-83d; NUMBER 43, 141a-142d; NUMBER 44, 146c-d; NUMBER 51, 164a-165a; NUMBER 58 179c-182a passim; NUMBER 63, 192c-194a
+**43** Mill: *Liberty*, 267d-269c / *Representative Government*, 376b-c
+**46** Hegel: *Philosophy of History*, PART II, 271c-274a; 275b-276a
+
+*   **7a. Demagoguery and the danger of revolution**
+    **5** Euripides: *Suppliants* [399-462] 261d-262b
+    **5** Aristophanes: *Knights* 470a-487a,c esp [1111-1150] 483d-484b / *Wasps* [655-724] 515c-516d / *Peace* [601-692] 532d-534a
+    **6** Herodotus: *History*, BK III, 108a-c
+    **6** Thucydides: *Peloponnesian War*, BK III, 434c-438b; BK IV, 463a-465c; 466a-469b; BK VI, 519c-d; 520a-d; 533a-c; BK VIII, 575c-582c esp 575c-576c, 577b-d, 579c-581c, 582a-c
+    **7** Plato: *Republic*, BK VIII, 411d-414b / *Laws*, BK IX, 744c-d
+    **9** Aristotle: *Politics*, BK III, CH 12 [1273b36-1274a14] 470c-d; BK V, CH 1 [1302b8-16] 503b; CH 5 506b-507a; CH 8 [1308a11-24] 510a-b; CH 9 [1309b14-1310a12] 511d-512b; BK VI, CH 4 [1319b2]-CH 5 [1320a17] 523a-524b / *Athenian Constitution*, CH 14-15 558d-559c; CH 28-29 565c-566d; CH 34 568c-569a
+    **14** Plutarch: *Theseus*, 13a-14c / *Solon*, 75c-76d / *Camillus*, 117c-121a,c / *Coriolanus*, 180b-d / *Pompey*, 521c-d / *Caesar* 577a-604d esp 577d-583a / *Phocion* 604b,d-619d / *Cato the Younger*, 628b-d / *Caius Gracchus* 681b,d-689a,c esp 684c-685c / *Dion*, 792d-802a,c
+    **15** Tacitus: *Annals*, BK I, 1a-2a / *Histories*, BK II, 224d-225a
+    **23** Hobbes: *Leviathan*, PART II, 105c-106d; 127d-129d; 152a-d
+    **30** Bacon: *Advancement of Learning*, 23a-26a
+    **35** Locke: *Civil Government*, CH XIX, SECT 224-228 76d-78a
+    **38** Montesquieu: *Spirit of Laws*, BK VIII, 52b-c; BK XIX, 142d-143a
+    **38** Rousseau: *Social Contract*, BK III, 419b
+    **42** Kant: *Science of Right*, 439c-441d
+    **43** FEDERALIST: NUMBER 1, 30b; NUMBER 9, 47a-b; NUMBER 21, 78d-79a; NUMBER 48, 157c; NUMBER 58, 181b-c
+    **43** Mill: *Representative Government*, 329b-330c
+    **46** Hegel: *Philosophy of History*, PART III, 300a-301c
+
+*   **7b. The dangers of imperialism: the treatment of dependencies**
+    **5** Aristophanes: *Lysistrata* [572-586] 590c-d
+    **6** Thucydides: *Peloponnesian War*, BK II, 403b-c; BK III, 425a-429a
+    **7** Plato: *Laws*, BK VI, 698c-d
+    **14** Plutarch: *Romulus*, 21a-27c esp 22c / *Pericles*, 129a-141a,c passim
+    **15** Tacitus: *Histories*, BK II, 224d-225a
+    **23** Hobbes: *Leviathan*, PART II, 107a; 107c
+    **35** Locke: *Civil Government*, CH XVI 65d-70c
+    **36** Swift: *Gulliver's Travels*, PART IV, 182b-183a
+    **38** Montesquieu: *Spirit of Laws*, BK X, 64a-d
+    **39** Smith: *Wealth of Nations*, BK IV, 252d-253a; 267c-271d
+    **40** Gibbon: *Decline and Fall*, 79b-d; 630b,d-631b
+    **42** Kant: *Science of Right*, 413d; 454a-455a
+    **43** DECLARATION OF INDEPENDENCE: 1a-3b
+    **43** Mill: *Representative Government*, 427a-b; 433b-442d
+
+*   **7c. The challenge of war and peace: the citizen army**
+    **5** Euripides: *Suppliants* [399-462] 261d-262b
+    **5** Aristophanes: *Acharnians* 455a-469a,c / *Knights* 470a-487a,c / *Peace* 526a-541d esp [601-692] 532d-534a / *Lysistrata* 583a-599a,c esp [486-586] 589a-590d
+    **6** Herodotus: *History*, BK V, 175b, 177d-178a; 180c-d; BK VII, 232d-233d
+    **6** Thucydides: *Peloponnesian War*, BK II, 402b-404d; BK III, 425a-d; 434c-438b; BK VI, 513d-514d, 515d-516a; BK VIII, 564a-c
+    **7** Plato: *Laws*, BK I, 640b-642b; BK III, 674d-675c; BK VIII, 732b-735a
+    **9** Aristotle: *Politics*, BK VI, CH 7 [1321a5-26] 524d-525a; BK VII, CH 9 [1329a3-17] 533b-c; CH 14 [1333a1-1334a10] 538b-d / *Athenian Constitution*, CH 8, PAR 5 556c; CH 15 559b-c; CH 27, PAR 1-2 565a-b
+    **23** Machiavelli: *Prince*, CH V 8a-c; CH XII-XIV 17d-21a; CH XXVI 36b-37d
+    **35** Locke: *Civil Government*, CH XIX, SECT 224-230 76d-78c
+    **36** Swift: *Gulliver's Travels*, PART I, 80a-b
+    **38** Montesquieu: *Spirit of Laws*, BK III, 10a-c; BK IX, 58b,d-60a
+    **38** Rousseau: *Inequality*, 324c / *Political Economy*, 380b-d
+    **40** Gibbon: *Decline and Fall*, 4b-5c
+    **42** Kant: *Science of Right*, 452d-458a,c esp 454d-455a, 457a-458a,c / *Judgement*, 586a-587a
+    **43** FEDERALIST: NUMBER 6, 40a-41a; NUMBER 8 44c-47a; NUMBER 22, 83a-b; NUMBER 29 98c-101a passim; NUMBER 46, 152b-153a
+    **46** Hegel: *Philosophy of History*, PART II, 274b-275b; 278c-279b
+
+## CROSS-REFERENCES
+
+*   For the general theory of government and the forms of government, see: **GOVERNMENT**; and for the forms of government most closely related to democracy, see: **ARISTOCRACY**; **OLIGARCHY**.
+*   For the theory of constitutional or representative government, in itself and in contrast to monarchy or absolute government, see: **CONSTITUTION**; **MONARCHY**.
+*   For other discussions of the mixed constitution and the mixed regime, see: **ARISTOCRACY** 2b; **CONSTITUTION** 3a, 5b; **GOVERNMENT** 2b; **MONARCHY** 1b(1).
+*   For other expositions of the theory of the conditions relative to which democracy is a suitable form of government, see: **MONARCHY** 4e(2); **SLAVERY** 6c; **TYRANNY** 4b.
+*   For the general discussion of political liberty and equality in relation to the rights of citizenship, see: **JUSTICE** 9e; **LIBERTY** 1f.
+*   For the problem of suffrage and the debate concerning the extension of the franchise, see: **CITIZEN** 2c-3; **LABOR** 7d; **OLIGARCHY** 4, 5a; **SLAVERY** 5b.
+*   For the relation between economic and political democracy, and the problems of economic as well as political justice, see: **LABOR** 7f; **LIBERTY** 2d; **SLAVERY** 5a-5b.
+*   For the theory of popular sovereignty and natural rights, see: **GOVERNMENT** 1g(3); **JUSTICE** 6-6e; **LAW** 7b-7c; **STATE** 2c; **TYRANNY** 5c.
+*   For the consideration of majority rule and the tyranny of the majority, see: **OPINION** 7-7b; **TYRANNY** 2c.
+*   For other discussions of the theory of representation, see: **ARISTOCRACY** 6; **CONSTITUTION** 9-9b.
+*   For matters relevant to the educational problems of democracy, see: **ARISTOCRACY** 5; **EDUCATION** 8d; **STATE** 7d.
+
+## ADDITIONAL READINGS
+
+*Listed below are works not included in Great Books of the Western World, but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:*
+*   I. Works by authors represented in this collection.
+*   II. Works by authors not represented in this collection.
+*For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of The Great Ideas.*
+
+**I.**
+*   Plutarch, “Of the Three Sorts of Government—Monarchy, Democracy and Oligarchy,” in *Moralia*
+*   Spinoza, *Tractatus Politicus* (Political Treatise), CH II
+*   J. S. Mill, “M. De Tocqueville on Democracy in America,” “Enfranchisement of Women,” in VOL II, *Dissertations and Discussions*
+*   ---, *Socialism*
+*   Marx, *The Civil War in France*
+*   ---, *Critique of the Gotha Programme*
+
+**II.**
+*   Clarke Papers, The Putney Debates
+*   Voltaire, “Democracy,” in *A Philosophical Dictionary*
+*   J. Wilson, *Works*, PART I, CH VI-IX; PART II, CH XII
+*   Cartwright, *Take Your Choice!*
+*   Burke, *An Appeal from the New to the Old Whigs*
+*   ---, *Letter to Sir Hercules Langrishe*
+*   Paine, *Rights of Man*, PART II, CH I
+*   ---, *Dissertation on First Principles of Government*
+*   Jefferson, *Democracy*, CH 1-2
+*   Tocqueville, *Democracy in America*
+*   T. Carlyle, *Chartism*
+*   Michelet, *The People*
+*   Calhoun, *A Disquisition on Government*
+*   ---, *A Discourse on the Constitution and Government of the United States*
+*   Mazzini, *The Duties of Man*
+*   Thoreau, *A Plea for Captain John Brown*
+*   Whitman, *Democratic Vistas*
+*   J. F. Stephen, *Liberty, Equality, Fraternity*
+*   Acton, *Essays on Freedom and Power*, CH 5, 7-8
+*   Arnold, “Democracy,” “Equality,” in *Mixed Essays*
+*   Maine, *Popular Government*
+*   Lecky, *Democracy and Liberty*
+*   Giddings, *Democracy and Empire*
+*   M. Hirsch, *Democracy Versus Socialism*
+*   H. Adams, *The Degradation of the Democratic Dogma*
+*   Ostrogorski, *Democracy and the Organization of Political Parties*
+*   Dicey, *The Relation Between Law and Public Opinion in England During the Nineteenth Century*
+*   Santayana, *Reason in Society*, CH 5
+*   Sorel, *Reflections on Violence*
+*   Michels, *Political Parties*
+*   Morley, *Notes on Politics and History*
+*   Beard, *Economic Origins of Jeffersonian Democracy*
+*   Croly, *Progressive Democracy*
+*   Pareto, *The Mind and Society*, VOL IV
+*   T. Veblen, *The Vested Interests and the State of the Industrial Arts*
+*   Lenin, *The State and Revolution*, CH 5
+*   ---, *“Left-Wing” Communism, an Infantile Disorder*
+*   Trotsky, *The Defense of Terrorism*
+*   Bryce, *The American Commonwealth*
+*   ---, *Modern Democracies*
+*   Tawney, *Equality*
+*   Nock, *The Theory of Education in the United States*
+*   Kelsen, *Vom Wesen und Wert der Demokratie*
+*   ---, *Staatsform und Weltanschauung*
+*   Laski, *Democracy in Crisis*
+*   J. A. Hobson, *Democracy and a Changing Civilisation*
+*   Friedrich, *Constitutional Government and Democracy*
+*   Beneš, *Democracy Today and Tomorrow*
+*   Dewey, *Characters and Events*, VOL II, BK V (17)
+*   ---, *The Public and Its Problems*, CH 3
+*   ---, *Freedom and Culture*, CH 4-7
+*   MacIver, *Leviathan and the People*
+*   Hook, *Reason, Social Myths and Democracy*
+*   Becker, *Modern Democracy*
+*   Merriam, *The New Democracy and the New Despotism*
+*   ---, *What Is Democracy?*
+*   Agard, *What Democracy Meant to the Greeks*
+*   Barker, *Reflections on Government*
+*   Lindsay, *The Modern Democratic State*
+*   Maritain, *Scholasticism and Politics*, CH III-IV
+*   ---, *Ransoming the Time*, CH 2
+*   ---, *Christianity and Democracy*
+*   ---, *Principes d'une politique humaniste*
+*   Perry, *Puritanism and Democracy*
+*   Simon, *Community of the Free*, CH 4

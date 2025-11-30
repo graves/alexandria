@@ -1,0 +1,1177 @@
+# Chapter 55: MEDICINE
+
+## INTRODUCTION
+
+**MEDICINE** is the name of an art, of a science or group of sciences, and of a learned profession whose members are proficient in these sciences and experienced in the practice of the art. By derivation it is also the name for curative drugs, physics, or other remedies prescribed by the physician. The archaic usage of the English word “physic” as the name for the art, practice, and profession of what is now generally called “medicine” suggests what the word’s Greek root signifies, namely, that the physician, no less than the physicist, is a student of nature.
+
+There is one other historic use of “medicine” which indicates its scope and connections in the western tradition. When medieval institutions first shaped the university, the basic divisions of learning then embodied in its structure reflected different uses of learning as well as differences in subject matter. The three faculties of medicine, law, and theology not only disciplined their students in different branches of knowledge, but also trained them for distinct applications of knowledge to practice.
+
+The faculty of medicine represented all the natural sciences, especially those which have come to be called “biological sciences,” just as the faculty of law or jurisprudence represented all the moral sciences and their later offshoots, now called “social sciences.” The doctor of medicine was concerned with knowledge bearing on the relation of man to nature, as the doctor of laws was concerned with knowledge bearing on the relation of man to man, and the doctor of theology with knowledge bearing on the relation of man to God.
+
+It is a curious accident that the word “doctor,” which in origin signified the competence to teach others who might practice in each of these great fields of learning, has come in popular usage to designate, not the teacher, but the practitioner, and chiefly the practitioner in only one of the learned professions. Medicine may not deserve the implied emphasis upon the learning of its practitioners, but there would be some truth in granting it the distinction of being the oldest of the professions in the sense that it comprises a group of men who not only share a common training in the relevant sciences and arts, but who also have adopted a code of practice and obligated themselves to perform a service to their fellow men.
+
+The Hippocratic Oath, sworn to in the name of “Apollo the physician and Aesculapius, and Health ... and all the gods and goddesses,” is the first explicit formulation of a professional ideal. In the collection of writings attributed to Hippocrates, *The Law* explicitly indicates as *The Oath* implies that there are intellectual as well as moral conditions to be fulfilled by those who would dedicate themselves to the service of health. Only those who have satisfied all requisites for the study of medicine and by diligent application have acquired a true knowledge of it shall be “esteemed physicians not only in name but in reality.”
+
+The same high conception of medicine appears in the Bible. We read in Ecclesiasticus:
+
+> Honor the physician for the need thou hast of him: for the most High hath created him. For all healing is from God, and he shall receive gifts of the king. The skill of the physician shall lift up his head, and in the sight of great men he shall be praised. The most High hath created medicines out of the earth, and a wise man will not abhor them. ... The virtue of these things is come to the knowledge of men, and the most High hath given knowledge to men, that he may be honored in his wonders. By these he shall cure and shall allay their pains, and of these the apothecary shall make sweet confections, and shall make up ointments of health, and of his works there shall be no end. For the peace of God is over all the face of the earth.
+
+**FIVE OF THE AUTHORS** of the great books—Hippocrates, Galen, Gilbert, Harvey, and Freud—belonged to the profession of medicine. They were major figures in its history. Practitioners of its arts, they were also contributors to the sciences concerned with health and disease. Three others combined medicine with other pursuits. Copernicus studied medicine at Padua and devoted considerable time to its practice; Locke was Lord Shaftesbury’s personal physician; James took a medical degree at Harvard after years spent in the biological sciences. Still another, Rabelais, not only studied and practiced medicine, but also edited the *Aphorisms* of Hippocrates and Galen’s little treatise on the medical art. His knowledge of medicine and his observation of its contemporary practices can be readily discerned in his comic exaggerations of anatomical and physiological detail, and of regimens of diet or exercise.
+
+The discussion of medicine in the great books is not limited to its professors or practitioners. Montaigne has many doubts about medical diagnosis and the possibility of charting the causes of disease or the remedies which cure. The patient’s ignorance permits the physician to claim credit for his successes and to blame fortune for his failures.
+
+Montaigne, characteristically, delights in observing that the doctors disagree. He offers, as “one example of the ancient controversy in physics,” the following:
+
+> Herophilus lodges the original cause of all disease in the humors; Erasistratus, in the blood of the arteries; Asclepiades, in the invisible atoms of the pores; Alcmaeon, in the exuberance or defect of our bodily strength; Diocles, in the inequality of the elements of which the body is composed, and in the quality of the air we breathe; Strato, in the abundance, crudity, and corruption of the nourishment we take; and Hippocrates lodges it in the spirits.
+
+There is no great danger, he adds, “in our mistaking the height of the sun, or the fraction of some astronomical computation; but here where our whole being is concerned, ’tis not wisdom to abandon ourselves to the mercy of the agitation of so many contrary winds.”
+
+Such commentary as this bears more on the history of medicine than on the abiding problems of its science or art, which, from Hippocrates to Freud, have been more generally agreed upon than the theories proposed for their solution. Of similar historical significance are the passages in the great works of history which describe the phenomena of disease as they appeared to contemporary observers, the plagues which ravaged Athens, Rome, and London, or the maladies which afflicted eminent individuals. Poetry, as well as history and biography, contributes to this record. The novels of Tolstoy and Fielding, the plays of Shakespeare, the tales of Cervantes and Chaucer, the Greek tragedies, and the Homeric epics furnish evidence of both the constant and the changing elements in the conception of disease, the vocation of medicine, and the social acceptance of the physician.
+
+The history of medicine is an epitome of the history of the natural sciences. The researches of the Hippocratic school initiate specific methods of empirical investigation, such as the systematic collection and comparison of observations and the painstaking record of individual case histories. The fundamental concepts of medical theory reflect the philosophy of nature and of man. Conflicting notions of the causes of disease focus major issues in biology, such as the controversy in which Galen engages with Asclepiades and Erasistratus in the defense of what he supposes to be Hippocrates’ and Aristotle’s organic view of nature against mechanism and atomism.
+
+Medicine, moreover, provides some of the clearest examples of the interdependence of theory and practice, for the rules of the healing art put theories to work and to the test; and as the rules are refined or altered by the accumulated experience of particular cases, inductive insight leads to new theoretical generalizations. As the work of Dr. Harvey illustrates, biological science is both the source and the reflection of medical knowledge. Medicine also affords Bacon and Descartes the prime example of a useful application of the knowledge gained by the new methods they propose.
+
+More than engineering or the invention of mechanical utilities, medicine represents for them knowledge in the service of mankind. That science shall bear fruit in technology, writes Descartes:
+
+> is not merely to be desired with a view to the invention of an infinity of arts and crafts ... but principally because it brings about the preservation of health, which is without doubt the chief blessing and the foundation of all other blessings in this life. ... It is true that the medicine which is now in vogue contains little of which the utility is remarkable; but, without any intention of decrying it, I am sure that there is no one, even among those who make its study a profession, who does not confess that all that men know is almost nothing in comparison with what remains to be known.
+
+The subsequent history of medicine, some of the great documents of which are cited in the list of Additional Readings under the names of Jenner, Bichat, Virchow, Claude Bernard, and Koch, seems to substantiate Descartes’ prophecy. But it also seems to be true that the major problems of medical practice are not greatly altered or diminished by the tremendous increase in our knowledge of the causes of specific diseases and our vast store of well-tested remedies.
+
+What sort of art medicine is; to what extent the physician should let nature run its course; with what restraint or prudence the physician should apply general rules to particular cases; whether health is better served by the general practitioner treating the whole man or by a specialist treating a special organ; how the relation of the physician to his patient is itself a therapeutic factor and underlies the effectiveness of his skill in all other respects; to what extent mind and body interact both in the origin and in the cure of disease—these are the problems of medicine concerning which Hippocrates and Galen can converse with Osler and Freud almost as contemporaries.
+
+**THE DISTINCTION** made in the chapter on Art between the simply productive and the cooperative arts associates medicine with agriculture and teaching, and separates these arts, which merely help a natural result to come about, from the arts which produce an effect that would never occur without the work of the artist. Plants grow and reproduce without the help of farmers. The mind can discover some truth without the aid of teachers. Animals and men can preserve and regain their health without the care of physicians. But without shoemakers or house builders, shoes and houses would not be produced.
+
+The art of medicine does not produce health in the sense in which the shoemaker produces a shoe, or the sculptor a statue. These other arts imitate nature by embodying natural forms or functions in materials wherein they do not naturally arise. An art like medicine seems to imitate nature by cooperating with natural processes. It follows the course of nature itself and, by working with it, enables the natural result to eventuate more surely than it might if art made no attempt to overcome the factors of chance.
+
+Socrates expresses this understanding of the physician’s art when he uses the metaphor of midwifery to characterize his own method of teaching. As it is the mother who labors and gives birth, so it is the student who is primarily active in the process of learning. The teacher, like the midwife, merely assists in a natural process which might be more painful, and might possibly fail, without such help. “The teacher,” writes Aquinas, “only brings exterior help as does the physician who heals; just as the interior nature is the principal cause of the healing, so the interior light of the intellect is the principal cause of knowledge.”
+
+> Health,” he continues, “is caused in a sick man, sometimes by an exterior principle, namely, by the medical art; sometimes by an interior principle, as when a man is healed by the force of nature. ... Just as nature heals a man by alteration, digestion, rejection of the matter that caused the sickness, so does art. ... The exterior principle, art, acts not as a primary agent, but as helping the primary agent, which is the interior principle, and by furnishing it with instruments and assistance, of which the interior principle makes use in producing the effect. Thus the physician strengthens nature, and employs food and medicine, of which nature makes use for the intended end.
+
+The subordination of the medical art to nature seems to be the keystone of the whole structure of Hippocratic medicine. It is implied in the emphasis which Hippocrates places on the control of the patient’s regimen, especially the elements of his diet, the exercise of his body, and the general circumstances of his life. Even in the treatment of acute diseases, Hippocrates looks to the regimen first, prescribing changes or special articles of diet.
+
+Medicines or drugs perform an auxiliary function. Surgery is always a last resort, to be used primarily in the treatment of injuries, and not to be employed in diseases which will yield to a course of regimen and medication. There is an element of violence in surgery which puts it last among the means of an art which should work by cooperating with nature rather than by operating on it. And among medicines, those are preferable which, like ptisan, a special preparation of barley water, derive their efficacy from properties similar to those of normal nutriment.
+
+According to Hippocrates, the control of regimen is not only the primary factor in therapy, but also the original principle of medicine. In the treatise *On Ancient Medicine*, he points out that “the art of medicine would not have been invented at first, nor would it have been made the subject of investigation (for there would have been no need for it), if when men are indisposed, the same food and other articles of regimen which they eat and drink when in good health were proper for them, and if no other were preferable to these. ... The diet and food which people in health now use would not have been discovered, provided it suited man to eat and drink in like manner as the ox, the horse, and all other animals. ... What other object, then, has he in view who is called a physician, and is admitted to be a practitioner of the art, who found out the regimen and diet befitting the sick, than he who originally found out and prepared for all mankind that kind of food which we all now use, in place of the former savage and brutish mode of living?”
+
+**THE SAME CONCEPTION** of medicine’s relation to nature seems to be fundamental in Galen’s thought. He attributes to Hippocrates his own reformulation of the insight that the art of healing consists in imitating the health-giving and healing powers of nature itself. The medical doctrines which he criticizes were based on the atomism of Epicurus. They regarded the body as a complex piece of machinery. When it gets out of order, it needs a mechanic and mechanical remedies to fix it. On the contrary, it seems to him, the living body is an organic unity, not an aggregation of atoms, or a system of interlocking parts.
+
+“Nature is not posterior to the corpuscles, but a long way prior to them,” Galen writes. “Therefore it is nature which puts together the bodies both of plants and animals; and this she does by virtue of certain faculties which she possesses—these being, on the one hand, attractive and assimilative of what is appropriate, and, on the other, expulsive of what is foreign. Further, she skillfully moulds everything during the stage of genesis; and she also provides for the creatures after birth, employing here other faculties again.”
+
+Nature, according to Galen, works not by the external impact of part upon part, but by its faculties or powers for the performance of natural functions and the production of natural effects. Galen’s polemic against the mechanists thus leads him to reverse the usual statement. Where Hippocrates looks upon nature as the model for art to follow, Galen calls Nature the artist, in order to set his view in sharp contrast to all mechanical conceptions. “Instead of admiring Nature’s artistic skill,” he declares, “they even go so far as to scoff and maintain that ... things have been made by Nature for no purpose!” Nature, Galen holds, produces effects according to its powers and in conformity to its needs. It seems to work with intelligence and for an end, not blindly and by chance. The true art of medicine, therefore, borrows its method from “Nature’s art.”
+
+The conception of nature as an artist may be taken metaphorically or literally, but the insight controlling the practice of medicine remains the same. The physician is a servant, not a master, of nature. Aristotle’s doctrine of final causes, summarized in the maxim Galen so often repeats—that “nothing is done by Nature in vain”—furnishes a principle for physiological research, as well as the rules of medical art. Whether because of faulty observation on his part, or because of a failure to apply his own principle, Galen leaves to Harvey one of the great discoveries which can be credited to close attention to final causes. Always observant of the relation between structure and function, always questioning the purpose which bodily organs serve, Harvey establishes the fact that the blood circulates, and finds therein the reason for the structure of the heart, its motions, and its relation to the lungs.
+
+It may also be possible for a principle to be carried to excess. Montaigne, for example, expresses his distrust of medical theory and the physician’s remedies by an unqualified trust in nature’s own resourcefulness. Drugs, especially purgatives, do violence to nature. “Men disturb and irritate the disease by contrary oppositions; it must be the way of living that must gently dissolve, and bring it to an end. The violent gripings and contest betwixt the drug and the disease are ever to our loss, since the combat is fought within ourselves, and that the drug is an assistant not to be trusted, being in its own nature an enemy to our health, and by trouble having only access into our condition. Let it alone a little; the general order of things that takes care of fleas and moles, also takes care of men, if they will have the same patience that fleas and moles have, to leave it to itself.”
+
+Nor is there any need for an art of medicine when nature can do better by herself. “We ought to grant free passage to diseases; I find they stay less with me, who let them alone; and I have lost some, reputed the most tenacious and obstinate, by their own decay, without help and without art, and contrary to its rules. Let us a little permit Nature to take her own way; she better understands her own affairs than we.” The Hippocratic doctrine seems to occupy a middle ground between this view of nature as an unerring artist and the opposite extreme which permits all sorts of tampering and tinkering with the machinery of the body.
+
+**THE ART OF MEDICINE** “consists in three things,” writes Hippocrates: “the disease, the patient, and the physician. The physician is the servant of the art, and the patient must combat the disease along with the physician.” With regard to diseases, the physician must “have two special objects in view ... to do good, and to do no harm.”
+
+This celebrated summary indicates the two kinds of knowledge which the physician should possess. He should know about disease in general, so that he can classify diseases according to their special causes, their symptoms, and the typical course each seems to take. Such knowledge underlies the doctor’s diagnosis of the patient’s malady. That in turn determines his prognosis of the stages through which the illness will run, from its onset through various crises or turning points to its sequelae or consequences. Upon the accuracy of his diagnosis and the certainty of his prognosis may depend the effectiveness of any remedy the physician prescribes in the individual case.
+
+But individual cases are seldom completely alike. The physician must therefore know the patient as an individual, and all the relevant circumstances of his life as well as the particular characteristics of this instance of the disease; even though its general characteristics are familiar to him from much experience in the treatment of similar cases. *The Book of Prognostics* and the treatise *Of the Epidemics* in the Hippocratic collection seem to combine both these kinds of knowledge. They enumerate the symptoms by which diseases can be recognized and their future foretold. They also set forth individual case histories from which such generalizations can be drawn.
+
+The practice of medicine thus appears to require more than scientific knowledge of health and disease in general, and more than general rules of art. It requires the sort of experience which can be gained only from actual practice. Without prudence born of experience, general rules can be misapplied, for no general rule, in medicine as in law, fits all cases alike. The most famous of Hippocratic aphorisms conveys a sense of the hazards of medical practice: “Life is short, and Art long; the crisis fleeting; experiment perilous, and decision difficult. The physician must not only be prepared to do what is right himself, but also to make the patient, the attendants, and the externals cooperate.”
+
+To persuade the patient to cooperate is the first maxim governing the physician’s relation to his patient. Plato contrasts the right and wrong relation between doctor and patient by comparing the practice of the physicians who treated slaves and those who treated free men. “The slave-doctor,” he says, “prescribes what mere experience suggests, as if he had exact knowledge, and when he has given his orders, like a tyrant, he rushes off with equal assurance to some other servant who is ill. ... But the other doctor, who is a freeman, attends and practices upon freemen; and he carries his enquiries far back, and goes into the nature of the disorder; he enters into discourse with the patient and with his friends, and is at once getting information from the sick man, and also instructing him as far as he is able, and he will not prescribe for him until he has first convinced him; at last, when he has brought the patient more and more under his persuasive influences and set him on the road to health, he attempts to effect a cure.”
+
+In the treatment of mental diseases, as Freud points out, the proper development and management of the relationship between patient and physician is itself a major factor in psychotherapy. “It presupposes a profound interest for psychological incidents, as well as a personal sympathy for the patient,” he writes. “It requires the full consent and the attention of the patients, but above all, their confidence, for the analysis regularly leads to the inmost and most secretly guarded psychic processes.” Since fears, anxieties, or other temperamental dispositions on the part of the patient may affect the course of an organic ailment, the patient’s confidence in the physician and, even more generally, his emotional response to the physician’s character play an important role in the successful treatment of bodily ills as well as of mental or functional disorders.
+
+Hippocrates recommends that the physician cultivate prognosis, not only for the guidance of his own actions, but also for the sake of the patient. “By foreseeing and foretelling, in the presence of the sick, the present, the past, and the future, and explaining the omissions which patients have been guilty of, he will be the more readily believed to be acquainted with the circumstances of the sick; so that men will have confidence to entrust themselves to such a physician.”
+
+**THE RELATION** of physician and patient raises a question about the organization of the practice of medicine, to which opposite answers have been given in both ancient and modern times. Herodotus reports a high degree of medical specialization in Egypt. “Medicine is practised among them on a plan of separation,” he writes; “each physician treats a single disorder, and no more: thus the country swarms with medical practitioners, some undertaking to cure diseases of the eye, others of the head, others again of the teeth, others of the intestines, and some those which are not local.” The fact that the next paragraph begins a discussion of funerals can hardly be taken as revealing the attitude of Herodotus toward specialization, though his comment on the Egyptian practice does imply a contrast to Greek medicine.
+
+One sentence in the Hippocratic Oath—“I will not cut persons laboring under the stone, but will leave this to be done by men who are practitioners of this work”—indicates some division of labor in the organization of Greek medicine. But apart from the special tasks and skills of surgery, the Hippocratic conception of the physician’s work favors the practice of general medicine rather than specialization. The man, not the disease, is to be treated, and to treat him well the physician must examine the man as a whole, not merely the organ or bodily part in which the disorder seems to be located. The Hippocratic formula for getting a case history calls for an inquiry into the background of the individual’s life, his antecedents, his occupation, his temperament, “the patient’s habits, regimen, and pursuits; his conversation, manners, taciturnity, thoughts, sleep, or absence of sleep, and sometimes his dreams, what they are and when they occur; his picking and scratching; his tears.” From these as well as from the symptoms, says Hippocrates, “we must form our judgment.”
+
+The defense of general practice against specialization is part of Galen’s argument with his adversaries. Treatment of the disordered part as if it could be isolated from the living unity of the whole man is, to Galen, one of the deplorable consequences in medical practice of atomism or mechanism in medical theory.
+
+This issue is argued again and again in the history of medicine, with each side pressing the advantages in its favor. Montaigne, for example, states the case for the specialist by analogy with the advantages of specialization in other arts. “As we have doublet and breeches makers, distinct trades, to clothe us, and are so much the better fitted, seeing that each of them meddles only with his own business, and has less to trouble his head with than the tailor who undertakes them all; and as in matter of diet, great persons, for their better convenience, have cooks for the different offices ... so also as to the cure of our maladies.” With Freud and the development of a greater awareness of the psychological origin of many bodily disorders, a new factor enters into the argument. It tends to favor the general practitioner who, from his acquaintance with the patient as a person, may be better able than the specialist to detect hidden psychological causes.
+
+**THE CONCEPTION** of disease is usually determined by the conception of health. The abnormality is judged and measured as a deviation from the norm. Hippocrates uses the outward appearance of man in a healthy condition as the standard for discerning the visible signs of illness. The physician, he says, “should observe ... first the countenance of the patient, if it be like those of persons in health, and more so, if like itself, for this is the best of all; whereas the most opposite to it is the worst.” He should also take note when he finds the patient reclining in a posture which resembles the normal disposition of the healthy body. “To find the whole body lying in a relaxed state” is a more favorable sign than to find him “upon his back, with the hands, neck, and the legs extended.”
+
+The history of medicine, especially on the side of its science and theory, if not so much with regard to its art and practice, can be told in terms of refinements in the classification of diseases and progressive discovery of their specific causes, both internal and external, predisposing and exciting. But the analysis of diseases according to their aetiology and by reference to the typical picture of the disease process leaves unanswered the general question about the nature of disease as a loss of health.
+
+Apart from its causes and its symptoms, its modes and its patterns, what is disease? This is the question of major speculative interest in the tradition of the great books. The answers given have a certain uniformity in spite of the varying terms in which they are expressed.
+
+The humoral hypothesis of ancient medical theory, for example, conceives health as that condition of the body in which the physiological elements are in a proper proportion or balance, and in which the various parts or powers function harmoniously with one another. As health is harmony or good order in the body, so disease consists in imbalance and disharmony—an excess or defect with consequent disproportion of the elements, or the disorder of conflicting bodily processes.
+
+In the *Timaeus*, Plato first states this theory in terms of the four physical elements. “There are four natures out of which the body is compacted, earth and fire and water and air, and the unnatural excess or defect of these, or the change of any of them from its own natural place into another ... produces disorders and diseases.” He then considers the diseases which result from excess or defect of one or another of the four humors—blood, phlegm, black and yellow bile.
+
+The humoral hypothesis, which Hippocrates and Galen share with Plato and Aristotle, undergoes many transformations in the history of medicine. The four elements or humors are replaced by other physiological factors, such as the hormones or internal secretions, or the elements of modern biochemistry. But constant throughout these changing formulations is the conception of health as an equilibrium, and of disease as its loss through disorder and disproportion.
+
+This broad conception of health and disease seems to apply to mental as well as bodily ills. There is not only a basic continuity between Plato’s and Freud’s discussion of the bodily origin of mental disorders and the psychic origin of physical ailments; but the Freudian emphasis upon conflict and disintegration in the neurotic character—milder forms of the schizophrenia or “split personality” which characterizes insanity—also appeals to harmony as the principle of health. The language of modern psychiatry which refers to “the integrated personality” or “the well-balanced and adjusted individual” defines the norm or the ideal of mental health.
+
+The various kinds and degrees of mental disorder, especially those which seem to be entirely functional rather than organic, represent abnormalities which, though they differ in cause, symptom, and tendency, have in common some excess or defect in the psychic structure or some unresolved conflict in the nature of man. Freud’s psychoanalytic method in the treatment of mental ills places psychotherapy in the main tradition of medical practice; for in addition to insisting that the patient shall help to cure himself, it is directed toward the resolution of conflict, restoring the harmony which is health.
+
+---
+
+## OUTLINE OF TOPICS
+
+1.  The profession of medicine, its aims and obligations: the relation of physician to patient; the place of the physician in society
+2.  The art of medicine
+    *   2a. The scientific foundations of the art of medicine: the contrast between the empiric and the artist in medicine
+    *   2b. The relation of art to nature in healing: imitation and cooperation
+    *   2c. The comparison of medicine with other arts and professions
+3.  The practice of medicine
+    *   3a. The application of rules of art to particular cases in medical practice
+    *   3b. General and specialized practice: treating the whole man or the isolated part
+    *   3c. Diagnosis and prognosis: the interpretation of symptoms; case histories
+    *   3d. The factors in prevention and therapy
+        1.  Control of regimen: climate, diet, exercise, occupation, daily routine
+        2.  Medication: drugs, specifics
+        3.  Surgery
+4.  The concept of health: normal balance or harmony
+5.  The theory of disease
+    *   5a. The nature of disease
+    *   5b. The classification of diseases
+    *   5c. The disease process: onset, crisis, after-effects
+    *   5d. The causes of disease: internal and external factors
+        1.  The humoral hypothesis: temperamental dispositions
+        2.  The psychogenesis of bodily disorders
+    *   5e. The moral and political analogues of disease
+6.  Mental disease or disorder: its causes and cure
+    *   6a. The distinction between sanity and insanity: the concept of mental health and the nature of madness
+    *   6b. The classification of mental diseases
+    *   6c. The process and causes of mental disorder
+        1.  Somatic origins of mental disease
+        2.  Functional origins of mental disease
+    *   6d. The treatment of functional disorders: psychotherapy as a branch of medicine
+7.  The historical record on disease and its treatment: epidemics, plagues, pestilences
+
+---
+
+## REFERENCES
+
+> To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4 Homer**: *Iliad*, BK II [265-283] 12d, the number **4** is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12.
+>
+> **Page Sections**: When the text is printed in one column, the letters **a** and **b** refer to the upper and lower halves of the page. For example, in **53 James**: *Psychology*, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters **a** and **b** refer to the upper and lower halves of the left-hand side of the page, the letters **c** and **d** to the upper and lower halves of the right-hand side of the page. For example, in **7 Plato**: *Symposium*, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.
+>
+> **Author’s Divisions**: One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., *Iliad*, BK II [265-283] 12d.
+>
+> **Bible References**: The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows; e.g., **Old Testament**: Nehemiah, 7:45—(D) II Esdras, 7:46.
+>
+> **Symbols**: The abbreviation “esp” calls the reader’s attention to one or more especially relevant parts of a whole reference; “passim” signifies that the topic is discussed intermittently rather than continuously in the works or passage cited.
+>
+> For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of *The Great Ideas*, consult the Preface.
+
+### 1. The profession of medicine, its aims and obligations: the relation of physician to patient; the place of the physician in society
+
+**Apocrypha**: Ecclesiasticus, 38:1-15—(D) OT, Ecclesiasticus, 38:1-15
+
+**5 Aeschylus**: *Prometheus Bound* [442-506] 44c-45a esp [478-483] 44d
+
+**5 Aristophanes**: *Plutus* [400-414] 633d
+
+**6 Herodotus**: *History*, BK II, 65c; BK III, 117a-118a
+
+**7 Plato**: *Charmides*, 7d; 10d-11a / *Lysis*, 21d; 22d-23a / *Laches*, 27c / *Protagoras*, 55d-56a / *Symposium*, 155d-156b / *Gorgias*, 261a-d; 268d-270b; 287c-288a / *Republic*, BK I, 298a-b; 303a-304a; BK III, 335b-338a / *Statesman*, 599a-b; 600b-d; 601d-602c / *Laws*, BK IV, 684c-685a; BK IX, 745a-b / *Seventh Letter*, 803c-804b
+
+**8 Aristotle**: *Topics*, BK I, CH 10 [104a33-37] 147d; BK II, CH 2 [110a14-22] 154d; CH 3 [110b16-19] 155c; BK V, CH 7 [136b33-137a7] 189a
+
+**9 Aristotle**: *Parts of Animals*, BK I, CH 1 [639a16-21] 161d-162a / *Politics*, BK I, CH 9 [1257a25-30] 451d; [1258a10-14] 452b; CH 10 [1258a23-33] 452b-c; BK III, CH 6 [1278b36-1279a2] 476b; CH 11 [1281b40-1282a6] 479d; CH 16 [1287a32-b3] 485d-486a; BK VII, CH 2 [1324b27-31] 528d
+
+**10 Hippocrates**: *The Oath* xiiia-b / *Ancient Medicine*, par 1-5 1a-2d; par 7 3a / *Prognostics*, par 1 19a-b / *Regimen in Acute Diseases*, par 2-3 26d-27c / *Epidemics*, BK I, SECT I, par 5 46c-d / *Fractures*, par 36, 89a / *Articulations*, par 44, 105a; par 78, 119d / *Aphorisms*, SECT I, par 1 131a / *The Law* 144a-d
+
+**10 Galen**: *Natural Faculties*, BK I, CH 14, 178d-179a; BK III, CH 10 207b-d
+
+**13 Virgil**: *Aeneid*, BK XII [391-397] 364b
+
+**15 Tacitus**: *Annals*, BK VI, 98d
+
+**17 Plotinus**: *Third Ennead*, TR III, CH 5, 96a-b
+
+**18 Augustine**: *Christian Doctrine*, BK I, CH 14 627d-628b
+
+**22 Chaucer**: *Prologue* [411-444] 166b-167a / *Tale of Melibeus*, par 10, 403a
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK I, 29b-c; BK II, 76b; 124d-125b; BK III, 186a-b; BK IV, 232a-233b; 234a-c
+
+**25 Montaigne**: *Essays*, 365b-379a,c esp 375b-d; 401b-402c; 523c-524a; 532a-b
+
+**27 Shakespeare**: *All’s Well That Ends Well*, ACT I, SC I [14-36] 142a-c; SC III [227-262] 147d-148b; ACT II, SC I [71-189] 149b-150c; SC III [46-57] 151d-152a / *Macbeth*, ACT IV, SC I [140-159] 304d-305a
+
+**28 Harvey**: *Motion of the Heart*, 267b,d-268d
+
+**29 Cervantes**: *Don Quixote*, PART II, 345a-346b
+
+**30 Bacon**: *Advancement of Learning*, 50c-53d esp 52d-53a
+
+**31 Descartes**: *Discourse*, PART VI, 61b-c
+
+**36 Swift**: *Gulliver’s Travels*, PART I, 3a-b; PART IV, 155b-157a
+
+**36 Sterne**: *Tristram Shandy*, 412a-414b
+
+**37 Fielding**: *Tom Jones*, 33c-34c; 70c-71b; 86a-c; 161d-162b
+
+**38 Montesquieu**: *Spirit of Laws*, BK XX, 266a
+
+**39 Smith**: *Wealth of Nations*, BK I, 44c
+
+**44 Boswell**: *Life of Johnson*, 13b-c; 261a-b
+
+**47 Goethe**: *Faust*, PART I [997-1010] 25b; [2011-2036] 47b-48a; PART II [7345-7348] 180a
+
+**49 Darwin**: *Descent of Man*, 323c-d
+
+**51 Tolstoy**: *War and Peace*, BK I, 38b-d; 43d-44a; 45b-c; BK V, 215c-d; 225c-227a; BK VIII, 307a-c; BK IX, 372a-373b; 374c-d; BK X, 448d; 449b-c; 464a-d; BK XI, 524c-525a; BK XII, 533d-534a; 535b-c
+
+**52 Dostoevsky**: *Brothers Karamazov*, BK XI, 356d-359c
+
+**54 Freud**: *Origin and Development of Psycho-Analysis*, 19d / *Hysteria*, 64b-c; 71d-72b; 78b-81c passim; 107a-c / *Psycho-Analytic Therapy*, 125b-127a,c esp 127a,c / *“Wild” Psycho-Analysis* 128a-130d esp 130b-c / *General Introduction*, 449a-b; 451b-c; 623d-625b esp 624d-625a / *Ego and Id*, 713b [fn 1] / *New Introductory Lectures*, 866b-c; 870d-871a
+
+### 2. The art of medicine
+
+#### 2a. The scientific foundations of the art of medicine: the contrast between the empiric and the artist in medicine
+
+**Apocrypha**: Ecclesiasticus, 38:1-15—(D) OT, Ecclesiasticus, 38:1-15
+
+**7 Plato**: *Charmides*, 6d-7b / *Lysis*, 17c-18a / *Phaedrus*, 136b-c / *Gorgias*, 261a-262a; 280d-281c; 287d-288b / *Republic*, BK I, 303a-304a; BK III, 337b-c / *Theaetetus*, 516a / *Statesman*, 601d-602c / *Philebus*, 633b-c / *Laws*, BK IV, 684c-685a; BK IX, 745a-b
+
+**8 Aristotle**: *Posterior Analytics*, BK I, CH 13 [79a10-16] 108c; BK II, CH 19 [100b3-9] 136c / *Meteorology*, BK IV, CH 12 493d-494d / *Metaphysics*, BK I, CH I [981a5-24] 499b-c / *Sense and the Sensible*, CH 1 [436a16-b2] 673b / *Youth, Life, and Breathing*, CH 27 [480b21-31] 726d
+
+**9 Aristotle**: *Ethics*, BK I, CH 6 [1096b29-33] 341c; CH 13 [1102a15-26] 347c; BK II, CH 2 [1104a1-9] 349b-c; BK III, CH 3 [1112b30-1113a20] 358b-c; BK VI, CH 1 [1138b25-34] 387b; CH 7 [1141a20-34] 390a-b; CH 10 [1142b34-1143a4] 392b; BK X, CH 9 [1180b13-28] 435b-c / *Politics*, BK III, CH 11 [1281b40-1282a6] 479d; CH 15 [1286a10-15] 484b; CH 16 [1287a32-b3] 485d-486a; BK VII, CH 13 [1331b30-38] 536c / *Rhetoric*, BK I, CH 2 [1355b26-32] 595b; [1356b28-32] 596b-c
+
+**10 Hippocrates**: *Ancient Medicine*, par 1-8 1a-3b; par 12-15 4b-5d; par 20-24 7b-9a,c / *Airs, Waters, Places*, par 1-2 9a-c / *Prognostics*, par 1 19a-b; par 25 26a,c / *Regimen in Acute Diseases*, par 2-3 26d-27c; par 11, 31d-32a / *Epidemics*, BK I, SECT I, par 5 46c-d; SECT II, par 1 49c-d; BK III, SECT III, par 16 59b-c / *Surgery*, par 1 70b / *Fractures*, par 31, 87a-b / *Articulations*, par 10, 94d; par 58, 112d / *Aphorisms*, SECT I, par 1 131a/ *The Law* 144a-d
+
+**10 Galen**: *Natural Faculties*, BK I, CH 13, 175c-177a; BK II, CH 8-9 191b-199a,c esp CH 9, 195c-196a
+
+**17 Plotinus**: *Second Ennead*, TR IX, CH 14 74b-d
+
+**18 Augustine**: *City of God*, BK XX, CH 24, 610c-611a; CH 30, 618a
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 57, A 3, ANS 297b-298a; Q 117, A I, ANS and REP I 595d-597c; PART I-II, Q 14, A 4, ANS 679b-d
+
+**25 Montaigne**: *Essays*, 371c-372b; 377a-d; 450d-451a; 523c-524a
+
+**28 Gilbert**: *On the Loadstone*, BK II, 27b-c
+
+**28 Harvey**: *Motion of the Heart*, 289d-292a esp 289d, 291d-292a / *Circulation of the Blood*, 305a-d / *On Animal Generation*, 376d-377a
+
+**30 Bacon**: *Advancement of Learning*, 5b-c; 48d-49b; 50c-51d; 52b-d; 53a-b; 56c-57b / *Novum Organum*, BK I, APH 1-9 107a-d; APH 64 114b; APH 66, 114d-115a
+
+**31 Descartes**: *Discourse*, PART VI, 61b-c; 66d-67a
+
+**35 Hume**: *Human Understanding*, SECT V, DIV 36, 465a-d [fn 1]
+
+**36 Sterne**: *Tristram Shandy*, 412a-414b
+
+**37 Fielding**: *Tom Jones*, 157a-158a
+
+**51 Tolstoy**: *War and Peace*, BK IX, 372a-373b
+
+**54 Freud**: *Psycho-Analytic Therapy*, 123b-125a esp 123b, 125a / *“Wild” Psycho-Analysis* 128a-130d esp 130b-d / *General Introduction*, 451b-c; 549d-550c; 606c-d / *New Introductory Lectures*, 871d
+
+#### 2b. The relation of art to nature in healing: imitation and cooperation
+
+**6 Herodotus**: *History*, BK III, 117a-c
+
+**7 Plato**: *Symposium*, 155d-156c / *Gorgias*, 260a-262a / *Republic*, BK III, 335c-337a / *Timaeus*, 475c-d / *Statesman*, 599a-b
+
+**8 Aristotle**: *Physics*, BK II, CH 1 [192b8-31] 268b,d-269a; [193a12-17] 269d-270a; CH 2 [194a22-27] 270c; CH 8 [199b26-31] 277a / *Metaphysics*, BK VII, CH 7 [1032a6-29] 555c-d; CH 9 [1034a8-29] 557b-c
+
+**10 Hippocrates**: *Ancient Medicine*, par 3 1d-2b; par 20 7b-d /. *Prognostics*, par 1 19a-b / *Injuries of the Head*, par 17 68d-69a / *Surgery*, par 15 73b-c / *Fractures*, par 1-3 74b,d-76a / *Articulations*, par 2-3 92a-c; par 14 96d-97d; par 42 104b-c / *Aphorisms*, SECT I, par 1 131a; SECT II, par 4 132b; par 51 133d
+
+**17 Plotinus**: *Fourth Ennead*, TR IV, CH 31, 175a
+
+**18 Augustine**: *Christian Doctrine*, BK II, CH 30 651c-d
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 117, A I, ANS and REP I 595d-597c
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 51, A I, ANS 12b-13c
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK III, 207c-d
+
+**25 Montaigne**: *Essays*, 52c-d; 368d-369a; 369c-370a; 528c-529b
+
+**27 Shakespeare**: *King Lear*, ACT IV, SC IV [1-15] 272b-c
+
+**28 Harvey**: *Circulation of the Blood*, 305a-d / *On Animal Generation*, 438c
+
+**30 Bacon**: *Advancement of Learning*, 53b-d / *Novum Organum*, BK I, APH 1-9 107a-d
+
+**31 Descartes**: *Discourse*, PART VI, 61b-c; 66d-67a
+
+**36 Sterne**: *Tristram Shandy*, 195b
+
+**37 Fielding**: *Tom Jones*, 34b; 86b-c
+
+**38 Rousseau**: *Discourse on Inequality*, 336b-337a
+
+**51 Tolstoy**: *War and Peace*, BK IX, 372a-373b; BK X, 449b-c
+
+**54 Freud**: *Origin and Development of Psycho-Analysis*, 2a / *Inhibitions, Symptoms, and Anxiety*, 746b-c
+
+#### 2c. The comparison of medicine with other arts and professions
+
+**7 Plato**: *Charmides*, 6d-7b / *Lysis*, 17c-18a / *Phaedrus*, 136b-137c / *Gorgias*, 260a-262a; 268d-270b; 282c-d; 289c-d / *Republic*, BK I, 298a-299a; BK III, 337b-338a; BK V, 361d-362a / *Theaetetus*, 515d-517b; 525d / *Sophist*, 556d-558d / *Statesman*, 599a-602c / *Philebus*, 633b-c / *Laws*, BK IV, 684c-685a / *Seventh Letter*, 803c-804b
+
+**8 Aristotle**: *Topics*, BK I, CH 3 144a-b; BK V, CH 7 [136b33-137a7] 189a; BK VI, CH 5 [142b30-143a9] 196b-c / *Physics*, BK I, CH 8 [191b33-a9] 267b; BK II, CH 1 [192b23-32] 268d-269a; [193b13-19] 269d-270a; CH 8 [199b26-31] 277a / *Metaphysics*, BK VII, CH 7 [1032b25-b29] 555b-d
+
+**9 Aristotle**: *Parts of Animals*, BK I, CH 1 [639a15-24] 161d-162a / *Ethics*, BK I, CH 1 [1094a6-9] 339a; CH 6 [1096b29-33] 341c; CH 7 [1097a15-23] 342c; CH 13 [1102a15-26] 347c; BK II, CH 2 [1104a1-9] 349b-c; BK III, CH 3 [1112b30-1113a19] 358b-c; BK V, CH 11 [1138a29-b4] 386d-387a; BK VI, CH 1 [1138b25-34] 387b; CH 7 [1141a20-34] 390a-b; CH 12 [1143b21-1144a5] 393b-c passim; CH 13 [1145a6-12] 394d; BK X, CH 9 [1180b7-1181b7] 435b-436a / *Politics*, BK I, CH 9 [1257a25-30] 451d; [1258a10-14] 452b; CH 10 [1258a23-33] 452b-c; BK II, CH 8 [1268b33-37] 464d; BK III, CH 6 [1278b36-1279a2] 476b; CH 11 [1281b40-1282a6] 479d; CH 15 [1286a10-15] 484b; CH 16 [1287a32-b3] 485d-486a; BK VII, CH 2 [1324b27-31] 528d; CH 13 [1331b30-38] 536c / *Rhetoric*, BK I, CH 1 [1355a9-14] 594d-595a; CH 2 [1355b26-36] 595b; [1356a28-35] 596b-c
+
+**10 Hippocrates**: *Ancient Medicine*, par 1 1a-b; par 9 3b-d / *Regimen in Acute Diseases*, par 3 27a-c / *The Law*, par 1-3 144a-d
+
+**13 Virgil**: *Aeneid*, BK XII [391-397] 364b
+
+**14 Plutarch**: *Lycurgus*, 34b / *Pericles*, 129b-d / *Demetrius*, 726a-d
+
+**17 Plotinus**: *Fifth Ennead*, TR IX, CH 11 250c-251a
+
+**18 Augustine**: *Christian Doctrine*, BK II, CH 30 651c-d
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 117, A I, ANS and REP I 595d-597c; PART I-II, Q 14, A 4, ANS 679b-d
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK II, 76b-c; BK III, 186a-c
+
+**25 Montaigne**: *Essays*, 450d-451a
+
+**30 Bacon**: *Advancement of Learning*, 5b-6a; 50c-51d; 52d-53b; 77d-78d
+
+**33 Pascal**: *Pensées*, 33 176b
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 112b-113a
+
+**37 Fielding**: *Tom Jones*, 86a-c; 90b
+
+**39 Smith**: *Wealth of Nations*, BK I, 44c
+
+**51 Tolstoy**: *War and Peace*, BK X, 448d
+
+**54 Freud**: *Hysteria*, 108a-b
+
+### 3. The practice of medicine
+
+#### 3a. The application of rules of art to particular cases in medical practice
+
+**7 Plato**: *Statesman*, 599a-b; 600b-d / *Laws*, BK IV, 684c-685a
+
+**8 Aristotle**: *Metaphysics*, BK I, CH 1 [981a5-24] 499b-c
+
+**9 Aristotle**: *Parts of Animals*, BK I, CH 1 [639a16-21] 161d-162a / *Ethics*, BK II, CH 2 [1104a1-9] 349b-c; BK III, CH 3 [1112b30-1113a20] 358b-c; BK VI, CH I [1138b25-34] 387b; CH 7 [1141a14-21] 390c-d; BK X, CH 9 [1180b7-23] 435b-c / *Politics*, BK III, CH 15 [1286a10-15] 484b; BK VII, CH 13 [1331b30-38] 536c / *Rhetoric*, BK I, CH 2 [1356b28-32] 596b-c
+
+**10 Hippocrates**: *Ancient Medicine*, par 12 4b-c; par 20-21 7b-8a / *Airs, Waters, Places*, par 2 9b-c / *Regimen in Acute Diseases*, par 18 34d-35b / *Epidemics*, BK II, SECT I, par 1 49c-d; BK III, SECT III, par 16 59b-c / *Articulations*, par 10 94d-95a; par 71, 117c / *Aphorisms*, SECT I, par 9 131c
+
+**12 Epictetus**: *Discourses*, BK I, CH 17, 159a-b
+
+**30 Bacon**: *Advancement of Learning*, 52a-53c
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 112b-113a
+
+**36 Sterne**: *Tristram Shandy*, 372b-373a
+
+**37 Fielding**: *Tom Jones*, 70c-71b
+
+**42 Kant**: *Critique of Pure Reason*, 60b-c
+
+**51 Tolstoy**: *War and Peace*, BK IX, 372a-373b
+
+**54 Freud**: *Hysteria*, 32a-c / *General Introduction*, 607a-b / *New Introductory Lectures*, 871d
+
+#### 3b. General and specialized practice: treating the whole man or the isolated part
+
+**6 Herodotus**: *History*, BK II, 65c
+
+**7 Plato**: *Charmides*, 2d-3b / *Phaedrus*, 136b-c / *Gorgias*, 282c-d / *Timaeus*, 474d-475d / *Laws*, BK X, 767d
+
+**10 Hippocrates**: *Ancient Medicine*, par 20 7b-d / *Epidemics*, BK VI, SECT I, par 1 49c-d / *Injuries of the Head*, par 20 69d
+
+**25 Montaigne**: *Essays*, 373c-d
+
+**44 Boswell**: *Life of Johnson*, 350c-d
+
+**46 Hegel**: *Philosophy of History*, PART I, 250c
+
+**51 Tolstoy**: *War and Peace*, BK IX, 372a-373b
+
+**52 Dostoevsky**: *Brothers Karamazov*, BK XI, 340c-d
+
+**54 Freud**: *Hysteria*, 62b-c / *General Introduction*, 451b-452a; 620b-c / *New Introductory Lectures*, 871d-872a
+
+#### 3c. Diagnosis and prognosis: the interpretation of symptoms; case histories
+
+**Old Testament**: Leviticus, 13-14
+
+**6 Herodotus**: *History*, BK I, 44d-45a
+
+**6 Thucydides**: *Peloponnesian War*, BK II, 399c-400c
+
+**7 Plato**: *Protagoras*, 59b-c / *Laws*, BK IV, 684c-685a
+
+**8 Aristotle**: *Prior Analytics*, BK II, CH 27 [70a3-b39] 92a-c passim / *On Prophesying by Dreams*, CH 1 [463a3-b10] 707b-708a
+
+**9 Aristotle**: *History of Animals*, BK IV, CH 10 [537b14-20] 64b; BK VII, CH 12 [588a10-12] 114c; BK VIII, CH 18 [601b6-8] 127c; CH 21 [603a20-24] 129c; CH 23 [604a12]-CH 24 [604b20] 130a-c / *Rhetoric*, BK I, CH 2 [1357a14-21] 597b-c
+
+**10 Hippocrates**: *Airs, Waters, Places*, par 10-11 13b-14b / *Prognostics* 19a-26a,c esp par 1 19a-b, par 15 22d-23a, par 25 26a,c / *Regimen in Acute Diseases*, APPENDIX, par 9-14 38b-40d / *Epidemics*, BK I, SECT II, par 5 46c-d; SECT III, par I-CASE XIV 49c-53d; BK II, SECT I-II 53d-56d; SECT III, par 16-CASE XVII 59b-63d / *Injuries of the Head*, par 5 65a; par 8 65c; par 10-12 65d-67a; par 19 69b-c / *Fractures*, par 5 76d-77a / *Articulations*, par 10 94d-95a; par 26 99a-b; par 30 99c-100b; par 51 109a-b; par 54 111a; par 57 111d-112b; par 58, 112d; par 59 113b / *Instruments of Reduction*, par 4-24 122d-126c passim / *Aphorisms*, SECT I, par 2 131a; par 12 131d; SECT II 132b-134a passim; SECT IV, par 17-SECT V, par 15 135d-138b; SECT V, par 30-SECT VII, par 86 138d-144a,c passim
+
+**12 Lucretius**: *On the Nature of Things*, BK VI [1138-1214] 95b-96b
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 13, A 5, ANS 66b-67d; A 6, ANS 67d-68c; Q 57, A 3, ANS 297b-298a; A 4, ANS 298a-299a
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK III, 197a
+
+**25 Montaigne**: *Essays*, 370c-d; 372b-373b; 531d-532b
+
+**30 Bacon**: *Advancement of Learning*, 49b-50b; 52a; 52c-d
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 112b-113a; 114b; PART IV, 156b-157a
+
+**37 Fielding**: *Tom Jones*, 33c-34a; 70c-71b; 145b-146a; 157a-158a; 373c-d
+
+**51 Tolstoy**: *War and Peace*, BK I, 38c-d; BK VIII, 307a-c; BK IX, 372a-373b; BK XI, 524c-525a
+
+**52 Dostoevsky**: *Brothers Karamazov*, BK XI, 340c
+
+**54 Freud**: *Origin and Development of Psycho-Analysis*, 1b-2b / *Hysteria*, 31b-d; 38d-40a; 50b-c; 54b-56c; 60b-62c esp 60b-d; 87a-90d esp 87a-d / *Psycho-Analytic Therapy*, 124b / *“Wild” Psycho-Analysis*, 128a-129d esp 129c-d / *Interpretation of Dreams*, 151a-c / *General Introduction*, 550d-557a esp 556a-b; 593b-c; 605b-607b passim, esp 606c-607b / *New Introductory Lectures*, 872d-873a
+
+#### 3d. The factors in prevention and therapy
+
+##### 3d(1) Control of regimen: climate, diet, exercise, occupation, daily routine
+
+**Old Testament**: Proverbs, 16:24; 17:22
+
+**Apocrypha**: Ecclesiasticus, 30:25; 31:19-22; 37:29-31—(D) OT, Ecclesiasticus, 30:27; 31:22-27; 37:32-34
+
+**6 Herodotus**: *History*, BK II, 64c-d
+
+**7 Plato**: *Protagoras*, 50d / *Symposium*, 155c-d / *Gorgias*, 261a-d; 289c-d / *Republic*, BK III, 334b-337a; BK IV, 345b-c / *Timaeus*, 474d-475d / *Laws*, BK II, 656b-c / *Seventh Letter*, 803c-804b
+
+**8 Aristotle**: *On the Heavens*, BK II, CH 12 [292a14-b28] 383d-384b
+
+**9 Aristotle**: *History of Animals*, BK VII, CH 12 114c; BK VIII, CH 21 [603b25-34] 129d / *Ethics*, BK II, CH 2 [1104a10-26] 349c-d; BK VI, CH 7 [1141a14-21] 390c-d / *Politics*, BK VII, CH 11 [1330b34-41] 535a; CH 16 [1335b12-19] 540c; CH 17 [1336a4-39] 541a-c; BK VIII, CH 4 [1338b39-1339a10] 544b-c / *Rhetoric*, BK I, CH 6 [1362a29-33] 603a; CH 7 [1364a3-5] 605b
+
+**10 Hippocrates**: *Ancient Medicine*, par 3-11 1d-4b; par 13-16 4c-6b; par 20 7b-d / *Airs, Waters, Places*, par 1 9a-b; par 3-7 9c-12a; par 9-10 12d-14a; par 12 14b-d; par 15 15b-c; par 19-21 16c-17b / *Regimen in Acute Diseases* 26a-44a,c esp par 9 29d-30c, APPENDIX, par 18 41a-d / *Epidemics*, BK I, SECT I, par 1 44a-b; SECT II, par 1 45a-c; par 7-8 47a-c; BK III, SECT III, par 1-2 56d-57a; par 15 59b / *Surgery*, par 20 73d / *Fractures*, par 7 77c-78a; par 9 78c-d; par 36 88d-89a / *Articulations*, par 9 94b-c; par 50, 108b-d; par 55 111a-c; par 58 112b-113a; par 81 120d / *Aphorisms*, SECT I, par 3-11 131a-c; par 13-19 131d-132a; SECT II, par 4 132b; par 16-17,22 132d; par 36 133b; par 38,45 133c; par 49-50 133d; SECT III, par 1-19 134a-d; SECT V, par 16-29 138b-d; SECT VII, par 56 143a; par 66 143c / *Ulcers*, par 1, 145a / *On the Sacred Disease*, 160b-d
+
+**10 Galen**: *Natural Faculties*, BK II, CH 8 191b-195c
+
+**14 Plutarch**: *Lycurgus*, 34b-d; 40c-42a / *Caesar*, 583d-584b
+
+**22 Chaucer**: *Nun’s Priest's Tale* [l. 827-852] 450a-b
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK I, 26d-29d; 48d-49a; BK II, 68a-69a,c; BK III, 134d-135a; 152a-153b; 188d-191c
+
+**25 Montaigne**: *Essays*, 66c-67a; 374a-375a; 524b; 527a-528a
+
+**28 Harvey**: *On Animal Generation*, 433c
+
+**29 Cervantes**: *Don Quixote*, PART II, 345a-346b
+
+**30 Bacon**: *Advancement of Learning*, 26c-d; 47a-b; 53d-54a / *New Atlantis*, 201b; 211b-212c
+
+**32 Milton**: *Paradise Lost*, BK XI [524-534] 310b-311a
+
+**36 Swift**: *Gulliver’s Travels*, PART IV, 163a
+
+**36 Sterne**: *Tristram Shandy*, 525a-526b
+
+**37 Fielding**: *Tom Jones*, 70c-71b; 145b-146a
+
+**38 Rousseau**: *Discourse on Inequality*, 335a-b; 336d-337a
+
+**39 Smith**: *Wealth of Nations*, BK IV, 293d-294b
+
+**44 Boswell**: *Life of Johnson*, 171c-d
+
+**48 Melville**: *Moby Dick*, 353b-354a
+
+**49 Darwin**: *Descent of Man*, 356d-357b
+
+**50 Marx**: *Capital*, 324a-325c
+
+**51 Tolstoy**: *War and Peace*, BK I, 52d; BK V, 215c-d; BK IX, 372a-373b
+
+**54 Freud**: *Hysteria*, 64d-65a
+
+##### 3d(2) Medication: drugs, specifics
+
+**Apocrypha**: Wisdom of Solomon, 16:12—(D) OT, Book of Wisdom, 16:12 / Ecclesiasticus, 38:4-8—(D) OT, Ecclesiasticus, 38:4-8
+
+**4 Homer**: *Iliad*, BK IV [188-219] 25d-26b; BK V [899-906] 39c; BK XI [842-848] 81c
+
+**6 Herodotus**: *History*, BK IV, 143a; 157a
+
+**6 Thucydides**: *Peloponnesian War*, BK II, 400b-c
+
+**7 Plato**: *Timaeus*, 474d-475d / *Statesman*, 601d-602a
+
+**9 Aristotle**: *History of Animals*, BK III, CH 21 [522b9-13] 47d; BK IV, CH 5 [530b6-10] 57b; BK VIII, CH 21 [603b9-16] 129c; CH 24 [604a26-29] 130c; CH 26 131a; CH 29 [607a21-34] 132c-d; BK IX, CH 6 [612a15-18] 138b / *Ethics*, BK VI, CH I [1138b25-34] 387b
+
+**10 Hippocrates**: *Ancient Medicine*, par 13 4c-5a; par 24 8d-9a,c / *Regimen in Acute Diseases*, par 1 26a-d; par 4-7 27c-29c; par 14-17 32c-34c; APPENDIX, par 11 39c-40b; par 16 40d; par 26-39 43a-44a,c / *Fractures*, par 27, 85b-c; par 29 85d-86a / *Articulations*, par 36 101d; par 63 114d-115b / *Aphorisms*, SECT II, par 22 132d / *Ulcers*, par 1 145a-c; par 4-13 146b-149b / *Fistulae*, par 2-12 150b-152d / *Hemorrhoids*, par 2-3 152b,d-153b; par 6-7 153d-154a,c
+
+**10 Galen**: *Natural Faculties*, BK I, CH 13, 176a-177a; CH 14, 179a-b; BK II, CH 9, 195d-196a; BK III, CH 13, 209c
+
+**22 Chaucer**: *Prologue* [411-444] 166b-167a / *Tale of Melibeus*, par 10, 403a
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK I, 26d; BK II, 92b-c; 96a-d; 124d-125d; BK III, 140b; 173d-174a; 189a-c; 196d; 225a; 226d; BK IV, 246d-247a; 310d-311c
+
+**25 Montaigne**: *Essays*, 90d-91b; 365b-379c passim, esp 369c-370a
+
+**27 Shakespeare**: *All’s Well That Ends Well*, ACT I, SC III [227-262] 147d-148b; ACT II, SC I [71-189] 149b-150c; SC III [46-57] 151d-152a / *King Lear*, ACT IV, SC IV [1-19] 272b-c
+
+**28 Gilbert**: *On the Loadstone*, BK I, 19c-21c; BK II, 35b-c
+
+**28 Harvey**: *Motion of the Heart*, 297d
+
+**30 Bacon**: *Advancement of Learning*, 26c-d; 47a-b; 51d-53d esp 53a-c / *New Atlantis*, 201b; 212c
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 108b-109a; 112b-113a; PART IV, 156b-157a; 161b-162a; 169a
+
+**36 Sterne**: *Tristram Shandy*, 372b-373a
+
+**37 Fielding**: *Tom Jones*, 63a-c; 76b; 83b
+
+**38 Rousseau**: *Discourse on Inequality*, 336d-337a
+
+**44 Boswell**: *Life of Johnson*, 257c-d
+
+**49 Darwin**: *Descent of Man*, 323c
+
+**51 Tolstoy**: *War and Peace*, BK I, 38b-d; BK V, 215c-d; BK VIII, 337d-338a; BK IX, 372a-373b; 374a-d; BK X, 449b-c; BK XII, 533d-534a; 535b-c; BK XIV, 595a-b; BK XV, 630b
+
+**54 Freud**: *Hysteria*, 40a-b
+
+##### 3d(3) Surgery
+
+**4 Homer**: *Iliad*, BK XI [842-848] 81c
+
+**7 Plato**: *Republic*, BK III, 336a-b / *Statesman*, 599a-b; 601d-602a
+
+**9 Aristotle**: *History of Animals*, BK III, CH 4 [514b34-a5] 38c; BK VIII, CH 21 [603b5-16] 129b-c; BK IX, CH 50 [631b19-632a2] 157a-c
+
+**10 Hippocrates**: *Prognostics*, par 23 25a-b / *Regimen in Acute Diseases*, par 7 28d-29c; APPENDIX, par 2-6 35d-37a; par 11 39c-40b; par 24 42d; par 29 43a-b / *Injuries of the Head*, par 9 65c-d; par 13-21 67b-70a,c / *Surgery* 70b,d-74d esp par 2 70b, par 4 71a-b, par 6 71b, par 10 72a-b / *Fractures* 74b,d-91d esp par 1 74b,d-75a, par 47-48 90d-91d / *Articulations* 91b,d-121d esp par 61 113d-114a, par 79 120b / *Instruments of Reduction* 121b,d-130d esp par 40 129d-130c / *Aphorisms*, SECT V, par 68 140a; SECT VI, par 22 140d; par 31 141a; par 47 141c; SECT VII, par 46,48 142d; par 53 143a; par 87 144c / *Ulcers*, par 14-17 149b-150a,c / *Fistulae*, par 5 151a-b / *Hemorrhoids*, par 2-6 152b,d-154a
+
+**18 Augustine**: *Christian Doctrine*, BK I, CH 14, 627d-628a
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK II, 119b-c; BK III, 196c
+
+**25 Montaigne**: *Essays*, 330b-d; 373a-b
+
+**28 Harvey**: *Motion of the Heart*, 289d-290a / *On Animal Generation*, 376d-377a; 438b-c
+
+**30 Bacon**: *Advancement of Learning*, 52b-c / *New Atlantis*, 211d
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 113b; PART IV, 148b
+
+**37 Fielding**: *Tom Jones*, 70c-71b; 162a-c
+
+**38 Rousseau**: *Discourse on Inequality*, 336d-337a
+
+**51 Tolstoy**: *War and Peace*, BK X, 464a-465c
+
+**53 James**: *Principles of Psychology*, 844a
+
+**54 Freud**: *Hysteria*, 81b-c
+
+### 4. The concept of health: normal balance or harmony
+
+**7 Plato**: *Charmides*, 2d-3b / *Symposium*, 155d-157a / *Meno*, 175b / *Gorgias*, 282c-283a / *Republic*, BK III, 334b-337a; BK IV, 355b-d; BK IX, 422c-d; 427a / *Timaeus*, 472a-c; 474d-475d / *Philebus*, 616d-617a / *Laws*, BK V, 690a-c
+
+**8 Aristotle**: *Categories*, CH 8 [8b25-9a28] 13d-14b / *Topics*, BK VI, CH 1 [116b17-22] 163a-b / *Physics*, BK VII, CH 3 [246b10-19] 329c-330a / *Metaphysics*, BK V, CH 20 [1022b10-13] 544a / *On the Soul*, BK I, CH 4 [407b31-408a2] 637c; BK II, CH 2 [414a4-14] 644a-b / *Sense and the Sensible*, CH 5 [445b16-31] 683a-b
+
+**9 Aristotle**: *History of Animals*, BK III, CH 19 [520b19-521a14] 45c-46a; BK VII, CH 1 [581b25-582a4] 107b-c / *Parts of Animals*, BK I, CH 1 [640a4-7] 162d; BK II, CH 5 [651b37-a18] 176c; CH 7 177c-179a; BK IV, CH 2 [677a5-b1] 206d-207b / *Ethics*, BK II, CH 2 [1104a10-26] 349c-d; BK V, CH 1 [1129a12-25] 376b-c; CH 11 [1138a28-32] 386d; BK VI, CH 12 [1143b21-1144a5] 393b-c passim / *Rhetoric*, BK I, CH 5 [1361b3-26] 602a-b; CH 7 [1363b34-1364a5] 605b
+
+**10 Hippocrates**: *Ancient Medicine*, par 13-19 4c-7b / *Regimen in Acute Diseases*, par 9, 29d / *On the Sacred Disease*, 156b-c
+
+**10 Galen**: *Natural Faculties*, BK II, CH 8, 194c-d; CH 9, 195c-196a
+
+**12 Lucretius**: *On the Nature of Things*, BK III [558-565] 37b
+
+**12 Aurelius**: *Meditations*, BK V, SECT 8 269d-270b
+
+**18 Augustine**: *City of God*, BK XIX, CH 13 519a-520a; BK XXII, CH 24, 610c-611a / *Christian Doctrine*, BK I, CH 16 628c-d
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 49, A 2 2b-4a; A 3, REP 3 4b-5a; A 4, ANS 5a-6a; Q 50, A I, ANS and REP 2-3 6a-7b; A 3, REP 2 8b-9a; Q 51, A I, ANS 12b-13c; Q 52, A I, ANS and REP 3 15d-18a; A 2, ANS 18a-19a; Q 54, A I, ANS 22d-23d; Q 73, A 2, ANS 120d-121c; A 3, ANS 121c-122b; Q 82, A 1, ANS and REP I 168a-d
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK III, 137d-139b; BK IV, 234a-235a; 239d-240a
+
+**25 Montaigne**: *Essays*, 233c-236a; 368d; 369d-370a
+
+**28 Harvey**: *Motion of the Heart*, 296d-297a / *On Animal Generation*, 493a-b
+
+**30 Bacon**: *Advancement of Learning*, 50c-51d; 72b
+
+**32 Milton**: *Paradise Lost*, BK XI [524-543] 310b-311a / *Areopagitica*, 407b
+
+**36 Swift**: *Gulliver’s Travels*, PART IV, 155b-156a; 170b-171b
+
+**36 Sterne**: *Tristram Shandy*, 412a-417a
+
+**38 Rousseau**: *Discourse on Inequality*, 336b-d / *Political Economy*, 368d-369a
+
+**39 Smith**: *Wealth of Nations*, BK IV, 293d-294b
+
+**42 Kant**: *Preface to the Metaphysical Elements of Ethics*, 368d-369a / *Critique of Judgement*, 509c-d
+
+**51 Tolstoy**: *War and Peace*, BK X, 449b-c
+
+**53 James**: *Principles of Psychology*, 799a-b
+
+**54 Freud**: *General Introduction*, 635b-c
+
+### 5. The theory of disease
+
+#### 5a. The nature of disease
+
+**6 Thucydides**: *Peloponnesian War*, BK II, 400b-c
+
+**7 Plato**: *Lysis*, 21d / *Republic*, BK IV, 354d-355c; BK VIII, 409a; BK X, 435a-d / *Timaeus*, 472a-474d
+
+**8 Aristotle**: *Physics*, BK VII, CH 3 [246a10-b9] 329c-330a
+
+**9 Aristotle**: *Generation of Animals*, BK V, CH 4 [784a31-b34] 326b-d / *Ethics*, BK II, CH 2 [1104a10-19] 349c; BK V, CH 1 [1129a12-25] 376b-c
+
+**10 Hippocrates**: *Ancient Medicine*, par 14 5a-c; par 16 5d-6b; par 19 6d-7b / *Fractures*, par 31, 87a / *On the Sacred Disease*, 159b
+
+**10 Galen**: *Natural Faculties*, BK II, CH 8, 193d; 194c-d; CH 9, 195c-196a; BK III, CH 12 208b-209b esp 208d
+
+**17 Plotinus**: *Second Ennead*, TR IX, CH 14 74b-d
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 71, A I, REP 3 105d-106c; Q 72, A 5, ANS 115a-116b; Q 73, A 2, ANS 120d-121c; A 3, ANS 121c-122b; Q 77, A 3, ANS 147c-148b; Q 82, A I, ANS and REP I 168a-d; A 4, REP 2 170b-171a; Q 88, A 1, ANS 193a-194b; PART III SUPPL, Q 81, A 4, REP 4 966d-967d
+
+**25 Montaigne**: *Essays*, 528c-529b
+
+**28 Harvey**: *Circulation of the Blood*, 305a-d
+
+**32 Milton**: *Paradise Lost*, BK XI [477-543] 309b-311a
+
+**36 Swift**: *Gulliver’s Travels*, PART IV, 155b-157a
+
+**39 Smith**: *Wealth of Nations*, BK IV, 293d-294b
+
+**51 Tolstoy**: *War and Peace*, BK IX, 372a-b
+
+**53 James**: *Principles of Psychology*, 799a-807b esp 799a-800a, 806a-b; 815a
+
+**54 Freud**: *On Narcissism*, 403a-b
+
+#### 5b. The classification of diseases
+
+**7 Plato**: *Timaeus*, 472a-474d
+
+**8 Aristotle**: *Topics*, BK IV, CH 3 [123a34-37] 172c
+
+**9 Aristotle**: *History of Animals*, BK VIII, CH 18-27 127b-131b / *Ethics*, BK VII, CH 8 [1150b29-35] 401c-d
+
+**10 Hippocrates**: *Airs, Waters, Places*, par 3-6 9c-11a / *Regimen in Acute Diseases*, par 1-2, 26c-d / *Epidemics*, BK I, SECT II, par 2 49d-50a / *Injuries of the Head*, par 4-8 64d-65c / *Fractures*, par 31, 87a / *Articulations*, par 51 109a-b; par 61 113d-114a / *Aphorisms*, SECT III 134a-135b
+
+**10 Galen**: *Natural Faculties*, BK II, CH 8, 193c-194c
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 73, A 3, ANS 121c-122b; A 7, ANS 124d-125c
+
+**30 Bacon**: *Advancement of Learning*, 51d-52a
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 112b-113a; PART IV, 155b-157a
+
+**54 Freud**: *Hysteria*, 87a-d; 114d / *General Introduction*, 605b-606d passim, esp 606c-d
+
+#### 5c. The disease process: onset, crisis, after-effects
+
+**Old Testament**: Leviticus, 13-14
+
+**6 Thucydides**: *Peloponnesian War*, BK II, 399c-400c
+
+**10 Hippocrates**: *Prognostics* 19a-26a,c esp par 15-20 22d-24c / *Regimen in Acute Diseases*, APPENDIX, par I 35c-d; par 9-15 38b-40d; par 22 42b-c / *Epidemics* 44a-63d esp BK I, SECT II, par 2-3 49d-50b / *Injuries of the Head*, par 19 69b-c / *Fractures*, par 31 86d-87d / *Articulations*, par 69 116b-117a / *Aphorisms*, SECT I, par 7-12 131b-d; SECT II, par 13 132c; par 23-32 132d-133b; SECT III, par 28 135a-b; SECT IV, par 22-82 136a-137d esp par 30 136b, par 36 136b-c, par 64 137b
+
+**10 Galen**: *Natural Faculties*, BK I, CH 14, 177c
+
+**12 Lucretius**: *On the Nature of Things*, BK III [487-505] 36b-c; BK VI [1138-1214] 95b-96b
+
+**30 Bacon**: *Advancement of Learning*, 51d-52a
+
+**37 Fielding**: *Tom Jones*, 86a-c
+
+**48 Melville**: *Moby Dick*, 350b-354a
+
+**49 Darwin**: *Descent of Man*, 256c
+
+**54 Freud**: *On Narcissism*, 402d-403a / *General Introduction*, 618c
+
+#### 5d. The causes of disease: internal and external factors
+
+**Old Testament**: Leviticus, 26:16 / Numbers, 12:10-15; 16:46-50 / Deuteronomy, 28:21-22,27-28,35,58-62 / II Kings, 5:27—(D) IV Kings, 5:27 / I Chronicles, 21:14-15—(D) I Paralipomenon, 21:14-15 / II Chronicles, 26:18-21—(D) II Paralipomenon, 26:18-21 / Job, 2:7 / Psalms, 107:17-20—(D) Psalms, 106:17-20
+
+**Apocrypha**: II Maccabees, 3:27-29; 9—(D) OT, II Machabees, 3:27-29; 9
+
+**New Testament**: Matthew, 9:32-33; 17:14-18 / I Corinthians, 11:25-30
+
+**4 Homer**: *Iliad*, BK I [33-100] 3b-4b
+
+**5 Sophocles**: *Oedipus the King* [1-215] 99a-101a
+
+**6 Herodotus**: *History*, BK I, 32c-d; 38a-b; BK II, 64c-d; BK IV, 135c-d; 157a
+
+**7 Plato**: *Symposium*, 155d-157a / *Republic*, BK II, 318c-319a; BK III, 334b-335d; BK IV, 345b-c; BK VIII, 412d; BK X, 434d-435c / *Timaeus*, 472a-474d; 476b-d
+
+**8 Aristotle**: *Meteorology*, BK IV, CH 7 [384a25-34] 488c
+
+**9 Aristotle**: *History of Animals*, BK III, CH 15 [519b15-19] 44c; CH 19 [521a10-32] 46a-b; BK VII, CH 1 [581b22-582a5] 107b-c; CH 12 114c; BK VIII, CH 18-27 127b-131b passim; CH 29 132c-d / *Parts of Animals*, BK II, CH 5 [651b37-a18] 176c; CH 7 [653a1-7] 178d-179a; BK III, CH 7 [670b5-11] 199a; BK IV, CH 2 [677a5-b1] 206d-207b / *Generation of Animals*, BK IV, CH 7 317d-318b; BK V, CH 4 [784a31-b34] 326b-d / *Ethics*, BK II, CH 2 [1104a10-19] 349c
+
+**10 Hippocrates**: *Ancient Medicine*, par 1 1a-b; par 3 1d-2b; par 6 2d-3a; par 9-11 3b-4b; par 13-22 4c-8d / *Airs, Waters, Places*, par 1-10 9a-14a esp par 10 13b-14a; par 22 17b-18a / *Regimen in Acute Diseases*, par 9-10 29d-30d; APPENDIX, par 1 35c-d; par 6 36c-37a; par 17 40d-41a / *Epidemics*, BK I, SECT I, par 1 44a-b; SECT III, par 7-8 47a-c; BK III, SECT III, par 1-2 56d-57a; par 15 59b / *Surgery*, par 20 73d / *Articulations*, par 12 96a-b; par 58, 113a / *Aphorisms*, SECT II, par 51 133d; SECT III, par 1-19 134a-d; SECT V, par 16-24 138b-c / *Fistulae*, par 1 150a / *Hemorrhoids*, par 1 152b / *On the Sacred Disease* 154a-160d esp 155d-156a
+
+**10 Galen**: *Natural Faculties*, BK I, CH 11, 172b-c; BK II, CH 8-9 191b-199a,c esp CH 8, 194c-d, CH 9, 195c-196a
+
+**12 Lucretius**: *On the Nature of Things*, BK VI [769-829] 90c-91b; [1090-1137] 94d-95b
+
+**17 Plotinus**: *Second Ennead*, TR IX, CH 14 74b-d
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 81, A I, ANS 163a-164d; Q 82, A 2, ANS 168d-169c; A 4, REP 2 170b-171a; Q 83, A 4, ANS 173c-174b; Q 85, AA 5-6 181d-184a
+
+**22 Chaucer**: *Prologue* [411-444] 166b-167a
+
+**23 Hobbes**: *Leviathan*, PART II, 148d; 151b-c; 152b
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK I, 53a-c
+
+**25 Montaigne**: *Essays*, 367b-368a; 371c-d
+
+**28 Harvey**: *Motion of the Heart*, 296a-d / *Circulation of the Blood*, 305a-d; 316c-d; 321d-322a / *On Animal Generation*, 386d-387a; 407a; 423b; 433a-c; 455d-456a; 493a-b
+
+**30 Bacon**: *Advancement of Learning*, 49d-50b; 52b-d
+
+**31 Descartes**: *Discourse*, PART VI, 61c
+
+**32 Milton**: *Paradise Lost*, BK XI [477-548] 309b-311a
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 112b-113a; PART IV, 155b-157a; 161b-162a; 163a
+
+**36 Sterne**: *Tristram Shandy*, 413b-414b
+
+**38 Rousseau**: *Discourse on Inequality*, 336a-337a esp 336b-c; 364b-c
+
+**39 Smith**: *Wealth of Nations*, BK I, 34d-35b
+
+**41 Gibbon**: *Decline and Fall*, 70d-71a
+
+**44 Boswell**: *Life of Johnson*, 306d-307a
+
+**48 Melville**: *Moby Dick*, 350b-351b
+
+**49 Darwin**: *Origin of Species*, 9d-10a / *Descent of Man*, 256a; 325c-327a passim; 351a-355a; 356d-357b
+
+**50 Marx**: *Capital*, 115c; 118b-124a; 142b,d [fn 4]; 178b [fn 1]; 194b-195b; 204a-c; 229c; 236c-237d; 324a-330d passim
+
+**51 Tolstoy**: *War and Peace*, BK I, 52d
+
+**53 James**: *Principles of Psychology*, 69a-b; 535a; 895a
+
+**54 Freud**: *General Introduction*, 604c-605c
+
+##### 5d(1) The humoral hypothesis: temperamental dispositions
+
+**7 Plato**: *Timaeus*, 472a-474d
+
+**9 Aristotle**: *Parts of Animals*, BK IV, CH 2 [677a5-b1] 206d-207b
+
+**10 Hippocrates**: *Ancient Medicine*, par 13-20 4c-7d; par 22 8a-d; par 24 8d-9a,c / *Airs, Waters, Places*, par 10 13b-14a / *Regimen in Acute Diseases*, APPENDIX, par 1 35c-d; par 3 35d-36a; par 5-6 36b-37a / *Epidemics*, BK III, SECT III, par 14 59b / *Aphorisms*, SECT III, par 2 134a; par 11 134b; par 14 134c / *On the Sacred Disease*, 155d-160d esp 159a-b
+
+**10 Galen**: *Natural Faculties*, BK II, CH 8-9 191b-199a,c
+
+**12 Lucretius**: *On the Nature of Things*, BK III [487-505] 36b-c
+
+**14 Plutarch**: *Alexander*, 542a-c
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 119, A I, REP 3 604c-607b; PART I-II, Q 46, A 5, ANS and REP I 815d-816d
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 73, A 2, ANS 120d-121c; A 3, ANS 121c-122b; Q 77, A 3, ANS 147c-148b; Q 82, A I, REP 1 168a-d; A 4, REP 2 170b-171a; PART III SUPPL, Q 80, A 3 958b-959c; Q 82, A 1, ANS and REP 4 968a-970c
+
+**22 Chaucer**: *Prologue* [411-444] 166b-167a
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK III, 138a-d
+
+**25 Montaigne**: *Essays*, 371c-d
+
+**28 Harvey**: *On Animal Generation*, 435b-c
+
+**30 Bacon**: *Advancement of Learning*, 26c-d; 52b-c; 77a-c
+
+**32 Milton**: *Samson Agonistes* [599-605] 352b
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 112b-113a; PART IV, 163a
+
+**36 Sterne**: *Tristram Shandy*, 380a; 412a-417a esp 412a-414b
+
+**37 Fielding**: *Tom Jones*, 283a-b
+
+##### 5d(2) The psychogenesis of bodily disorders
+
+**Apocrypha**: Ecclesiasticus, 30:21-24—(D) OT, Ecclesiasticus, 30:22-26
+
+**7 Plato**: *Charmides*, 2d-3b / *Timaeus*, 474d-475c
+
+**10 Hippocrates**: *Epidemics*, BK VII, SECT II, CASE XI 62b-c; CASE XV 63b-c / *On the Sacred Disease*, 158a
+
+**12 Lucretius**: *On the Nature of Things*, BK III [147-160] 32a
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 117, A 3, REP 3 598c-599b; PART I-II, Q 28, A 5, ANS 743c-744b
+
+**25 Montaigne**: *Essays*, 36c-42a; 234c-235a; 332d-333c; 532a-b
+
+**28 Harvey**: *Motion of the Heart*, 296d / *Circulation of the Blood*, 321d-322a
+
+**30 Bacon**: *Advancement of Learning*, 49d-50b
+
+**36 Swift**: *Gulliver’s Travels*, PART IV, 163a
+
+**37 Fielding**: *Tom Jones*, 253d
+
+**44 Boswell**: *Life of Johnson*, 350c-d
+
+**51 Tolstoy**: *War and Peace*, BK II, 142d; BK V, 220b-c; BK VI, 247d-248a; BK VII, 301b-302d passim; BK IX, 373a-b; BK XIII, 567d-568c esp 568b; BK XV, 617a-b
+
+**52 Dostoevsky**: *Brothers Karamazov*, BK XI, 331d-332a
+
+**53 James**: *Principles of Psychology*, 132a-135b esp 132a-b; 847b-848a
+
+**54 Freud**: *Origin and Development of Psycho-Analysis*, 1b-6b esp 4c-5a / *Hysteria*, 25a-59d esp 25a-27a, 30a-d, 35b-c, 37d-38d, 56b-58c; 82d-83c; 88c-89c; 90b-d / *On Narcissism*, 403a-c / *Repression*, 426b-c / *General Introduction*, 572a-b / *Inhibitions, Symptoms, and Anxiety*, 718a-719d; 728c-729a / *New Introductory Lectures*, 852a-b
+
+#### 5e. The moral and political analogues of disease
+
+**Old Testament**: Psalms, 147:3—(D) Psalms, 146:3 / Isaiah, 1:4-6—(D) Isaias, 1:4-6 / Jeremiah, 8:21-22; 30:12-17; 33:6; 46:11—(D) Jeremias, 8:21-22; 30:12-17; 33:6; 46:11
+
+**5 Sophocles**: *Oedipus the King* 99a-113a,c esp [1297-1415] 111b-112b
+
+**7 Plato**: *Gorgias*, 268b-c / *Republic*, BK IV 345a-d; 354d-355c; BK VIII, 409a; 412d; BK X, 435a-d / *Timaeus*, 474b-d / *Sophist*, 556d-558d / *Laws*, BK IV, 684c-685a; BK V, 690d-691b
+
+**8 Aristotle**: *Metaphysics*, BK IV, CH 4 [1008b25-32] 528b
+
+**9 Aristotle**: *Ethics*, BK II, CH 2 [1104a10-26] 349c-d; BK V, CH 11 [1138a29-b4] 386d-387a; BK VII, CH 8 [1150b29-1151a4] 401c-d
+
+**12 Aurelius**: *Meditations*, BK V, SECT 8 269d-270b
+
+**14 Plutarch**: *Agesilaus*, 495c-d / *Phocion*, 605a-b / *Aratus*, 834d
+
+**15 Tacitus**: *Annals*, BK III, 57d-58b
+
+**18 Augustine**: *Christian Doctrine*, BK I, CH 14 627d-628b; CH 16 628c-d
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 71, A I, REP 3 105d-106c; Q 72, A 5, ANS 115a-116b; Q 73, A 2, ANS 120d-121c; A 3, ANS 121c-122b; Q 77, A 3 147c-148b; Q 82, A I, ANS and REP 1 168a-d; A 4, REP 2 170b-171a; Q 88, A 1, ANS 193a-194b
+
+**22 Chaucer**: *Tale of Melibeus*, par 10, 403a
+
+**23 Hobbes**: *Leviathan*, PART I, 68d-69a; PART II, 148c-153a
+
+**25 Montaigne**: *Essays*, 330b-d; 462c-465c passim; 504c-505d
+
+**27 Shakespeare**: *Hamlet*, ACT III, SC IV [144-152] 56a-b / *Othello*, ACT II, SC III [321-333] 225c-d
+
+**36 Swift**: *Gulliver’s Travels*, PART III, 112b-113a
+
+**36 Sterne**: *Tristram Shandy*, 215b-216a; 380a
+
+**38 Rousseau**: *Political Economy*, 368d-369b / *Social Contract*, BK III, 419c-d
+
+**39 Smith**: *Wealth of Nations*, BK IV, 293d-294b
+
+**43 Federalist**: NUMBER 38, 122b-123c
+
+### 6. Mental disease or disorder: its causes and cure
+
+#### 6a. The distinction between sanity and insanity: the concept of mental health and the nature of madness
+
+**7 Plato**: *Timaeus*, 474b-d
+
+**8 Aristotle**: *Physics*, BK VII, CH 3 [247b1-248a9] 330b-d / *On Dreams*, CH 2 [460b32-a18] 704b-c
+
+**9 Aristotle**: *Ethics*, BK VII, CH 5 399a-d passim
+
+**10 Hippocrates**: *On the Sacred Disease*, 159a-b
+
+**12 Epictetus**: *Discourses*, BK II, CH 15 155c-156b
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 84, A 7, ANS 449b-450b; Q 115, A 5, REP 1 590d-591c; PART I-II, Q 6, A 7, REP 3 650a-d; Q 10, A 3, ANS and REP 2 664d-665c; Q 24, A 2, ANS 727d-728c; Q 28, A 3, ANS and REP I 742a-d; Q 37, A 4, REP 3 785d-786d; Q 48, AA 3-4 824c-826a,c
+
+**20 Aquinas**: *Summa Theologica*, PART I-II, Q 74, A 5, REP 1 131d-132b
+
+**23 Hobbes**: *Leviathan*, PART I, 66d-67b; 68b-69c
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK III, 201b-d
+
+**25 Montaigne**: *Essays*, 166a-167a; 235b-c
+
+**30 Bacon**: *Advancement of Learning*, 72b
+
+**31 Descartes**: *Objections and Replies*, 155d-156a
+
+**31 Spinoza**: *Ethics*, PART IV, PROP 44, SCHOL 437d-438a
+
+**35 Locke**: *Essay Concerning Human Understanding*, BK II, CH XI, SECT 13 146b-c; CH XXXIII, SECT 3-4 248c-d
+
+**35 Hume**: *An Enquiry Concerning Human Understanding*, SECT II, DIV 11, 455b-c
+
+**37 Fielding**: *Tom Jones*, 68c-d
+
+**43 Mill**: *On Liberty*, 299d-300b [fn 1]
+
+**44 Boswell**: *Life of Johnson*, 13c-14a; 111d; 354c-355a
+
+**48 Melville**: *Moby Dick*, 388b-389b
+
+**51 Tolstoy**: *War and Peace*, BK XI, 525c
+
+**52 Dostoevsky**: *Brothers Karamazov*, BK XII, 356d-359b
+
+**53 James**: *Principles of Psychology*, 137a; 241b-258b esp 242a-244a; 749a-750b; 799a-807a esp 799a-800a, 806a-b
+
+**54 Freud**: *Origin and Development of Psycho-Analysis*, 18c-19a / *Hysteria*, 86a-d; 102a-106c / *Interpretation of Dreams*, 174d-176d; 289a-b; 364c-d / *On Narcissism*, 399b-d / *The Unconscious*, 433c; 440a-442b / *General Introduction*, 593c; 624c-625d; 633d-635c esp 635b-c / *Thoughts for the Times on War and Death*, 760b / *New Introductory Lectures*, 812a; 830d-832a
+
+#### 6b. The classification of mental diseases
+
+**7 Plato**: *Timaeus*, 474b-d
+
+**9 Aristotle**: *Ethics*, BK VII, CH 5 399a-d passim
+
+**10 Hippocrates**: *On the Sacred Disease*, 159b-c
+
+**23 Hobbes**: *Leviathan*, PART I, 67b; 68c-d
+
+**53 James**: *Principles of Psychology*, 241b
+
+**54 Freud**: *Hysteria*, 60b-61c; 87a-d / *On Narcissism*, 403b-d / *General Introduction*, 451d; 568c; 605b-606d esp 606c-d; 620c-d
+
+#### 6c. The process and causes of mental disorder
+
+**New Testament**: Mark, 9:17-29—(D) Mark, 9:16-28
+
+**5 Aeschylus**: *Choephoroe* [1021-1076] 80a-d
+
+**5 Sophocles**: *Ajax* [1-332] 143a-146a
+
+**5 Euripides**: *Bacchantes* 340a-352a,c esp [847-1326] 347b-351b / *Heracles Mad* [815-1145] 371d-374d esp [822-873] 372a-c / *Orestes* [1-426] 394a-398b
+
+**6 Herodotus**: *History*, BK II, 86b; BK III, 95d-98a; BK VI, 199c-201c esp 201b-c
+
+**7 Plato**: *Timaeus*, 474b-d
+
+**8 Aristotle**: *Categories*, CH 8 [9a34-10a6] 15a / *On Dreams*, CH 2 [460b32-a18] 704b-c
+
+**9 Aristotle**: *Ethics*, BK VII, CH 5 399a-d passim
+
+**10 Hippocrates**: *On the Sacred Disease* 154a-160d esp 155d-156a, 159a-b
+
+**12 Lucretius**: *On the Nature of Things*, BK III [487-505] 36b-c
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 115, A 5, REP 1 590d-591c; PART I-II, Q 6, A 7, REP 3 650a-d; Q 10, A 3, ANS and REP 2 664d-665c; Q 24, A 2, ANS 727d-728c; Q 28, A 3, ANS and REP 1 742a-d; Q 37, A 4, REP 3 785d-786d; Q 48, AA 3-4 824c-826a,c
+
+**23 Hobbes**: *Leviathan*, PART I, 67b; 68b-71b
+
+**25 Montaigne**: *Essays*, 235b-c
+
+**26 Shakespeare**: *A Midsummer-Night’s Dream*, ACT V, SC I [1-27] 370d-371a
+
+**27 Shakespeare**: *Hamlet*, ACT II, SC II [171-221] 42b-d; ACT III, SC IV [102-144] 55d-56a; ACT IV, SC V [1-75] 59c-60b; [154-200] 61b-d; ACT V, SC II [237-254] 70b-c / *King Lear*, ACT II, SC IV [274-289] 261c-d; ACT III, SC IV 264a-266b; ACT IV, SC IV [1-19] 272b-c; SC VI [80-294] 274b-276c; SC VII [14-82] 276d-277c / *Macbeth*, ACT V, SC I 306b-307a; SC III [37-54] 308a-b
+
+**28 Harvey**: *On Animal Generation*, 347c
+
+**29 Cervantes**: *Don Quixote* esp PART I, 1a-3b, 32c-33a, 83a-c, 88b-89a, PART II, 205a-209d, 252c-257a, 258d
+
+**31 Descartes**: *Meditations*, I, 75d
+
+**31 Spinoza**: *Ethics*, PART IV, PROP 44, SCHOL 437d-438a
+
+**35 Locke**: *Essay Concerning Human Understanding*, BK II, CH XI, SECT 13 146b-c; CH XXXIII, SECT 3-4 248c-d
+
+**37 Fielding**: *Tom Jones*, 68c-d
+
+**41 Gibbon**: *Decline and Fall*, 598a-b
+
+**44 Boswell**: *Life of Johnson*, 127a-b; 214b-c; 356b-c
+
+**48 Melville**: *Moby Dick*, 122b-124b; 135a-138a; 232b-235a; 306a-307a
+
+**51 Tolstoy**: *War and Peace*, BK XV, 616a-617a
+
+**52 Dostoevsky**: *Brothers Karamazov*, BK I, 4c-5a; BK II, 21d-22b; BK III, 62d-63b; BK XI, 337a-348d passim; BK XII, 364d-365d; 376a-377b
+
+**53 James**: *Principles of Psychology*, 132a-138b passim, esp 137a; 244b-252a passim, esp 251b-252a; 258a-b; 533a-538b; 753b-754b; 800a-806b passim; 828b-829a
+
+**54 Freud**: *Origin and Development of Psycho-Analysis*, 1b-19a esp 4a-5a, 6a-b, 8a, 14b, 18b-19a / *Hysteria*, 25a-106c passim, esp 25a-27a, 35b-c, 37d-38a, 53b-c, 81c-87a, 93d-96a, 97b-106c; 110d-118a,c / *On Narcissism*, 402d-404d / *The Unconscious*, 440a-443d esp 440a-b / *General Introduction*, 451d-452a; 546b-623b esp 567d-569c, 585b-591a, 593b-596b, 599d-600d, 602d-607b, 611a-615a, 616b-c / *Beyond the Pleasure Principle*, 641a-c; 648d-650a esp 649c / *Group Psychology*, 690d-691c; 695b-696a,c / *Ego and Id*, 712c-715c; 716d-717a,c / *Inhibitions, Symptoms, and Anxiety*, 720a-752c esp 720a-723d, 744b-747b / *Civilization and Its Discontents*, 774c-d; 798c-799a / *New Introductory Lectures*, 830d-832a; 866b-867a
+
+##### 6c(1) Somatic origins of mental disease
+
+**6 Herodotus**: *History*, BK III, 96c
+
+**7 Plato**: *Timaeus*, 474b-d
+
+**8 Aristotle**: *Physics*, BK VII, CH 3 [247b13-248a6] 330c-d
+
+**9 Aristotle**: *Parts of Animals*, BK II, CH 7 [653a1-7] 178d-179a / *Ethics*, BK VII, CH 3 [1147a14-17] 397b
+
+**10 Hippocrates**: *On the Sacred Disease*, 155d-160d esp 159a-b
+
+**12 Lucretius**: *On the Nature of Things*, BK III [459-475] 36a
+
+**19 Aquinas**: *Summa Theologica*, PART I, Q 84, A 7, ANS 449b-450b; Q 115, A 5, REP 1 590d-591c
+
+**23 Hobbes**: *Leviathan*, PART I, 68c
+
+**27 Shakespeare**: *King Lear*, ACT II, SC IV [106-113] 259c
+
+**28 Harvey**: *On Animal Generation*, 347c
+
+**30 Bacon**: *Advancement of Learning*, 49d-50b
+
+**31 Descartes**: *Meditations*, I, 75d
+
+**31 Spinoza**: *Ethics*, PART IV, PROP 39, SCHOL 436c-437a; PROP 44, SCHOL 437d-438a
+
+**32 Milton**: *Samson Agonistes* [599-605] 352b
+
+**36 Swift**: *Gulliver’s Travels*, PART IV, 163a
+
+**49 Darwin**: *Descent of Man*, 291a; 299c; 318b
+
+**51 Tolstoy**: *War and Peace*, BK XI, 524c-527a
+
+**53 James**: *Principles of Psychology*, 2b-3a; 23b-26b esp 25b; 32a-34a; 35b-37b; 40b-41a
+
+**54 Freud**: *Hysteria*, 60d-61a; 90d-97b esp 94b-95d; 111b-115a esp 114a-115a / *On Narcissism*, 403a-d / *General Introduction*, 604c-606a esp 605c-606a / *Beyond the Pleasure Principle*, 641a; 649c / *Inhibitions, Symptoms, and Anxiety*, 744b-745d / *Civilization and Its Discontents*, 773a-b
+
+##### 6c(2) Functional origins of mental disease
+
+**54 Freud**: *Origin and Development of Psycho-Analysis* 1a-20d esp 4a-5c, 7a-9a, 18b-19a / *Hysteria*, 25a-106c passim, esp 25a-27a, 35b-c, 37d-38d, 52c-53c, 81c-87a, 97b-106c / *Interpretation of Dreams*, 364d-365c; 370b-c; 380d-382a esp 381d-382a / *On Narcissism*, 406d-410b esp 409c-d / *Repression*, 425c-427a,c / *The Unconscious*, 434c-436b / *General Introduction*, 546b-623b esp 550d-569c, 577a-591a, 599d-600d, 604c-605b, 611a-615a, 620b-623b / *Group Psychology*, 690c-691c / *Ego and Id*, 699a-c; 704d; 712c-714a / *Inhibitions, Symptoms, and Anxiety*, 720a-752c esp 720a-723d, 728b-731d, 746c-747b
+
+#### 6d. The treatment of functional disorders: psychotherapy as a branch of medicine
+
+**12 Lucretius**: *On the Nature of Things*, BK III [31-93] 30b-31b esp [87-93] 31b; [510-522] 36c-d; BK VI [1-42] 80a-c
+
+**19 Aquinas**: *Summa Theologica*, PART I-II, Q 38 786d-789d
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK III, 188d-191c
+
+**25 Montaigne**: *Essays*, 37c-39a; 401b-406a
+
+**27 Shakespeare**: *King Lear*, ACT IV, SC IV [1-19] 272b-c / *Macbeth*, ACT V, SC I 306b-307a esp [79-83] 307a; SC III [37-54] 308a-b
+
+**30 Bacon**: *Advancement of Learning*, 77d-78d
+
+**44 Boswell**: *Life of Johnson*, 127a-b; 284c-d; 297d-298a; 354c-355a
+
+**48 Melville**: *Moby Dick*, 357b-358b
+
+**51 Tolstoy**: *War and Peace*, BK XV, 614a-d; 616a-618b esp 616b, 617a-b, 618b
+
+**52 Dostoevsky**: *Brothers Karamazov*, BK II, 21d-23c
+
+**53 James**: *Principles of Psychology*, 132b; 135a-b
+
+**54 Freud**: *Origin and Development of Psycho-Analysis* 1a-20d esp 2a-3a, 6c-7a, 8d-9a, 10c-11a, 13c-14a, 19a-20c / *Hysteria*, 26c-d; 30d-81c esp 30d-31a, 59d-81c; 106c-111b esp 107a-108b / *Psycho-Analytic Therapy* 123a-127a,c / *“Wild” Psycho-Analysis* 128a-130d / *General Introduction*, 449a-452a; 545a-550c; 560c-561b; 563a-566a; 606a-c; 623c-638a,c / *Beyond the Pleasure Principle*, 643d-644a / *Group Psychology*, 695c / *Ego and Id*, 712c-713a esp 713b [fn 1] / *Inhibitions, Symptoms, and Anxiety*, 748b-d / *New Introductory Lectures*, 840a; 864a-873d esp 871a-873d
+
+### 7. The historical record on disease and its treatment: epidemics, plagues, pestilences
+
+**Old Testament**: Leviticus, 13-14
+
+**4 Homer**: *Iliad*, BK IV [188-219] 25d-26b; BK V [899-906] 39c; BK XI [842-848] 81c
+
+**6 Herodotus**: *History*, BK I, 44d-45a; BK II, 64c-d; 65c; BK III, 117a-118a; BK IV, 135c-d; 157a
+
+**6 Thucydides**: *Peloponnesian War*, BK II, 399b-401b; BK III, 438d
+
+**7 Plato**: *Republic*, BK III, 335c-336a
+
+**9 Aristotle**: *History of Animals*, BK VIII, CH 19 [602b12-19] 128c / *Politics*, BK III, CH 15 [1286a10-15] 484b
+
+**10 Hippocrates**: *Ancient Medicine*, par 1-3 1a-2b / *Regimen in Acute Diseases*, par 1 26a-d / *Epidemics* 44a-63d / *On the Sacred Disease*, 154a-155d; 160b-d
+
+**12 Lucretius**: *On the Nature of Things*, BK III [459-525] 36a-d; BK VI [769-829] 90c-91b; [1138-1286] 95b-97a,c
+
+**14 Plutarch**: *Romulus*, 26d-27a / *Camillus*, 113d / *Pericles*, 138b-140c / *Coriolanus*, 179c-180a / *Timoleon*, 212c-d / *Pyrrhus*, 315c / *Caius Marius*, 334c / *Sulla*, 386c-d / *Agesilaus*, 492d / *Alexander*, 549a-c; 575d-576d / *Caesar*, 583d-584a; 593c-594a / *Marcus Brutus*, 812c
+
+**15 Tacitus**: *Annals*, BK XVI, 178d-179a / *Histories*, BK II, 239c-d; BK IV, 292c-293a
+
+**23 Hobbes**: *Leviathan*, PART I, 69c-71a; PART IV, 260d
+
+**24 Rabelais**: *Gargantua and Pantagruel*, BK II, 124a-b
+
+**25 Montaigne**: *Essays*, 343c-344a; 365b-368c; 371c-372b; 508a-509a; 529b-537d passim
+
+**30 Bacon**: *Advancement of Learning*, 50c-53d esp 52d-53d / *New Atlantis*, 200d-201d
+
+**36 Sterne**: *Tristram Shandy*, 412a-414b
+
+**38 Montesquieu**: *Spirit of Laws*, BK XV, 106b-107a
+
+**38 Rousseau**: *Discourse on Inequality*, 336c-d; 364b-c
+
+**41 Gibbon**: *Decline and Fall*, 114a,c
+
+**41 Gibbon**: *Decline and Fall*, 70a-71a,c; 298a-300a; 355a-c
+
+**44 Boswell**: *Life of Johnson*, 7a; 13a-14a
+
+**51 Tolstoy**: *War and Peace*, BK V, 222b; 225c-227a
+
+**54 Freud**: *Origin and Development of Psycho-Analysis*, 6a-b / *Hysteria*, 107a / *General Introduction*, 550d-551a
+
+---
+
+## CROSS-REFERENCES
+
+For:
+*   Discussions bearing on learned professions or professional education, see **Education** 5a, 6; **Law** 9; **Rhetoric** 6.
+*   The general theory of art which underlies the consideration of medicine as an art, see **Art** 3, 9a; **Experience** 3a; **Knowledge** 8a.
+*   The theory of signs involved in the interpretation of symptoms, see **Language** 10; **Sign and Symbol** 4e; and for other matters relevant to medical diagnosis and prognosis, see **Hypothesis** 4b, 4d.
+*   Another discussion of health and disease, see **Life and Death** 5a, 5c; and for the special problems of mental disease and the methods of psychopathology, see **Emotion** 3a, 3c-3d; **Man** 5b; **Memory and Imagination** 2e(3)-2e(4), 5c; **Mind** 2c(2), 8a-8c; **Will** 9b.
+*   Discussions relevant to the comparison of mental health or sanity with happiness, see **Happiness** 2a; **Justice** 1b.
+
+---
+
+## ADDITIONAL READINGS
+
+*Listed below are works not included in* Great Books of the Western World, *but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:*
+*   I. Works by authors represented in this collection.
+*   II. Works by authors not represented in this collection.
+*For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of* The Great Ideas.
+
+### I.
+*   Plutarch. “Rules for the Preservation of Health,” in *Moralia*
+*   Galen. *On Medical Experience*
+*   ---. *Opera Omnia*
+*   F. Bacon. “Of Regiment of Health,” in *Essays*
+*   Dostoevsky. *The Idiot*
+*   Freud. *The Dynamics of the Transference*
+*   ---. *The Employment of Dream-Interpretation in Psycho-Analysis*
+*   ---. *Recommendations for Physicians on the Psycho-Analytic Method of Treatment*
+*   ---. *An Outline of Psychoanalysis*
+
+### II.
+*   Celsus. *De Medicina* (On Medicine)
+*   Avicenna. *The Canon of Medicine*, BK I
+*   Maimonides. *Regimen Sanitatis*
+*   Bartholomaeus Anglicus. *On Medicine*
+*   R. Bacon. *On the Errors of Physicians*
+*   Boccaccio. *Decameron*, PROEM
+*   Paracelsus. *The Diseases That Deprive Man of His Reason*
+*   ---. *On the Miners’ Sickness and Other Miners’ Diseases*
+*   ---. *Seven Defensiones*
+*   Vesalius. *The Epitome*
+*   Burton. *The Anatomy of Melancholy*
+*   Molière. *Le médecin malgré lui* (The Mock-Doctor)
+*   ---. *Le malade imaginaire* (The Hypochondriac)
+*   Ramazzini. *De Morbis Artificum* (The Diseases of Workers)
+*   Voltaire. “Physicians,” in *A Philosophical Dictionary*
+*   Jenner. *An Inquiry into the Causes and Effects of the Variolae Vaccinae*
+*   Bichat. *General Anatomy, Applied to Physiology and Medicine*
+*   Hahnemann. *Organon of the Rational Art of Healing*
+*   Laënnec. *Mediate Auscultation*
+*   Virchow. *Cellular Pathology*
+*   O. W. Holmes. *Currents and Counter-Currents in Medical Science*
+*   Bernard. *An Introduction to the Study of Experimental Medicine*
+*   Koch. *The Aetiology of Tuberculosis*
+*   S. W. Mitchell. *Doctor and Patient*
+*   Chekhov. *Ward No. 6*
+*   Osler. *Aequanimitas*
+*   P. M. Janet. *The Major Symptoms of Hysteria*
+*   Romains. *Doctor Knock*
+*   Mann. *The Magic Mountain*
+*   S. Lewis. *Arrowsmith*
+*   Crookshank. *Individual Diagnosis*
+*   Shaw. *The Doctor's Dilemma*
+*   E. Allen. *Sex and Internal Secretions*
+*   Cannon. *The Wisdom of the Body*
+*   Gibson. *The Physician's Art*
+*   B. Russell. *Religion and Science*, CH 4
+*   Zilboorg. *The Medical Man and the Witch During the Renaissance*
+*   Best and Taylor. *The Physiological Basis of Medical Practice*
+*   Buchanan. *The Doctrine of Signatures*, CH 3-6
+*   Fearing. *The Hospital*

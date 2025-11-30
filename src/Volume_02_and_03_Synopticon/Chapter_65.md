@@ -1,0 +1,643 @@
+# Chapter 65: OPPOSITION
+
+## INTRODUCTION
+
+CERTAIN words in the vocabulary of common speech, used at almost every turn of discourse, indicate ideas so indispensable to human thought that they are often employed without analysis. The word "is" is one of these, signifying the idea of being or existence. The word "not" and the pair of words "either...or" have the same character. Taken together, "not" and "either...or" signify the idea of opposition. The quality of redness is not the same as the quality of hotness, yet this negative relation by itself does not make them opposite, for something can be red-hot. It is only when a thing can have either one quality or another, but not both, that the qualities are said to be opposed. Opposites are more than merely distinct; they exclude one another.
+
+Opposition seems to be as pervasive as the familiar words which signify it. Even if it were not itself one of the great ideas, it would be manifest in all the other basic notions which come in antithetical pairs, e.g., good and evil, life and death, war and peace, universal and particular, pleasure and pain, necessity and contingency, same and other, one and many, virtue and vice. Each of these notions seems to imply its opposite and to draw its meaning from the opposition. There are other terms in the list of great ideas which, though not paired in the same chapter, stand opposed to one another: art to nature, chance to fate, liberty to slavery, time to eternity, knowledge to opinion, matter to form, democracy to oligarchy and similarly other forms of government. Still other terms cannot be discussed without reference to their opposites, even though we have not explicitly listed them, such as being and non-being, truth and falsity, love and hate, justice and injustice, wealth and poverty.
+
+The enumeration might extend to include every fundamental notion, except for the inconvenience in certain cases of not having readily familiar names to designate the opposites. In some instances, moreover, the opposition seems to involve more than a pair of terms, as, for example, is the case with poetry, history, and science; or physics, mathematics, and metaphysics.
+
+In the tradition of the great books we not only find the opposition of one idea to another, but we also find opposite points of view, conflicting theories or doctrines, in the discussion of almost every basic topic under the heading of these ideas. We find the same word used with contrary meanings, the same proposition affirmed and denied. We find reasoning opposed to reasoning. The same conclusion is reached from apparently opposite principles, or opposite conclusions are drawn from premises apparently the same.
+
+But though opposition seems to be inherent in the realm of ideas and in the life of thought, the idea of opposition is not itself explicitly thought about in many of the great books. This does not mean that in the consideration of other matters the significance and consequences of opposition go unnoted. On the contrary, all the chapters dealing with the nature and conduct of man, or with the institutions and history of society, give evidence of the general recognition—by poets and historians, by scientists and philosophers—that opposition in the form of active conflict characterizes the phenomena. The fact of warring opposites not only enters into descriptions of the way things are, but also poses problems for psychologists, moralists, economists, and statesmen to solve.
+
+The study of nature, as well as of man and society, discovers opposition at the root of change. The physics of antiquity, for example, defines the elements or the bodily humors in terms of contrary qualities; according to Aristotle, contraries are among the ultimate principles of nature—the terms of change. The cosmology of Lucretius makes the conflict of opposites the principle of growth and decay in the universe. Destruction struggles against creativity; life against death.
+
+> The death-dealing motions cannot keep the mastery always nor entomb existence for evermore, nor on the other hand can the birth and increase-giving motions of things preserve them always after they are born. Thus the war of first-beginnings waged from eternity is carried on with dubious issue: now here, now there, the life-bringing elements of things get the mastery and are overmastered in turn.
+
+Modern mechanics deals with action and reaction in the impact of bodies and the resolution of forces tending to produce opposite results. The theory of evolution pictures the world of living organisms as engaged in the struggle for survival, organism competing with organism or against an adverse environment for the means of subsistence or reproduction.
+
+These indications of the prevalence of conflict in the realm of thought itself, or as a fundamental conception in man’s thinking about nature and society, do not alter the point that only in logic or metaphysics is opposition abstracted from special subject matters, to become itself the object of thought. Even so, not all of the great speculative works develop an explicit theory of opposition—classifying its types, analyzing its structure, formulating it as a universal principle of being, mind, or spirit.
+
+Four authors especially treat opposition as a primary theme, though not out of the context of such other notions as being, relation, one and many, same and other, or identity and difference. They are Plato, Aristotle, Kant, and Hegel. It should not be surprising that the same authors are the principal figures in the chapter on DIALECTIC. Their disagreement about the nature or meaning of dialectic has a parallel here in their conflicting theories of opposition.
+
+---
+
+SOCRATES ARGUES, in the *Protagoras*, for the unity of virtue by using the principle that "everything has one opposite and not more than one." If wisdom is the opposite of folly, and if it also appears that folly is opposed by temperance, then either wisdom and temperance are the same, or a thing may have more than one opposite. Protagoras reluctantly accepts the first alternative; he is apparently unwilling to re-open the question concerning the pairing of opposites. But the question is re-opened by others. It is one of the great problems in the theory of opposition, relevant to the distinction of different kinds of opposites.
+
+The problem can most readily be stated in terms of the logical processes of division and definition. On the hypothesis that opposites always come in pairs, every class can be divided into two sub-classes which not only exclude each other, but also exhaust the membership of the divided class. Such division is called dichotomy. Many of the Platonic dialogues—notably the *Sophist* and the *Statesman*—exemplify the method of dichotomous division, used as a device for constructing definitions. The object to be defined, the character of the statesman or the sophist, is finally caught in the net of classification when, division after division having been made, two sub-classes are reached which leave no other possibilities open. The thing is either one or the other.
+
+In the *Sophist* a preliminary exercise is undertaken in the method of division as preparation for the use of this method to define the sophist. It will serve us here as an example of dichotomy. All the arts are first divided into two kinds, the productive and the acquisitive; then the acquisitive arts are divided into those making voluntary exchanges and those which obtain goods by coercion; the coercive divides into fighting and hunting according to the alternatives of open or secret attack; hunting into the hunting of the lifeless and the living; hunting of the living into hunting of swimming or walking animals; the hunting of swimming animals into the hunting of winged animals and the hunting of water animals; the hunting of water animals into opposite methods of catching fish, with further sub-divisions made until the art of angling can be defined as an acquisitive art which, being coercive, is a form of hunting, distinguished from other forms of hunting by the character of its object—animals which swim in water rather than air—and by the method used to catch them—hooks or barbs rather than nets or baskets.
+
+Aristotle objects to this process of division as a way of defining things. "Some writers," he says, "propose to reach the definitions of the ultimate forms of animal life by bipartite division. But this method is often difficult, and often impracticable." For one thing, it tends to associate or dissociate natural groups arbitrarily, e.g., the classification of birds with water animals, or of some birds with fish and some birds with land animals. "If such natural groups are not to be broken up, the method of dichotomy cannot be employed, for it necessarily involves such breaking up and dislocation."
+
+Aristotle also calls attention to the fact that the method of dichotomy often uses negative terms in order to make an exhaustive division into two and only two sub-classes. But the class which is formed by a negative characterization cannot be further sub-divided. "There can be no specific forms of a negation, of featherless for instance or of footless, as there are of feathered and of footed." It is impossible, Aristotle says, to "get at the ultimate specific forms of animal life by bifurcate division." He therefore proposes a method of defining by genus and difference, according to which it is possible in biological classification to sub-divide a genus into more than two species. To avoid sub-division into two and only two, that which differentiates each species from the others within the same genus must be some positive characteristic.
+
+---
+
+AS ALTERNATIVE methods of definition, dichotomous division and the differentiation of species within a genus are discussed in the chapter on DEFINITION. Here we are concerned with the problem of the number of opposites produced by the exhaustive division of a class or kind. For example, how many species of color are there? If the primary colors are more than two, it would appear that each primary color has more than one opposite, since the same object at the same time and in the same respect cannot be both red and yellow, red and green, green and yellow. But Aristotle seems to restrict the notion of contrariety to pairs of opposite qualities. "Red, yellow, and such colors, though qualities, have no contraries," he says. Whether or not he would have regarded them as contraries if he had been acquainted with the chromatic series of the spectrum, remains a conjecture.
+
+To find a single opposite for red, it is necessary to employ the negative term ‘not-red.’ But then another difficulty arises which Aristotle recognizes when he calls the negative term "indefinite" and which Kant discusses when he treats the infinity of the negative. The not-red includes more than other colors which are not red, such as green and yellow. It includes everything in the universe, colored or colorless, which is not red, e.g., happiness or atoms or poetry.
+
+Perfect dichotomy can be achieved by using positive and negative terms as opposites, or what Aristotle sometimes calls "contradictory terms"—such as man and not-man or just and not-just. But the class which is thus divided is absolutely indeterminate. It is the universe, everything, the infinite. It is necessary, furthermore, to distinguish between the opposition of ‘just’ and ‘not-just’ and the opposition of ‘just’ and ‘unjust.’ The term ‘unjust’ is the contrary rather than the contradictory of ‘just,’ for these opposites apply only to men, or laws, or acts; only certain kinds of things are either just or unjust, and that is why it is said that contraries are always opposites within a genus or a definite kind. In contrast, ‘not-just’ is the contradictory rather than the contrary of ‘just,’ for these opposites apply to everything in the universe; everything is either the kind of thing to which just and unjust apply or it is the kind of thing to which neither of these terms apply, and so it is the not-just.
+
+In addition to separating contraries (both of which are positive terms) from contradictory opposites (one of which is a positive, the other a negative term), Aristotle distinguishes two sorts of contraries. On the one hand, such contraries as odd and even exhaustively divide a limited class (e.g., integral numbers): on the other hand, such contraries as white and black represent the extremes of a continuous series of shades, in which any degree of grayness can be considered as the opposite of either extreme or of a darker or a lighter gray.
+
+There are still other kinds of opposite pairs, according to Aristotle, such as the terms ‘double’ and ‘half,’ which have the peculiarity of implying each other; or the terms ‘blindness’ and ‘sight,’ which are opposite conditions of the same subject. In this last case, one of the opposites naturally belongs to a certain kind of thing, and the other represents a loss of that natural property or trait. It is therefore called a "privation."
+
+Considering these various modes of opposition, Aristotle proposes a fourfold classification of opposite terms: correlative opposites, like double and half; contrary opposites, like odd and even, white and black, just and unjust; the opposites of possession and privation, such as sight and blindness; the opposites of affirmation and negation, such as man and not-man, or just and not-just. He discusses the special characteristics of each type of opposition, but it is only contrariety which he thinks requires further sub-division.
+
+Even though both are always positive terms, some contraries, like odd and even, exhaust a definite class, just as positive and negative opposites exhaust the infinite. They admit of no intermediate terms and hence they differ from contraries like white and black. White and black are extreme limits of a continuous series and thus permit an indefinite number of intermediates which fall between them. Things which differ only in degree are like the sort of contraries which find their place in a continuous series. Things which differ in kind are like the sort of contraries between which no intermediates are possible.
+
+One of the great problems of classification, especially with respect to living organisms, is whether the diverse species which fall within a single genus differ in kind or only in degree. The answer would seem to depend on whether the several species are related by one or the other sort of contrariety. As the chapter on EVOLUTION indicates, the basic meaning of the word "species" changes when the possibility of "intermediate forms" is rejected or admitted. When a class is divided by contraries without intermediates, the genus can have only two species, as for example, the division of animals into brutes and men. When a genus is divided into more than two sub-classes, (e.g., the division of vertebrates into fish, amphibians, reptiles, birds, and mammals), it would seem to follow that the species are like points in a continuous series and admit the possibility of intermediate types.
+
+According to Darwin’s conception of species, their contrariety always tends to take the latter form. Aristotle, on the other hand, seems to use the word "species" in two distinct senses which correspond to the two kinds of contrariety—with and without intermediates. "A thing’s difference from that from which it differs in species," he writes, "must be a contrariety." But though contrariety is always a "complete difference," the fact that "contraries are so-called in several senses" leads him to observe that "their modes of completeness will answer to the various modes of contrariety which attach to the contraries."
+
+---
+
+THE LOGICAL OPPOSITION of propositions or judgments depends in part on the opposition of terms or concepts. If contrary things are said about the same subject of discourse (i.e., if the same number is called odd and even, or the same act is called cowardly and courageous, or the same animal is called a bird and a mammal), pairs of contrary statements are made, of which both cannot be true. But it does not seem to follow that one of the two statements must be true. Both can be false. In the examples given, the number may be a fraction and neither odd nor even; the act may be foolhardy and neither courageous nor cowardly; the animal may be a reptile and neither bird nor mammal.
+
+This characteristic of contrary statements—the impossibility of their both being true combined with the possibility of their both being false—can also be found, according to Aristotle, in propositions which have the same subject and do not contain contrary terms as predicates. The propositions ‘All men are white’ and ‘No men are white’ cannot both be true, but they can both be false. The contrariety of these two statements, which can be taken as typifying the opposition of all universal affirmations and negations, does not depend on contrary predicates, but on the opposed meanings of ‘all are’ and ‘none is.’
+
+Keeping the terms constant and varying only the quality and quantity of the propositions, Aristotle formulates two other typical modes of opposition between pairs of statements. When both statements are particular or limited, but one is affirmative and the other negative, both cannot be false though both can be true, e.g., ‘Some men are white’ and ‘Some men are not white.’ This pair of opposites Aristotle calls "sub-contraries." When one statement is universal and affirmative and the other is particular and negative—or when one is universal and negative, the other particular and affirmative—the two propositions are, according to Aristotle, contradictory. Contradiction is the most complete type of opposition, for contradictory statements are opposite in both quality and quantity. Of a pair of contradictories, both cannot be true and both cannot be false. One must be true and the other false, e.g., it must be true either that all men are white or that some men are not white.
+
+The formal scheme of opposite statements, traditionally known as "the square of opposition," appears to exhaust all possibilities. It indicates, moreover, that every statement may have two opposites, a contradictory and either a contrary or a sub-contrary; for example, ‘All men are white’ is contradicted by ‘Some men are not white’ and opposed in a merely contrary fashion by ‘No men are white.’ The latter is a weaker form of opposition since it permits the dilemma to be avoided by the truth of a third statement, that some men are white and some are not. The dilemma set up by a contradiction cannot be avoided in this way.
+
+The propositions ‘God exists’ and ‘God does not exist,’ or ‘The world had a beginning’ and ‘The world did not have a beginning,’ constitute contradictions from which there seems to be no escape. It would seem to make a difference, therefore, in facing the great controversies in the tradition of western thought, to know whether the opposite views which men have taken on fundamental issues are genuine contradictions, requiring everyone to take sides, or whether they are merely contrary positions. In the latter alternative, the inconsistency of the theories prevents us from agreeing with both parties to the dispute, but it does not require us to agree with either, for contrary doctrines never exhaust the possibilities. Between such extreme positions, for example, as that everything is in flux and nothing changes, both of which cannot be true, the truth may lie in the doctrine that some elements of permanence are involved in all change; or it may be in the theory of a realm of becoming that lacks permanence and a realm of being that is free from change.
+
+---
+
+ONE OF THE BASIC controversies in the tradition of the great books concerns opposition itself. Is the principle of contradiction the ultimate test of the truth of judgments and reasoning? Is the truth of indemonstrable propositions or axioms certified by the self-contradiction of their contradictories? For example, is the truth of the proposition "The whole is greater than the part" made necessary by the impossibility of the contradictory statement "The whole is not greater than the part," on the theory that this latter statement is impossible because it is self-contradictory? And when a conclusion is demonstrated by propositions which seem to be necessarily true, must not the contradictory of this conclusion be false—or at least be incapable of demonstration by propositions which are also necessarily true?
+
+On both these questions Kant and Aristotle seem to be opposed. According to Aristotle, no truths are necessary or axiomatic unless their contradictories are self-contradictory. But Kant makes a distinction between analytical and synthetical propositions (discussed in the chapter on JUDGMENT) and in terms of it he restricts the principle of contradiction to serving as a criterion of truth for analytical judgments alone. "In an analytical judgement," he writes, "whether negative or affirmative, its truth can always be tested by the principle of contradiction." But though we must admit, Kant continues, that "the principle of contradiction is the general and altogether sufficient principle of all analytical knowledge, beyond this its authority and utility, as a sufficient criterion of truth, must not be allowed to extend." In "the synthetical part of our knowledge, we must no doubt take great care never to offend against that inviolable principle, but we ought never to expect from it any help with regard to the truth of this kind of knowledge."
+
+The reason, Kant explains, is that "in forming an analytical judgement I remain within a given concept, while predicating something of it. If what I predicate is affirmative, I only predicate of that concept what is already contained in it; if it is negative, I only exclude from it the opposite of it." For example, if the meaning of the concept ‘whole’ involves ‘being greater than a part,’ self-contradiction results from denying that the whole is greater than a part.
+
+"In forming synthetical judgements, on the contrary, I have to go beyond a given concept, in order to bring something together with it, which is totally different from what is contained in it. Here," Kant declares, "we have neither the relation of identity nor of contradiction, and nothing in the judgement itself by which we can discover its truth or its falsehood"; for example, the judgment that everything which happens has a cause. The truth of such synthetical judgments, according to Kant, is as necessary and as *a priori* as the truth of analytical judgments, but the principle of contradiction does not provide their ground or validation.
+
+For Aristotle, in contrast, those propositions which do not derive necessity from the principle of contradiction belong to the sphere of opinion rather than to the domain of knowledge. They can be asserted as probable only, not as true or false. In the domain of knowledge, it is impossible to construct valid arguments for contradictory conclusions, for if one must be true and the other false, one can be validly demonstrated and the other cannot be demonstrated at all. But in the sphere of opinion, dialectical opposition is possible. Because the contradictory of a probable statement is itself also probable, probable arguments can be constructed on the opposite sides of every dialectical issue.
+
+For Kant dialectical issues do not consist in a conflict of opposed probabilities. Far from setting probable reasoning against probable reasoning, dialectical opposition consists in what appear to be demonstrations of contradictory propositions. For example, in that part of the *Critique of Pure Reason* devoted to the Transcendental Dialectic, Kant presents opposed arguments which look like demonstrations of contradictory propositions—such as the thesis that "the world has a beginning in time" and its antithesis that "the world has no beginning"; or the thesis that "there exists an absolutely necessary being" and its antithesis that "there nowhere exists an absolutely necessary being." These are two of the four issues which Kant calls the "antinomies of a transcendental dialectic."
+
+Such issues, Aristotle would agree with Kant, do not belong to the sphere of opinion or probability. But Kant would not agree with Aristotle that such issues belong to the domain of science or certain knowledge. The problem of the world’s beginning or eternity, for example, is one which Aristotle treats in his *Physics* and appears to think is solved by the demonstration that motion can have neither beginning nor end. The problem of the existence of a necessary being is one which Aristotle treats in his *Metaphysics* and which he also appears to think is capable of a demonstrative solution. For him, therefore, both are problems to which scientific answers can be given. But for Kant the demonstration of the antitheses, or contradictory propositions, in both cases is as cogent as the demonstrations of the theses: and therefore, since we know that both of a pair of contradictory propositions cannot be validly demonstrated, we must conclude that the arguments advanced are only counterfeit demonstrations, or as Kant says, "illusory." He calls these demonstrations "dialectical," and the issues they attempt to resolve "antinomies," precisely because he thinks the reasoning goes beyond the limits of scientific thought and because he thinks the issues are problems reason cannot ever solve.
+
+With respect to conclusions affirming or denying matters beyond experience, the antinomies can be interpreted either as showing that contradictory arguments are equally sound or as showing that they are equally faulty. On either interpretation, Kant and Aristotle seem to be opposed on the applicability of the principle of contradiction to conflicting arguments and conclusions (except, of course, those which are merely probable). This difference between them accords with the difference in their conceptions of science and dialectic, and in their theories of the scope and conditions of valid knowledge.
+
+---
+
+THE OPPOSITION between Kant and Aristotle may not present the only alternatives. Hegel’s theory of the dialectical process seems to offer a third. Where Aristotle appears to think that all contradictions must be resolved in favor of one of the opposites, and where Kant appears to think that some contradictions cannot be resolved at all, Hegel proposes the resolution of all contradictions, not by a choice between them, but by a synthesis uniting the opposites and reconciling their differences.
+
+According to Aristotle, opposites exclude one another in existence as well as in thought. A thing cannot both exist and not exist at the same time; nor in any particular respect can it simultaneously both be and not be of a certain sort. Only with the passage of time and in the course of change can opposites be realized, when a thing passes from being to non-being, or gives up one attribute in order to assume its contrary.
+
+The difference for Aristotle between becoming and being (or between change and complete actuality) seems to be that the one includes and the other excludes opposites. Change cannot occur except as one opposite comes into existence while the other passes away. But opposites cannot co-exist with complete actuality. So far as reality consists of co-existent actualities, it is limited by the principle of contradiction—as a principle of being—to those which are not contradictory. All possibilities cannot, therefore, be simultaneously realized, for, as Leibnitz states the principle, all possibilities are not "compossible."
+
+According to Hegel, every finite phase of reality—everything except the Absolute Idea itself—has its contradictory, as real as itself, and co-existent with it. Contradictories imply one another and require each other, almost as correlative opposites do. Whatever is partial and incomplete presupposes something which is partial and incomplete in an opposite respect. The opposition between them can therefore be overcome by a synthesis which includes them both, and which complements each by uniting it with the other.
+
+For example, the category of being is opposed by non-being. These opposites both exclude and imply one another. They are in a sense even identical with one another, insofar as the notion of being contains the notion of non-being, and, conversely, the notion of non-being, the notion of being. Except for the Absolute, everything which is also is not, and everything which is not also is. The apparent contradiction involved in this simultaneous application of opposite categories to the same thing is overcome by a third category, becoming, which is the synthesis of being and non-being. Being and non-being are united in becoming.
+
+This reconciling of opposites, by their union in a more inclusive whole embracing both, typifies the Hegelian dialectic of thesis, antithesis, and synthesis. The motion repeats itself as the synthesis of one contradiction faces its own opposite and requires a higher synthesis to overcome the contradiction it has generated. Thus every opposition in reality or thought is a phase in the progressive realization of the Absolute, wherein all contradictions are resolved.
+
+In Hegel’s *Philosophy of History* and in his theory of the development of the state in the *Philosophy of Right*, the dialectical process is exemplified at every stage of progress. The conflict of interdependent opposites—of opposite classes or forces in society, of opposite political institutions or principles—calls for a resolution which shall unite rather than exclude the opposites.
+
+Considering the division of labor, for example, Hegel writes:
+
+> When men are dependent on one another and reciprocally related in their work and the satisfaction of their needs, subjective self-seeking turns into a contribution to the satisfaction of the needs of everyone else. That is to say, by a dialectical advance, subjective self-seeking turns into the mediation of the particular through the universal, with the result that each man in earning, producing, and enjoying on his own account is *eo ipso* producing and earning for the enjoyment of everyone else.
+
+The opposition between the particular good of each individual and the universal good of all is thus overcome by that advance in social organization which is the division of labor.
+
+Each of the stages of world history is, according to Hegel, "the presence of a necessary moment in the Idea of the world mind." But the world mind itself is a synthesis, a resolution of the conflicting opposites—of the various national minds
+
+> which are wholly restricted on account of their particularity. Their deeds and destinies in their reciprocal relations to one another are the dialectic of the finitude of these minds, and out of it arises the universal mind, the mind of the world, free from all restrictions, producing itself as that which exercises its right—and its right is the highest right of all—over these finite minds in the ‘history of the world which is the world’s court of judgment.’
+
+---
+
+## OUTLINE OF TOPICS
+
+**1. Opposition in logic**
+*   **1a.** Kinds of opposition among terms: correlation, contrariety, privation, negation
+*   **1b.** The analysis of contrariety: the kinds of terms which can be contrary; contrariety with and without intermediates between extremes
+*   **1c.** The exclusiveness of opposites as a principle of logical division
+    *   **(1)** Dichotomous division: positive and negative terms
+    *   **(2)** Division of a genus by differentia: the contrariety of species
+*   **1d.** The opposition of propositions or judgments
+    *   **(1)** The square of opposition: contradictories, contraries, subcontraries
+    *   **(2)** Modal opposition: the necessary and the contingent
+*   **1e.** Opposition in reasoning and proof: the conflict of dialectical arguments; the antinomies of a transcendental dialectic
+
+**2. The metaphysical significance of opposition**
+*   **2a.** Opposition as limiting coexistence: noncontradiction as a principle of being
+*   **2b.** Opposites in the realm of being, mind, or spirit: the one and the many; the dialectical triad of thesis, antithesis, and synthesis
+*   **2c.** Nonbeing as the opposite of being
+*   **2d.** The opposition of good and evil in the world and in relation to God
+*   **2e.** The reconciliation of opposites in the divine nature: the synthesis of all contraries in the Absolute
+
+**3. Opposition in the realm of physical nature**
+*   **3a.** The contraries as principles of change
+*   **3b.** Contrariety of quality in the theory of the elements or humors
+*   **3c.** The opposition of motion and rest, and of contrary motions
+*   **3d.** The opposition of physical forces and its resolution
+*   **3e.** The struggle for existence: the competition of species
+
+**4. Opposition or conflict in the psychological and moral order**
+*   **4a.** The conflict of reason and the passions
+*   **4b.** Conflicting emotions, humors, instincts, or habits
+*   **4c.** Conflict as the cause of repression and as a factor in neurotic disorders
+*   **4d.** The conflict of loves and loyalties, desires and duties
+*   **4e.** Conflict in human life: opposed types of men and modes of life
+
+**5. Conflict in society and history**
+*   **5a.** Competition in commerce and the rivalry of factions in politics
+*   **5b.** The class war: the opposition of the rich and the poor, the propertied and the propertyless, capital and labor, producers and consumers
+*   **5c.** The inevitability of civil strife and war between states
+*   **5d.** Opposition or strife as a productive principle or source of progress
+
+---
+
+## REFERENCES
+
+*To find the passages cited, use the numbers in heavy type, which are the volume and page numbers of the passages referred to. For example, in **4** Homer: *Iliad*, BK II [265-283] 12d, the number **4** is the number of the volume in the set; the number 12d indicates that the passage is in section d of page 12.*
+
+*Page Sections: When the text is printed in one column, the letters a and b refer to the upper and lower halves of the page. For example, in **53** James: *Psychology*, 116a-119b, the passage begins in the upper half of page 116 and ends in the lower half of page 119. When the text is printed in two columns, the letters a and b refer to the upper and lower halves of the left-hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of the page. For example, in **7** Plato: *Symposium*, 163b-164c, the passage begins in the lower half of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164.*
+
+*Author's Divisions: One or more of the main divisions of a work (such as PART, BK, CH, SECT) are sometimes included in the reference; line numbers, in brackets, are given in certain cases; e.g., *Iliad*, BK II [265-283] 12d.*
+
+*Bible References: The references are to book, chapter, and verse. When the King James and Douay versions differ in title of books or in the numbering of chapters or verses, the King James version is cited first and the Douay, indicated by a (D), follows; e.g., Old Testament: Nehemiah, 7:45—(D) II Esdras, 7:46.*
+
+*Symbols: The abbreviation “esp” calls the reader’s attention to one or more especially relevant parts of a whole reference; “passim” signifies that the topic is discussed intermittently rather than continuously in the work or passage cited.*
+
+*For additional information concerning the style of the references, see the Explanation of Reference Style; for general guidance in the use of The Great Ideas, consult the Preface.*
+
+### 1. Opposition in logic
+
+**1a. Kinds of opposition among terms: correlation, contrariety, privation, negation**
+*   **7** PLATO: *Protagoras*, 49a-50b / *Phaedo*, 226d-227a; 242d-245c / *Republic*, BK IV, 351b-c
+*   **8** ARISTOTLE: *Categories*, CH 10 16d-19c / *Prior Analytics*, BK I, CH 46 70b-71d / *Topics*, BK II, CH 8 159b-160a; BK IV, CH 4 [124b35-125a34] 173a-d; BK V, CH 6 187a-188c; BK VI, CH 9 201a-202a / *Metaphysics*, BK IV, CH 2 [1004a9-17] 523a-b; [1004b27-1005a2] 523d-524a; BK V, CH 10 539a-c; BK IX, CH 1 [1046a29-36] 571b; CH 2 [1046b7-15] 571c-d; BK X, CH 4 [1055a34-b28] 582b-d; BK XI, CH 3 [1061a18-28] 589b-c
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 17, A 4 103c-104b; PART I-II, Q 18, A 8, REP 1 699d-700b; Q 36, A 1, ANS 780c-781b
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 64, A 3, REP 3 68b-69b; Q 71, A 6, REP 1 110b-111b
+*   **23** HOBBES: *Leviathan*, PART I, 57b-c
+
+**1b. The analysis of contrariety: the kinds of terms which can be contrary; contrariety with and without intermediates between extremes**
+*   **7** PLATO: *Lysis*, 21b-22b / *Euthydemus*, 83d-84a / *Symposium*, 163b / *Republic*, BK I, 350c-351d; BK V, 372b-373c
+*   **8** ARISTOTLE: *Categories*, CH 5 [3b24-31] 8a; [4a10-b4] 8b-d; CH 6 [5b11-6a18] 10a-c; CH 7 [6b15-19] 11b; CH 8 [10a11-25] 15d; CH 10 [11b33-12a25] 17a-c; CH 11 19c-d / *Topics*, BK II, CH 7 158b-159a; BK IV, CH 3 [123b1-124a10] 171d-172c; BK V, CH 6 [135a7-16] 187a-b; BK VI, CH 9 [147a32-b25] 201b-d / *Metaphysics*, BK IV, CH 7 531c-532b; BK V, CH 10 [1018a25-b7] 539a-b; BK X, CH 3-10 581a-586d; BK XI, CH 3 [1061a18-28] 589b-c; CH 6 [1063b19-24] 592a; CH 12 [1068b26-31] 597d; [1069a1-5] 597d-598a
+*   **9** ARISTOTLE: *Ethics*, BK VIII, CH 1 [1155b8-15] 407a
+*   **17** PLOTINUS: *Sixth Ennead*, TR III, CH 20 292b-293a
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 48, A 1, REP 1 259b-260c; PART I-II, Q 18, A 8, REP 1 699d-700b; Q 22, A 2, REP 1 721c-722c
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 64, A 3, REP 3 68b-69b
+*   **24** RABELAIS: *Gargantua and Pantagruel*, BK I, 12d-13b
+*   **53** JAMES: *Psychology*, 387b
+
+**1c. The exclusiveness of opposites as a principle of logical division**
+
+**(1) Dichotomous division: positive and negative terms**
+*   **7** PLATO: *Phaedrus*, 134b-c / *Sophist*, 552b-561d; 577c-579d / *Statesman*, 580a-608d esp 595a-d / *Philebus*, 610d-613a
+*   **8** ARISTOTLE: *Prior Analytics*, BK I, CH 31 64b-65a / *Posterior Analytics*, BK II, CH 5 125b-d; CH 13 [96b25-97a5] 132a-133a / *Topics*, BK VI, CH 6 [143b11-144a4] 197b-c / *Metaphysics*, BK VII, CH 12 [1038a8-14] 561d
+*   **9** ARISTOTLE: *Parts of Animals*, BK I, CH 2-3 165d-167d
+*   **17** PLOTINUS: *First Ennead*, TR III, CH 4 11a-c / *Sixth Ennead*, TR III, CH 8-10 285a-286d
+*   **42** KANT: *Pure Reason*, 43d-44a
+
+**(2) Division of a genus by differentia: the contrariety of species**
+*   **7** PLATO: *Theaetetus*, 548c-549d
+*   **8** ARISTOTLE: *Categories*, CH 3 [1b16-24] 5d; CH 5 [3a22-b23] 7b-8a / *Posterior Analytics*, BK II, CH 13 [96b25-97b6] 132a-133a / *Topics*, BK I, CH 18 [108a38-b9] 152d; [108b9-32] 153a,c; BK IV, CH 3 [123b20-124a9] 171c-172c; CH 6 [127b7-17] 177a; [128a20-30] 177d-178a; BK VI, CH 5-6 196b-199c / *Physics*, BK I, CH 3 [186b4-34] 261c-262a; CH 5 [188a18-25] 263c; CH 6 [189a11-14] 264c; [189b23-27] 265b / *Metaphysics*, BK III, CH 3 [998b21-27] 517c; BK V, CH 10 [1018a38-b7] 539b; CH 28 [1024b37-b9] 546b-c; BK VII, CH 12 [1037b28-1038a34] 561c-562a; BK VIII, CH 3 [1043b24-1044a14] 568b-d; CH 6 569d-570d; BK X, CH 8-9 585b-586c / *Soul*, BK I, CH 1 [402b15-403a2] 631d-632a
+*   **9** ARISTOTLE: *Parts of Animals*, BK I, CH 2-4 165d-168c
+*   **17** PLOTINUS: *Sixth Ennead*, TR III, CH 1, 281a-b; CH 8-10 285a-286d; CH 18 291a-d
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 3, A 4, REP 1 16d-17c; A 5, ANS 17c-18b; Q 4, A 2, REP 2 21b-22b; Q 29, A 1, REP 3 162a-163b; Q 47, A 2 257b-258c; Q 48, A 3, REP 3 261b-262a; Q 75, A 3, REP 1 380c-381b; A 4, ANS 381b-382a; Q 76, A 3, REP 4 391a-393a; Q 77, A 1, REP 7 399c-401b; PART I-II, Q 1, A 3, ANS 611b-612a; Q 3, A 5, ANS 626b-627a; Q 18, AA 5-10 697a-702a; Q 29, A 2, REP 1 745c-746b; Q 35, A 4 774d-775d; A 8, ANS and REP 3 779c-780c
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 49, A 2, REP 3 2b-4a; Q 52, A 1, ANS 15d-18a; A 2, ANS 18a-19a; Q 55, A 4, ANS and REP 1-2 28c-29d; Q 61, A 1, REP 1 54d-55c; Q 72, A 5, ANS 115a-116b; A 7, ANS 117a-118a; Q 95, A 4, ANS 229b-230c; PART III, Q 2, A 1, ANS 710a-711c
+*   **42** KANT: *Pure Reason*, 193a-200c esp 197b-198a
+*   **53** JAMES: *Psychology*, 344b-345b
+
+**1d. The opposition of propositions or judgments**
+
+**(1) The square of opposition: contradictories, contraries, subcontraries**
+*   **8** ARISTOTLE: *Categories*, CH 10 [13b1-35] 19a-c / *Interpretation*, CH 6 26c-d; CH 10 29d-31c / *Posterior Analytics*, BK I, CH 2 [72a13] 98c
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 64, A 3, REP 3 68b-69b
+*   **42** KANT: *Pure Reason*, 64d-65c; 156d-157b; 174b-d
+
+**(2) Modal opposition: the necessary and the contingent**
+*   **8** ARISTOTLE: *Interpretation*, CH 12-13 32d-35c
+*   **31** DESCARTES: *Rules*, XII, 22a-b
+*   **42** KANT: *Pure Reason*, 39c-41c esp 40d-41c; 193a-200c esp 194b-d
+*   **53** JAMES: *Psychology*, 851a; 861b
+
+**1e. Opposition in reasoning and proof: the conflict of dialectical arguments; the antinomies of a transcendental dialectic**
+*   **7** PLATO: *Euthydemus*, 65a-84a,c / *Phaedrus*, 134b-c / *Phaedo*, 226d-227a / *Republic*, BK IV, 350c-351d; BK VII, 392b-393d / *Parmenides*, 491a-511d / *Theaetetus*, 525d-526b / *Sophist*, 558b-d; 571d-574c / *Statesman*, 594d-595d
+*   **8** ARISTOTLE: *Prior Analytics*, BK I, CH 30 [46a3-10] 63d; BK II, CH 15 84b-85b / *Topics*, BK I, CH 11 148a-c / *Sophistical Refutations*, CH 9 234b-d / *Heavens*, BK I, CH 10 [279b4-12] 370d / *Metaphysics*, BK XII, CH 4 [1078b18-28] 610b
+*   **9** ARISTOTLE: *Politics*, BK V, CH 8 [1307b26-29] 509d / *Rhetoric*, BK I, CH 1 [1355a28-39] 594c-d; BK II, CH 23 [1397a6-18] 645a-b; [1399a18-28] 647d-648a
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 89, A 5, ANS 477a-478b
+*   **20** AQUINAS: *Summa Theologica*, PART III, Q 9, A 3, REP 2 765b-766b
+*   **25** MONTAIGNE: *Essays*, 446d-449d
+*   **31** DESCARTES: *Rules*, I, 2c
+*   **35** LOCKE: *Human Understanding*, BK IV, CH XVI, SECT 9 369b-c
+*   **35** HUME: *Human Understanding*, SECT X, DIV 86-91 488d-491c
+*   **42** KANT: *Pure Reason*, 1a-b; 7a-8b; 120c-173a esp 133c; 174b-177b; 187a-192d; 200c-209d; 219a-220b; 229b-c; 231c-232a / *Fund. Prin. Metaphysic of Morals*, 260d-261b; 283d-284d / *Practical Reason*, 291a-292a; 296a-d; 302a-d; 307d-308b; 331c-337a,c; 340a-342d; 348d-349a / *Science of Right*, 407a-408b / *Judgement*, 540a-542a; 562a-578a esp 562d-564c, 570b-572b, 575b-578a; 584c-d
+*   **43** MILL: *Liberty*, 274b-293b passim
+*   **54** FREUD: *General Introduction*, 545d
+
+### 2. The metaphysical significance of opposition
+
+**2a. Opposition as limiting coexistence: noncontradiction as a principle of being**
+*   **7** PLATO: *Phaedo*, 244b-246c / *Republic*, BK IV, 350d-351b / *Parmenides*, 504c-d / *Sophist*, 573a-574c
+*   **8** ARISTOTLE: *Interpretation*, CH 13 [22b28-23a26] 34d-35c / *Metaphysics*, BK III, CH 1 [995b6-10] 514a; CH 2 [996b26-997a15] 515b-d; BK IV, CH 3-6 524b-531c; CH 8 532b-d; BK V, CH 10 [1018a22-26] 539a; BK IX, CH 9 [1051b4-22] 577a-b; BK XI, CH 1 [1059b23-26] 587a; CH 5-6 590a-592b
+*   **19** AQUINAS: *Summa Theologica*, PART I-II, Q 1, A 5, REP 2-3 613a-614a
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 94, A 2, ANS 221d-223a; Q 113, A 7, REP 5 366a-367c
+*   **31** SPINOZA: *Ethics*, PART III, PROP 4-5 398d; PROP 10 399c-d; PART V, AXIOM I 452c
+*   **35** LOCKE: *Human Understanding*, BK IV, CH III, SECT 15 316d-317a
+*   **42** KANT: *Pure Reason*, 99a-101b; 107b-c; 179c-182b / *Pref. Metaphysical Elements of Ethics*, 367d-368a
+*   **53** JAMES: *Psychology*, 302a esp 302b [fn 1]
+
+**2b. Opposites in the realm of being, mind, or spirit: the one and the many; the dialectical triad of thesis, antithesis, and synthesis**
+*   **7** PLATO: *Phaedrus*, 134b-c / *Phaedo*, 244b-246c / *Republic*, BK III, 333b-d; BK V, 368c-373c; BK VII, 392b-394b / *Parmenides*, 486a-511d / *Theaetetus*, 534d-536a / *Sophist*, 561d-577b esp 574d-575a / *Philebus*, 610d-613a; 615c-617d; 634b-635a
+*   **8** ARISTOTLE: *Interpretation*, CH 13 [22a32-23b8] 34d-35a / *Metaphysics*, BK IV, CH 2 522b-524b; BK V, CH 6 [1017a3-7] 537c; BK X, CH 3-10 581a-586d; BK XI, CH 3 589a-d; BK XII, CH 10 [1075b25-33] 606a; BK XIV, CH 1 619b,d-620d
+*   **11** NICOMACHUS: *Arithmetic*, BK I, 813d-814b; BK II, 839d-840b
+*   **17** PLOTINUS: *Third Ennead*, TR I, CH 16-17, 91b-92c; TR III, CH 1 93b-c; TR VII 119b-129a; TR IX 136a-138a,c / *Fifth Ennead*, 208a-251d esp TR I 208a-214c, TR IV-V 226d-235b / *Sixth Ennead*, TR VI, CH 1-3 310d-312b; TR IX, CH 1-2 353d-355a
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 11, A 2 47d-48d; Q 17, A 4 103c-104b
+*   **31** DESCARTES: *Discourse*, PART IV 51b-54b / *Meditations*, II 77d-81d; VI, 98c-d / *Objections and Replies*, 115a,c; DEF V-VI 130b-c; PROP IV 133c; 152b,d-155b; 231a-232d
+*   **42** KANT: *Pure Reason*, 7a-8b; 43d-44a; 99a-101b; 107b-c; 133c; 173b-177b; 197b-198a
+*   **46** HEGEL: *Philosophy of Right*, INTRO, PAR 26 18b-c; PAR 31 19c-20a; PART I, PAR 39 21d; PAR 97 37a; PART II, PAR 106 40a-b; PAR 109-111 41a-c; PART III, PAR 256 79d-80a; PAR 353-360 112b-114a,c esp PAR 353 112b-c, PAR 360 113d-114a,c; ADDITIONS, 61 125d-126a; 70 127b / *Philosophy of History*, INTRO, 156d-157b; 160c-161a; 165a-b; 205d-206a,c; PART I, 235d-236a; 237d-238c; 245b-d; PART II, 260b-c; 279c-280b; PART III, 286c-287a; 305c-306c; PART IV, 316a-b; 333d-334d
+*   **53** JAMES: *Psychology*, 107a-b; 117b; 238b [fn 2]
+
+**2c. Nonbeing as the opposite of being**
+*   **7** PLATO: *Republic*, BK V, 371c-373c / *Parmenides*, 507c-511d / *Theaetetus*, 518a / *Sophist*, 561d-577b
+*   **8** ARISTOTLE: *Physics*, BK I, CH 5 [188a18-25] 263c; CH 9 [192a2-16] 268a; BK V, CH 1 [225a20-29] 305b-c / *Metaphysics*, BK I, CH 4 [985b3-10] 503c; CH 5 [986b25-987a1] 504d-505a; BK IV, CH 2 [1003b3-11] 522b; [1004a27-29] 523d; BK VII, CH 4 [1030a25-26] 553a; BK XII, CH 2 [1069b27-34] 599a
+*   **17** PLOTINUS: *First Ennead*, TR VIII 27b-34a / *Second Ennead*, TR IV 50a-57c / *Third Ennead*, TR VI, CH 6-7 109d-111c
+*   **18** AUGUSTINE: *City of God*, BK XII, CH 2 343c-d
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 13, A 7, ANS 68d-70d; Q 14, A 9 83b-d; Q 16, A 3, REP 2 96b-d; A 5, REP 3 97c-98b; Q 17, A 4, REP 2 103c-104b; Q 104, A 3, REP 1 537b-d
+*   **20** AQUINAS: *Summa Theologica*, PART I-II, Q 71, A 6, REP 1 110b-111b
+*   **31** DESCARTES: *Meditations*, IV, 89c-d / *Objections and Replies*, 214d-215a
+
+**2d. The opposition of good and evil in the world and in relation to God**
+*   **7** PLATO: *Republic*, BK II, 322a-b / *Theaetetus*, 518a-b; 530b-531a / *Statesman*, 587a-589c
+*   **8** ARISTOTLE: *Categories*, CH 11 [13b36-14a6] 19c / *Metaphysics*, BK I, CH 4 [984b33-985a9] 503a-b; BK IX, CH 9 [1051a17-22] 577a-b; BK XII, CH 10 [1075a34-b7] 606a-b; BK XIV, CH 4 [1091b29-1092a8] 624a-d
+*   **12** EPICTETUS: *Discourses*, BK I, CH 12 118d-120b; CH 20, 126c-d; CH 25 129d-131b; CH 29 134d-138a
+*   **17** PLOTINUS: *First Ennead*, TR VIII 27b-34a esp CH 6-7 29d-30d / *Third Ennead*, TR II, CH 5-7 85b-86c; CH 10-14 88a-89d
+*   **18** AUGUSTINE: *Confessions*, BK III, PAR 11 15d-16a; BK IV, PAR 24 25b-c; BK V, PAR 20 32d-33a; BK VII, PAR 3-7 44a-45d; PAR 11-23 47a-50d; BK VIII, PAR 22-24 59a-60a; BK XIII, PAR 45 123a / *City of God*, BK VIII, CH 24, 283a-b; BK X, CH 21 311c-312a; BK XI, CH 9 326d-327d; CH 18 331d-332a; BK XII, CH 3 343d-344b; CH 6-9 345b-348b; BK XIV, CH 1-5 376b,d-380b; CH 10-11 385b-387a; BK XX, CH 1 586b,d-587b / *Christian Doctrine*, BK I, CH 33, 633d-634a; BK II, CH 23 648a-c; BK III, CH 37, 673d-674a
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 8, A 1, REP 4 34d-35c; A 3, ANS 36b-37c; QQ 48-49 259b-268a,c; Q 65, A 1, ANS and REP 2-3 339b-340b; Q 66, A 3, ANS 347b-348d; Q 72, A 1, REP 6 368b-369d; PART I-II, Q 18, A 8, REP 1 699d-700b; Q 36, A 1, ANS 780c-781b
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 75, A 1 137d-138c; PART III SUPPL, Q 74, A 1, REP 1 925c-926c
+*   **21** DANTE: *Divine Comedy*, HELL, VIII [65]-IX [103] 11c-13b; XXVII [55-136] 40a-41b; PURGATORY, V [85-129] 59d-60c; VIII [1-108] 64a-65b; XI [1-30] 68d-69a; PARADISE, I [103-142] 107b-d; XII [52-87] 126a-b; XIX [40-66] 135c-d
+*   **23** HOBBES: *Leviathan*, PART II, 160d-161a
+*   **30** BACON: *Advancement of Learning*, 17d-18a
+*   **32** MILTON: *Comus*, 33a-56b esp [414-475] 42b-44a / *Paradise Lost*, BK II [496-505] 122a; BK IV [32-104] 153a-154b; BK V [600-904] 188b-195a; BK VII [519-549] 228b-229a; BK VIII [319-337] 239a-b; BK IX [679-779] 262a-264a; BK XI [84-98] 301a / *Areopagitica*, 395a
+*   **40** GIBBON: *Decline and Fall*, 81b-c
+*   **41** GIBBON: *Decline and Fall*, 230b; 330a-b
+*   **42** KANT: *Practical Reason*, 316a-317d
+*   **46** HEGEL: *Philosophy of History*, INTRO, 160a; PART I, 237d-238c; PART IV, 346b-c
+*   **47** GOETHE: *Faust*, PROLOGUE 7a-9b; PART II [11676-11843] 284a-288a
+*   **48** MELVILLE: *Moby Dick*, esp 4b-5a, 135a-145a, 171b, 370b-372a, 409b-410b, 414b-419b
+*   **52** DOSTOEVSKY: *Brothers Karamazov*, BK V, 120d-126d; BK XI, 308c-309a; 341a-345c
+*   **54** FREUD: *Civilization and Its Discontents*, 790d; 791b [fn 1]
+
+**2e. The reconciliation of opposites in the divine nature: the synthesis of all contraries in the Absolute**
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 3 14a-20c; Q 4, A 2, REP 1-2 21b-22b; Q 65, A 1 339b-340b; Q 91, A 1, ANS 484a-485b
+*   **21** DANTE: *Divine Comedy*, PARADISE, XXXIII [76-145] 157a-d
+*   **31** SPINOZA: *Ethics*, PART I, PROP 15 360a-361d; PART II, PROP 1-2 373d-374a
+*   **46** HEGEL: *Philosophy of History*, INTRO, 156d-160a; 165a-b; 205d-206a,c; PART I, 237d-238c; 245b-d; PART III, 306a-c
+
+### 3. Opposition in the realm of physical nature
+
+**3a. The contraries as principles of change**
+*   **7** PLATO: *Symposium*, 165c-166b / *Phaedo*, 226c-228a; 243c-246c / *Republic*, BK IV, 350d-351b / *Theaetetus*, 519d-520b / *Sophist*, 565a-c / *Laws*, BK X, 760a; 762b-764c
+*   **8** ARISTOTLE: *Categories*, CH 5 [4a10-b19] 8b-9a; CH 10 [13a17-37] 18d-19a; CH 14 [15b1-16] 21b-c / *Physics*, BK I, CH 5-9 263c-268d; BK II, CH 1 [193b19-22] 270a; BK III, CH 1 [201a4-8] 278c; BK IV, CH 9 [217a20-b26] 297a-c; BK V, CH 1 [224b27-225a12] 304d-305a; [225a34-b9] 305d; CH 2 [226a23-b9] 306d-307a; CH 3 [226b24-34] 307c; CH 5 310a-311a; CH 6 [230a10-21] 312a; [230b27-231a2] 312b-c; BK VI, CH 4 [234b10-21] 316d-317a; BK VIII, CH 2 [252a9-11] 336b-c; CH 7 [260a29-b1] 346b-c / *Heavens*, BK I, CH 3 [270a13-23] 361b-c; CH 4 362a-c; CH 6 [273a7-21] 364b; CH 8 [277a13-34] 368b-c; CH 12 [283b17-23] 375c-d; BK IV 399a-405a,c / *Generation and Corruption*, BK I, CH 3-5 413c-420b; CH 7 421d-423b; BK II, CH 1-5 428b,d-433d esp CH 4-5 431b-433d / *Metaphysics*, BK I, CH 8 [989a18-29] 507b-c; BK III, CH 2 [994a19-b6] 512c-d; BK IV, CH 7 [1011b29-38] 531d; BK VIII, CH 5 569b-d; BK IX, CH 9 [1051a5-13] 577a; BK X, CH 7 [1057b16-34] 584c-d; BK XI, CH 9 [1065b5-14] 593d-594a; CH 11 596a-d; BK XII, CH 2-3 598c-599d; CH 10 [1075a25-34] 606a / *Soul*, BK II, CH 4 [416a18-b8] 646c-d / *Longevity*, CH 2-3 710b-711b
+*   **9** ARISTOTLE: *Generation of Animals*, BK I, CH 18 [724b20-725a3] 264b-d; BK IV, CH 3 [768b27] 309c / *Ethics*, BK VIII, CH 1 [1155b2-8] 407a; CH 8 [1159b19-23] 411d
+*   **10** GALEN: *Natural Faculties*, BK I, CH 2, 167b-d
+*   **11** NICOMACHUS: *Arithmetic*, BK I, 813d-814b; BK II, 839d-840b
+*   **14** PLUTARCH: *Agesilaus*, 482c
+*   **17** PLOTINUS: *Third Ennead*, TR VI, CH 8 111c-d / *Sixth Ennead*, TR I, CH 22 293d-294c; CH 27 296b-297a
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 23, A 1, REP 3 132c-133b; Q 58, A 7, REP 3 305c-306b; Q 62, A 7, REP 1 322d-323b; PART I-II, Q 18, A 8, REP 1 699d-700b; Q 23, A 2 724c-725c
+*   **28** HARVEY: *On Animal Generation*, 408c-d
+*   **31** SPINOZA: *Ethics*, PART III, PROP 4-6 398d-399a; PART IV, PROP 29-35 431d-434a; PART V, AXIOM I 452c
+*   **42** KANT: *Pure Reason*, 27a; 76c-83b esp 76c-d; 91d-93c
+*   **46** HEGEL: *Philosophy of History*, INTRO, 160c-d; 165a-b; 178a-d; 179b-d
+
+**3b. Contrariety of quality in the theory of the elements or humors**
+*   **7** PLATO: *Symposium*, 155d-157a / *Timaeus*, 462b-464b
+*   **8** ARISTOTLE: *Physics*, BK IV, CH 9 [217a20-26] 297a / *Heavens*, BK I, CH 3 [286a22-28] 377d / *Generation and Corruption*, BK II, CH 1-3 428b,d-431a; CH 7 [334b8-30] 435d-436b / *Metaphysics*, BK I, CH 8 [989a18-29] 507b-c / *Sense and the Sensible*, CH 2-7 674a-689a,c passim
+*   **9** ARISTOTLE: *Parts of Animals*, BK II, CH 7 177c-179a; BK III, CH 7 [670a18-25] 199b; BK IV, CH 2 [677a5-b1] 206d-207b / *Generation of Animals*, BK IV, CH 1 [765a8-766a25] 306d-308a
+*   **10** HIPPOCRATES: *Ancient Medicine*, PAR 13-20 4c-7d
+*   **10** GALEN: *Natural Faculties*, BK II, CH 8-9 191b-199a,c
+*   **12** LUCRETIUS: *Nature of Things*, BK V [380-415] 66a-c
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 66, A 2, ANS 345d-347b; Q 91, A 1, ANS and REP 3 484a-485b
+*   **28** HARVEY: *On Animal Generation*, 435b-c
+*   **30** BACON: *Novum Organum*, BK II, APH 66, 114d-115a
+
+**3c. The opposition of motion and rest, and of contrary motions**
+*   **7** PLATO: *Cratylus*, 112b / *Republic*, BK IV, 350d-351b / *Timaeus*, 453b-c; 460c-d / *Sophist*, 567a-574c / *Statesman*, 587a-589c esp 587a-b
+*   **8** ARISTOTLE: *Categories*, CH 14 [15a1-16] 21b-c / *Physics*, BK V, CH 5-6 310a-312d / *Heavens*, BK I, CH 4 362a-c / *Metaphysics*, BK IV, CH 2 [1004b28-30] 523d; BK XI, CH 12 [1068b19-25] 597c-d / *Soul*, BK I, CH 3 [406a22-27] 635c
+*   **10** GALEN: *Natural Faculties*, BK I, CH 2, 167b-d
+*   **11** NICOMACHUS: *Arithmetic*, BK II, 832c
+*   **16** COPERNICUS: *Revolutions of the Heavenly Spheres*, BK I, 517b-518a; 519b-520b
+*   **16** KEPLER: *Epitome*, BK IV, 931b
+*   **17** PLOTINUS: *Sixth Ennead*, TR I, CH 24, 295b; CH 27 296b-297a
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 10, A 4, REP 3 43b-44b; Q 18, A 1, REP 2 104c-105c; Q 53, A 3, ANS 283b-284d; Q 73, A 2, ANS 371b-d; PART I-II, Q 6, A 1 644d-646a; A 4 647b-648a; Q 9, A 4, REP 2 660a-d; Q 41, A 3 799c-800b
+*   **20** AQUINAS: *Summa Theologica*, PART III SUPPL, Q 75, A 3, ANS and REP 3-5 938a-939d; Q 84, A 3, REP 2 985d-989b
+*   **23** HOBBES: *Leviathan*, PART I, 50a
+*   **28** GILBERT: *Loadstone*, BK I, 26a-b; BK VI, 110b
+*   **30** BACON: *Novum Organum*, BK II, APH 35, 163a
+*   **31** SPINOZA: *Ethics*, PART II, AXIOM 1 378c; LEMMA I-3 378c-379a
+*   **34** NEWTON: *Principles*, DEF III 5b; LAW I 14a
+
+**3d. The opposition of physical forces and its resolution**
+*   **11** ARCHIMEDES: *Equilibrium of Planes*, BK I, POSTULATES-PROP 7 502a-504b
+*   **16** KEPLER: *Epitome*, BK V, 969a-972a
+*   **20** AQUINAS: *Summa Theologica*, PART III SUPPL, Q 84, A 3, REP 2-3 985d-989b
+*   **28** GILBERT: *Loadstone*, BK I, 11b-12d; BK II, 38a-39b; 52d-54d; 59a-d; BK III, 65a-67a
+*   **28** GALILEO: *Two New Sciences*, THIRD DAY, 209a-210a; 224d-225c; FOURTH DAY, 240a-d; 243d-249b passim
+*   **34** NEWTON: *Principles*, COROL I-II 15a-16b; BK I, PROP 57-69 111b-130b
+*   **45** LAVOISIER: *Elements of Chemistry*, PART I, 9a-12d
+*   **45** FARADAY: *Researches in Electricity*, 691b-692a; 788c-793c; 817a-b
+*   **51** TOLSTOY: *War and Peace*, BK XI, 570d; EPILOGUE II, 678a-b
+*   **53** JAMES: *Psychology*, 105a
+
+**3e. The struggle for existence: the competition of species**
+*   **6** HERODOTUS: *History*, BK II, 112d-113b
+*   **7** PLATO: *Protagoras*, 44c-45a
+*   **9** ARISTOTLE: *History of Animals*, BK IX, CH 1 [608b19], CH 2 [610a20] 134a-136b
+*   **36** SWIFT: *Gulliver's Travels*, PART II, 79a-80a
+*   **38** ROUSSEAU: *Inequality*, 334b,d-337d; 348d-349d
+*   **39** SMITH: *Wealth of Nations*, BK I, 34a
+*   **42** KANT: *Judgement*, 584d-585c
+*   **49** DARWIN: *Origin of Species*, 7b; 32a-39a,c esp 32d-33b, 36a-38a; 49d-51d passim; 52d-53b; 182d; 233d-234a / *Descent of Man*, 328b-c; 596c
+*   **54** FREUD: *General Introduction*, 573c; 592b / *Civilization and Its Discontents*, 791c-d
+
+### 4. Opposition or conflict in the psychological and moral order
+
+**4a. The conflict of reason and the passions**
+*   **5** EURIPIDES: *Hippolytus* [373-430] 228b-d
+*   **7** PLATO: *Phaedrus*, 120b-c; 128a-129c / *Phaedo*, 224a-226c; 230d-234c / *Republic*, BK IV, 346a-355a esp 350c-353d; BK IX, 416a-c; 425c-427b / *Laws*, BK VIII, 735b-738b
+*   **8** ARISTOTLE: *Soul*, BK III, CH 10 [433b5-12] 666b; CH 11 [434a10-15] 666d-667a / *Memory and Reminiscence*, CH 2 [453a25-31] 695c-d
+*   **9** ARISTOTLE: *Motion of Animals*, CH 11 239a-d / *Ethics*, BK I, CH 13 [1102b13-28] 348a-c; BK III, CH 1 [1111a35-b4] 357b; BK VII 395a-406a,c / *Politics*, BK III, CH 15 [1286a17-20] 484b-c; [1286a33-37] 484d
+*   **12** LUCRETIUS: *Nature of Things*, BK III [307-322] 34a-b
+*   **12** EPICTETUS: *Discourses*, BK II, CH 18 161a-162b
+*   **12** AURELIUS: *Meditations*, BK II, SECT 5 257b-c; SECT 10 257d-258a; SECT 16-17 259a-d; BK III, SECT 4 260b-261a; SECT 12 262b-c; BK V, SECT 8-9 269d-270c; BK VII, SECT 55 283b-c; SECT 68-69 284c-d; BK VIII, SECT 39 288c
+*   **13** VIRGIL: *Aeneid*, BK IV 167a-186b
+*   **18** AUGUSTINE: *Confessions*, BK VI, PAR 18-26 40d-43a; BK VIII, PAR 10-24 55c-60a / *City of God*, BK IV, CH 3 190a-c; BK XIV, CH 1-5 376b,d-380b; CH 10-11 385b-387a; BK XIX, CH 15 521a-c
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 81, A 3 430c-431d; Q 95, A 2, ANS and REP 1 507c-508a; Q 111, A 2, ANS 569c-570b; PART I-II, Q 6, AA 6-7 649a-650d; Q 9, A 2 esp REP 3 658d-659c; Q 10, A 3 664d-665c; Q 17, A 7 690d-692a; Q 28, A 3, ANS 742a-d; Q 33, A 3 767a-d; Q 34, A 1, REP 1 768c-769d; Q 48, A 3 824c-825b
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 61, A 3, ANS 56b-57a; Q 72, A 2, REP 1,4 112b-113a; Q 77 144d-152a; Q 80, A 2 160d-161c; Q 91, A 6 212c-213c; Q 93, A 6 219d-220d; Q 94, A 6, ANS 225d-226b; PART II-II, Q 183, A 4, ANS 627d-628d; Q 186, A 4, ANS 655c-656b
+*   **21** DANTE: *Divine Comedy*, HELL, I 2c-4a; V 7a-8b
+*   **22** CHAUCER: *Troilus and Cressida*, BK IV, STANZA 82 99a / *Parson's Tale*, PAR 12, 503b-504a
+*   **23** HOBBES: *Leviathan*, PART I, 57d-58a; 58c-d; PART II, 105d-106a; 141a-b; 151b-c
+*   **25** MONTAIGNE: *Essays*, 5a-6c; 20d-22a; 36c-41a esp 39b-40a; 165c-167a; 200d-205b; 273b-276a; 344a-347c passim; 350d-354b; 486b-495d
+*   **26** SHAKESPEARE: *Merchant of Venice*, ACT II, SC II [11-29] 408b-c
+*   **27** SHAKESPEARE: *Hamlet*, ACT III, SC II [61-79] 49c-d / *Troilus and Cressida*, ACT II, SC II 113c-115d esp [17-50] 113d-114a, [168-182] 115b-c; ACT III, SC I [74-81] 121a / *Othello*, ACT I, SC III [330-337] 212c; ACT II, SC III [204-207] 219a / *King Lear*, ACT III, SC IV 264a-266b
+*   **30** BACON: *Advancement of Learning*, 55b-d; 66c-d; 67a-b; 78a-d
+*   **31** SPINOZA: *Ethics*, PART IV, PROP 1-18 424c-429d; PROP 59-APPENDIX, III 442b-447b; APPENDIX, XXXII 450c-d; PART V, PROP 1-20 452d-458a
+*   **32** MILTON: *Paradise Lost*, BK VIII [521-643] 243b-246a; BK XII [80-110] 321a-b
+*   **33** PASCAL: *Pensées*, 104 193a; 412-413 242a; 423 243b
+*   **35** LOCKE: *Civil Government*, CH II, SECT 13 28a-b / *Human Understanding*, BK II, CH XXI, SECT 54 192b-c; BK IV, CH XX, SECT 12 392c
+*   **35** HUME: *Human Understanding*, SECT I, DIV 3 451d
+*   **36** STERNE: *Tristram Shandy*, 239b-243a
+*   **37** FIELDING: *Tom Jones*, 109c
+*   **42** KANT: *Fund. Prin. Metaphysic of Morals*, 282b-283d; 284d-285a / *Practical Reason*, 303b-304b / *Intro. Metaphysic of Morals*, 385c-386b / *Judgement*, 483d-484b; 586a-587a
+*   **43** FEDERALIST: NUMBER 15, 65b-c
+*   **44** BOSWELL: *Johnson*, 116b
+*   **46** HEGEL: *Philosophy of History*, PART III, 312d-313a; PART IV, 321b-d
+*   **47** GOETHE: *Faust*, PART I [3217-3373] 79a-82a esp [3217-3250] 79a-b; [3835-4205] 93b-103a
+*   **49** DARWIN: *Descent of Man*, 318d-319a
+*   **52** DOSTOEVSKY: *Brothers Karamazov*, BK III, 50c-62a
+*   **53** JAMES: *Psychology*, 706b; 799a-808a; 816a-819a
+*   **54** FREUD: *Unconscious*, 433b-c / *Ego and Id*, 702c-d; 715c-716a / *Inhibitions, Symptoms, and Anxiety*, 721d-722c / *War and Death*, 760d-761a / *Civilization and Its Discontents*, 800d-801a / *New Introductory Lectures*, 819b-c; 838a-839b; 843d-845b esp 845b
+
+**4b. Conflicting emotions, humors, instincts, or habits**
+*   **8** ARISTOTLE: *Metaphysics*, BK IX, CH 5 [1048a21-24] 573c
+*   **9** ARISTOTLE: *Ethics*, BK II, CH 5-9 351b-355a,c / *Rhetoric*, BK II, CH 2-11 623b-636a passim
+*   **12** LUCRETIUS: *Nature of Things*, BK IV [1073-1120] 58a-d
+*   **18** AUGUSTINE: *Confessions*, BK VIII, PAR 6-8 54c-55a / *City of God*, BK XV, CH 5-10 379c-385d
+*   **19** AQUINAS: *Summa Theologica*, PART I-II, Q 23, A 2 724c-725c; Q 31, A 8 758b-759a; Q 35, AA 3-5 774a-777a; Q 46, A 1, REP 2 813b-814a
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 53, A 1 19d-21a; Q 71, AA 1-2 105d-107c
+*   **21** DANTE: *Divine Comedy*, PARADISE, IV [1-27] 110d-111a
+*   **22** CHAUCER: *Wife of Bath's Prologue* [6270-6292] 267b
+*   **24** RABELAIS: *Gargantua and Pantagruel*, BK I, 8c-d
+*   **25** MONTAIGNE: *Essays*, 105c-107a; 350d-354b; 381b-c
+*   **26** SHAKESPEARE: *Romeo and Juliet*, ACT III, SC II [71-127] 304a-c
+*   **27** SHAKESPEARE: *Sonnets*, CXXIX 606a
+*   **31** SPINOZA: *Ethics*, PART III, PROP 17 401d-402a; PROP 51 411c-412a; PART IV, DEF 5 424b; AXIOM 424c; PROP 1, SCHOL-PROP 7 424d-426b; PROP 9-18 426d-429d; PROP 60 442d-443a; APPENDIX, XXI-XXV 449a-c
+*   **33** PASCAL: *Pensées*, 411 242a
+*   **42** KANT: *Fund. Prin. Metaphysic of Morals*, 258b-c
+*   **46** HEGEL: *Philosophy of Right*, INTRO, PAR 17 16c; ADDITIONS, 13 118c
+*   **47** GOETHE: *Faust*, PART I [354-429] 11a-12b; [1064-1117] 26b-28a; [1322-1706] 32b-41a; [3217-3250] 79a-b; [3469-3501] 84b-85a
+*   **49** DARWIN: *Descent of Man*, 311a-314b passim, esp 311a-b, 312d-313a; 318c-319a
+*   **50** MARX: *Capital*, 293c-294a
+*   **51** TOLSTOY: *War and Peace*, BK III, 120a; BK VI, 235a-238c; 247d-249a; 265d-266b; BK VII, 292b-296a; BK VIII, 338a-339c; BK XII, 560a-562d
+*   **52** DOSTOEVSKY: *Brothers Karamazov*, BK IV, 95b-100c; BK VIII, 200c-201c
+*   **53** JAMES: *Psychology*, 704b-706b; 717a-718a; 720b; 729b; 734b-735b
+*   **54** FREUD: *Narcissism*, 401b-c / *Instincts*, 414d-421a,c / *General Introduction*, 590a-593b; 615b-616c / *Beyond the Pleasure Principle*, 640c; 651d-654c esp 653c-d; 659b-d; 663c / *Group Psychology*, 677c-678c / *Ego and Id*, 708d-712a esp 709c-710c / *War and Death*, 758b; 766a-b / *Civilization and Its Discontents*, 789c-791d / *New Introductory Lectures*, 846b-851d
+
+**4c. Conflict as the cause of repression and as a factor in neurotic disorders**
+*   **54** FREUD: *Origin and Development of Psycho-Analysis*, 6a-9a esp 7a-c, 8a-b / *Hysteria*, 65c-d; 81d-84a esp 82c; 117a / *Interpretation of Dreams*, 370b; 377b-382a esp 380a-b, 381d-382a / *Narcissism*, 406d-407c / *Repression*, 422a-427a,c passim, esp 424b-d / *General Introduction*, 566a-569c esp 568d-569b; 589c-591d; 593d-594c; 611a-623b esp 614c-615a, 616b-c; 623d-624d esp 624c-d; 626d-627b; 633d-635a / *Beyond the Pleasure Principle*, 640c-d / *Group Psychology*, 690a-691c esp 691a / *Ego and Id*, 704d; 712b-715a passim / *Inhibitions, Symptoms, and Anxiety*, 718a-754a,c passim, esp 719b-c, 720a-722d, 724b-725a, 726b-c, 731c-d, 746c-747b, 750a-d
+
+**4d. The conflict of loves and loyalties, desires and duties**
+*   OLD TESTAMENT: Genesis, 4:1-16; 22:1-12 / Judges, 11:30-40 / Ruth, 1 / II Samuel, 11-13—(D) II Kings, 11-13 / I Kings, 11:1-13—(D) III Kings, 11:1-13
+*   APOCRYPHA: Wisdom of Solomon, 9:15—(D) OT, Book of Wisdom, 9:15 / Susanna, 19-24—(D) OT, Daniel, 13:19-24
+*   NEW TESTAMENT: Matthew, 8:21-22; 10:34-37; 12:46-50; 26:41 / Mark, 14:38 / Romans, 6:12-14; 7-8; 13:13-14 / Galatians, 5:16-26 / Philippians, 1:21-26 / James, 1:12-17; 4:1-2 / I Peter, 2:11
+*   **4** HOMER: *Iliad*, BK VI [369-502] 43d-45a
+*   **5** AESCHYLUS: *Seven Against Thebes* [1011-1084] 38b-39d / *Agamemnon* [184-247] 54a-c / *Choephoroe* [885-930] 78d-79b
+*   **5** SOPHOCLES: *Antigone*, 131a-142d esp [1-99] 131a-132a, [162-210] 132c-d, [441-470] 134d-135a / *Philoctetes*, 182a-195a,c esp [895-1292] 190a-193c
+*   **5** EURIPIDES: *Hippolytus* [373-430] 228b-d / *Phoenician Maidens* [1625-1746] 392b-393c
+*   **5** ARISTOPHANES: *Lysistrata*, 583a-599a,c esp [706-780] 592b-593b, [1072-1188] 596d-597d
+*   **6** HERODOTUS: *History*, BK VI, 197a-b; 201d-202c; BK VII, 223c-d
+*   **7** PLATO: *Symposium*, 153b-157a / *Laws*, BK VIII, 737a-c
+*   **12** LUCRETIUS: *Nature of Things*, BK IV [1121-1140] 58d-59a
+*   **12** EPICTETUS: *Discourses*, BK IV, CH 2 223d-224b
+*   **13** VIRGIL: *Aeneid*, BK IV [333-361] 176a-177a
+*   **14** PLUTARCH: *Poplicola*, 77d-79c / *Fabius*, 152b-d / *Coriolanus*, 189d-191c / *Timoleon*, 196b-198b / *Agis*, 654c-655a
+*   **17** PLOTINUS: *Third Ennead*, TR V, CH 1 100c-101c
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 24, A 12 499c-500d
+*   **21** DANTE: *Divine Comedy*, PURGATORY, X [70-93] 68a-b
+*   **22** CHAUCER: *Troilus and Cressida*, BK IV 88b-120a esp STANZA 76-92 98b-100b, STANZA 223-229 117b-118b / *Franklin's Tale*, 351b-366a esp [11767-11854] 363b-365a
+*   **23** HOBBES: *Leviathan*, PART III, 240a-c; 245c-246a,c
+*   **25** MONTAIGNE: *Essays*, 200d-205b; 381a-388c; 467b-470a; 486b-488b
+*   **26** SHAKESPEARE: *Two Gentlemen of Verona*, ACT II, SC IV [192-214] 238b; SC VI 239a-c; ACT III, SC I [4-21] 240c / *Love's Labour's Lost*, ACT IV, SC III 268b-272c / *Romeo and Juliet*, 285a-319a,c esp PROLOGUE 285a-b, ACT III, SC II [64-131] 303d-304c, SC V 307a-309d / *Richard II*, ACT V, SC II [85-117] 347b-c; SC III [23-146] 348a-349c / *Midsummer-Night’s Dream*, ACT I, SC I [22-127] 352d-353d / *Much Ado About Nothing*, ACT II, SC I [182-189] 509a-b / *Julius Caesar*, ACT II, SC II [11-44] 583d-584a
+*   **27** SHAKESPEARE: *Troilus and Cressida*, 103a-141a,c esp ACT IV, SC II-IV 126d-129d / *Othello*, ACT I, SC III [175-189] 210d-211a / *Macbeth*, ACT I, SC VII [1-28] 289b-c / *Antony and Cleopatra*, 311a-350d esp ACT I, SC III [92-204] 313b-314c / *Coriolanus*, ACT IV, SC II-III 377d-379a
+*   **29** CERVANTES: *Don Quixote*, PART I, 120b-137d
+*   **30** BACON: *Advancement of Learning*, 24b
+*   **32** MILTON: *Samson Agonistes* [843-870] 358a-b; [1003-1007] 361b
+*   **33** PASCAL: *Pensées*, 104 193a
+*   **37** FIELDING: *Tom Jones*, 77c-78b; 79d-80b; 126c-127c
+*   **42** KANT: *Fund. Prin. Metaphysic of Morals*, 259a
+*   **48** MELVILLE: *Moby Dick*, 394a-397a
+*   **49** DARWIN: *Descent of Man*, 310d-314c; 318d-319a
+*   **51** TOLSTOY: *War and Peace*, BK VI, 273c-274a,c; BK VII, 291a-292b; 301b-302d; BK VIII, 327a-329c; BK IX, 365d-366a; BK XI, 490a-493d; 520a-521b; EPILOGUE I, 669b-c
+*   **52** DOSTOEVSKY: *Brothers Karamazov*, BK III, 58d-59a; BK IV, 95b-100a; BK X, 282b-283c; EPILOGUE, 402a-404c
+*   **53** JAMES: *Psychology*, 199b-201b; 293b; 791a-798b passim; 824a-b
+*   **54** FREUD: *General Introduction*, 452c-d; 467b-476a,c passim, esp 472d-475a / *Group Psychology*, 694c-695b / *War and Death*, 757c-759d; 764d-766d / *Civilization and Its Discontents*, 780d-781d; 783c-789b esp 783c-784d, 788d-789a; 792a-802a,c passim / *New Introductory Lectures*, 853a-b
+
+**4e. Conflict in human life: opposed types of men and modes of life**
+*   OLD TESTAMENT: Genesis, 4:1-8; 25-27 / I Kings, 8:53—(D) III Kings, 8:53 / Jeremiah, 12:1-3—(D) Jeremias, 12:1-3
+*   APOCRYPHA: Ecclesiasticus, 33:10-15 esp 33:14—(D) OT, Ecclesiasticus, 33:10-15 esp 33:15
+*   NEW TESTAMENT: Matthew, 5-7; 25 / Mark, 4:1-20 / Luke, 8:4-15 / Acts, 16:19-23 / Romans, 6:12-14; 7:8; 13:13-14 / Ephesians / I Thessalonians, 3:11-4:12—(D) I Thessalonians, 3:11-4:11 / I Timothy, 5:5-6 / II Timothy, 3 / Hebrews, 11:24-26 / I Peter, 2:11-5:11 esp 3:12
+*   **4** HOMER: *Iliad*, BK III [191-224] 20d-21b
+*   **5** EURIPIDES: *Ion* [585-647] 287d-288b / *Hippolytus*, 225a-236d
+*   **5** ARISTOPHANES: *Clouds* [882-1114] 499b-502b
+*   **6** HERODOTUS: *History*, BK VII, 232d-233d; 253b-254a; BK VIII, 264c; BK IX, 305d-306a
+*   **6** THUCYDIDES: *Peloponnesian War*, BK I, 366b-367a; BK II, 396d-397a
+*   **7** PLATO: *Phaedo*, 223d-225a / *Republic*, BK I, 308b-309b; BK III, 340b-341a; BK VIII-IX 401d-427b / *Theaetetus*, 528c-531a / *Statesman*, 605d-608d / *Philebus*, 609a-639a,c / *Laws*, BK V, 690a-c / *Seventh Letter*, 806a; 806d
+*   **9** ARISTOTLE: *Ethics*, BK I, CH 5 340d-341b; BK II, CH 3 350a-c; BK VII, CH 14 [1154b20-30] 406c; BK X, CH 7-8 431d-434a / *Rhetoric*, BK II, CH 12-17 636a-639a
+*   **10** HIPPOCRATES: *Airs, Waters, Places*, PAR 12-24 14b-19a,c
+*   **12** LUCRETIUS: *Nature of Things*, BK II [1-61] 15a-d; BK III [59-86] 30d-31b; [830-1094] 40c-44a,c; BK V [1105-1135] 75c-d; BK VI [1-41] 80a-d
+*   **12** EPICTETUS: *Discourses*, BK I, CH 3 108b-c; CH 29 134d-138a; BK II, CH 11 150a-151b; BK III, CH 10 185d-187a; CH 15 190a-191a; CH 22 195a-201a; BK IV, CH 6 230b-232c; CH 8 235b-237d
+*   **13** VIRGIL: *Aeneid*, BK IX [590-620] 295a-b
+*   **14** PLUTARCH: *Themistocles*, 99b-c / *Marcellus*, 254c-256b / *Demetrius*, 726a-d
+*   **17** PLOTINUS: *First Ennead*, TR III, CH 1-3 10a-11a / *Fourth Ennead*, TR IV, CH 18 166d-167b / *Fifth Ennead*, TR IX, CH 1-2 246c-247b
+*   **18** AUGUSTINE: *Confessions*, BK X, PAR 39 81b-c / *Christian Doctrine*, BK III, CH 14 663c-d
+*   **19** AQUINAS: *Summa Theologica*, PART I, Q 92 488d-491d; Q 93, A 4, REP 1 494c-495b; Q 96, AA 3-4 512a-513c; Q 99, A 2 520a-d; Q 112, A 1, REP 3 571d-573a; Q 113, A 2, REP 3 576d-577d; Q 115, A 3, REP 4 588c-589c; PART I-II, Q 8, A 1, REP 1-2 655b-656a; Q 19, A 10, ANS and REP to CONTRARY 3 710b-711d; Q 46, A 5, ANS and REP 1 815d-816d
+*   **20** AQUINAS: *Summa Theologica*, PART II-II, Q 25, A 7 506a-d; Q 29, A 3, REP 2 531d-532c; QQ 37-42 570c-584d; Q 179 606a-607c; PART III SUPPL, Q 81, A 3 966a-c; Q 82, A 3, REP 4 971a-972d; Q 96, A 11 1063d-1064d
+*   **22** CHAUCER: *Prologue*, 159a-174a / *Tale of Melibeus*, PAR 30-31, 413b-414a
+*   **23** MACHIAVELLI: *Prince*, CH XVI, 25a-b
+*   **23** HOBBES: *Leviathan*, PART I, 66d-67a; 84c-d; PART II, 154a; 155d; CONCLUSION, 279a-c
+*   **24** RABELAIS: *Gargantua and Pantagruel*, BK I, 62b-63c; BK III, 189c-191a
+*   **25** MONTAIGNE: *Essays*, 43d-47a; 91d-98b esp 93b-94a; 103c-104a; 150c-151a; 159a-162c; 167a-169a; 200d-205b; 235a-236a; 278a-279c; 281a-284c; 318a-319b; 326b-327d; 406a-408b; 445a-c; 446a-450a; 458b-c; 492b-493a; 524b-d; 528c-529b
+*   **26** SHAKESPEARE: *Love's Labour's Lost*, ACT I, SC I [1-162] 254a-256a / *Midsummer-Night's Dream*, ACT I, SC I [67-78] 353a-b / *Merchant of Venice*, 406a-433d esp ACT I, SC I [41-94] 406d-407b, SC III 409c-411b, ACT III, SC I [25-76] 419a-b / *1st Henry IV*, 434a-466d esp ACT I, SC I 437d-440d / *2nd Henry IV*, 467a-502d esp ACT IV, SC IV-V 492d-496d / *Much Ado About Nothing*, ACT I, SC III [1-41] 506d-507a; ACT II, SC I [345-363] 510d / *Julius Caesar*, ACT I, SC II 569b-572c / *As You Like It*, ACT II, SC I [1-20] 603c-d; ACT IV, SC I [1-41] 617a-c
+*   **27** SHAKESPEARE: *Twelfth Night*, ACT I, SC III-IV 8c-11d / *Hamlet*, 29a-72a,c esp ACT II, SC II [575-616] 46b-c, ACT III, SC I [56-90] 47c-d, SC II [58-79] 49c-d, [360-389] 52d-53a, ACT IV, SC IV [32-66] 59a-c / *Troilus and Cressida*, 103a-141a,c esp ACT I, SC III [17-54] 108b-c, ACT II, SC I-II 112b-115d / *Othello*, ACT I, SC III 208d-213a / *Antony and Cleopatra*, 311a-350d esp ACT I, SC IV 315d-316d / *Coriolanus*, ACT IV, SC VII [27-57] 384c-d / *Timon of Athens*, ACT I, SC I [175-293] 395c-396d; ACT IV, SC III [197-398] 413a-415a
+*   **29** CERVANTES: *Don Quixote*, esp PART I, 49c-50b, 113b-115d, 145b-147d, PART II, 228a-d
+*   **30** BACON: *Advancement of Learning*, 18a-b; 20c-d; 69d-76a passim; 76d-77c / *Novum Organum*, BK I, APH 42 109d; APH 53-58 111c-112b
+*   **31** SPINOZA: *Ethics*, PART III-IV 395a-450d passim
+*   **32** MILTON: *Paradise Lost*, BK II [496-505] 122a
+*   **33** PASCAL: *Pensées*, 125-183 195b-204b
+*   **36** SWIFT: *Gulliver's Travels*, PART I, 21b-23a
+*   **38** ROUSSEAU: *Social Contract*, BK III, 416c-417a
+*   **40** GIBBON: *Decline and Fall*, 89d; 191c-194a; 398d-399a; 409d-410a; 593b,d-599a passim; 632b-633d
+*   **43** MILL: *Liberty*, 290a-291d; 293b-302c; 303d-306c passim / *Representative Government*, 346c-348c
+*   **46** HEGEL: *Philosophy of Right*, PART I, PAR 39 21d; PART II, PAR 139 48d-49b; PART III, PAR 256 79d-80a; ADDITIONS, 128-129 137b-c / *Philosophy of History*, INTRO, 192a-194a; PART I, 232d-233a; PART II, 276d-277a; 280b-281b; PART III, 289d; PART IV, 318c-319b
+*   **47** GOETHE: *Faust*, PRELUDE [33]-PART I [429] 2a-12b; PART I [522-601] 15a-16b; [1064-1117] 26b-28a; [3217-3250] 79a-b; [3469-3501] 84b-85a; PART II [5199-5290] 128b-130b
+*   **48** MELVILLE: *Moby Dick*, esp 39b-40a, 79a-82a, 83a-91a, 122b-125a, 285d-288a, 303a, 317a-321a, 370b-371b, 394a-397a
+*   **49** DARWIN: *Descent of Man*, 318d-319a
+*   **50** MARX-ENGELS: *Communist Manifesto*, 415a-434d passim
+*   **51** TOLSTOY: *War and Peace*, BK I, 15a-b; BK III, 131c-135c; BK VI, 238c-243d; 244b-c; 249a; 260a-262a; BK VII, 284c-285a; BK VIII, 303d-304b; 336b-337d; BK IX, 358b-365c passim, esp 362d-363a; BK X, 403a-406c; 426a-430b; BK XI, 480a-482b; 515c-521c; BK XII, 577a-578b; BK XIV, 605b-d; BK XV, 630c-631a
+*   **52** DOSTOEVSKY: *Brothers Karamazov*, esp BK I-IV, 1a-88a, BK VI 146b,d-170d, BK XI, 337a-346a
+*   **53** JAMES: *Psychology*, 199b-204b; 800a-807b
+*   **54** FREUD: *Interpretation of Dreams*, 246c-247c / *General Introduction*, 501d-504b; 616b-c / *Beyond the Pleasure Principle*, 640b-d / *Group Psychology*, 689d-690c / *Ego and Id*, 697a-717a,c / *Inhibitions, Symptoms, and Anxiety*, 746c-747a / *Civilization and Its Discontents*, 771c-802a,c esp 772a-c, 776b-777a, 780d-781d, 783c-784c, 787a-789a, 790a-791d, 796a-c, 799a-802a,c / *New Introductory Lectures*, 830a-853b esp 830b-832c, 837b-839b, 849d-853b
+
+### 5. Conflict in society and history
+
+**5a. Competition in commerce and the rivalry of factions in politics**
+*   **6** THUCYDIDES: *Peloponnesian War*, BK III, 434c-438b; BK IV, 458d-459c; BK V, 502d-504b; BK VIII 564a-593a,c passim, esp 568d-569a, 575c-576c, 577b-d, 579c-583c, 584b-585a, 585d-586b, 587a-590c
+*   **9** ARISTOTLE: *Ethics*, BK IX, CH 6 420c-421a / *Politics*, BK V, CH 9 [1309b14-1310a12] 511d-512b / *Athenian Constitution*, CH 5 554d-555a; CH 8, PAR 5 556c
+*   **14** PLUTARCH: *Solon*, 68d; 75c-d / *Pericles*, 126c-d / *Agesilaus*, 482a-c / *Pompey*, 521c-d
+*   **15** TACITUS: *Annals*, BK VI, 97b-c / *Histories*, BK II, 224d-225a
+*   **23** MACHIAVELLI: *Prince*, CH IX, 14c-d
+*   **23** HOBBES: *Leviathan*, PART II, 103d-104a; 121b-d; 148d-149b; 150b-151a; 152b-d
+*   **25** MONTAIGNE: *Essays*, 42a-b
+*   **26** SHAKESPEARE: *1st Henry VI*, 1a-32a,c / *2nd Henry VI*, 33a-68d / *3rd Henry VI*, 69a-104d / *Richard III*, 105a-148a,c esp ACT V, SC V [15-41] 148a,c / *Richard II*, 320a-351d / *1st Henry IV*, 434a-466d / *2nd Henry IV*, 467a-502d
+*   **27** SHAKESPEARE: *Troilus and Cressida*, ACT I, SC III [75-137] 108d-109c
+*   **38** MONTESQUIEU: *Spirit of Laws*, BK III, 9d; BK XIX, 142b-143a; BK XX, 148d-149a
+*   **39** SMITH: *Wealth of Nations*, BK I, 23c-27b esp 25c-26c; 42a,c; 51a-62a; BK II, 142c-d; BK IV, 192c-201d esp 193a-194b, 201b-d; 225d-228a; 269d-271a; BK V, 420c-d
+*   **40** GIBBON: *Decline and Fall*, 652b-655c
+*   **41** GIBBON: *Decline and Fall*, 572c-d
+*   **43** FEDERALIST: NUMBER 7, 42d-43c; NUMBER 10, 49c-51b; NUMBER 43, 141d-142d; NUMBER 50-51 161d-165a passim; NUMBER 60, 185b-187a; NUMBER 70, 212b-c
+*   **43** MILL: *Liberty*, 289c-d; 312b-313a / *Representative Government*, 361b-362b; 366a-370a; 371c-372a; 376a-c; 412b-413a
+*   **44** BOSWELL: *Johnson*, 124d-125d
+*   **46** HEGEL: *Philosophy of Right*, PART III, PAR 289 97b-d; PAR 304 102a / *Philosophy of History*, PART II, 275b-d; 279b; 283b-c; PART III, 285d; 298c-d; PART IV, 336a-c; 356c-357a; 366d-367a
+*   **50** MARX: *Capital*, 130c; 171d-176a esp 174b-c; 270c-271c passim; 308d-311a esp 310b; 316d-317c; 371c-377a passim, esp 372c; 379a-383d
+*   **50** MARX-ENGELS: *Communist Manifesto*, 425b
+
+**5b. The class war: the opposition of the rich and the poor, the propertied and the propertyless, capital and labor, producers and consumers**
+*   **5** EURIPIDES: *Suppliants* [229-245] 260b-c
+*   **6** HERODOTUS: *History*, BK VI, 203a-b; BK VII, 243b-c
+*   **6** THUCYDIDES: *Peloponnesian War*, BK III, 423a-c; 434c-438c; BK IV, 458d-459c; 463a-465c; 467a-b; 480a-c; BK V, 482d-483a; 502d-504b; BK VI, 520a-d; 524d-525d; 533a-c; BK VIII 564a-593a,c passim, esp 568d-569a, 575c-576c, 577b-d, 579c-583c, 584b-585a, 585d-586b, 587a-590c
+*   **7** PLATO: *Republic*, BK IV, 343c-d; BK VIII, 405c-416a
+*   **9** ARISTOTLE: *Politics*, BK II, CH 6 [1265b6-12] 461a; CH 7 461d-463c; CH 9 [1269a33-b12] 465c-d; BK III, CH 10 [1281a11-29] 478d-479a; BK IV, CH 4 489b-491d passim, esp [1290a30-b20] 489b-d, [1291b5-13] 490d; CH 11-12 495b-497b; BK V, CH 3 [1303b5-8] 505a; CH 4 [1304a1-6] 506a; CH 5 [1304b18]-CH 6 [1305b22] 506b-507c; CH 7 [1306b22-1307a2] 508c-d; CH 9 [1310a19-25] 512c; CH 10 [1310b9-15] 512d-513a; CH 12 [1316a39-b22] 519c-d / *Athenian Constitution*, CH 2-6 553a-555c
+*   **14** PLUTARCH: *Lycurgus*, 36a-37c / *Solon*, 68d-71c / *Camillus*, 117c-121a,c / *Coriolanus*, 176b-184c / *Agis*, 648b,d-656d / *Tiberius Gracchus*, 674c-681a,c / *Gaius Gracchus*, 681b,d-689a,c
+*   **15** TACITUS: *Annals*, BK VI, 97b / *Histories*, BK II, 224d-225a
+*   **23** MACHIAVELLI: *Prince*, CH IX, 14c-d
+*   **27** SHAKESPEARE: *Coriolanus*, ACT I, SC I [1-167] 351a-353a
+*   **36** SWIFT: *Gulliver's Travels*, PART IV, 154b-155b
+*   **38** MONTESQUIEU: *Spirit of Laws*, BK XI, 77b-83c
+*   **38** ROUSSEAU: *Political Economy*, 381c-382b / *Social Contract*, BK IV, 429c-d
+*   **39** SMITH: *Wealth of Nations*, BK I, 28a-d; 55d-56a; 61c-62d; BK IV, 239c-240a; 243b,d-244a; 279b-288c esp 287d-288c; BK V, 309a-311c
+*   **40** GIBBON: *Decline and Fall*, 126d-127c; 144a-d; 501b-502c
+*   **41** GIBBON: *Decline and Fall*, 574b-582b passim
+*   **43** FEDERALIST: NUMBER 10, 50b-51b; NUMBER 35, 113b-114a; NUMBER 36, 114c-115a; NUMBER 60, 185b-186a
+*   **43** MILL: *Representative Government*, 345c-346a; 366d-367b; 369b-370a / *Utilitarianism*, 473b-c
+*   **46** HEGEL: *Philosophy of Right*, PART III, PAR 244 77c; ADDITIONS, 149 140d-141a / *Philosophy of History*, INTRO, 193b-c; PART II, 250a-c; PART III, 263b-d; 275b-276a; PART III, 287d-288b; 295d-297a; PART IV, 335a-336c; 356c-357a
+*   **50** MARX: *Capital*, 6c-11d passim, esp 7b, 8a-9c; 63b-c; 111c-146c esp 113c, 115c, 130a-131a, 134c-d, 141b-c, 143a-c, 145a-146c; 209c-215a; 262a; 282d-286a passim; 294b-295a; 354a-368b esp 354c-355b, 356c-358a, 366a-b, 367c-368b; 377c-378d
+*   **50** MARX-ENGELS: *Communist Manifesto*, 415a-434d esp 415b-416d, 419b,d-420a, 422b-425c, 428d-429c, 434c-d
+*   **52** DOSTOEVSKY: *Brothers Karamazov*, BK VI, 165b-166a
+*   **54** FREUD: *New Introductory Lectures*, 882c-d; 884a
+
+**5c. The inevitability of civil strife and war between states**
+*   **5** ARISTOPHANES: *Peace*, 526a-541d esp [195-222] 528b-c, [1061-1126] 538a-539a
+*   **6** THUCYDIDES: *Peloponnesian War*, BK I, 384c-386c; BK III, 436c-438b esp 436d-437d; BK VI, 518a-520d
+*   **7** PLATO: *Republic*, BK II, 318d / *Laws*, BK I, 640d-641a; BK VIII, 732b
+*   **9** ARISTOTLE: *Politics*, BK II, CH 6 [1265a20-27] 460c; CH 7 [1267a21-36] 463a; BK VII, CH 6 531b-d; CH 11 [1330b1-1331a18] 535a-d; CH 14 [1333b41-1334a11] 538b-d
+*   **14** PLUTARCH: *Demetrius*, 727d
+*   **23** MACHIAVELLI: *Prince*, CH III, 5c; CH XIV, 21b; CH XVIII, 25a-b; CH XXI, 32a-d
+*   **23** HOBBES: *Leviathan*, PART I, 76c-d; 84c-86b; PART II, 114b-c; 116c-d; 157a; 159c
+*   **32** MILTON: *Paradise Lost*, BK II [496-505] 122a
+*   **36** SWIFT: *Gulliver's Travels*, PART II, 76b-78b
+*   **38** MONTESQUIEU: *Spirit of Laws*, BK I, 2d-3a; BK X, 61b,d-62b
+*   **38** ROUSSEAU: *Inequality*, 324c; 355b-c / *Social Contract*, BK II, 403c-404a
+*   **42** KANT: *Science of Right*, 452a-458a,c esp 457a-458a,c / *Judgement*, 504a-b; 586a-587a
+*   **43** FEDERALIST: NUMBER 3-10 33b-53a passim; NUMBER 16, 68d; NUMBER 23, 85b; NUMBER 24, 88d-89c passim; NUMBER 28, 96c; NUMBER 34, 110a-d; NUMBER 41, 132c-135a passim
+*   **46** HEGEL: *Philosophy of Right*, PART III, PAR 333-334 109b-c / *Philosophy of History*, PART III, 278c-279b
+*   **50** MARX-ENGELS: *Communist Manifesto*, 428a-b
+*   **51** TOLSTOY: *War and Peace*, BK I, 12d-13a; BK IX, 342a-344b
+*   **53** JAMES: *Psychology*, 717a-b
+*   **54** FREUD: *War and Death*, 755c-757a esp 755c; 766c-d / *Civilization and Its Discontents*, 787a-788c
+
+**5d. Opposition or strife as a productive principle or source of progress**
+*   **18** AUGUSTINE: *City of God*, 129a-618d esp BK I, PREF 129a-d, CH 36 149c-d, BK II, CH 2-3 150c-151c, BK IV, CH 33 206c-d, BK V, CH 11-26 216c-230a,c, BK XI, CH 1 322b,d-323a, CH 18 331d-332a, BK XII, CH 21 357a-b, BK XIV, CH 28-BK XV, CH 1 397a-398c, BK XV, CH 21-22 415b-416c, BK XVIII, CH 1-2 472b,d-473d, BK XIX, CH 5-7 513d-515c
+*   **23** HOBBES: *Leviathan*, PART II, 100a-c
+*   **38** ROUSSEAU: *Inequality*, 338c-339b
+*   **39** SMITH: *Wealth of Nations*, BK III, 170c-173b
+*   **40** GIBBON: *Decline and Fall*, 633a-c
+*   **41** GIBBON: *Decline and Fall*, 327d-328a,c
+*   **43** MILL: *Representative Government*, 376a-c; 387c-d
+*   **46** HEGEL: *Philosophy of Right*, PART III, PAR 324 107a-d / *Philosophy of History*, INTRO, 178a-179c; 187d-188b; 205d-206a,c; PART I, 235d-236a; PART II, 260b-c; 274a-275a; 279c-281b; PART IV, 316a-b; 321b-d; 333d-334d; 346a-c
+*   **49** DARWIN: *Descent of Man*, 320b-323a passim; 328b-c; 350d-351b; 596c
+*   **50** MARX: *Capital*, 377c-378d
+*   **50** MARX-ENGELS: *Communist Manifesto*, 415a-434d esp 419b,d-425b
+*   **51** TOLSTOY: *War and Peace*, BK IX, 342a-344b; EPILOGUE I, 646b-c
+*   **53** JAMES: *Psychology*, 717a-b
+*   **54** FREUD: *General Introduction*, 545d / *Beyond the Pleasure Principle*, 654a-c / *Civilization and Its Discontents*, 787a-788d; 802a,c / *New Introductory Lectures*, 882c-884c
+
+---
+
+## CROSS-REFERENCES
+
+*   **For** other considerations of the opposition of terms and propositions, or of opposition in reasoning and argument, **see** DIALECTIC 3b-3d; IDEA 4c; JUDGMENT 7a; NECESSITY AND CONTINGENCY 4e(1); REASONING 5c; SAME AND OTHER 3a(2).
+*   **For** the distinction between dichotomous division and the differentiation of a genus as methods of definition, **see** DEFINITION 2a-2b.
+*   **For** discussions of the law of contradiction as a principle of thought and of being, **see** LOGIC 1; METAPHYSICS 3c; PRINCIPLE 1c; TRUTH 3c; and for the various ways in which dialectic is concerned with opposition, **see** DIALECTIC 3a-3d.
+*   **For** the opposition of being and nonbeing, one and many, same and other, **see** BEING 1; DIALECTIC 3a; ONE AND MANY 1a, 1c; SAME AND OTHER 2c; UNIVERSAL AND PARTICULAR 1.
+*   **For** the theory of synthesis or the reconciliation of opposites, **see** DIALECTIC 3d; HISTORY 4a(3); IDEA 1f; LIBERTY 6a; MIND 1f, 10f-10f(2); PROGRESS 1a; STATE 2a(3).
+*   **For** the role of opposition in nature, **see** CHANGE 2b, 4; ELEMENT 3b; EVOLUTION 5a; MECHANICS 6d(3); QUALITY 4a-4b.
+*   **For** conflict in human nature and the life of man, **see** DESIRE 3d, 4a; DUTY 6, 8; EMOTION 4c; LOVE 3c; MAN 5-5a; MIND 9b; ONE AND MANY 3b(5); and for conflict in society and history, **see** DEMOCRACY 5b(4); LABOR 7c-7c(1); NECESSITY AND CONTINGENCY 5d; PROGRESS 1a; REVOLUTION 5a; STATE 5d-5d(2); WAR AND PEACE 2c, 7; WEALTH 4f.
+
+---
+
+## ADDITIONAL READINGS
+
+*Listed below are works not included in Great Books of the Western World, but relevant to the idea and topics with which this chapter deals. These works are divided into two groups:*
+
+*I. Works by authors represented in this collection.*
+*II. Works by authors not represented in this collection.*
+
+*For the date, place, and other facts concerning the publication of the works cited, consult the Bibliography of Additional Readings which follows the last chapter of The Great Ideas.*
+
+**I.**
+*   KANT. *Prolegomena to Any Future Metaphysic*, PAR 2 (b, c)
+*   HEGEL. *Science of Logic*, VOL I, BK I, SECT I, CH 2
+*   ---. *Logic*, CH 8, PAR 115-122
+*   MARX. *The Poverty of Philosophy*
+
+**II.**
+*   ERIGENA. *De Divisione Naturae*, BK I
+*   NICHOLAS OF CUSA. *De Docta Ignorantia*
+*   SUÁREZ. *Disputationes Metaphysicae*, IV (6), VI (9-10), XXVII (6), XLII (6), XLV
+*   JOHN OF SAINT THOMAS. *Cursus Philosophicus Thomisticus*, Ars Logica, PART II, Q 7
+*   J. G. FICHTE. *The Science of Knowledge*, PART III, A-D
+*   W. HAMILTON. *Lectures on Metaphysics and Logic*, VOL I (14)
+*   EMERSON. “Compensation,” in *Essays*, I
+*   PROUDHON. *The Philosophy of Misery*
+*   LOTZE. *Logic*, BK I, CH 2 (c)
+*   C. S. PEIRCE. *Collected Papers*, VOL I, PAR 322-336, 457-461
+*   BOSANQUET. *Logic*, VOL I, CH 7
+*   ---. *Science and Philosophy*, 5
+*   CROCE. *Logic as the Science of Pure Concept*, PART I, SECT I (6)
+*   ROYCE. *The Principles of Logic*
+*   BRADLEY. *Appearance and Reality*
+*   ---. *Essays on Truth and Reality*, CH 7-9
+*   SHELDON. *Strife of Systems and Productive Duality*
+*   M. R. COHEN. *Reason and Nature*, BK I, CH 4 (5)
+*   OGDEN. *Opposition*
+*   DEWEY. *Logic, the Theory of Inquiry*, CH 10
+*   B. RUSSELL. *Introduction to Mathematical Philosophy*, CH 14
+*   ---. *An Inquiry into Meaning and Truth*, CH 20
