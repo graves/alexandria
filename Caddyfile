@@ -1,0 +1,18 @@
+alexandria.awfulsec.com {
+    # Search API
+    handle /search* {
+        reverse_proxy 127.0.0.1:3001
+    }
+
+    # Health check endpoint
+    handle /health {
+        reverse_proxy 127.0.0.1:3001
+    }
+
+    # Main site - mdbook (default handler)
+    handle {
+        reverse_proxy 127.0.0.1:3000
+    }
+
+    encode gzip zstd
+}
