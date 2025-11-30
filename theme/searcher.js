@@ -1,6 +1,6 @@
 // Custom Elasticsearch search for Great Books
 (function() {
-    const SEARCH_API_URL = 'http://localhost:3002/search';
+    const SEARCH_API_URL = '/search';
 
     // Debounce function
     function debounce(func, wait) {
