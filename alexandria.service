@@ -1,5 +1,5 @@
 [Unit]
-Description=Alexandria Great Books Search
+Description=Alexandria Great Books
 Requires=docker.service
 After=docker.service network-online.target
 Wants=network-online.target
@@ -7,10 +7,10 @@ Wants=network-online.target
 [Service]
 Type=oneshot
 RemainAfterExit=yes
-WorkingDirectory=/opt/alexandria
-ExecStart=/usr/bin/docker compose -f docker-compose.prod.yml up -d
-ExecStop=/usr/bin/docker compose -f docker-compose.prod.yml down
-ExecReload=/usr/bin/docker compose -f docker-compose.prod.yml pull && /usr/bin/docker compose -f docker-compose.prod.yml up -d
+WorkingDirectory=/home/tg/alexandria
+ExecStart=/usr/bin/just up
+ExecStop=/usr/bin/just down
+ExecReload=/usr/bin/just update
 TimeoutStartSec=300
 
 [Install]

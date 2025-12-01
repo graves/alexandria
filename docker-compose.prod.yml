@@ -68,6 +68,48 @@ services:
     networks:
       - alexandria
 
+  # Plausible Analytics
+  plausible_db:
+    image: postgres:16-alpine
+    container_name: alexandria-plausible-db
+    restart: unless-stopped
+    volumes:
+      - plausible_db_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=postgres
+    networks:
+      - alexandria
+
+  plausible_events_db:
+    image: clickhouse/clickhouse-server:24.3-alpine
+    container_name: alexandria-plausible-events
+    restart: unless-stopped
+    volumes:
+      - plausible_events_data:/var/lib/clickhouse
+      - ./plausible/clickhouse-config.xml:/etc/clickhouse-server/config.d/logging.xml:ro
+      - ./plausible/clickhouse-user-config.xml:/etc/clickhouse-server/users.d/logging.xml:ro
+    ulimits:
+      nofile:
+        soft: 262144
+        hard: 262144
+    networks:
+      - alexandria
+
+  plausible:
+    image: ghcr.io/plausible/community-edition:v2.1.4
+    container_name: alexandria-plausible
+    restart: unless-stopped
+    command: sh -c "sleep 10 && /entrypoint.sh db createdb && /entrypoint.sh db migrate && /entrypoint.sh run"
+    depends_on:
+      - plausible_db
+      - plausible_events_db
+    ports:
+      - "127.0.0.1:8000:8000"
+    env_file:
+      - plausible/plausible-conf.env
+    networks:
+      - alexandria
+
 networks:
   alexandria:
     driver: bridge
@@ -75,3 +117,5 @@ networks:
 volumes:
   elasticsearch_data:
   mdbook_output:
+  plausible_db_data:
+  plausible_events_data:

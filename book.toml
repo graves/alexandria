@@ -10,7 +10,7 @@ build-dir = "book"
 default-theme = "rust"
 preferred-dark-theme = "coal"
 git-repository-url = ""
-additional-js = ["theme/searcher.js"]
+additional-js = ["theme/searcher.js", "theme/plausible.js"]
 
 [output.html.search]
 enable = false

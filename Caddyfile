@@ -9,6 +9,17 @@ alexandria.awfulsec.com {
         reverse_proxy 127.0.0.1:3001
     }
 
+    # Plausible Analytics API
+    handle /api/event {
+        reverse_proxy 127.0.0.1:8000
+    }
+
+    # Plausible Dashboard (optional - remove if you don't want public access)
+    handle /plausible* {
+        uri strip_prefix /plausible
+        reverse_proxy 127.0.0.1:8000
+    }
+
     # Main site - mdbook (default handler)
     handle {
         reverse_proxy 127.0.0.1:3000
