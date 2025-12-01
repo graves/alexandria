@@ -115,7 +115,7 @@ just build
 just plausible-logs
 ```
 
-The admin account is created via the web interface at `/plausible/`. The first user to register becomes the admin.
+The admin account is created via the web interface at `https://analytics.awfulsec.com`. The first user to register becomes the admin.
 
 ## Exposed Ports
 
@@ -129,10 +129,16 @@ Elasticsearch and Plausible databases (PostgreSQL, ClickHouse) are not exposed e
 
 ## Caddy Routes
 
-| Path         | Destination     | Purpose              |
-|--------------|-----------------|----------------------|
-| `/search*`   | search-api:3001 | Search API           |
-| `/health`    | search-api:3001 | Health check         |
-| `/api/event` | plausible:8000  | Analytics ingestion  |
-| `/plausible*`| plausible:8000  | Analytics dashboard  |
-| `/*`         | mdbook:3000     | Main site (default)  |
+### alexandria.awfulsec.com
+
+| Path       | Destination     | Purpose              |
+|------------|-----------------|----------------------|
+| `/search*` | search-api:3001 | Search API           |
+| `/health`  | search-api:3001 | Health check         |
+| `/*`       | mdbook:3000     | Main site (default)  |
+
+### analytics.awfulsec.com
+
+| Path | Destination     | Purpose                      |
+|------|-----------------|------------------------------|
+| `/*` | plausible:8000  | Analytics dashboard and API  |
