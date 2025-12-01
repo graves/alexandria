@@ -7,7 +7,9 @@ Deploy Alexandria to a Debian VPS with systemd and an existing Caddy reverse pro
 - Docker and Docker Compose installed
 - [just](https://github.com/casey/just) command runner installed
 - Caddy already running on the server
-- DNS A record for `alexandria.awfulsec.com` pointing to your VPS
+- DNS A records pointing to your VPS:
+  - `alexandria.awfulsec.com` - main site
+  - `analytics.awfulsec.com` - Plausible Analytics dashboard
 
 ### Installing just
 
@@ -46,7 +48,9 @@ sudo systemctl start alexandria
 
 ### 4. Set up Plausible Analytics
 
-Visit `https://alexandria.awfulsec.com/plausible/` to create your admin account and add your site. The first user to register becomes the admin.
+Visit `https://analytics.awfulsec.com/register` to create your admin account. The first user to register becomes the admin.
+
+Then add your sites (e.g., `alexandria.awfulsec.com`) in the Plausible dashboard.
 
 ### 5. Verify the deployment
 
