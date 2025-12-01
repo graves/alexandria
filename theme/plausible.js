@@ -5,7 +5,7 @@
 (function() {
   // Configuration
   var DOMAIN = 'alexandria.awfulsec.com';
-  var API_ENDPOINT = '/api/event';
+  var API_ENDPOINT = 'https://analytics.awfulsec.com/api/event';
 
   // Create virtual script element for configuration
   var scriptEl = document.createElement('script');
