@@ -52,13 +52,9 @@ health:
 index-stats:
     @curl -s http://127.0.0.1:9200/_cat/indices?v 2>/dev/null || echo "Elasticsearch not exposed locally"
 
-# Create Plausible admin user
-plausible-create-admin email name:
-    docker exec -it alexandria-plausible /entrypoint.sh create-admin --email {{email}} --name "{{name}}"
-
-# Open Plausible shell for management commands
-plausible-shell:
-    docker exec -it alexandria-plausible /bin/sh
+# Open Plausible logs
+plausible-logs:
+    {{compose}} logs -f plausible
 
 # Clean up unused Docker resources
 clean:

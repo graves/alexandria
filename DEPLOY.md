@@ -46,14 +46,7 @@ sudo systemctl start alexandria
 
 ### 4. Set up Plausible Analytics
 
-After the first start, create an admin user for the Plausible dashboard:
-
-```bash
-cd /opt/alexandria
-just plausible-create-admin you@example.com "Your Name"
-```
-
-Then visit `https://alexandria.awfulsec.com/plausible/` to log in and add your site.
+Visit `https://alexandria.awfulsec.com/plausible/` to create your admin account and add your site. The first user to register becomes the admin.
 
 ### 5. Verify the deployment
 
@@ -111,15 +104,14 @@ just update
 just build
 ```
 
-## Plausible Analytics Commands
+## Plausible Analytics
 
 ```bash
-# Create admin user
-just plausible-create-admin email@example.com "Admin Name"
-
-# Access Plausible shell for management
-just plausible-shell
+# View Plausible logs
+just plausible-logs
 ```
+
+The admin account is created via the web interface at `/plausible/`. The first user to register becomes the admin.
 
 ## Exposed Ports
 
